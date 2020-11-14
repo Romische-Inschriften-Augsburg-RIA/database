@@ -1,19 +1,19 @@
 {
-	"translatorID": "ce0ab080-7d72-4fa3-ab4b-4bd8950f3379",
-	"label": "MARC21XML",
-	"creator": "Philipp Zumstein",
+	"translatorID": "ce0ab080-7d72-4fa3-ab4b-4bd9050f3779",
+	"label": "MARC21XMLmod",
+	"creator": "Philipp Zumstein with modifications by Andreas Hartmann",
 	"target": "xml",
 	"minVersion": "3.0",
 	"maxVersion": "",
 	"priority": 100,
 	"displayOptions": {
 		"exportNotes": false,
-		"Zusammenfassung": true
+		"Zusammenfassung": false
 	},
 	"inRepository": true,
 	"translatorType": 2,
 	"browserSupport": "g",
-	"lastUpdated": "2019-11-05 18:45:00"
+	"lastUpdated": "2020-07-21 14:45:00"
 }
 
 // DISCLAIMER:
@@ -123,6 +123,7 @@ function doExport() {
 		
 		//initial value
 		recordLength = 26;// 24 length of the leader + 1 record terminator + 1 field terminator after the leader and directory
+		countFields = {"controlfield" : 0, "datafield" : 0, "subfield" : 0 }
 		
 		var recordNode = mapProperty(xmlDocument.documentElement, "record", {"type" : "Bibliographic"} , true);
 		
@@ -134,6 +135,8 @@ function doExport() {
 	
 		var cleanedDateModified =  item.dateModified.replace(/\D/g , '');//format must be YYYYMMDDHHMMSS
 		mapProperty(recordNode, "controlfield", {"tag" : "005"}, cleanedDateModified + '.0'  );
+		
+		mapProperty(recordNode, "controlfield", {"tag" : "007"}, 'tu' );
 
 		var dateFirst = ZU.strToDate(item.dateAdded);
 		var dateFirstString = dateFirst.year.substr(2,2) + fillZerosLeft(dateFirst.month,2) + fillZerosLeft(dateFirst.day,2);
@@ -167,7 +170,7 @@ function doExport() {
 		
 		mapProperty(recordNode, "controlfield", {"tag" : "008"}, dateFirstString + datePublicationString + '|||'+ details +'||||u' );
 		
-		if (item.ISBN) {
+		if (item.ISBN && bibliographicLevel == "m") {
 			currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "020", "ind1" : " ", "ind2" : " " }  , true);
 			var cleanedISBN = item.ISBN.replace(/[a-zA-Z,\.;:\-_]/g, '');//can there be more than one isbn in the item.ISBN field? 
 			if (cleanedISBN != item.ISBN) {
@@ -184,13 +187,13 @@ function doExport() {
 		}
 		
 		if (item.DOI) {
-			currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "024", "ind1" : " ", "ind2" : " " } , true );
+			currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "024", "ind1" : "7", "ind2" : " " } , true );
 			mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , item.DOI );
 			mapProperty(currentFieldNode, "subfield",  {"code" : "2"} , "doi" );
 		}
 		
 		currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "040", "ind1" : " ", "ind2" : " " } , true  );
-		mapProperty(currentFieldNode, "subfield",  {"code" : "c"} , 'Zotero' );//not strictly a Marc organization code, but we should mention the Zotero as the 'cataloguing tool' somewhere and here is a good place and is implicitely referred because of the 'u' in 008/37
+		mapProperty(currentFieldNode, "subfield",  {"code" : "e"} , 'rda' );//not strictly a Marc organization code, but we should mention the Zotero as the 'cataloguing tool' somewhere and here is a good place and is implicitely referred because of the 'u' in 008/37
 		
 		if (item.language) {
 			currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "041", "ind1" : " ", "ind2" : " " } , true  );
@@ -207,11 +210,26 @@ function doExport() {
 		//because we cannot decide about "Main Entry" fields
 		//especially in regards with the different cataloguing rules
 		
-		
-		if (item.shortTitle) {
-			currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "210", "ind1" : "0", "ind2" : " " } , true );
-			mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , item.shortTitle );
-		}
+		if (item.creators.length > 0) {
+		for (i=0; i<1; i++) {
+			var creator = item.creators[i];
+				if (creator.creatorType == "author") {
+					if (!creator.fieldMode) {
+						currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "100", "ind1" : "1", "ind2" : " " } , true );
+						mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , creator.lastName + ', ' + creator.firstName);
+					} else {
+						currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "110", "ind1" : "2", "ind2" : " " } , true);
+						mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , creator.lastName );
+					}
+					mapProperty(currentFieldNode, "subfield",  {"code" : "e"} , 'VerfasserIn' );
+					mapProperty(currentFieldNode, "subfield",  {"code" : "4"} , 'aut' );
+				}
+											
+			if (item.shortTitle) {
+				currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "210", "ind1" : "0", "ind2" : " " } , true );
+				mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , item.shortTitle );
+			}
+		}}
 		
 		if (item.title) {
 			currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "245", "ind1" : "1", "ind2" : "0" } , true  );
@@ -220,8 +238,16 @@ function doExport() {
 				mapProperty(currentFieldNode, "subfield",  {"code" : "n"} , item.volume );
 			}
 			var responsibleAgents = [];
-			for (let creator of item.creators) {
-				responsibleAgents.push([creator.firstName, creator.lastName].join(" "));
+			if (item.itemType == "bookSection" || item.itemType == "conferencePaper" || item.itemType == "dictionaryEntry" || item.itemType == "encyclopediaArticle" || item.itemType == "journalArticle" || item.itemType == "magazineArticle" || item.itemType == "newspaperArticle") {
+				for (let creator of item.creators) {
+					if (creator.creatorType == "author") {
+						responsibleAgents.push([creator.firstName, creator.lastName].join(" "));
+					}
+				}
+			} else {
+				for (let creator of item.creators) {
+					responsibleAgents.push([creator.firstName, creator.lastName].join(" "));
+				}
 			}
 			if (responsibleAgents.length > 0) {
 				mapProperty(currentFieldNode, "subfield",  {"code" : "c"} , responsibleAgents.join(", "));
@@ -248,8 +274,9 @@ function doExport() {
 			mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , computerFileArray.join(", ") );
 		}
 		
+		
 		if (item.publisher || item.place || date) {
-			currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "260", "ind1" : " ", "ind2" : " " } , true );
+			currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "264", "ind1" : " ", "ind2" : "1" } , true );
 			mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , item.place );
 			mapProperty(currentFieldNode, "subfield",  {"code" : "b"} , item.publisher );
 			if (date && date.year) {//date was defined in the beginning
@@ -261,7 +288,7 @@ function doExport() {
 			currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "300", "ind1" : " ", "ind2" : " " } , true );
 			var extensionArray = [];
 			if (item.numberOfVolumes) {
-				if ( item.numPages.match(/[a-zA-Z]/) ) {
+				if ( item.numberOfVolumes.match(/[a-zA-Z]/) ) {
 					extensionArray.push( item.numberOfVolumes );
 				} else {
 					extensionArray.push( item.numberOfVolumes + " v." );
@@ -280,13 +307,28 @@ function doExport() {
 			mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , extensionArray.join(" : ") );	
 		}
 		
+		currentFieldNode = mapProperty(recordNode, "datafield", {"tag" : "336", "ind1" : " ", "ind2" : " " } , true );
+		mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , 'Text' );
+		mapProperty(currentFieldNode, "subfield",  {"code" : "b"} , 'txt' );
+		mapProperty(currentFieldNode, "subfield",  {"code" : "2"} , 'rdacontent' );
+		
+		currentFieldNode = mapProperty(recordNode, "datafield", {"tag" : "337", "ind1" : " ", "ind2" : " " } , true );
+		mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , 'ohne Hilfsmittel zu benutzen' );
+		mapProperty(currentFieldNode, "subfield",  {"code" : "b"} , 'n' );
+		mapProperty(currentFieldNode, "subfield",  {"code" : "2"} , 'rdamedia' );
+		
+		currentFieldNode = mapProperty(recordNode, "datafield", {"tag" : "338", "ind1" : " ", "ind2" : " " } , true );
+		mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , 'Band' );
+		mapProperty(currentFieldNode, "subfield",  {"code" : "b"} , 'nc' );
+		mapProperty(currentFieldNode, "subfield",  {"code" : "2"} , 'rdacarrier' );
+		
 		if (item.medium || item.artworkSize) {
 			currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "340", "ind1" : " ", "ind2" : " " }, true  );
 			mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , item.medium );
 			mapProperty(currentFieldNode, "subfield",  {"code" : "b"} , item.artworkSize );
 		}
 		
-		if (item.seriesTitle || item.seriesNumber) {
+		if ((item.seriesTitle || item.seriesNumber) && bibliographicLevel!= "a" ) {
 			currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "490", "ind1" : "0", "ind2" : " " }, true  );
 			mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , item.seriesTitle );
 			mapProperty(currentFieldNode, "subfield",  {"code" : "v"} , item.seriesNumber );
@@ -328,27 +370,64 @@ function doExport() {
 		}
 		
 		if (item.tags.length>0) {
-			currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "573", "ind1" : " ", "ind2" : " " } , true );
 			for (i=0; i<item.tags.length; i++) {
+				currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "650", "ind1" : " ", "ind2" : "4" } , true );
 				mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , item.tags[i].tag );
-			}
+				}
+		}
+		
+		if (item.creators.length > 0) {
+		for (i=0; i<1; i++) {
+			var creator = item.creators[i];
+				if (creator.creatorType == "editor" && bibliographicLevel != "a" ) {
+					if (!creator.fieldMode) {
+						currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "700", "ind1" : "1", "ind2" : " " } , true );
+						mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , creator.lastName + ', ' + creator.firstName);
+					} else {
+						currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "710", "ind1" : "2", "ind2" : " " } , true);
+						mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , creator.lastName );
+					}
+					mapProperty(currentFieldNode, "subfield",  {"code" : "e"} , 'HerausgeberIn' );
+					mapProperty(currentFieldNode, "subfield",  {"code" : "4"} , 'edt' );
+				}
+		}}
+		
+		for (i=1; i<item.creators.length; i++) {
+			var creator = item.creators[i];
+			if (item.itemType == "bookSection" || item.itemType == "conferencePaper" || item.itemType == "dictionaryEntry" || item.itemType == "encyclopediaArticle" || item.itemType == "journalArticle" || item.itemType == "magazineArticle" || item.itemType == "newspaperArticle") {
+				if (creator.creatorType == "author") {
+					if (!creator.fieldMode) {
+						currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "700", "ind1" : "1", "ind2" : " " } , true );
+						mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , creator.lastName + ', ' + creator.firstName);
+					} else {
+						currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "710", "ind1" : "2", "ind2" : " " } , true);
+						mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , creator.lastName );
+					}
+					mapProperty(currentFieldNode, "subfield",  {"code" : "e"} , 'VerfasserIn' );
+					mapProperty(currentFieldNode, "subfield",  {"code" : "4"} , 'aut' );
+					}	
+				} else {
+					if (!creator.fieldMode) {
+							currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "700", "ind1" : "1", "ind2" : " " } , true );
+							mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , creator.lastName + ', ' + creator.firstName);
+						} else {
+							currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "710", "ind1" : "2", "ind2" : " " } , true);
+							mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , creator.lastName );
+						}
+						if (creator.creatorType == "author") {
+							mapProperty(currentFieldNode, "subfield",  {"code" : "e"} , 'VerfasserIn' );
+							mapProperty(currentFieldNode, "subfield",  {"code" : "4"} , 'aut' );
+						} else {
+							if (creator.creatorType == "editor") {
+								mapProperty(currentFieldNode, "subfield",  {"code" : "e"} , 'HerausgeberIn' );
+								mapProperty(currentFieldNode, "subfield",  {"code" : "4"} , 'edt' );
+							} else {
+								mapProperty(currentFieldNode, "subfield",  {"code" : "e"} , creator.creatorType );
+							}
+						}
+				}
 		}
 
-		
-		for (i=0; i<item.creators.length; i++) {
-			var creator = item.creators[i];
-			if (!creator.fieldMode) {
-				currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "700", "ind1" : "1", "ind2" : " " } , true );
-				mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , creator.lastName + ', ' + creator.firstName);
-			} else {
-				currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "710", "ind1" : "2", "ind2" : " " } , true);
-				mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , creator.lastName );
-			}
-			if (creator.creatorType != "author") {
-				mapProperty(currentFieldNode, "subfield",  {"code" : "e"} , creator.creatorType );
-			}
-		}
-		
 		//note 711 is repeatable but the subfield not. Thus, we create two different if statements.
 		if (item.conferenceName) {
 			currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "711", "ind1" : "2", "ind2" : " " } , true );
@@ -360,7 +439,7 @@ function doExport() {
 		}
 		
 		if (bibliographicLevel == "a") {
-			currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "773", "ind1" : "0", "ind2" : " " } , true );
+			currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "773", "ind1" : "0", "ind2" : "8" } , true );
 			var subfieldCode;
 			if (item.itemType == "conferencePaper") {
 				subfieldCode = "m2am";
@@ -372,7 +451,25 @@ function doExport() {
 				subfieldCode = "nnas";
 			}	
 			mapProperty(currentFieldNode, "subfield",  {"code" : "7"} , subfieldCode );
-			mapProperty(currentFieldNode, "subfield",  {"code" : "t"} , item.publicationTitle );
+			mapProperty(currentFieldNode, "subfield",  {"code" : "i"} , 'Enthalten in' );
+			if (item.itemType == "conferencePaper" || item.itemType == "bookSection" || item.itemType == "dictionaryEntry" || item.itemType == "encyclopediaArticle") {
+				var responsibleAgents = [];
+				for (let creator of item.creators) {
+					if (creator.creatorType == "editor") {
+						responsibleAgents.push([creator.firstName, creator.lastName].join(" "));
+					}
+				}
+			if (responsibleAgents.length > 0) {
+				mapProperty(currentFieldNode, "subfield",  {"code" : "t"} , item.publicationTitle+" : hrsg. von "+responsibleAgents.join(", "));
+			}
+			} else {			
+				mapProperty(currentFieldNode, "subfield",  {"code" : "t"} , item.publicationTitle );
+			}
+			if (item.itemType == "conferencePaper" || item.itemType == "bookSection" || item.itemType == "dictionaryEntry" || item.itemType == "encyclopediaArticle") {
+				mapProperty(currentFieldNode, "subfield",  {"code" : "d"} , item.place+" : "+item.publisher+", "+date.year );
+			} else{
+				mapProperty(currentFieldNode, "subfield",  {"code" : "d"} , date.year );
+			}
 			var descriptionArray = [];
 			var siciDescription = ""; //https://en.wikipedia.org/wiki/Serial_Item_and_Contribution_Identifier
 			if (item.volume) {
@@ -391,6 +488,15 @@ function doExport() {
 			mapProperty(currentFieldNode, "subfield",  {"code" : "p"} , item.journalAbbreviation );
 			mapProperty(currentFieldNode, "subfield",  {"code" : "q"} , siciDescription );
 			mapProperty(currentFieldNode, "subfield",  {"code" : "x"} , item.ISSN );
+			if (item.ISBN) {
+				var cleanedISBN = item.ISBN.replace(/[a-zA-Z,\.;:\-_]/g, '');//can there be more than one isbn in the item.ISBN field? 
+				if (cleanedISBN != item.ISBN) {
+					mapProperty(currentFieldNode, "subfield",  {"code" : "z"} , cleanedISBN );
+				} else {
+					mapProperty(currentFieldNode, "subfield",  {"code" : "z"} , item.ISBN );
+				}
+			}
+		
 			//maybe move some other fields if journalArticle?
 		}
 		
@@ -405,15 +511,31 @@ function doExport() {
 			mapProperty(currentFieldNode, "subfield",  {"code" : "q"} , link.mimeType );
 		}
 		
+		if (bibliographicLevel == "a") {
+			if ((item.itemType == "conferencePaper" || item.itemType == "bookSection" || item.itemType == "dictionaryEntry" || item.itemType == "encyclopediaArticle") && item.pages) {
+				currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "936", "ind1" : "u", "ind2" : "w" } , true );
+				mapProperty(currentFieldNode, "subfield",  {"code" : "n"} , item.pages );
+				}
+			if (item.itemType == "journalArticle" || item.itemType == "magazineArticle" || item.itemType == "newspaperArticle") {
+				currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "936", "ind1" : "u", "ind2" : "w" } , true );
+				mapProperty(currentFieldNode, "subfield",  {"code" : "v"} , item.volume );
+				mapProperty(currentFieldNode, "subfield",  {"code" : "j"} , date.year );
+				mapProperty(currentFieldNode, "subfield",  {"code" : "d"} , item.issue );
+				mapProperty(currentFieldNode, "subfield",  {"code" : "n"} , item.pages );
+			}	
+			
+			//maybe move some other fields if journalArticle?
+		}
+
 		//finally, we will calculate the leader and add it as first child
 		
-		recordLength += countFields.controlfield*13+countFields.datafield*15+countFields.subfield*2;
+		recordLength += (countFields.controlfield*13)+(countFields.datafield*15)+(countFields.subfield*2);
 		//controlfields: 12 characters in the directory + 1 field terminator
 		//datafields: 12 characters in the directory + 2 indicators + 1 field terminator
 		//subfields: 1 subfield code + 1 subfield terminator
 
 		//base address of data starts after the leader and the directory
-		var baseAdressData = 24+countFields.controlfield*12+countFields.datafield*12+1;
+		var baseAdressData = 24+(countFields.controlfield*12)+(countFields.datafield*12)+1;
 
 		
 		var leaderContent = fillZerosLeft(recordLength,5) + "n" + typeOfRecord + bibliographicLevel +" a22" + fillZerosLeft(baseAdressData,5) +"zu 4500";
