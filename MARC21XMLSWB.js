@@ -13,7 +13,7 @@
 	"inRepository": true,
 	"translatorType": 2,
 	"browserSupport": "g",
-	"lastUpdated": "2020-11-25 08:23:00"
+	"lastUpdated": "2020-11-25 13:28:00"
 }
 
 // DISCLAIMER:
@@ -473,18 +473,21 @@ function doExport() {
 			var descriptionArray = [];
 			var siciDescription = ""; //https://en.wikipedia.org/wiki/Serial_Item_and_Contribution_Identifier
 			if (item.volume) {
-				descriptionArray.push(item.volume);
+				descriptionArray += item.volume;
 				siciDescription += item.volume;
 			}
 			if (item.issue) {
-				descriptionArray.push(item.issue);
+				descriptionArray += ", " + item.issue;
 				siciDescription += ":" + item.issue;
 			}
+			if (date.year) {
+				descriptionArray += " (" + date.year + ")";
+			}
 			if (item.pages) {
-				descriptionArray.push(item.pages);
+				descriptionArray += ", Seite(n) " + item.pages;
 				siciDescription += "<" + parseInt(item.pages);
 			}
-			mapProperty(currentFieldNode, "subfield",  {"code" : "g"} , descriptionArray.join(', ') );
+			mapProperty(currentFieldNode, "subfield",  {"code" : "g"} , descriptionArray );
 			mapProperty(currentFieldNode, "subfield",  {"code" : "p"} , item.journalAbbreviation );
 			mapProperty(currentFieldNode, "subfield",  {"code" : "q"} , siciDescription );
 			mapProperty(currentFieldNode, "subfield",  {"code" : "x"} , item.ISSN );
