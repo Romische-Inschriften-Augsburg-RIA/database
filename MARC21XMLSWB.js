@@ -13,7 +13,7 @@
 	"inRepository": true,
 	"translatorType": 2,
 	"browserSupport": "g",
-	"lastUpdated": "2020-11-25 13:28:00"
+	"lastUpdated": "2020-11-25 14:54:00"
 }
 
 // DISCLAIMER:
@@ -461,10 +461,9 @@ function doExport() {
 				}
 			if (responsibleAgents.length > 0) {
 				mapProperty(currentFieldNode, "subfield",  {"code" : "t"} , item.publicationTitle+" : hrsg. von "+responsibleAgents.join(", "));
-			}
 			} else {			
 				mapProperty(currentFieldNode, "subfield",  {"code" : "t"} , item.publicationTitle );
-			}
+			}}
 			if (item.itemType == "conferencePaper" || item.itemType == "bookSection" || item.itemType == "dictionaryEntry" || item.itemType == "encyclopediaArticle") {
 				mapProperty(currentFieldNode, "subfield",  {"code" : "d"} , item.place+" : "+item.publisher+", "+date.year );
 			} else{
@@ -472,20 +471,30 @@ function doExport() {
 			}
 			var descriptionArray = [];
 			var siciDescription = ""; //https://en.wikipedia.org/wiki/Serial_Item_and_Contribution_Identifier
-			if (item.volume) {
+			if (item.itemType == "bookSection" || item.itemType == "dictionaryEntry" || item.itemType == "encyclopediaArticle") {
+				if (item.pages) {
+				descriptionArray += "Seite(n) " + item.pages;
+				siciDescription += "<" + parseInt(item.pages);
+				}
+			}
+			if (item.itemType == "journalArticle" || item.itemType == "magazineArticle" || item.itemType == "newspaperArticle") {
+				if (item.volume) {
 				descriptionArray += item.volume;
 				siciDescription += item.volume;
-			}
-			if (item.issue) {
-				descriptionArray += ", " + item.issue;
-				siciDescription += ":" + item.issue;
-			}
-			if (date.year) {
-				descriptionArray += " (" + date.year + ")";
-			}
-			if (item.pages) {
-				descriptionArray += ", Seite(n) " + item.pages;
-				siciDescription += "<" + parseInt(item.pages);
+				}
+				if (item.issue) {
+					descriptionArray += ", " + item.issue;
+					siciDescription += ":" + item.issue;
+				}
+				if (descriptionArray.length > 0) {
+					descriptionArray += " (" + date.year + ")";
+				} else {
+					descriptionArray += "(" + date.year + ")";
+				}
+				if (item.pages) {
+					descriptionArray += ", Seite(n) " + item.pages;
+					siciDescription += "<" + parseInt(item.pages);
+				}
 			}
 			mapProperty(currentFieldNode, "subfield",  {"code" : "g"} , descriptionArray );
 			mapProperty(currentFieldNode, "subfield",  {"code" : "p"} , item.journalAbbreviation );
