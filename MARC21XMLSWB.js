@@ -13,7 +13,7 @@
 	"inRepository": true,
 	"translatorType": 2,
 	"browserSupport": "g",
-	"lastUpdated": "2020-07-21 14:45:00"
+	"lastUpdated": "2020-11-25 08:23:00"
 }
 
 // DISCLAIMER:
@@ -148,9 +148,9 @@ function doExport() {
 			if (date.year) {
 				if (date.month) {
 					if (date.day) {
-						datePublicationString = 'e'+ date.year + fillZerosLeft(date.month,2) + fillZerosLeft(date.day,2);
+						datePublicationString = 'e'+ date.year + fillZerosLeft(date.month+1,2) + fillZerosLeft(date.day,2);
 					} else {
-						datePublicationString = 'e'+date.year + fillZerosLeft(date.month,2)+'uu';
+						datePublicationString = 'e'+date.year + fillZerosLeft(date.month+1,2)+'uu';
 					}
 				} else {
 					datePublicationString = 's'+date.year+'    ';
@@ -518,10 +518,12 @@ function doExport() {
 				}
 			if (item.itemType == "journalArticle" || item.itemType == "magazineArticle" || item.itemType == "newspaperArticle") {
 				currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "936", "ind1" : "u", "ind2" : "w" } , true );
-				mapProperty(currentFieldNode, "subfield",  {"code" : "v"} , item.volume );
+				mapProperty(currentFieldNode, "subfield",  {"code" : "d"} , item.volume );
 				mapProperty(currentFieldNode, "subfield",  {"code" : "j"} , date.year );
-				mapProperty(currentFieldNode, "subfield",  {"code" : "d"} , item.issue );
-				mapProperty(currentFieldNode, "subfield",  {"code" : "n"} , item.pages );
+				mapProperty(currentFieldNode, "subfield",  {"code" : "b"} , date.day );
+				mapProperty(currentFieldNode, "subfield",  {"code" : "c"} , date.month+1 );
+				mapProperty(currentFieldNode, "subfield",  {"code" : "e"} , item.issue );
+				mapProperty(currentFieldNode, "subfield",  {"code" : "h"} , item.pages );
 			}	
 			
 			//maybe move some other fields if journalArticle?
