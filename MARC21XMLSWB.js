@@ -13,7 +13,7 @@
 	"inRepository": true,
 	"translatorType": 2,
 	"browserSupport": "g",
-	"lastUpdated": "2020-11-25 14:54:00"
+	"lastUpdated": "2020-11-27 10:16:00"
 }
 
 // DISCLAIMER:
@@ -115,6 +115,7 @@ function doExport() {
 		//these two variables are important for several places
 		var typeOfRecord = "a";
 		if (typeMap[item.itemType]) typeOfRecord = typeMap[item.itemType];
+		if (item.url) typeOfRecord = "m";
 		
 		var bibliographicLevel = "m";//default
 		if (item.itemType == "bookSection" || item.itemType == "conferencePaper" || item.itemType == "dictionaryEntry" || item.itemType == "encyclopediaArticle" || item.itemType == "journalArticle" || item.itemType == "magazineArticle" || item.itemType == "newspaperArticle") {
@@ -136,7 +137,11 @@ function doExport() {
 		var cleanedDateModified =  item.dateModified.replace(/\D/g , '');//format must be YYYYMMDDHHMMSS
 		mapProperty(recordNode, "controlfield", {"tag" : "005"}, cleanedDateModified + '.0'  );
 		
-		mapProperty(recordNode, "controlfield", {"tag" : "007"}, 'tu' );
+		if (item.url) {
+			mapProperty(recordNode, "controlfield", {"tag" : "007"}, 'cr' );
+		} else {
+			mapProperty(recordNode, "controlfield", {"tag" : "007"}, 'tu' );
+		}
 
 		var dateFirst = ZU.strToDate(item.dateAdded);
 		var dateFirstString = dateFirst.year.substr(2,2) + fillZerosLeft(dateFirst.month,2) + fillZerosLeft(dateFirst.day,2);
@@ -163,6 +168,7 @@ function doExport() {
 		}
 		//position 18-34 where | is indicating that we don't have this information
 		var details = '|||||||||||||||||';
+		if (item.url) details = details.replaceAt(23-18, 'o');
 		if (secondTypeMap[item.itemType]) details = details.replaceAt(24-18, secondTypeMap[item.itemType]);
 		if (item.itemType == "computerProgram") details = details.replaceAt(26-18, 'b');
 		if (item.itemType == "conferencePaper") details = details.replaceAt(29-18, '1');
@@ -312,16 +318,30 @@ function doExport() {
 		mapProperty(currentFieldNode, "subfield",  {"code" : "b"} , 'txt' );
 		mapProperty(currentFieldNode, "subfield",  {"code" : "2"} , 'rdacontent' );
 		
-		currentFieldNode = mapProperty(recordNode, "datafield", {"tag" : "337", "ind1" : " ", "ind2" : " " } , true );
-		mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , 'ohne Hilfsmittel zu benutzen' );
-		mapProperty(currentFieldNode, "subfield",  {"code" : "b"} , 'n' );
-		mapProperty(currentFieldNode, "subfield",  {"code" : "2"} , 'rdamedia' );
+		if (item.url) {
+			currentFieldNode = mapProperty(recordNode, "datafield", {"tag" : "337", "ind1" : " ", "ind2" : " " } , true );
+			mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , 'Computermedien' );
+			mapProperty(currentFieldNode, "subfield",  {"code" : "b"} , 'c' );
+			mapProperty(currentFieldNode, "subfield",  {"code" : "2"} , 'rdamedia' );
+		} else {
+			currentFieldNode = mapProperty(recordNode, "datafield", {"tag" : "337", "ind1" : " ", "ind2" : " " } , true );
+			mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , 'ohne Hilfsmittel zu benutzen' );
+			mapProperty(currentFieldNode, "subfield",  {"code" : "b"} , 'n' );
+			mapProperty(currentFieldNode, "subfield",  {"code" : "2"} , 'rdamedia' );
+		}
 		
-		currentFieldNode = mapProperty(recordNode, "datafield", {"tag" : "338", "ind1" : " ", "ind2" : " " } , true );
-		mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , 'Band' );
-		mapProperty(currentFieldNode, "subfield",  {"code" : "b"} , 'nc' );
-		mapProperty(currentFieldNode, "subfield",  {"code" : "2"} , 'rdacarrier' );
-		
+		if (item.url) {
+			currentFieldNode = mapProperty(recordNode, "datafield", {"tag" : "338", "ind1" : " ", "ind2" : " " } , true );
+			mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , 'Online-Ressource' );
+			mapProperty(currentFieldNode, "subfield",  {"code" : "b"} , 'cr' );
+			mapProperty(currentFieldNode, "subfield",  {"code" : "2"} , 'rdacarrier' );
+		} else {
+			currentFieldNode = mapProperty(recordNode, "datafield", {"tag" : "338", "ind1" : " ", "ind2" : " " } , true );
+			mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , 'Band' );
+			mapProperty(currentFieldNode, "subfield",  {"code" : "b"} , 'nc' );
+			mapProperty(currentFieldNode, "subfield",  {"code" : "2"} , 'rdacarrier' );
+		}
+			
 		if (item.medium || item.artworkSize) {
 			currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "340", "ind1" : " ", "ind2" : " " }, true  );
 			mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , item.medium );
@@ -515,12 +535,17 @@ function doExport() {
 		if (item.url) {
 			currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "856", "ind1" : "4", "ind2" : " " } , true );
 			mapProperty(currentFieldNode, "subfield",  {"code" : "u"} , item.url );
+			mapProperty(currentFieldNode, "subfield",  {"code" : "q"} , item.url.mimeType );
+			mapProperty(currentFieldNode, "subfield",  {"code" : "y"} , "Volltext" );
+			mapProperty(currentFieldNode, "subfield",  {"code" : "3"} , "Volltext" );
 		}
 		for (i=0; i<item.attachments.length; i++) {
 			var link = item.attachments[i];
 			currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "856", "ind1" : "4", "ind2" : " " } , true );
 			mapProperty(currentFieldNode, "subfield",  {"code" : "u"} , link.url );
 			mapProperty(currentFieldNode, "subfield",  {"code" : "q"} , link.mimeType );
+			mapProperty(currentFieldNode, "subfield",  {"code" : "y"} , "Inhaltsverzeichnis" );
+			mapProperty(currentFieldNode, "subfield",  {"code" : "3"} , "Inhaltsverzeichnis" );			
 		}
 		
 		if (bibliographicLevel == "a") {
