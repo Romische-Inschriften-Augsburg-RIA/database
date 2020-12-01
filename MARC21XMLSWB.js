@@ -13,7 +13,7 @@
 	"inRepository": true,
 	"translatorType": 2,
 	"browserSupport": "g",
-	"lastUpdated": "2020-11-27 10:16:00"
+	"lastUpdated": "2020-12-01 16:30:00"
 }
 
 // DISCLAIMER:
@@ -138,7 +138,7 @@ function doExport() {
 		mapProperty(recordNode, "controlfield", {"tag" : "005"}, cleanedDateModified + '.0'  );
 		
 		if (item.url) {
-			mapProperty(recordNode, "controlfield", {"tag" : "007"}, 'cr' );
+			mapProperty(recordNode, "controlfield", {"tag" : "007"}, 'cr uuu---uuuuu' );
 		} else {
 			mapProperty(recordNode, "controlfield", {"tag" : "007"}, 'tu' );
 		}
