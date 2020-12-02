@@ -13,7 +13,7 @@
 	"inRepository": true,
 	"translatorType": 2,
 	"browserSupport": "g",
-	"lastUpdated": "2020-12-01 16:30:00"
+	"lastUpdated": "2020-12-02 13:14:00"
 }
 
 // DISCLAIMER:
@@ -203,7 +203,10 @@ function doExport() {
 		
 		if (item.language) {
 			currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "041", "ind1" : " ", "ind2" : " " } , true  );
-			mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , item.language );
+			var lang = item.language.split('; ')
+				for (i=0; i<lang.length; i++) {
+					mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , lang[i] );
+				}
 		}
 		
 		if (item.callNumber) {
