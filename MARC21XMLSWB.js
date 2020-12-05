@@ -13,7 +13,7 @@
 	"inRepository": true,
 	"translatorType": 2,
 	"browserSupport": "g",
-	"lastUpdated": "2020-12-02 13:14:00"
+	"lastUpdated": "2020-12-05 13:56:00"
 }
 
 // DISCLAIMER:
@@ -482,11 +482,12 @@ function doExport() {
 						responsibleAgents.push([creator.firstName, creator.lastName].join(" "));
 					}
 				}
+			}
 			if (responsibleAgents.length > 0) {
 				mapProperty(currentFieldNode, "subfield",  {"code" : "t"} , item.publicationTitle+" : hrsg. von "+responsibleAgents.join(", "));
 			} else {			
 				mapProperty(currentFieldNode, "subfield",  {"code" : "t"} , item.publicationTitle );
-			}}
+			}
 			if (item.itemType == "conferencePaper" || item.itemType == "bookSection" || item.itemType == "dictionaryEntry" || item.itemType == "encyclopediaArticle") {
 				mapProperty(currentFieldNode, "subfield",  {"code" : "d"} , item.place+" : "+item.publisher+", "+date.year );
 			} else{
