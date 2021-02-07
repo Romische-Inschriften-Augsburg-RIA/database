@@ -13,7 +13,7 @@
 	"inRepository": true,
 	"translatorType": 2,
 	"browserSupport": "g",
-	"lastUpdated": "2020-12-05 13:56:00"
+	"lastUpdated": "2021-02-07 14:45:00"
 }
 
 // DISCLAIMER:
@@ -242,7 +242,13 @@ function doExport() {
 		
 		if (item.title) {
 			currentFieldNode = mapProperty(recordNode, "datafield",  {"tag" : "245", "ind1" : "1", "ind2" : "0" } , true  );
-			mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , item.title );
+			if (item.title.includes(' $UT$ ')==true) {
+				mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , item.title.split(' $UT$ ')[0]);
+				mapProperty(currentFieldNode, "subfield",  {"code" : "b"} , item.title.split(' $UT$ ')[1]);
+			} else {
+				mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , item.title);
+			}
+			
 			if (bibliographicLevel == "m") {
 				mapProperty(currentFieldNode, "subfield",  {"code" : "n"} , item.volume );
 			}
@@ -475,19 +481,21 @@ function doExport() {
 			}	
 			mapProperty(currentFieldNode, "subfield",  {"code" : "7"} , subfieldCode );
 			mapProperty(currentFieldNode, "subfield",  {"code" : "i"} , 'Enthalten in' );
+			
 			if (item.itemType == "conferencePaper" || item.itemType == "bookSection" || item.itemType == "dictionaryEntry" || item.itemType == "encyclopediaArticle") {
 				var responsibleAgents = [];
 				for (let creator of item.creators) {
 					if (creator.creatorType == "editor") {
-						responsibleAgents.push([creator.firstName, creator.lastName].join(" "));
+						responsibleAgents.push(creator.lastName + ', ' + creator.firstName);
 					}
-				}
 			}
-			if (responsibleAgents.length > 0) {
-				mapProperty(currentFieldNode, "subfield",  {"code" : "t"} , item.publicationTitle+" : hrsg. von "+responsibleAgents.join(", "));
-			} else {			
-				mapProperty(currentFieldNode, "subfield",  {"code" : "t"} , item.publicationTitle );
-			}
+			if (responsibleAgents.length > 0) {			
+				mapProperty(currentFieldNode, "subfield",  {"code" : "a"} , responsibleAgents.join(" ; ") + ' (Hrsg.)');
+			}}
+			
+			mapProperty(currentFieldNode, "subfield",  {"code" : "t"} , item.publicationTitle.replace(' $UT$ ', ' : ' ));
+			
+			
 			if (item.itemType == "conferencePaper" || item.itemType == "bookSection" || item.itemType == "dictionaryEntry" || item.itemType == "encyclopediaArticle") {
 				mapProperty(currentFieldNode, "subfield",  {"code" : "d"} , item.place+" : "+item.publisher+", "+date.year );
 			} else{
