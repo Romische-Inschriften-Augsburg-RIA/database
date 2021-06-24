@@ -4,23 +4,21 @@
         <fileDesc>
             <titleStmt>
                 <title>Weihinschrift auf Tafel</title>
-            </titleStmt>  
+            </titleStmt>
+            <editionStmt>
+                <edition>Based on the TEI file originally published by the Epigraphische Datenbank Heidelberg <ref>https://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD001306.xml</ref></edition>
+            </editionStmt>
             <publicationStmt>
-                <authority>Epigraphische Datenbank Heidelberg</authority>
+                <authority>Römische Inschriften Augsburg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD001306</idno>
                 <idno type="TM">216541</idno><idno type="localID">HD001306</idno>
                 <availability>
-                    <p>© Heidelberg Academy of Sciences and Humanities</p>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
-                    </licence>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        
-                        
-                        
                         <repository ref="www.trismegistos.org/">Augsburg, Röm. Mus.</repository>
                         <collection/>
                         <idno/>
@@ -69,6 +67,7 @@
                     </history>
                 </msDesc>
             </sourceDesc>
+        
         </fileDesc>
         <encodingDesc>
             <p>Marked-up according to the EpiDoc Guidelines</p>
