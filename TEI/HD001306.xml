@@ -3,7 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Weihinschrift auf Tafel</title>
+                <title type="RIA"></title>
+                <title type="EDH">Weihinschrift auf Tafel</title>
             </titleStmt>
             <editionStmt>
                 <edition>Based on the TEI file originally published by the Epigraphische Datenbank Heidelberg <ref>https://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD001306.xml</ref></edition>
