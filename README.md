@@ -4,25 +4,16 @@ TEI Texten der römischen Inschriften aus Augsburg. Die Dateien wurden von [*Epi
 
 ## TEI Kodierung
 
-- **Personennamen**: `<PersName`> @type:
-    - attested
-    - emperor
-    - divine
-    - consul
+- **Personennamen**: `<PersName`>
 
-- **Ortsnamen**: `<placeName`> @type:
+- **Ortsnamen**: `<placeName`> 
 
-- **Institutionalisierten Gruppen**: `<orgName`> @type:
-    - military-legion
-    - military-auxiliary
-    - military-other
-    - org-tribus
-    - org-civitas
-    - org-municipium
+- **Institutionalisierten Gruppen**: `<orgName`> 
 
 - **Geographische Bezeichnungen**: `<geogName`>
 
-- **Rolle**: `<rs`> @type:
-    - role 
+- **Rolle**: `<rs`>
+
+@ref=""
 
 
