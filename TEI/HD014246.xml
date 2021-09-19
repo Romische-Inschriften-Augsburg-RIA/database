@@ -125,7 +125,7 @@
             <!--
                 Atto feci(t)
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                Atto <expan><abbr>feci</abbr><ex>t</ex></expan>
+                <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/918">Atto</persName> <expan><abbr>feci</abbr><ex>t</ex></expan>
             </ab></div>
             <div type="apparatus">
                 <p/>
