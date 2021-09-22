@@ -3,25 +3,24 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Besitzer-/Herstellerinschrift auf Instrumentum domesticum</title>
-            </titleStmt>  
+                <title type="RIA"></title>
+                <title type="EDH">Weihinschrift auf Tafel</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Based on the TEI file originally published by the Epigraphische Datenbank Heidelberg <ref>https://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD001306.xml</ref></edition>
+            </editionStmt>
             <publicationStmt>
-                <authority>Epigraphische Datenbank Heidelberg</authority>
-                <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD014246</idno>
-                <idno type="TM">216592</idno><idno type="localID">HD014246</idno>
+                <authority>Römische Inschriften Augsburg</authority>
+                <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD001306</idno>
+                <idno type="TM">216541</idno><idno type="localID">HD001306</idno>
                 <availability>
-                    <p>© Heidelberg Academy of Sciences and Humanities</p>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
-                    </licence>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        
-                        
-                        
-                        <repository ref="www.trismegistos.org/"/>
+                        <repository ref="www.trismegistos.org/">Augsburg, Röm. Mus.</repository>
                         <collection/>
                         <idno/>
                     </msIdentifier>
@@ -29,15 +28,15 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/140">Instrumentum domesticum</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/131">Ton</material>
+                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">Tafel</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">Marmor</material>
                                     <p/>
                                     <dimensions unit="cm">
-                                        <height/>
-                                        <width/>
-                                        <depth/>
+                                        <height>16.5</height>
+                                        <width>26</width>
+                                        <depth>5.8</depth>
                                     </dimensions>
-                                    <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000">nein</rs>
+                                    <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">Ja</rs>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
@@ -52,7 +51,7 @@
                             <handNote>
                                 <dimensions>
                                     <width unit="cm"/>
-                                    <height unit="cm"/>
+                                    <height unit="cm">1.3-1.9</height>
                                 </dimensions>
                             </handNote>
                         </handDesc>
@@ -60,15 +59,16 @@
                     <history>
                         <origin>
                             <origPlace><placeName type="provinceItalicRegion" ref="http://www.trismegistos.org/place/003243">Raetia</placeName><placeName>Augusta Vindelicorum</placeName></origPlace>
-                            <origDate notBefore-custom="0151" notAfter-custom="0250" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">151 AD – 250 AD
+                            <origDate notBefore-custom="0101" notAfter-custom="0300" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">101 AD – 300 AD
                             </origDate>
                         </origin>
                         <provenance type="found">  
-                            <date notAfter="1994">1994</date>
+                            <date when="1947">1947</date>
                         <placeName ref="http://www.geonames.org/2954172">Augsburg</placeName><placeName type="modern_region" ref="http://www.geonames.org/">Bayern</placeName><placeName type="modernCountry" ref="http://www.geonames.org/countries/de/">Deutschland</placeName></provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
+        
         </fileDesc>
         <encodingDesc>
             <p>Marked-up according to the EpiDoc Guidelines</p>
@@ -83,7 +83,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term ref="http://www.eagle-network.eu/voc/typeins/lod/311">Besitzer-/Herstellerinschrift</term>
+                    <term ref="http://www.eagle-network.eu/voc/typeins/lod/80">Weihinschrift</term>
                 </keywords>
             </textClass>
             <langUsage>
@@ -101,21 +101,39 @@
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2012-11-19" who="Gräf">
-             keine Bildvorlage
+         <change when="2019-06-19" who="Osnabrügge">
+             überprüft an Foto
          </change>
         </revisionDesc>
     </teiHeader>
+    <facsimile>
+
+        <graphic url="http://lupa.at/6455">
+        </graphic>
+
+    </facsimile>
     <text>
         <body>
                        
             <div type="bibliography">
                 <listBibl>
                     <bibl>
-                        AE 2001, 1563. 
+                        AE 1982, 0726. 
                     </bibl>
                     <bibl>
-                         S. Ortisi, Die Stadtmauer der raetischen Provinzhauptstadt Aelia Augusta - Augsburg. Die Ausgrabungen Lange Gasse 11, Auf dem Kreuz 58, Heilig-Kreuz-Str. 26 und 4 (Augsburg 2001) 40. 61, Nr. 3. 
+                         G. Gottlieb - W. Grabert - R. Kern, ZHistSchwab 73, 1979, 91-95; Zeichnung. - AE 1982. 
+                    </bibl>
+                    <bibl>
+                         G. Grimm, Die Zeugnisse ägyptischer Religion und Kunstelemente im römischen Deutschland, EPRO 12 (Leiden 1969) 220, Nr. 136; Taf. 16, 2. (B) 
+                    </bibl>
+                    <bibl>
+                         F. Wagner, BRGK 37/38, 1956/57, 222, Nr. 21; Taf. 10, 21. (B) 
+                    </bibl>
+                    <bibl>
+                         SIRIS 646. (B) 
+                    </bibl>
+                    <bibl>
+                         L. Bricault, Recueil des inscriptions concernant les cultes Isiaques (RICIS) (Paris 2005) 706, Nr. 611/0101; pl. 120, 611/0101. (B) 
                     </bibl>
 
                 </listBibl>
@@ -123,15 +141,15 @@
             
             
             <!--
-                Atto feci(t)
-            --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/918/view">Atto</persName> <expan><abbr>feci</abbr><ex>t</ex></expan>
-            </ab></div>
+                Fl(avius) / Eu/dia/prac/tus // Isi/di / reg(inae) // ex / vo/to // s(olvit) l(ibens) m(erito)
+            --><div type="edition" xml:lang="la"><head>Text</head><div n="1" type="textpart"><ab><lb n="1"/>
+                <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1006"><expan><abbr>Fl</abbr><ex>avius</ex></expan> <lb n="2"/>Eu<lb break="no" n="3"/>dia<lb break="no" n="4"/>prac<lb break="no" n="5"/>tus</persName> </ab></div><div n="2" type="textpart"><ab><lb n="1"/><persName type="divine">Isi<lb break="no" n="2"/>di</persName> <lb n="3"/><expan><abbr>reg</abbr><ex>inae</ex></expan> </ab></div><div n="3" type="textpart"><ab><lb n="1"/> ex <lb n="2"/>vo<lb break="no" n="3"/>to </ab></div><div n="4" type="textpart"><ab><lb n="1"/> <expan><abbr>s</abbr><ex>olvit</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan> <expan><abbr>m</abbr><ex>erito</ex></expan>
+            </ab></div></div>
             <div type="apparatus">
                 <p/>
             </div>
             <div type="commentary">
-                <p/>
+                <p> Inschrift ist durch zwei Fußabdrücke in drei Kolumnen gegliedert; Votivformel steht unten waagerecht. (B): Wagner: Schlußzeile: O (klein) // I // m(onumentum) p(osuit) (mit Vorbehalt). Grimm: Schlußzeile: l(ibens) m(erito). SIRIS: Schlußzeile: I / MP. Bricault: Fehlender Zeilenfall Eu/dia. Material: Laaser Marmor.</p>
             </div>
         </body>
     </text>
