@@ -153,7 +153,7 @@
             <!--
                 Pompeianius / Silvinus vivus / fecit sibi et / Pomp(eianio) Victori / fratri piissimo / qui vixit annis XXX
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/902">Pompeianius <lb n="2"/>Silvinus</persName> vivus <lb n="3"/>fecit sibi et <lb n="4"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/903"><expan><abbr>Pomp</abbr><ex>eianio</ex></expan> Victori</persName> <lb n="5"/>fratri piissimo <lb n="6"/>qui vixit annis <date type="life-span" dur="P30Y">XXX</date>
+                <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/902/view">Pompeianius <lb n="2"/>Silvinus</persName> vivus <lb n="3"/>fecit sibi et <lb n="4"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/903/view"><expan><abbr>Pomp</abbr><ex>eianio</ex></expan> Victori</persName> <lb n="5"/>fratri piissimo <lb n="6"/>qui vixit annis <date type="life-span" dur="P30Y">XXX</date>
             </ab></div>
             <div type="apparatus">
                 <p/>

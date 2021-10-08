@@ -125,7 +125,7 @@
             <!--
                 [At?]tianus fe(cit)
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/917"><supplied reason="lost" cert="low">At</supplied>tianus</persName> <expan><abbr>fe</abbr><ex>cit</ex></expan>
+                <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/917/view"><supplied reason="lost" cert="low">At</supplied>tianus</persName> <expan><abbr>fe</abbr><ex>cit</ex></expan>
             </ab></div>
             <div type="apparatus">
                 <p/>
