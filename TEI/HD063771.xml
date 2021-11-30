@@ -143,7 +143,8 @@
             <!--
                 D(is) M(anibus) Luc[- - -] / ex testam(ento) [- - -] / Candidius Virilis et [- - -](?) / [- - -]tus f(aciendum) c(uravit)
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                <expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> Luc<gap reason="lost" extent="unknown" unit="character"/> <lb n="2"/>ex <expan><abbr>testam</abbr><ex>ento</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> <lb n="3"/>Candidius Virilis et <gap reason="lost" extent="unknown" unit="character"/><certainty match="preceding-sibling::node()" locus="value"/> <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>tus <expan><abbr>f</abbr><ex>aciendum</ex></expan> <expan><abbr>c</abbr><ex>uravit</ex></expan>
+                <expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> Luc<gap reason="lost" extent="unknown" unit="character"/> <lb n="2"/>ex <expan><abbr>testam</abbr><ex>ento</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> <lb n="3"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/954/view
+            ">Candidius Virilis</persName> et <gap reason="lost" extent="unknown" unit="character"/><certainty match="preceding-sibling::node()" locus="value"/> <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>tus <expan><abbr>f</abbr><ex>aciendum</ex></expan> <expan><abbr>c</abbr><ex>uravit</ex></expan>
             </ab></div>
             <div type="apparatus">
                 <p/>
