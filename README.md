@@ -14,6 +14,6 @@ TEI Texten der römischen Inschriften aus Augsburg. Die Dateien wurden von [*Epi
 
 - **Rolle**: `<rs`>
 
-@ref=""
+@ref="" Die URIs für WissKI-Entitäten werden in der Form https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1006/view gegeben.
 
 
