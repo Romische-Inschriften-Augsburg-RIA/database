@@ -125,7 +125,7 @@
             <!--
                 [Carom?]arus
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                <supplied reason="lost" cert="low">Carom</supplied>arus
+                <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/957/view"><supplied reason="lost" cert="low">Carom</supplied>arus</persName>
             </ab></div>
             <div type="apparatus">
                 <p/>

@@ -125,7 +125,7 @@
             <!--
                 Of(f)ic(ina) Bilicat(i)
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                Of<expan><ex>f</ex><abbr>ic</abbr><ex>ina</ex></expan> <expan><abbr>Bilicat</abbr><ex>i</ex></expan>
+                Of<expan><ex>f</ex><abbr>ic</abbr><ex>ina</ex></expan> <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/932/view"><expan><abbr>Bilicat</abbr><ex>i</ex></expan></persName>
             </ab></div>
             <div type="apparatus">
                 <p/>
