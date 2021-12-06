@@ -125,7 +125,7 @@
             <!--
                 II Licineorum
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                II Licineorum
+                II <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1022/view">Licineorum</persName>
             </ab></div>
             <div type="apparatus">
                 <p/>
