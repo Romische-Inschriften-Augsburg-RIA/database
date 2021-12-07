@@ -125,7 +125,7 @@
             <!--
                 Capitolinus
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                Capitolinus
+                <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/955/view">Capitolinus</persName>
             </ab></div>
             <div type="apparatus">
                 <p/>

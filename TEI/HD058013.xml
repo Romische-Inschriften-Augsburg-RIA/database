@@ -122,7 +122,7 @@
             <!--
                 - - - - - -] / [- - - - - -] / [Sept]imi S[everi] / [- - -]FET[- - -] / [- - -]O(?)[- - -]
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="0"/>
-                <gap reason="lost" extent="unknown" unit="line"/> <lb n="0"/><gap reason="lost" quantity="1" unit="line"/> <lb n="1"/><supplied reason="lost">Sept</supplied>imi S<supplied reason="lost">everi</supplied> <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>FET<gap reason="lost" extent="unknown" unit="character"/> <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><expan><abbr>O</abbr><ex cert="low"/></expan><gap reason="lost" extent="unknown" unit="character"/>
+                <gap reason="lost" extent="unknown" unit="line"/> <lb n="0"/><gap reason="lost" quantity="1" unit="line"/> <lb n="1"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1055/view"><supplied reason="lost">Sept</supplied>imi S<supplied reason="lost">everi</supplied></persName> <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>FET<gap reason="lost" extent="unknown" unit="character"/> <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><expan><abbr>O</abbr><ex cert="low"/></expan><gap reason="lost" extent="unknown" unit="character"/>
             </ab></div>
             <div type="apparatus">
                 <p/>

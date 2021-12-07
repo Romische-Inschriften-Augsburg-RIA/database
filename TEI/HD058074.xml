@@ -137,7 +137,7 @@
             <!--
                 Septimio Chaere[ae] / |(centurioni) leg(ionis) III Ital(icae) patri dul/cissimo Septim(ius) Arche/laus filius eius fecit
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                Septimio Chaere<supplied reason="lost">ae</supplied> <lb n="2"/>|(centurioni) <expan><abbr>leg</abbr><ex>ionis</ex></expan> III <expan><abbr>Ital</abbr><ex>icae</ex></expan> patri dul<lb break="no" n="3"/>cissimo <expan><abbr>Septim</abbr><ex>ius</ex></expan> Arche<lb break="no" n="4"/>laus filius eius fecit
+                <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1053/view">Septimio Chaere<supplied reason="lost">ae</supplied></persName> <lb n="2"/>|(<rs type="role" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1398/view">centurioni</rs>) <orgName ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/833/view"><expan><abbr>leg</abbr><ex>ionis</ex></expan> III <expan><abbr>Ital</abbr><ex>icae</ex></expan></orgName> patri dul<lb break="no" n="3"/>cissimo <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1052/view"><expan><abbr>Septim</abbr><ex>ius</ex></expan> Arche<lb break="no" n="4"/>laus</persName> filius eius fecit
             </ab></div>
             <div type="apparatus">
                 <p/>

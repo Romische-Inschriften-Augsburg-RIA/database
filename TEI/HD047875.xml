@@ -134,7 +134,7 @@
             <!--
                 C(aio) Saturio Secundo
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                <expan><abbr>C</abbr><ex>aio</ex></expan> Saturio Secundo
+                <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/949/view"><expan><abbr>C</abbr><ex>aio</ex></expan> Saturio Secundo</persName>
             </ab></div>
             <div type="apparatus">
                 <p/>

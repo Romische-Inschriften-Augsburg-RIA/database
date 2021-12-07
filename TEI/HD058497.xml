@@ -128,7 +128,7 @@
             <!--
                 Helvius Modestinus / consa(cravit) Corrodu // donum / dedit
             --><div type="edition" xml:lang="la"><head>Text</head><div n="1" type="textpart"><ab><lb n="1"/>
-                Helvius Modestinus <lb n="2"/><expan><abbr>consa</abbr><ex>cravit</ex></expan> Corrodu </ab></div><div n="2" type="textpart"><ab><lb n="1"/> donum <lb n="2"/>dedit
+                <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1015/view">Helvius Modestinus</persName> <lb n="2"/><expan><abbr>consa</abbr><ex>cravit</ex></expan> <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/974/view">Corrodu</persName> </ab></div><div n="2" type="textpart"><ab><lb n="1"/> donum <lb n="2"/>dedit
             </ab></div></div>
             <div type="apparatus">
                 <p/>

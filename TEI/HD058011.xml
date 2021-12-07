@@ -128,7 +128,7 @@
             <!--
                 [- - -]O / [- - -]toriu[s] / [M]aximu[s] / [v(otum)] s(olvit) l(ibens) l(aetus) m(erito)
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                <gap reason="lost" extent="unknown" unit="character"/>O <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>toriu<supplied reason="lost">s</supplied> <lb n="3"/><supplied reason="lost">M</supplied>aximu<supplied reason="lost">s</supplied> <lb n="4"/><supplied reason="lost"><expan><abbr>v</abbr><ex>otum</ex></expan></supplied> <expan><abbr>s</abbr><ex>olvit</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan> <expan><abbr>l</abbr><ex>aetus</ex></expan> <expan><abbr>m</abbr><ex>erito</ex></expan>
+                <gap reason="lost" extent="unknown" unit="character"/>O <lb n="2"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/841/view"><gap reason="lost" extent="unknown" unit="character"/>toriu<supplied reason="lost">s</supplied> <lb n="3"/><supplied reason="lost">M</supplied>aximu<supplied reason="lost">s</supplied></persName> <lb n="4"/><supplied reason="lost"><expan><abbr>v</abbr><ex>otum</ex></expan></supplied> <expan><abbr>s</abbr><ex>olvit</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan> <expan><abbr>l</abbr><ex>aetus</ex></expan> <expan><abbr>m</abbr><ex>erito</ex></expan>
             </ab></div>
             <div type="apparatus">
                 <p/>

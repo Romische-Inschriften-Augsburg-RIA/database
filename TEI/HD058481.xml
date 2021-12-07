@@ -128,7 +128,7 @@
             <!--
                 Marti / Crispus Rae/ci fil(ius) v(otum) s(olvit) l(ibens) m(erito)
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                Marti <lb n="2"/>Crispus Rae<lb break="no" n="3"/>ci <expan><abbr>fil</abbr><ex>ius</ex></expan> <expan><abbr>v</abbr><ex>otum</ex></expan> <expan><abbr>s</abbr><ex>olvit</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan> <expan><abbr>m</abbr><ex>erito</ex></expan>
+                <persName type="divine" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1633/view">Marti</persName> <lb n="2"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/978/view">Crispus</persName> <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/984/view">Rae<lb break="no" n="3"/>ci</persName> <expan><abbr>fil</abbr><ex>ius</ex></expan> <expan><abbr>v</abbr><ex>otum</ex></expan> <expan><abbr>s</abbr><ex>olvit</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan> <expan><abbr>m</abbr><ex>erito</ex></expan>
             </ab></div>
             <div type="apparatus">
                 <p/>

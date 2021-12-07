@@ -125,7 +125,7 @@
             <!--
                 - - - - - -] / [- - - S]ecc[o](?) / [et] Valeria / [A]gathe v(otum) / [s(olverunt)] l(ibentes) l(aeti) m(erito)
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="0"/>
-                <gap reason="lost" extent="unknown" unit="line"/> <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">S</supplied>ecc<supplied reason="lost" cert="low">o</supplied> <lb n="2"/><supplied reason="lost">et</supplied> Valeria <lb n="3"/><supplied reason="lost">A</supplied>gathe <expan><abbr>v</abbr><ex>otum</ex></expan> <lb n="4"/><supplied reason="lost"><expan><abbr>s</abbr><ex>olverunt</ex></expan></supplied> <expan><abbr>l</abbr><ex>ibentes</ex></expan> <expan><abbr>l</abbr><ex>aeti</ex></expan> <expan><abbr>m</abbr><ex>erito</ex></expan>
+                <gap reason="lost" extent="unknown" unit="line"/> <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">S</supplied><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1050/view">ecc<supplied reason="lost" cert="low">o</supplied></persName> <lb n="2"/><supplied reason="lost">et</supplied> <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/999/view">Valeria <lb n="3"/><supplied reason="lost">A</supplied>gathe</persName> <expan><abbr>v</abbr><ex>otum</ex></expan> <lb n="4"/><supplied reason="lost"><expan><abbr>s</abbr><ex>olverunt</ex></expan></supplied> <expan><abbr>l</abbr><ex>ibentes</ex></expan> <expan><abbr>l</abbr><ex>aeti</ex></expan> <expan><abbr>m</abbr><ex>erito</ex></expan>
             </ab></div>
             <div type="apparatus">
                 <p/>

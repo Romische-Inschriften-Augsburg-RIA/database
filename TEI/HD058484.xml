@@ -143,7 +143,7 @@
             <!--
                 Mercurio / ex voto / P(ublius) Ael(ius) Senno / qui aedem / et signum / s(olvit) l(ibens) l(aetus) m(erito)
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                Mercurio <lb n="2"/>ex voto <lb n="3"/><expan><abbr>P</abbr><ex>ublius</ex></expan> <expan><abbr>Ael</abbr><ex>ius</ex></expan> Senno <lb n="4"/>qui aedem <lb n="5"/>et signum <lb n="6"/><expan><abbr>s</abbr><ex>olvit</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan> <expan><abbr>l</abbr><ex>aetus</ex></expan> <expan><abbr>m</abbr><ex>erito</ex></expan>
+                <persName type="divine" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1618/view">Mercurio</persName> <lb n="2"/>ex voto <lb n="3"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/889/view"><expan><abbr>P</abbr><ex>ublius</ex></expan> <expan><abbr>Ael</abbr><ex>ius</ex></expan> Senno</persName> <lb n="4"/>qui aedem <lb n="5"/>et signum <lb n="6"/><expan><abbr>s</abbr><ex>olvit</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan> <expan><abbr>l</abbr><ex>aetus</ex></expan> <expan><abbr>m</abbr><ex>erito</ex></expan>
             </ab></div>
             <div type="apparatus">
                 <p/>

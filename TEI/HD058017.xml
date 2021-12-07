@@ -133,7 +133,7 @@
             <!--
                 D(is) M(anibus) / Iuli(ae) Attili(ae) / coniugi / Cl(audius) Florin[us] / [et?] sibi [- - - - - -
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                <expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <lb n="2"/><expan><abbr>Iuli</abbr><ex>ae</ex></expan> <expan><abbr>Attili</abbr><ex>ae</ex></expan> <lb n="3"/>coniugi <lb n="4"/><expan><abbr>Cl</abbr><ex>audius</ex></expan> Florin<supplied reason="lost">us</supplied> <lb n="5"/><supplied reason="lost" cert="low">et</supplied> sibi <gap reason="lost" extent="unknown" unit="character"/> <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
+                <persName type="divine" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1394/view"><expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan></persName> <lb n="2"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/886/view"><expan><abbr>Iuli</abbr><ex>ae</ex></expan> <expan><abbr>Attili</abbr><ex>ae</ex></expan></persName> <lb n="3"/>coniugi <lb n="4"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/969/view"><expan><abbr>Cl</abbr><ex>audius</ex></expan> Florin<supplied reason="lost">us</supplied></persName> <lb n="5"/><supplied reason="lost" cert="low">et</supplied> sibi <gap reason="lost" extent="unknown" unit="character"/> <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
             </ab></div>
             <div type="apparatus">
                 <p/>
