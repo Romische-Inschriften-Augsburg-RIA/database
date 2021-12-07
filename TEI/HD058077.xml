@@ -122,7 +122,7 @@
             <!--
                 Have Iul(i) Tertiole
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                Have <expan><abbr>Iul</abbr><ex>i</ex></expan> Tertiole
+                Have <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/876/view"><expan><abbr>Iul</abbr><ex>i</ex></expan> Tertiole</persName>
             </ab></div>
             <div type="apparatus">
                 <p/>

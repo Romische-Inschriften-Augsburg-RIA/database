@@ -132,9 +132,9 @@
             
             
             <!--
-                - - - - - -] / [omnibus honor]ib(us) in re p(uclica) s(ua) [functo - - -]
+                - - - - - -] / [omnibus honor]ib(us) in re p(ublica) s(ua) [functo - - -]
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="0"/>
-                <gap reason="lost" extent="unknown" unit="line"/> <lb n="1"/><supplied reason="lost">omnibus honor</supplied><expan><abbr>ib</abbr><ex>us</ex></expan> in re <expan><abbr>p</abbr><ex>uclica</ex></expan> <expan><abbr>s</abbr><ex>ua</ex></expan> <supplied reason="lost">functo</supplied><gap reason="lost" extent="unknown" unit="character"/>
+                <gap reason="lost" extent="unknown" unit="line"/> <lb n="1"/><supplied reason="lost">omnibus honor</supplied><expan><abbr>ib</abbr><ex>us</ex></expan> in re <expan><abbr>p</abbr><ex>ublica</ex></expan> <expan><abbr>s</abbr><ex>ua</ex></expan> <supplied reason="lost">functo</supplied><gap reason="lost" extent="unknown" unit="character"/>
             </ab></div>
             <div type="apparatus">
                 <p/>

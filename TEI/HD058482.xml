@@ -149,7 +149,7 @@
             <!--
                 In h(onorem) d(omus) d(ivinae) / deo Marti / et Victoriae / contuberni/um Marticu/ltorum posu/erunt v(otum) s(olverunt) / l(ibentes) l(aeti) m(erito)
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                In <expan><abbr>h</abbr><ex>onorem</ex></expan> <expan><abbr>d</abbr><ex>omus</ex></expan> <expan><abbr>d</abbr><ex>ivinae</ex></expan> <lb n="2"/>deo Marti <lb n="3"/>et Victoriae <lb n="4"/>contuberni<lb break="no" n="5"/>um Marticu<lb break="no" n="6"/>ltorum posu<lb break="no" n="7"/>erunt <expan><abbr>v</abbr><ex>otum</ex></expan> <expan><abbr>s</abbr><ex>olverunt</ex></expan> <lb n="8"/><expan><abbr>l</abbr><ex>ibentes</ex></expan> <expan><abbr>l</abbr><ex>aeti</ex></expan> <expan><abbr>m</abbr><ex>erito</ex></expan>
+                In <expan><abbr>h</abbr><ex>onorem</ex></expan> <expan><abbr>d</abbr><ex>omus</ex></expan> <expan><abbr>d</abbr><ex>ivinae</ex></expan> <lb n="2"/>deo <persName type="divine" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1633/view">Marti</persName> <lb n="3"/>et <persName type="divine" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1622/view">Victoriae</persName> <lb n="4"/><rs type="role" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1617/view">contuberni<lb break="no" n="5"/>um Marticu<lb break="no" n="6"/>ltorum</rs> posu<lb break="no" n="7"/>erunt <expan><abbr>v</abbr><ex>otum</ex></expan> <expan><abbr>s</abbr><ex>olverunt</ex></expan> <lb n="8"/><expan><abbr>l</abbr><ex>ibentes</ex></expan> <expan><abbr>l</abbr><ex>aeti</ex></expan> <expan><abbr>m</abbr><ex>erito</ex></expan>
             </ab></div>
             <div type="apparatus">
                 <p/>

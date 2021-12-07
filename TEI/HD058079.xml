@@ -122,7 +122,7 @@
             <!--
                 - - - - - -] / [- - -]M LA[- - -] / [- - -]dius [- - -] / [- - - - - -
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="0"/>
-                <gap reason="lost" extent="unknown" unit="line"/> <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>M LA<gap reason="lost" extent="unknown" unit="character"/> <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>dius <gap reason="lost" extent="unknown" unit="character"/> <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
+                <gap reason="lost" extent="unknown" unit="line"/> <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>M LA<gap reason="lost" extent="unknown" unit="character"/> <lb n="2"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/835/view"><gap reason="lost" extent="unknown" unit="character"/>dius</persName> <gap reason="lost" extent="unknown" unit="character"/> <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
             </ab></div>
             <div type="apparatus">
                 <p/>

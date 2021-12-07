@@ -146,7 +146,7 @@
             <!--
                 I(ovi) O(ptimo) M(aximo) / M(arcus) Tr(ebius?) Secco
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                <expan><abbr>I</abbr><ex>ovi</ex></expan> <expan><abbr>O</abbr><ex>ptimo</ex></expan> <expan><abbr>M</abbr><ex>aximo</ex></expan> <lb n="2"/><expan><abbr>M</abbr><ex>arcus</ex></expan> <expan><abbr>Tr</abbr><ex cert="low">ebius</ex></expan> Secco
+                <persName type="divine" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1630/view"><expan><abbr>I</abbr><ex>ovi</ex></expan> <expan><abbr>O</abbr><ex>ptimo</ex></expan> <expan><abbr>M</abbr><ex>aximo</ex></expan></persName> <lb n="2"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1037/view"><expan><abbr>M</abbr><ex>arcus</ex></expan> <expan><abbr>Tr</abbr><ex cert="low">ebius</ex></expan> Secco</persName>
             </ab></div>
             <div type="apparatus">
                 <p/>
