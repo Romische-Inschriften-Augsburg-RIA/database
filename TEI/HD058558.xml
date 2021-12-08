@@ -125,7 +125,7 @@
             <!--
                 Successus / Silvani f(ilius) eq(ues) al(ae) / I Aug(ustae) tur(ma) Iul(i) / Octavi stip(endiorum) XIIII / vixit ann(os) XL
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                Successus <lb n="2"/>Silvani <expan><abbr>f</abbr><ex>ilius</ex></expan> <expan><abbr>eq</abbr><ex>ues</ex></expan> <expan><abbr>al</abbr><ex>ae</ex></expan> <lb n="3"/>I <expan><abbr>Aug</abbr><ex>ustae</ex></expan> <expan><abbr>tur</abbr><ex>ma</ex></expan> <expan><abbr>Iul</abbr><ex>i</ex></expan> <lb n="4"/>Octavi <expan><abbr>stip</abbr><ex>endiorum</ex></expan> XIIII <lb n="5"/>vixit <expan><abbr>n<am>n</am></abbr><ex>os</ex></expan> XL
+                <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1065/view">Successus</persName> <lb n="2"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1063/view">Silvani</persName> <expan><abbr>f</abbr><ex>ilius</ex></expan> <rs type="role" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1396/view"><expan><abbr>eq</abbr><ex>ues</ex></expan></rs> <orgName ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1661/view"><expan><abbr>al</abbr><ex>ae</ex></expan> <lb n="3"/>I <expan><abbr>Aug</abbr><ex>ustae</ex></expan></orgName> <expan><abbr>tur</abbr><ex>ma</ex></expan> <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/874/view"><expan><abbr>Iul</abbr><ex>i</ex></expan> <lb n="4"/>Octavi</persName> <expan><abbr>stip</abbr><ex>endiorum</ex></expan> XIIII <lb n="5"/>vixit <expan><abbr>n<am>n</am></abbr><ex>os</ex></expan> XL
             </ab></div>
             <div type="apparatus">
                 <p/>

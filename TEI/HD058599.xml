@@ -125,7 +125,7 @@
             <!--
                 - - - - - -] / dec(urio) mu[nicipii] / fratris ei[us] / filius / heres / l(ocus) d(atus) d(ecreto) d(ecurionum)
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="0"/>
-                <gap reason="lost" extent="unknown" unit="line"/> <lb n="1"/><expan><abbr>dec</abbr><ex>urio</ex></expan> mu<supplied reason="lost">nicipii</supplied> <lb n="2"/>fratris ei<supplied reason="lost">us</supplied> <lb n="3"/>filius <lb n="4"/>heres <lb n="5"/><expan><abbr>l</abbr><ex>ocus</ex></expan> <expan><abbr>d</abbr><ex>atus</ex></expan> <expan><abbr>d</abbr><ex>ecreto</ex></expan> <expan><abbr>d</abbr><ex>ecurionum</ex></expan>
+                <gap reason="lost" extent="unknown" unit="line"/> <lb n="1"/><rs type="role" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1399/view"><expan><abbr>dec</abbr><ex>urio</ex></expan></rs> mu<supplied reason="lost">nicipii</supplied> <lb n="2"/>fratris ei<supplied reason="lost">us</supplied> <lb n="3"/>filius <lb n="4"/>heres <lb n="5"/><expan><abbr>l</abbr><ex>ocus</ex></expan> <expan><abbr>d</abbr><ex>atus</ex></expan> <expan><abbr>d</abbr><ex>ecreto</ex></expan> <rs type="role" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1399/view"><expan><abbr>d</abbr><ex>ecurionum</ex></expan></rs>
             </ab></div>
             <div type="apparatus">
                 <p/>

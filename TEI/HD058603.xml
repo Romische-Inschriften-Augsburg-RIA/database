@@ -137,7 +137,7 @@
             <!--
                 - - - - - -] / C(ai) Iuli Silani l(iberti) IRI / Liberti natione / Biturix anno/rum XIIX h(ic) s(itus) est
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="0"/>
-                <gap reason="lost" extent="unknown" unit="line"/> <lb n="1"/><expan><abbr>C</abbr><ex>ai</ex></expan> Iuli Silani <expan><abbr>l</abbr><ex>iberti</ex></expan> IRI <lb n="2"/>Liberti natione <lb n="3"/>Biturix anno<lb break="no" n="4"/>rum XIIX <expan><abbr>h</abbr><ex>ic</ex></expan> <expan><abbr>s</abbr><ex>itus</ex></expan> est
+                <gap reason="lost" extent="unknown" unit="line"/> <lb n="1"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1662/view"><expan><abbr>C</abbr><ex>ai</ex></expan> Iuli Silani</persName> <rs type="role" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1660/view"><expan><abbr>l</abbr><ex>iberti</ex></expan></rs> IRI <lb n="2"/><rs type="role" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1660/view">Liberti</rs> natione <lb n="3"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1663/view">Biturix</persName> anno<lb break="no" n="4"/>rum XIIX <expan><abbr>h</abbr><ex>ic</ex></expan> <expan><abbr>s</abbr><ex>itus</ex></expan> est
             </ab></div>
             <div type="apparatus">
                 <p/>

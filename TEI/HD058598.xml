@@ -128,7 +128,7 @@
             <!--
                 - - - - - -] / Silviae T(iti) fil(iae) / Materninae / sacerdotal[i] / [- - - - - -
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="0"/>
-                <gap reason="lost" extent="unknown" unit="line"/> <lb n="1"/>Silviae <expan><abbr>T</abbr><ex>iti</ex></expan> <expan><abbr>fil</abbr><ex>iae</ex></expan> <lb n="2"/>Materninae <lb n="3"/>sacerdotal<supplied reason="lost">i</supplied> <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
+                <gap reason="lost" extent="unknown" unit="line"/> <lb n="1"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/995/view">Silviae</persName> <expan><abbr>T</abbr><ex>iti</ex></expan> <expan><abbr>fil</abbr><ex>iae</ex></expan> <lb n="2"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/995/view">Materninae</persName> <lb n="3"/><rs type="role" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1617/view">sacerdotal<supplied reason="lost">i</supplied></rs> <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
             </ab></div>
             <div type="apparatus">
                 <p/>
