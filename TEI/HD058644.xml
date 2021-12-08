@@ -134,7 +134,7 @@
             <!--
                 D(is) M(anibus) / et memor[iae] / Licin[- - -] / C(?)[&
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                <expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <lb n="2"/>et memor<supplied reason="lost">iae</supplied> <lb n="3"/>Licin<gap reason="lost" extent="unknown" unit="character"/> <lb n="4"/><expan><abbr>C</abbr><ex cert="low"/></expan><gap reason="lost" extent="unknown" unit="character"/>
+                <persName type="divine" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1394/view"><expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan></persName> <lb n="2"/>et memor<supplied reason="lost">iae</supplied> <lb n="3"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1021/view" >Licin<gap reason="lost" extent="unknown" unit="character"/></persName> <lb n="4"/><expan><abbr>C</abbr><ex cert="low"/></expan><gap reason="lost" extent="unknown" unit="character"/>
             </ab></div>
             <div type="apparatus">
                 <p/>

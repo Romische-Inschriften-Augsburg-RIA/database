@@ -140,7 +140,7 @@
             <!--
                 D(is) M(anibus) et / perpetuae securitati / ob memoriae(!) / Pusinti et / Victorinae socris / et Pusinnae / coniugi dulcis/simae [- - -]CTVS / [- - - - - -](?)
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                <expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> et <lb n="2"/>perpetuae securitati <lb n="3"/>ob memoriae <note>sic</note> <lb n="4"/>Pusinti et <lb n="5"/>Victorinae socris <lb n="6"/>et Pusinnae <lb n="7"/>coniugi dulcis<lb break="no" n="8"/>simae <gap reason="lost" extent="unknown" unit="character"/>CTVS <lb n="0"/><gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
+                <persName type="divine" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1394/view"><expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan></persName> et <lb n="2"/>perpetuae securitati <lb n="3"/>ob memoriae <note>sic</note> <lb n="4"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/911/view">Pusinti</persName> et <lb n="5"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1002/view">Victorinae</persName> socris <lb n="6"/>et <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/910/view">Pusinnae</persName> <lb n="7"/>coniugi dulcis<lb break="no" n="8"/>simae <gap reason="lost" extent="unknown" unit="character"/>CTVS <lb n="0"/><gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
             </ab></div>
             <div type="apparatus">
                 <p/>

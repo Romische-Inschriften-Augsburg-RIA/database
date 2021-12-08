@@ -125,7 +125,7 @@
             <!--
                 - - - - - -] / matri pientissimae / Lucretius Clemens / et Fl(avius) Fortunatus fili(i) / faciendum curaverunt
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="0"/>
-                <gap reason="lost" extent="unknown" unit="line"/> <lb n="1"/>matri pientissimae <lb n="2"/>Lucretius Clemens <lb n="3"/>et <expan><abbr>Fl</abbr><ex>avius</ex></expan> Fortunatus <expan><abbr>fili</abbr><ex>i</ex></expan> <lb n="4"/>faciendum curaverunt
+                <gap reason="lost" extent="unknown" unit="line"/> <lb n="1"/>matri pientissimae <lb n="2"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1024/view">Lucretius Clemens</persName> <lb n="3"/>et <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1007/view"><expan><abbr>Fl</abbr><ex>avius</ex></expan> Fortunatus</persName> <expan><abbr>fili</abbr><ex>i</ex></expan> <lb n="4"/>faciendum curaverunt
             </ab></div>
             <div type="apparatus">
                 <p/>

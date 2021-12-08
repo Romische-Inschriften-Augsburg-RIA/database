@@ -125,7 +125,7 @@
             <!--
                 Claudia / Laviana / f(ecerunt) hered(es)
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                Claudia <lb n="2"/>Laviana <lb n="3"/><expan><abbr>f</abbr><ex>ecerunt</ex></expan> <expan><abbr>hered</abbr><ex>es</ex></expan>
+                <persName type="role" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/964/view">Claudia <lb n="2"/>Laviana</persName> <lb n="3"/><expan><abbr>f</abbr><ex>ecerunt</ex></expan> <expan><abbr>hered</abbr><ex>es</ex></expan>
             </ab></div>
             <div type="apparatus">
                 <p/>
