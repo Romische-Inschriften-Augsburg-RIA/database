@@ -4,7 +4,7 @@ TEI Texten der römischen Inschriften aus Augsburg. Die Dateien wurden von [*Epi
 
 ## TEI Kodierung
 
-- **Personennamen**: `<PersName`>     z.B.: <persName type="attested" ref="[Link]"><expan><abbr>C</abbr><ex>aio</ex></expan> Senilio Pervinc<supplied                                                     reason="lost">o</supplied></persName >
+- **Personennamen**: `<PersName`>     z.B.: `<persName type="attested" ref="[Link]"`><expan><abbr>C</abbr><ex>aio</ex></expan> Senilio Pervinc<supplied                                                     reason="lost">o</supplied>`</persName`>
 
 - **Ortsnamen**: `<placeName`>     z.B.: <placeName ref="[Link]"><expan><abbr>mun</abbr><ex>icipii</ex></expan> <expan><abbr>Ael</abbr><ex>ii</ex></expan>                                              <expan><abbr>Aug</abbr><ex>usti</ex></expan></placeName >
 
