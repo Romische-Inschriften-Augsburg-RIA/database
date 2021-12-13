@@ -125,7 +125,7 @@
             <!--
                 Carant(us) f(ecit)
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                <expan><abbr>Carant</abbr><ex>us</ex></expan> <expan><abbr>f</abbr><ex>ecit</ex></expan>
+                <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/956/view"><expan><abbr>Carant</abbr><ex>us</ex></expan></persName> <expan><abbr>f</abbr><ex>ecit</ex></expan>
             </ab></div>
             <div type="apparatus">
                 <p/>

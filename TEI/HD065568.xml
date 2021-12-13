@@ -125,7 +125,7 @@
             <!--
                 Comitial(is) fec(it)
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                <expan><abbr>Comitial</abbr><ex>is</ex></expan> <expan><abbr>fec</abbr><ex>it</ex></expan>
+                <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/972/view"><expan><abbr>Comitial</abbr><ex>is</ex></expan></persName> <expan><abbr>fec</abbr><ex>it</ex></expan>
             </ab></div>
             <div type="apparatus">
                 <p/>

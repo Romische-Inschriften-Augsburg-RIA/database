@@ -127,7 +127,7 @@
             <!--
                 Fidem // Constantino
             --><div type="edition" xml:lang="la"><head>Text</head><div n="1" type="textpart"><ab><lb n="1"/>
-                Fidem </ab></div><div n="2" type="textpart"><ab><lb n="1"/> Constantino
+                Fidem </ab></div><div n="2" type="textpart"><ab><lb n="1"/> <persName type="emperor" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/973/view">Constantino</persName>
             </ab></div></div>
             <div type="apparatus">
                 <p/>

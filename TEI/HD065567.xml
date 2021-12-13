@@ -125,7 +125,7 @@
             <!--
                 Cintug[natus?]
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                Cintug<supplied reason="lost" cert="low">natus</supplied>
+                <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/961/view">Cintug<supplied reason="lost" cert="low">natus</supplied></persName>
             </ab></div>
             <div type="apparatus">
                 <p/>
