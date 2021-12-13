@@ -124,9 +124,9 @@
             
             <!--
                 Vivas i[n D]eo p(ie) z(eseis)
-            --><div type="edition" xml:lang="la,grc"><head>Text</head><ab><lb n="1"/>
-                Vivas i<supplied reason="lost">n D</supplied>eo <expan><abbr>p</abbr><ex>ie</ex></expan> <expan><abbr>z</abbr><ex>eseis</ex></expan>
-            </ab></div>
+            --><div type="edition" xml:lang="la"><head>Text</head><div n="1" type="textpart"><ab><lb n="1"/>
+                Vivas i<supplied reason="lost">n D</supplied>eo <expan><abbr>p</abbr><ex>ie</ex></expan> <expan><abbr>z</abbr><ex>eseis</ex></expan></ab></div> <div n="2" type="textpart" xml:lang="grc"><ab><lb n="1"/><expan><abbr><am><g ref="#chi-rho"/></am></abbr><ex>Χρίστος></ex></expan> 
+            </ab></div></div>
             <div type="apparatus">
                 <p/>
             </div>
