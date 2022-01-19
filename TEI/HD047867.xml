@@ -125,7 +125,7 @@
             <!--
                 Cottana
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                Cottana
+                <rs type="food" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/2494/view">Cottana</rs>
             </ab></div>
             <div type="apparatus">
                 <p/>

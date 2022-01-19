@@ -125,7 +125,7 @@
             <!--
                 Lacc(atum) / [- - - - - -] / excell(ens) / [- -] Victorini(?)
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                <expan><abbr>Lacc</abbr><ex>atum</ex></expan> <lb n="0"/><gap reason="lost" quantity="1" unit="line"/> <lb n="2"/><expan><abbr>excell</abbr><ex>ens</ex></expan> <lb n="3"/><gap reason="lost" quantity="2" unit="character"/> <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1083/view"><expan><abbr>Victorini</abbr><ex cert="low"/></expan></persName>
+                <rs type="food" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/2494/view"><expan><abbr>Lacc</abbr><ex>atum</ex></expan></rs> <lb n="0"/><gap reason="lost" quantity="1" unit="line"/> <lb n="2"/><expan><abbr>excell</abbr><ex>ens</ex></expan> <lb n="3"/><gap reason="lost" quantity="2" unit="character"/> <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1083/view"><expan><abbr>Victorini</abbr><ex cert="low"/></expan></persName>
             </ab></div>
             <div type="apparatus">
                 <p/>
