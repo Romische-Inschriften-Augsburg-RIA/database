@@ -121,7 +121,7 @@
             <!--
                 Ianuari o(fficina)
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/882/view">Ianuari</persName> <expan><abbr>o</abbr><ex>fficina</ex></expan>
+                <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/882/view">Ianuari</persName> <rs type="building" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/2536/view"><expan><abbr>o</abbr><ex>fficina</ex></expan></rs>
             </ab></div>
             <div type="apparatus">
                 <p/>
