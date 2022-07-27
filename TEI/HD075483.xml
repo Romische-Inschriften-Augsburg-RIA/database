@@ -121,7 +121,7 @@
             <!--
                 M(arci?) M[- - -]
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1040/view"><expan><abbr>M</abbr><ex cert="low">arci</ex></expan> M<gap reason="lost" extent="unknown" unit="character"/></persName>
+                <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1040/view"><expan><abbr>M</abbr><ex cert="low">arci</ex></expan> M<gap reason="lost" extent="unknown" unit="character"/></persName>
             </ab></div>
             <div type="apparatus">
                 <p/>

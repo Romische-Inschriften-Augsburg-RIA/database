@@ -125,7 +125,7 @@
             <!--
                 D(is) [M(anibus)] / Adiut[orio - - -]/N[- - -]VG(?)[- - -] / [- - - - - -
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                <persName type="divine" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1394/view"><expan><abbr>D</abbr><ex>is</ex></expan> <supplied reason="lost"><expan><abbr>M</abbr><ex>anibus</ex></expan></supplied></persName> <lb n="2"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/847/view">Adiut<supplied reason="lost">orio</supplied></persName><gap reason="lost" extent="unknown" unit="character"/><lb break="no" n="3"/>N<gap reason="lost" extent="unknown" unit="character"/><expan><abbr>VG</abbr><ex cert="low"/></expan><gap reason="lost" extent="unknown" unit="character"/> <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
+                <persName type="divine" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1394/view"><expan><abbr>D</abbr><ex>is</ex></expan> <supplied reason="lost"><expan><abbr>M</abbr><ex>anibus</ex></expan></supplied></persName> <lb n="2"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/847/view">Adiut<supplied reason="lost">orio</supplied></persName><gap reason="lost" extent="unknown" unit="character"/><lb break="no" n="3"/>N<gap reason="lost" extent="unknown" unit="character"/><expan><abbr>VG</abbr><ex cert="low"/></expan><gap reason="lost" extent="unknown" unit="character"/> <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
             </ab></div>
             <div type="apparatus">
                 <p/>

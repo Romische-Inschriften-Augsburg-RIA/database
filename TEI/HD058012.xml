@@ -122,7 +122,7 @@
             <!--
                 [Sept]imi(?) Seve[ri?] / [- - -]G[- - -]D[- - -] / [- - - - - -] / [- - -]S[- - -]
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                <persName type="emperor" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1055/view"><supplied reason="lost">Sept</supplied><expan><abbr>imi</abbr><ex cert="low"/></expan> Seve<supplied reason="lost" cert="low">ri</supplied></persName> <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>G<gap reason="lost" extent="unknown" unit="character"/>D<gap reason="lost" extent="unknown" unit="character"/> <lb n="0"/><gap reason="lost" quantity="1" unit="line"/> <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>S<gap reason="lost" extent="unknown" unit="character"/>
+                <persName type="emperor" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1055/view"><supplied reason="lost">Sept</supplied><expan><abbr>imi</abbr><ex cert="low"/></expan> Seve<supplied reason="lost" cert="low">ri</supplied></persName> <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>G<gap reason="lost" extent="unknown" unit="character"/>D<gap reason="lost" extent="unknown" unit="character"/> <lb n="0"/><gap reason="lost" quantity="1" unit="line"/> <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>S<gap reason="lost" extent="unknown" unit="character"/>
             </ab></div>
             <div type="apparatus">
                 <p/>

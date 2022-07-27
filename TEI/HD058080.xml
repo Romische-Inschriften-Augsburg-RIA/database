@@ -125,7 +125,7 @@
             <!--
                 $]/S[- - - ex] / testamen[to] / her(es) fa[ciendum? curavit?]
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                <gap reason="lost" extent="unknown" unit="character"/><lb break="no" n="2"/>S<gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">ex</supplied> <lb n="3"/><rs type="object" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/2537/view">testamen<supplied reason="lost">to</supplied></rs> <lb n="4"/><expan><abbr>her</abbr><ex>es</ex></expan> fa<supplied reason="lost" cert="low">ciendum</supplied><supplied reason="lost">ciendum</supplied>
+                <gap reason="lost" extent="unknown" unit="character"/><lb break="no" n="2"/>S<gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">ex</supplied> <lb n="3"/><rs type="object" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/2537/view">testamen<supplied reason="lost">to</supplied></rs> <lb n="4"/><expan><abbr>her</abbr><ex>es</ex></expan> fa<supplied reason="lost" cert="low">ciendum</supplied><supplied reason="lost">ciendum</supplied>
             </ab></div>
             <div type="apparatus">
                 <p/>

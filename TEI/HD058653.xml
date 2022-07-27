@@ -125,7 +125,7 @@
             <!--
                 - - - - - -] / [- - - Ur]sacius / bene merentib(us) / [- - - fece?]runt
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="0"/>
-                <gap reason="lost" extent="unknown" unit="line"/> <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1078/view"><supplied reason="lost">Ur</supplied>sacius</persName> <lb n="2"/>bene <expan><abbr>merentib</abbr><ex>us</ex></expan> <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost" cert="low"> fece</supplied>runt
+                <gap reason="lost" extent="unknown" unit="line"/> <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1078/view"><supplied reason="lost">Ur</supplied>sacius</persName> <lb n="2"/>bene <expan><abbr>merentib</abbr><ex>us</ex></expan> <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost" cert="low"> fece</supplied>runt
             </ab></div>
             <div type="apparatus">
                 <p/>

@@ -129,7 +129,7 @@
             <!--
                 - - - - - -] / [- - - coniugi?] / [car]issima[e] / M(arcus)(?) Aquilius / Piperas ma/ritus fec(it)
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="0"/>
-                <gap reason="lost" extent="unknown" unit="line"/> <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost" cert="low"> coniugi</supplied> <lb n="2"/><supplied reason="lost">car</supplied>issima<supplied reason="lost">e</supplied> <lb n="3"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1039/view"><expan><abbr>M</abbr><ex>arcus</ex></expan><certainty match="preceding-sibling::node()" locus="value"/> Aquilius <lb n="4"/>Piperas</persName> ma<lb break="no" n="5"/>ritus <expan><abbr>fec</abbr><ex>it</ex></expan>
+                <gap reason="lost" extent="unknown" unit="line"/> <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost" cert="low"> coniugi</supplied> <lb n="2"/><supplied reason="lost">car</supplied>issima<supplied reason="lost">e</supplied> <lb n="3"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1039/view"><expan><abbr>M</abbr><ex>arcus</ex></expan><certainty match="preceding-sibling::node()" locus="value"/> Aquilius <lb n="4"/>Piperas</persName> ma<lb break="no" n="5"/>ritus <expan><abbr>fec</abbr><ex>it</ex></expan>
             </ab></div>
             <div type="apparatus">
                 <p/>

@@ -128,7 +128,7 @@
             <!--
                 Q(uintus) Sec[- - -] / [- - -]IR[- - -] / C(aius) Satur[- - -]
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1048/view"><expan><abbr>Q</abbr><ex>uintus</ex></expan> Sec<gap reason="lost" extent="unknown" unit="character"/></persName> <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>IR<gap reason="lost" extent="unknown" unit="character"/> <lb n="3"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/948/view"><expan><abbr>C</abbr><ex>aius</ex></expan> Satur<gap reason="lost" extent="unknown" unit="character"/></persName>
+                <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1048/view"><expan><abbr>Q</abbr><ex>uintus</ex></expan> Sec<gap reason="lost" extent="unknown" unit="character"/></persName> <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>IR<gap reason="lost" extent="unknown" unit="character"/> <lb n="3"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/948/view"><expan><abbr>C</abbr><ex>aius</ex></expan> Satur<gap reason="lost" extent="unknown" unit="character"/></persName>
             </ab></div>
             <div type="apparatus">
                 <p/>

@@ -125,7 +125,7 @@
             <!--
                 [- - -]m(- - -?) T(iti?) f(ilius?) [- - -] / [- - -]C[- - -] / [- - - - - -
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                <gap reason="lost" extent="unknown" unit="character"/><expan><abbr>m</abbr><ex cert="low">---</ex></expan> <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1069/view"><expan><abbr>T</abbr><ex cert="low">iti</ex></expan></persName> <expan><abbr>f</abbr><ex cert="low">ilius</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>C<gap reason="lost" extent="unknown" unit="character"/> <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
+                <gap reason="lost" extent="unknown" unit="character"/><expan><abbr>m</abbr><ex cert="low">---</ex></expan> <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1069/view"><expan><abbr>T</abbr><ex cert="low">iti</ex></expan></persName> <expan><abbr>f</abbr><ex cert="low">ilius</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>C<gap reason="lost" extent="unknown" unit="character"/> <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
             </ab></div>
             <div type="apparatus">
                 <p/>

@@ -122,7 +122,7 @@
             <!--
                 Gar(um) / exc(ellens) / T(iti?) [- - -]
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                <rs type="food" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/2494/view"><expan><abbr>Gar</abbr><ex>um</ex></expan></rs> <lb n="2"/><expan><abbr>exc</abbr><ex>ellens</ex></expan> <lb n="3"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1069/view"><expan><abbr>T</abbr><ex cert="low">iti</ex></expan></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                <rs type="food" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/2494/view"><expan><abbr>Gar</abbr><ex>um</ex></expan></rs> <lb n="2"/><expan><abbr>exc</abbr><ex>ellens</ex></expan> <lb n="3"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1069/view"><expan><abbr>T</abbr><ex cert="low">iti</ex></expan></persName> <gap reason="lost" extent="unknown" unit="character"/>
             </ab></div>
             <div type="apparatus">
                 <p/>

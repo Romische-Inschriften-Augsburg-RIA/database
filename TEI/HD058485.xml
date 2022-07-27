@@ -134,7 +134,7 @@
             <!--
                 Mercurio / Aug(usto) sacrum / M(arcus) Bassinius / Vitalis / v(otum) s(olvit) l(ibens) m(erito)
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                <persName type="divine" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1618/view">Mercurio</persName> <lb n="2"/><rs type="emperor" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1400/view"><expan><abbr>Aug</abbr><ex>usto</ex></expan></rs> sacrum <lb n="3"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1031/view"><expan><abbr>M</abbr><ex>arcus</ex></expan> Bassinius <lb n="4"/>Vitalis</persName> <lb n="5"/><expan><abbr>v</abbr><ex>otum</ex></expan> <expan><abbr>s</abbr><ex>olvit</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan> <expan><abbr>m</abbr><ex>erito</ex></expan>
+                <persName type="divine" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1618/view">Mercurio</persName> <lb n="2"/><rs type="emperor" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1400/view"><expan><abbr>Aug</abbr><ex>usto</ex></expan></rs> sacrum <lb n="3"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1031/view"><expan><abbr>M</abbr><ex>arcus</ex></expan> Bassinius <lb n="4"/>Vitalis</persName> <lb n="5"/><expan><abbr>v</abbr><ex>otum</ex></expan> <expan><abbr>s</abbr><ex>olvit</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan> <expan><abbr>m</abbr><ex>erito</ex></expan>
             </ab></div>
             <div type="apparatus">
                 <p/>

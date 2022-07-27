@@ -146,7 +146,7 @@
             <!--
                 Vitalius Vigor / sibi et Vitalio / Virili fratri / vivos(!) fecit
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1086/view">Vitalius Vigor</persName> <lb n="2"/>sibi et <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1087/view">Vitalio <lb n="3"/>Virili</persName> fratri <lb n="4"/>vivos <note>sic</note> fecit
+                <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1086/view">Vitalius Vigor</persName> <lb n="2"/>sibi et <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1087/view">Vitalio <lb n="3"/>Virili</persName> fratri <lb n="4"/>vivos <note>sic</note> fecit
             </ab></div>
             <div type="apparatus">
                 <p/>

@@ -134,7 +134,7 @@
             <!--
                 P(ubli) Valer[i? - - -] / C(aio) Saturio Se[cundo - - -]
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/894/view"><expan><abbr>P</abbr><ex>ubli</ex></expan> Valer<supplied reason="lost">i<certainty locus="name" match="preceding-sibling::text()" cert="low"/></supplied></persName> <gap reason="lost" extent="unknown" unit="character"/> <lb n="2"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/949/view"><expan><abbr>C</abbr><ex>aio</ex></expan> Saturio Se<supplied reason="lost">cundo</supplied></persName><gap reason="lost" extent="unknown" unit="character"/>
+                <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/894/view"><expan><abbr>P</abbr><ex>ubli</ex></expan> Valer<supplied reason="lost">i<certainty locus="name" match="preceding-sibling::text()" cert="low"/></supplied></persName> <gap reason="lost" extent="unknown" unit="character"/> <lb n="2"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/949/view"><expan><abbr>C</abbr><ex>aio</ex></expan> Saturio Se<supplied reason="lost">cundo</supplied></persName><gap reason="lost" extent="unknown" unit="character"/>
             </ab></div>
             <div type="apparatus">
                 <p/>

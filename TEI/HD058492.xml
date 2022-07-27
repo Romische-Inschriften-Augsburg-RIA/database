@@ -125,7 +125,7 @@
             <!--
                 Trivis(?) Quad/rivis(?) / v(otum) s(olvit) l(ibens) l(aetus) m(erito)
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                <persName type="divine" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1674/view"><expan><abbr>Trivis</abbr><ex cert="low"/></expan></persName> <persName type="divine" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1675/view">Quad<lb break="no" n="2"/><expan><abbr>rivis</abbr><ex cert="low"/></expan></persName> <lb n="3"/><expan><abbr>v</abbr><ex>otum</ex></expan> <expan><abbr>s</abbr><ex>olvit</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan> <expan><abbr>l</abbr><ex>aetus</ex></expan> <expan><abbr>m</abbr><ex>erito</ex></expan>
+                <persName type="divine" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1674/view"><expan><abbr>Trivis</abbr><ex cert="low"/></expan></persName> <persName type="divine" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1675/view">Quad<lb break="no" n="2"/><expan><abbr>rivis</abbr><ex cert="low"/></expan></persName> <lb n="3"/><expan><abbr>v</abbr><ex>otum</ex></expan> <expan><abbr>s</abbr><ex>olvit</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan> <expan><abbr>l</abbr><ex>aetus</ex></expan> <expan><abbr>m</abbr><ex>erito</ex></expan>
             </ab></div>
             <div type="apparatus">
                 <p/>

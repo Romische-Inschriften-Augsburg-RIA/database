@@ -125,7 +125,7 @@
             <!--
                 Deo Volkano / Iul(ius) Marcia/nus ex voto / v(otum) r(eddidit) l(ibens) l(aetus) m(erito)
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                Deo <persName type="divine" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1649/view">Volkano</persName> <lb n="2"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/872/view"><expan><abbr>Iul</abbr><ex>ius</ex></expan> Marcia<lb break="no" n="3"/>nus</persName> ex voto <lb n="4"/><expan><abbr>v</abbr><ex>otum</ex></expan> <expan><abbr>r</abbr><ex>eddidit</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan> <expan><abbr>l</abbr><ex>aetus</ex></expan> <expan><abbr>m</abbr><ex>erito</ex></expan>
+                Deo <persName type="divine" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1649/view">Volkano</persName> <lb n="2"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/872/view"><expan><abbr>Iul</abbr><ex>ius</ex></expan> Marcia<lb break="no" n="3"/>nus</persName> ex voto <lb n="4"/><expan><abbr>v</abbr><ex>otum</ex></expan> <expan><abbr>r</abbr><ex>eddidit</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan> <expan><abbr>l</abbr><ex>aetus</ex></expan> <expan><abbr>m</abbr><ex>erito</ex></expan>
             </ab></div>
             <div type="apparatus">
                 <p/>

@@ -125,7 +125,7 @@
             <!--
                 [-]CXC(?) / py/rum // ATR
             --><div type="edition" xml:lang="la"><head>Text</head><div n="1" type="textpart"><ab><lb n="1"/>
-                <gap reason="lost" quantity="1" unit="character"/><expan><abbr>CXC</abbr><ex cert="low"/></expan> <lb n="2"/><rs type="food" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/2494/view">py<lb break="no" n="3"/>rum</rs> </ab></div><div n="2" type="textpart"><ab><lb n="1"/> ATR
+                <gap reason="lost" quantity="1" unit="character"/><expan><abbr>CXC</abbr><ex cert="low"/></expan> <lb n="2"/><rs type="food" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/2494/view">py<lb break="no" n="3"/>rum</rs> </ab></div><div n="2" type="textpart"><ab><lb n="1"/> ATR
             </ab></div></div>
             <div type="apparatus">
                 <p/>

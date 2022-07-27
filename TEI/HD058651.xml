@@ -122,7 +122,7 @@
             <!--
                 D(is) M(anibus) s(acrum) / - - - - - -] / [- - -] Vict[- - -] / [- - - - - -
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                <persName type="divine" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1394/view"><expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan></persName> <expan><abbr>s</abbr><ex>acrum</ex></expan> <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/> <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1095/view">Vict<gap reason="lost" extent="unknown" unit="character"/></persName> <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
+                <persName type="divine" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1394/view"><expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan></persName> <expan><abbr>s</abbr><ex>acrum</ex></expan> <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/> <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1095/view">Vict<gap reason="lost" extent="unknown" unit="character"/></persName> <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
             </ab></div>
             <div type="apparatus">
                 <p/>

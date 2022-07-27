@@ -125,7 +125,7 @@
             <!--
                 - - - - - -] / [- - -]AI[- - -] / [- - - C]ilnius [- - -] / [- - -]S her(es) ex HS XI[- - -]
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="0"/>
-                <gap reason="lost" extent="unknown" unit="line"/> <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>AI<gap reason="lost" extent="unknown" unit="character"/> <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/960/view"><supplied reason="lost">C</supplied>ilnius</persName> <gap reason="lost" extent="unknown" unit="character"/> <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>S <expan><abbr>her</abbr><ex>es</ex></expan> ex HS XI<gap reason="lost" extent="unknown" unit="character"/>
+                <gap reason="lost" extent="unknown" unit="line"/> <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>AI<gap reason="lost" extent="unknown" unit="character"/> <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/960/view"><supplied reason="lost">C</supplied>ilnius</persName> <gap reason="lost" extent="unknown" unit="character"/> <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>S <expan><abbr>her</abbr><ex>es</ex></expan> ex HS XI<gap reason="lost" extent="unknown" unit="character"/>
             </ab></div>
             <div type="apparatus">
                 <p/>

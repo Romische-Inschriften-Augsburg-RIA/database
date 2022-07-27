@@ -125,7 +125,7 @@
             <!--
                 Mercurio / [- - - - - -
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                <persName type="divine" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1618/view">Mercurio</persName> <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
+                <persName type="divine" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1618/view">Mercurio</persName> <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
             </ab></div>
             <div type="apparatus">
                 <p/>

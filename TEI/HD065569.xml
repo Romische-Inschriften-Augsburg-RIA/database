@@ -125,7 +125,7 @@
             <!--
                 Cos(mo) [et P]r(imus) fe(cerunt)
             --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
-                <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/975/view"><expan><abbr>Cos</abbr><ex>mo</ex></expan></persName> <supplied reason="lost">et</supplied> <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/907/view"><supplied reason="lost">P</supplied><expan><abbr>r</abbr><ex>imus</ex></expan></persName> <expan><abbr>fe</abbr><ex>cerunt</ex></expan>
+                <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/975/view"><expan><abbr>Cos</abbr><ex>mo</ex></expan></persName> <supplied reason="lost">et</supplied> <persName type="attested" ref="https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/907/view"><supplied reason="lost">P</supplied><expan><abbr>r</abbr><ex>imus</ex></expan></persName> <expan><abbr>fe</abbr><ex>cerunt</ex></expan>
             </ab></div>
             <div type="apparatus">
                 <p/>
