@@ -102,7 +102,7 @@
          <change when="2017-12-01" who="Osnabrügge">
              überprüft an Zeichnung
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -128,6 +128,6 @@
             <div type="commentary">
                 <p> Fragment von der Schulter einer Amphore (Schörgendorfer 558). Schreibtechnik: gemalt. Rote Farbe.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Schreibtechnik: gemalt. Rote Farbe.</p><p>Ehmig: Die verbliebenen Buchstaben markierten den Namen des Warentransporteurs (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1629/view). In dem Amphorentyp werden normalerweise eingelegte schwarze Oliven transportiert, die immer mit &lt;em&gt;ex dulci &lt;/em&gt;spezifiziert werden und das Qualitätsattribut &lt;em&gt;excellens &lt;/em&gt;tragen.</p><p>In Augsburg wurde ein sehr ähnliches Fragment gefunden: HD075482.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="translation"><p>"des Marcus M---</p><p>"des Marcus M---</p><p>"des Marcus M---</p><p>"des Marcus M---</p><p>"des Marcus M---</p></div><div type="commentary" resp="ria"><p>"Schreibtechnik: gemalt. Rote Farbe.</p><p>Ehmig: Die verbliebenen Buchstaben markierten den Namen des Warentransporteurs (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1629/view). In dem Amphorentyp werden normalerweise eingelegte schwarze Oliven transportiert, die immer mit &lt;em&gt;ex dulci &lt;/em&gt;spezifiziert werden und das Qualitätsattribut &lt;em&gt;excellens &lt;/em&gt;tragen.</p><p>In Augsburg wurde ein sehr ähnliches Fragment gefunden: HD075482.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

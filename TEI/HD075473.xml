@@ -102,7 +102,7 @@
          <change when="2017-11-30" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -134,6 +134,6 @@
             <div type="commentary">
                 <p> Silberner Fingerring. Gefunden in einer Urne zusammen mit Leichenbrand. Schreibtechnik: graviert.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Schreibtechnik der Weihinschrift für Mercurius (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1618/view): graviert.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="translation"><p>"dem Merkur.</p><p>"dem Merkur.</p><p>"dem Merkur.</p><p>"dem Merkur.</p><p>"dem Merkur.</p></div><div type="commentary" resp="ria"><p>"Schreibtechnik der Weihinschrift für Mercurius (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1618/view): graviert.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

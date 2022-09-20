@@ -103,7 +103,7 @@
          <change when="2017-09-06" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F007363.JPG">
@@ -153,6 +153,6 @@
             <div type="commentary">
                 <p> Stele mit dreieckigem Giebel im Relief. Text 1 befindet sich im Giebel. Z. 1: RI-Ligatur. Wagner: keine Wiedergabe der Inschrift.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Die erste Zeile befindet sich im Giebel. Z. 1: Obere horizontale Haste von E und T schwingen tildenförmig aufwärts. Z. 2: RI-Ligatur. Z. 12: hac anstelle von ac. Z. 13: Obere horizontale Haste von F schwingt tildenförmig aufwärts.</p><p>Gallego: Claudius Constantinus war der Herr der hispanischen Sklavin Hispanilla, mit der er einen Sohn hatte. Vielleicht diente sie ehemals als Sklavin bei den Auxiliaren in den Limeskastellen.</p><p>Kakoschke: Der Name des Sohnes, Reticius, ist eine kelt./lat. Weiterbildung des Cognomen 'Raeticus' und verweist auf die Provinz.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="translation"><p>"Den Totengöttern und der ewigen Sorgenfreiheit,</p></div><div type="commentary" resp="ria"><p>"Die erste Zeile befindet sich im Giebel. Z. 1: Obere horizontale Haste von E und T schwingen tildenförmig aufwärts. Z. 2: RI-Ligatur. Z. 12: hac anstelle von ac. Z. 13: Obere horizontale Haste von F schwingt tildenförmig aufwärts.</p><p>Gallego: Claudius Constantinus war der Herr der hispanischen Sklavin Hispanilla, mit der er einen Sohn hatte. Vielleicht diente sie ehemals als Sklavin bei den Auxiliaren in den Limeskastellen.</p><p>Kakoschke: Der Name des Sohnes, Reticius, ist eine kelt./lat. Weiterbildung des Cognomen 'Raeticus' und verweist auf die Provinz.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

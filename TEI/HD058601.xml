@@ -103,7 +103,7 @@
          <change when="2017-09-29" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -138,6 +138,6 @@
             <div type="commentary">
                 <p> Grabaltar, jedoch ohne Bekrönung. Die ergänzten Stellen waren früher noch lesbar. Aufbewahrungsort unsicher, 1973 nicht auffindbar. (B): Abweichungen in Lesung/Ergänzung.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Zu Welsers Zeiten war der ganze Text scheinbar noch lesbar, Vollmer und Mommsen können nur die Zeilen 6-9 lesen.</p><p>Z. 6: IBR: CVTIAN anstelle von CVNAN, CIL: QVTIAN. IBR, CIL: Z. 8: ET-, NE-, EN-Ligatur. FRATRI anstelle von PATRI.</p><p>Kakoschke: 'Acutianius' ist ein einheimisches Pseudo-Gentilnomen, abgeleitet vom lat. Cognomen 'Acutianus'. Der Händler und sein Bruder stammten sicherlich aus Raetien oder dem benachbarten keltischen Raum.</p><p>In einer weiteren Augsburger Inschrift erscheint der Bruder selbst als Verstorbener: HD058606.</p><p>(JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"Zu Welsers Zeiten war der ganze Text scheinbar noch lesbar, Vollmer und Mommsen können nur die Zeilen 6-9 lesen.</p><p>Z. 6: IBR: CVTIAN anstelle von CVNAN, CIL: QVTIAN. IBR, CIL: Z. 8: ET-, NE-, EN-Ligatur. FRATRI anstelle von PATRI.</p><p>Kakoschke: 'Acutianius' ist ein einheimisches Pseudo-Gentilnomen, abgeleitet vom lat. Cognomen 'Acutianus'. Der Händler und sein Bruder stammten sicherlich aus Raetien oder dem benachbarten keltischen Raum.</p><p>In einer weiteren Augsburger Inschrift erscheint der Bruder selbst als Verstorbener: HD058606.</p><p>(JW)</p><p>"</p></div><div type="translation"><p>"Dem Andenken und der ewigen Sorgenfreiheit. Dem Händler Flavius Acutianius Serenus, der 35 Jahre, acht Monate und sechs Tage lebte, ließ (das Grabmal) Acutianius Ursacius errichten. Acutianius Ursacius errichtete dieses (Grabmal) für seinen allerpflichtbewusstesten und wohlverdienenden Bruder.</p></div></body>
     </text>
 </TEI>

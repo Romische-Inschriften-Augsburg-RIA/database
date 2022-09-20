@@ -103,7 +103,7 @@
          <change when="2017-10-04" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F007364.JPG">
@@ -153,6 +153,6 @@
             <div type="commentary">
                 <p> Links und rechts des Inschriftenfeldes nackte Jünglinge, welche die von Pelten flankierte Tafel halten.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Wagner/Gamer/Rüsch: Der Stein gehört vielleicht zu Nr.18, zu dem die Platte der Größe und dem Inhalt nach passen könnte. Auch Stein und Patina sind ähnlich.</p><p>Kakoschke: 'Vitalius' ist ein einheimisches Pseudo-Gentilnomen. Die Brüder waren sicherlich Einheimische aus Raetien oder dem benachbarten keltischen Raum.</p><p>(JW)</p><p>"</p></div></body>
+        <div type="translation"><p>"Vitalius Vigor errichtete (das Grabmal) zu seinen Lebzeiten für sich und seinen Bruder Virilis.</p><p>"Vitalius Vigor errichtete (das Grabmal) zu seinen Lebzeiten für sich und seinen Bruder Virilis.</p><p>"Vitalius Vigor errichtete (das Grabmal) zu seinen Lebzeiten für sich und seinen Bruder Virilis.</p><p>"Vitalius Vigor errichtete (das Grabmal) zu seinen Lebzeiten für sich und seinen Bruder Virilis.</p><p>"Vitalius Vigor errichtete (das Grabmal) zu seinen Lebzeiten für sich und seinen Bruder Virilis.</p></div><div type="commentary" resp="ria"><p>"Wagner/Gamer/Rüsch: Der Stein gehört vielleicht zu Nr.18, zu dem die Platte der Größe und dem Inhalt nach passen könnte. Auch Stein und Patina sind ähnlich.</p><p>Kakoschke: 'Vitalius' ist ein einheimisches Pseudo-Gentilnomen. Die Brüder waren sicherlich Einheimische aus Raetien oder dem benachbarten keltischen Raum.</p><p>(JW)</p><p>"</p></div></body>
     </text>
 </TEI>

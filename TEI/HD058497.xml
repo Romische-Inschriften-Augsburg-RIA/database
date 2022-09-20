@@ -103,7 +103,7 @@
          <change when="2017-11-22" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -135,6 +135,6 @@
             <div type="commentary">
                 <p> Es handelt sich um ein längliches Bronzetäfelchen mit einer Öse an einer der Schmalseiten. Objekt beidseitig beschriftet. Ornamentaler Dekor. Schreibtechnik: gepunzt.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Schreibtechnik: gepunzt.</p><p>Kakoschke: Modestinus trägt wie der Kaiser Pertinax das italische Gentilnomen 'Helvius'. Die (Ehefrau?) Corrodu trägt ein keltisches Cognomen und stammt sicherlich aus Rätien oder dem benachbarten keltischen Raum.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"Schreibtechnik: gepunzt.</p><p>Kakoschke: Modestinus trägt wie der Kaiser Pertinax das italische Gentilnomen 'Helvius'. Die (Ehefrau?) Corrodu trägt ein keltisches Cognomen und stammt sicherlich aus Rätien oder dem benachbarten keltischen Raum.</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"Helvius Modestinus weihte (dies). Corrodu gab es als Geschenk.</p></div></body>
     </text>
 </TEI>

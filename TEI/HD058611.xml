@@ -103,7 +103,7 @@
          <change when="2018-03-16" who="Osnabrügge">
              überprüft an Zeichnung
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -138,6 +138,6 @@
             <div type="commentary">
                 <p> Bodenmosaik, die Mittelzone unterteilt in drei Reihen von noch 5x3 erhaltenen Mosaikfeldern. Je vier Felder der oberen und unteren Reihe zeigen Kampfszenen zwischen Gladiatoren, deren Namen als Beischrift gegeben sind. In der mittleren Reihe noch drei Mosaikfelder mit Quadrigae, rechts davon Wendemarke. Die obere Reihe ist zu der mittleren und unteren um 180° gedreht, in der rechten Spalte um 90° gedreht drei Felder mit Vögeln (Hahn, Raben). Der Rand des gesamten Mosaiks ist an keiner Stelle erhalten. Schreibtechnik: Mosaik. (B): IBR 147: Text 1: die aus dem 16. Jh. stammende Zeichnung weist vor dem Namen Crispus noch die Namensendung -us auf, die in der Lesung von IBR nicht wiedergegeben ist.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Schreibtechnik: Mosaik. IBR 147: Text 1: die aus dem 16. Jh. stammende Zeichnung weist vor dem Namen Crispus noch die Namensendung -us auf, die in der Lesung von IBR nicht wiedergegeben ist. CIL: Quadr. 1: SIRIPVS vor CRISPVS. Quadr. 10: MANLIVS unsicher.</p><p>Die Namen der Gladiatoren sind vorwiegend lateinisch und griechisch, Aprius ist keltisch.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="translation"><p>"---us Crispus</p></div><div type="commentary" resp="ria"><p>"Schreibtechnik: Mosaik. IBR 147: Text 1: die aus dem 16. Jh. stammende Zeichnung weist vor dem Namen Crispus noch die Namensendung -us auf, die in der Lesung von IBR nicht wiedergegeben ist. CIL: Quadr. 1: SIRIPVS vor CRISPVS. Quadr. 10: MANLIVS unsicher.</p><p>Die Namen der Gladiatoren sind vorwiegend lateinisch und griechisch, Aprius ist keltisch.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

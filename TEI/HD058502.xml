@@ -103,7 +103,7 @@
          <change when="2017-09-22" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -132,6 +132,6 @@
             <div type="commentary">
                 <p> Nur handschriftlich überliefert.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Nur handschriftlich überliefertes Fragment.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="translation"><p>"--- bereitwillig, freudig, ---</p></div><div type="commentary" resp="ria"><p>"Nur handschriftlich überliefertes Fragment.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

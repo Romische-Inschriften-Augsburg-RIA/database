@@ -103,7 +103,7 @@
          <change when="2017-10-04" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -132,6 +132,6 @@
             <div type="commentary">
                 <p> Fragment vom unteren rechten Teil eines nicht näher identifzierbaren Monumentes.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"IBR, CIL: Z. 1: VRSACIVS</p><p>(JW)</p><p>"</p></div></body>
+        <div type="translation"><p>"--- Ursacius errichteten den wohl verdienten --- (das Grabmal).</p></div><div type="commentary" resp="ria"><p>"IBR, CIL: Z. 1: VRSACIVS</p><p>(JW)</p><p>"</p></div></body>
     </text>
 </TEI>

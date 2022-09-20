@@ -104,7 +104,7 @@
          <change when="2017-09-28" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F020420.JPG">
@@ -142,6 +142,6 @@
             <div type="commentary">
                 <p> Die ergänzten Stellen waren im 16. Jh. und z. T. im 19. Jh. noch lesbar. Hedera in Z. 3. Z. 7: NTE-Ligatur.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Die ergänzten Stellen waren im 16. Jh. und z. T. im 19. Jh. noch lesbar.</p><p>Z. 2: CIL: T(ribuno), IBR: C(enturioni). Hedera in Z. 3. Z. 4: NA-Ligatur. Z. 5: HE-Ligatur. Z. 7: AV-, NTE-Ligatur.</p><p>Kakoschke: Aufgrund des seltenen Gentilnomens handelte es sich vielleicht um Italiker.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="translation"><p>"Dem Gaius Managnius Iustus, dem Zenturio der 3. Italischen Legion, ließ (das Grabmal) Managnia Fabiana, seine Tochter und Erbin, vertreten durch den Freigelassenen Managnius Nicias, errichten für 16.000 Sesterzen.</p></div><div type="commentary" resp="ria"><p>"Die ergänzten Stellen waren im 16. Jh. und z. T. im 19. Jh. noch lesbar.</p><p>Z. 2: CIL: T(ribuno), IBR: C(enturioni). Hedera in Z. 3. Z. 4: NA-Ligatur. Z. 5: HE-Ligatur. Z. 7: AV-, NTE-Ligatur.</p><p>Kakoschke: Aufgrund des seltenen Gentilnomens handelte es sich vielleicht um Italiker.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

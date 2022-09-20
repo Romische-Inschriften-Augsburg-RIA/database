@@ -102,7 +102,7 @@
          <change when="2017-12-01" who="Osnabrügge">
              überprüft an Zeichnung
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -128,6 +128,6 @@
             <div type="commentary">
                 <p> Schulterfragment einer Amphore (Dressel 2-4).</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Ehmig: In der Amphore wurde griechischer Wein transportiert. Form, Herkunft und Inhalt der Weinamphoren ist derart vielfältig, dass Rekonstruktionen des Textes schwierig sind.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="translation"><p>"--- 118 (Gewichtseinheiten)</p></div><div type="commentary" resp="ria"><p>"Ehmig: In der Amphore wurde griechischer Wein transportiert. Form, Herkunft und Inhalt der Weinamphoren ist derart vielfältig, dass Rekonstruktionen des Textes schwierig sind.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

@@ -104,7 +104,7 @@
          <change when="2017-09-28" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F035502.JPG">
@@ -145,6 +145,6 @@
             <div type="commentary">
                 <p> Mittelteil eines Grabaltars. Auf der linken Nebenseite Ascia. Hedera in Z. 1 und Z. 5. (B): CIL 03, 05814: Z. 3: librari[o].</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Hedera in Z. 1 und Z. 5. CIL: Z. 3: librari[o].</p><p>Die Namen des Soldaten und seiner Mutter sind zu gängig, um ihre Herkunft genauer zu verorten.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="translation"><p>"Den Totengöttern. Dem Iulius Amandus, dem Soldaten der 3. Italischen Legion und Buchhalter im Büro des Statthalters, der 30 Jahre lebte.</p></div><div type="commentary" resp="ria"><p>"Hedera in Z. 1 und Z. 5. CIL: Z. 3: librari[o].</p><p>Die Namen des Soldaten und seiner Mutter sind zu gängig, um ihre Herkunft genauer zu verorten.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

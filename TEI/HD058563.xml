@@ -103,7 +103,7 @@
          <change when="2017-09-29" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -132,6 +132,6 @@
             <div type="commentary">
                 <p> Wahrscheinlich ist links ein weiterer Block(?) zu ergänzen.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Wahrscheinlich ist links ein weiterer Block(?) zu ergänzen. Zeile 3 und 4 waren im 16. und 19. Jahrhundert teilweise noch lesbar.</p><p>IBR: Abweichende Lesungen: Z. 1: AL III L. Wahrscheinlich fehlt der Name eines dritten Verstorbenen zu Beginn von Zeile 2.</p><p>Kakoschke: Wahrscheinlich handelte es bei Flavius Decoratus um einen Einheimischen aus Raetien oder dem benachbarten keltischen Gebiet.</p><p>(EDH, JW)</p><p>&amp;nbsp;</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"Wahrscheinlich ist links ein weiterer Block(?) zu ergänzen. Zeile 3 und 4 waren im 16. und 19. Jahrhundert teilweise noch lesbar.</p><p>IBR: Abweichende Lesungen: Z. 1: AL III L. Wahrscheinlich fehlt der Name eines dritten Verstorbenen zu Beginn von Zeile 2.</p><p>Kakoschke: Wahrscheinlich handelte es bei Flavius Decoratus um einen Einheimischen aus Raetien oder dem benachbarten keltischen Gebiet.</p><p>(EDH, JW)</p><p>&amp;nbsp;</p><p>"</p></div><div type="translation"><p>"---, dem Dekurio der ala II Flavia und [--- Benefiziarier?] des Statthalters, und dem Flavius Decoratus --- der 3. Italischen Legion --- errichtete (das Grabmal) zu seinen und ihren Lebzeiten.</p></div></body>
     </text>
 </TEI>

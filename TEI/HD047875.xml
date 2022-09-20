@@ -103,7 +103,7 @@
          <change when="2017-12-14" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -141,6 +141,6 @@
             <div type="commentary">
                 <p> Amphore (Dressel 7-11). Die Inschrift befinder sich auf dem Hals. C. Saturius Secundus ist als procurator in Raetia in den Jahren 77 und 80 n. Chr. belegt. Schreibtechnik: gemalt. (B): AE 2000; Ehmig 2000: C. Saturio Sesto.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Schreibtechnik: gemalt. AE; Ehmig 2001: C. Saturio Sesto; Ehmig 2004: C. Saturius Secundus</p><p>Ehmig: Die einzige erhaltene Zeile auf der Amphore mit hispanischem garum widmet sich dem Adressaten C. Saturius Secundus. Dieser war Statthalter in Raetien zwischen 77 und 80 n. Chr. und erhielt eine ähnliche Amphore vom Warentransporteur Publius Valerius: HD048774.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"Schreibtechnik: gemalt. AE; Ehmig 2001: C. Saturio Sesto; Ehmig 2004: C. Saturius Secundus</p><p>Ehmig: Die einzige erhaltene Zeile auf der Amphore mit hispanischem garum widmet sich dem Adressaten C. Saturius Secundus. Dieser war Statthalter in Raetien zwischen 77 und 80 n. Chr. und erhielt eine ähnliche Amphore vom Warentransporteur Publius Valerius: HD048774.</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"dem C. Saturius Secundus gehörig</p></div></body>
     </text>
 </TEI>

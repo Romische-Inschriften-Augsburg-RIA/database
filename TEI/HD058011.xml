@@ -103,7 +103,7 @@
          <change when="2017-08-25" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
 
@@ -135,6 +135,6 @@
             <div type="commentary">
                 <p> Fragment mit dem unteren Rand des Inschriftfeldes und dem profilierten Sockel.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Die Buchstabenhöhe beträgt in Z.1-2 7cm und in Z. 3-4 6cm. Wagner: Z. 1: [Mercuri]o? (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1618/view). Z. 2: eher ein T als ein L.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"Die Buchstabenhöhe beträgt in Z.1-2 7cm und in Z. 3-4 6cm. Wagner: Z. 1: [Mercuri]o? (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1618/view). Z. 2: eher ein T als ein L.</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"---o ---torius Maximus löste sein Gelübde bereitwillig, freudig und nach Verdienst ein.</p></div></body>
     </text>
 </TEI>

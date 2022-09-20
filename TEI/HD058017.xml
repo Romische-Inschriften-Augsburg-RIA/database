@@ -104,7 +104,7 @@
          <change when="2017-08-25" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F020434.JPG">
@@ -140,6 +140,6 @@
             <div type="commentary">
                 <p> Oberer Teil eines Grabaltars. Hedera in Z. 1. Am Ende von Z. 4 möglicherweise noch oberer Ansatz eines Buchstaben. (B): Wagner: Z. 5: [------], im Komentar als 'verschmierte Buchstaben erwähnt.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Die Buchstabenhöhe beträgt: Z. 1 8 cm, Z. 2-5 5-5,4 cm. Hedera in Z. 1. Am Ende von Z. 4 möglicherweise noch oberer Ansatz eines Buchstaben. (B): Wagner: Z. 5: [------], im Kommentar als zwei bis drei 'verschmierte' Buchstaben erwähnt.</p><p>Kakoschke: Das Cognomen 'Attilia' deutet daraufhin, dass die Ehfrau eine Einheimische aus Raetien war oder aus dem benachbarten keltischen Raum stammte.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"Die Buchstabenhöhe beträgt: Z. 1 8 cm, Z. 2-5 5-5,4 cm. Hedera in Z. 1. Am Ende von Z. 4 möglicherweise noch oberer Ansatz eines Buchstaben. (B): Wagner: Z. 5: [------], im Kommentar als zwei bis drei 'verschmierte' Buchstaben erwähnt.</p><p>Kakoschke: Das Cognomen 'Attilia' deutet daraufhin, dass die Ehfrau eine Einheimische aus Raetien war oder aus dem benachbarten keltischen Raum stammte.</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"Den Totengöttern und der Iulia Attilia, seiner Ehefrau, ließ Claudius Florinus (das Grabmal) noch zu seinen Lebzeiten errichten.</p></div></body>
     </text>
 </TEI>

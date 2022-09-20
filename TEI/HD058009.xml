@@ -103,7 +103,7 @@
          <change when="2017-08-25" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -129,6 +129,6 @@
             <div type="commentary">
                 <p> Der Rest einer Figur ist erhalten.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Die Buchstabenhöhe der Weihinschrift beträgt in Z. 1-2 3cm und in Z. 3 2,5cm. Nur die erste Zeile ist ganz erhalten und nennt den Gott Mercurius (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1618/view) im Dativ. Z. 2: -V AM. Z. 3: -t---, hier stand vermutlich der Name des Weihenden.</p><p>(JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"Die Buchstabenhöhe der Weihinschrift beträgt in Z. 1-2 3cm und in Z. 3 2,5cm. Nur die erste Zeile ist ganz erhalten und nennt den Gott Mercurius (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1618/view) im Dativ. Z. 2: -V AM. Z. 3: -t---, hier stand vermutlich der Name des Weihenden.</p><p>(JW)</p><p>"</p></div><div type="translation"><p>"Dem Merkur, -vam -t---</p></div></body>
     </text>
 </TEI>

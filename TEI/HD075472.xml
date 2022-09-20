@@ -102,7 +102,7 @@
          <change when="2017-11-30" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -134,6 +134,6 @@
             <div type="commentary">
                 <p> Silberner Fingerring. Außen achteckig, je zwei Buchstaben auf einem der acht Felder.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Je zwei Buchstaben auf einem der acht Felder.</p><p>(EDH)</p><p>"</p></div></body>
+        <div type="translation"><p>"Dem Genius des Feldzeichenträgers Cassius.</p></div><div type="commentary" resp="ria"><p>"Je zwei Buchstaben auf einem der acht Felder.</p><p>(EDH)</p><p>"</p></div></body>
     </text>
 </TEI>

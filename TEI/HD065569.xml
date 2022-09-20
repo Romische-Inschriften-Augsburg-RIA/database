@@ -103,7 +103,7 @@
          <change when="2012-11-19" who="Gräf">
              keine Bildvorlage
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -132,6 +132,6 @@
             <div type="commentary">
                 <p> Terra sigillata; Inschrift gestempelt. Fundjahr: zwischen 1986 und 1994.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Terra sigillata, in Rheinzabern hergestellt, Inschrift gestempelt, aber zweifach angesetzt.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="translation"><p>"Cosmo und Primus haben (das) gemacht.</p></div><div type="commentary" resp="ria"><p>"Terra sigillata, in Rheinzabern hergestellt, Inschrift gestempelt, aber zweifach angesetzt.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

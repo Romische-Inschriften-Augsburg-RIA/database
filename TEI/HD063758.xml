@@ -103,7 +103,7 @@
          <change when="2017-11-23" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -129,6 +129,6 @@
             <div type="commentary">
                 <p> Fragment einer Venusstatuette in aedicula. Die Inschrift befindet sich auf der Rückseite. Schreibtechnik: geritzt.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Schreibtechnik: geritzt.</p><p>Ein gleichnamiger Koroplast aus dem 3. Jahrhundert ist aus einer Werkstatt in Autun und dem zentralen Gallien gut bekannt: Vgl. Androuin.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"Schreibtechnik: geritzt.</p><p>Ein gleichnamiger Koroplast aus dem 3. Jahrhundert ist aus einer Werkstatt in Autun und dem zentralen Gallien gut bekannt: Vgl. Androuin.</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"Pistillus hat (das) gemacht.</p></div></body>
     </text>
 </TEI>

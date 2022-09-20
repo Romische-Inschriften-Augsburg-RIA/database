@@ -103,7 +103,7 @@
          <change when="2017-10-04" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
 
@@ -138,6 +138,6 @@
             <div type="commentary">
                 <p/>
             </div>
-        <div type="commentary" resp="ria"><p>"Es ist unklar, ob die verbliebenen Zeilen Bestandteile eines Namens oder mehrerer sind. IBR: Sexto Tinci(o) Mode(rato)</p><p>Kakoschke: 'Tincius' ist ein südgallisches Gentilnomen. Vielleicht kam der Genannte aus der Gallia Narbonensis.</p><p>(JW)</p><p>"</p></div></body>
+        <div type="translation"><p>"--- dem Sextus --- Tinci---? --- Mode---? ---</p></div><div type="commentary" resp="ria"><p>"Es ist unklar, ob die verbliebenen Zeilen Bestandteile eines Namens oder mehrerer sind. IBR: Sexto Tinci(o) Mode(rato)</p><p>Kakoschke: 'Tincius' ist ein südgallisches Gentilnomen. Vielleicht kam der Genannte aus der Gallia Narbonensis.</p><p>(JW)</p><p>"</p></div></body>
     </text>
 </TEI>

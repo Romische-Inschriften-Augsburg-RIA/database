@@ -103,7 +103,7 @@
          <change when="2017-11-15" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
 
@@ -141,6 +141,6 @@
             <div type="commentary">
                 <p> In der oberen Hälfte Büsten eines Mannes und einer Frau sowie eines Kindes. Z. 4: Aur(eli---) Co[---]? Z. 5: nur obere Hälfte erhalten, auch L(?) bzw. F(?) möglich. (B): IBR app. 4; Mander: Z. 2: cura]tori CV[---]; kleinere Leseabweichungen.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"IBR: Z. 2: Zwischen R und I noch ein kleines i, das auch ein unbeabsichtigter Einschlag sein könnte. Z. 3: Am Ende LV oder EV. Z. 4: MV-Ligatur?, Aur(eli---) Co[---]? Z. 5: nur obere Hälfte erhalten, auch L(?) bzw. F(?) möglich. Mander: Z. 2: cura]tori CV[---], kleinere Leseabweichungen.</p><p>IBR liest: [L. Aurel(io)] Gemell[ino . . . cura]tori cu[. . . coniugi c]aris(simo) [Luc]ia...</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"IBR: Z. 2: Zwischen R und I noch ein kleines i, das auch ein unbeabsichtigter Einschlag sein könnte. Z. 3: Am Ende LV oder EV. Z. 4: MV-Ligatur?, Aur(eli---) Co[---]? Z. 5: nur obere Hälfte erhalten, auch L(?) bzw. F(?) möglich. Mander: Z. 2: cura]tori CV[---], kleinere Leseabweichungen.</p><p>IBR liest: [L. Aurel(io)] Gemell[ino . . . cura]tori cu[. . . coniugi c]aris(simo) [Luc]ia...</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"--- Gemell--- --- Victoricus(?) ---</p></div></body>
     </text>
 </TEI>

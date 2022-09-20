@@ -104,7 +104,7 @@
          <change when="2017-09-28" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F007360.JPG">
@@ -178,6 +178,6 @@
             <div type="commentary">
                 <p> Hederae in Z. 1 und Z. 11. Das Grabmal besteht aus Sockel, Inschriftenblock, Reliefblock und Dachaufsatz. Auf der Hauptseite des Reliefblocks sind die Eltern mit den beiden Söhnen dargestellt, auf der rechten Nebenseite eine Frau, auf der linken Nebenseite vier Personen an einem Tisch. Im Giebel über der Hauptseite Krater mit Schlangen und zwei Pfauen, über der rechten Nebenseite Erot mit Korb sowie ein Hase, über der linken Nebenseite Früchtekorb.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"IBR: Hederae in Z. 1 und Z. 11. Z. 3: TI-, AE-Ligatur. Z. 7: Querhaste über COS. Z. 9: Kein Worttrenner vor SIBI (aus Platzgründen?).</p><p>Die Militärfamilie zeigt mit dem Monument ihren Wohlstand, Status und auch ihre Bildung. Als &lt;em&gt;exactus consularis&lt;/em&gt; war T. Flavius Clemens im Stab des Statthalters und des Legionslegaten aktiv.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"IBR: Hederae in Z. 1 und Z. 11. Z. 3: TI-, AE-Ligatur. Z. 7: Querhaste über COS. Z. 9: Kein Worttrenner vor SIBI (aus Platzgründen?).</p><p>Die Militärfamilie zeigt mit dem Monument ihren Wohlstand, Status und auch ihre Bildung. Als &lt;em&gt;exactus consularis&lt;/em&gt; war T. Flavius Clemens im Stab des Statthalters und des Legionslegaten aktiv.</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"Den Totengöttern. Dem Vater Titus Flavius Primanus, der Mutter Traiania Clementina und dem Bruder Titus Flavius Clemens, dem Soldaten der 3. Italischen Legion und Schreiber im Büro des Statthalters, der 24 Jahre lebte. Titus Flavius Martialis errichtete (das Grabmal) für sich und seine Eltern zu seinen Lebzeiten.</p></div></body>
     </text>
 </TEI>

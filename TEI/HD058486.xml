@@ -104,7 +104,7 @@
          <change when="2017-09-21" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -133,6 +133,6 @@
             <div type="commentary">
                 <p> Hederae unter der letzten Zeile der Inschrift. Nur handschriftlich überliefert. Möglicherweise im ehemaligen Dompropsteigebäude vermauert.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Nur handschriftlich überlieferte Weihung für die Parzen (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1644/view).</p><p>Z. 3: Untere Reste von Buchstaben erkennbar. Z. 4: NI- Ligatur, alternative Lesung: Cossitius. Hederae unter der letzten Zeile der Inschrift.</p><p>Kakoschke: Das Gentilnomen Cossinius ist entweder italisch oder ein einheimisches Pseudo-Gentilnomen, abgeleitet vom kelt./lat. Cognomen Cossus. Wahrscheinlich stammte der Weihende aus Raetien oder dem benachbarten keltischen Raum.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"Nur handschriftlich überlieferte Weihung für die Parzen (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1644/view).</p><p>Z. 3: Untere Reste von Buchstaben erkennbar. Z. 4: NI- Ligatur, alternative Lesung: Cossitius. Hederae unter der letzten Zeile der Inschrift.</p><p>Kakoschke: Das Gentilnomen Cossinius ist entweder italisch oder ein einheimisches Pseudo-Gentilnomen, abgeleitet vom kelt./lat. Cognomen Cossus. Wahrscheinlich stammte der Weihende aus Raetien oder dem benachbarten keltischen Raum.</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"Den Parzen heilig! Caius Cossinius Primus löste sein Gelübde pflichtbewusst, bereitwillig, freudig und nach Verdienst ein.</p></div></body>
     </text>
 </TEI>

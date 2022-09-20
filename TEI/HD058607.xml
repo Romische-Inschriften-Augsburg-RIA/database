@@ -103,7 +103,7 @@
          <change when="2017-12-13" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -132,6 +132,6 @@
             <div type="commentary">
                 <p> Die Texte 1 und 2 befinden sich im selben Inschriftenfeld, allerdings geht aus der überlieferten Beschreibung nicht hervor, ob es sich um zwei aufeinanderfolgende Zeilen handelt oder nicht. Die Maßangabe ist nach den überlieferten Angaben in (duodezimalen?) bayerischen Fuß und Zoll umgerechnet (2'2" hoch, 1'2" breit)</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Raiser betrachtete den Stein nach eigenen Angaben im Augsburger 'Antiquarium Romanum', Vollmer und Mommsen konnten ihn nicht finden.</p><p>In zwei Zeilen unbekannter Position sollen die dunklen Buchstaben A AEL und weiter unten P C erkennbar gewesen sein.</p><p>(JW)</p><p>"</p></div></body>
+        <div type="translation"><p>"--- ließ (diesen Altar) errichten ---</p></div><div type="commentary" resp="ria"><p>"Raiser betrachtete den Stein nach eigenen Angaben im Augsburger 'Antiquarium Romanum', Vollmer und Mommsen konnten ihn nicht finden.</p><p>In zwei Zeilen unbekannter Position sollen die dunklen Buchstaben A AEL und weiter unten P C erkennbar gewesen sein.</p><p>(JW)</p><p>"</p></div></body>
     </text>
 </TEI>

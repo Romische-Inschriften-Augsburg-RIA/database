@@ -104,7 +104,7 @@
          <change when="2017-09-29" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -136,6 +136,6 @@
             <div type="commentary">
                 <p> Hederae in Z. 4. Z. 3: vom M.(?) ist der untere Teil einer Haste erhalten. (B): CIL 03, 05837: kleinere Leseabweichungen.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Der Anfang der Grabinschrift ist nicht erhalten. IBR: Z. 2: vom M.(?) ist der untere Teil einer Haste erhalten. Hederae in Z. 4.</p><p>Kakoschke: 'Piperas' ist ein keltisches Cognomen. Der Ehemann stammte aus Raetien oder dem benachbarten keltischen Raum.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"Der Anfang der Grabinschrift ist nicht erhalten. IBR: Z. 2: vom M.(?) ist der untere Teil einer Haste erhalten. Hederae in Z. 4.</p><p>Kakoschke: 'Piperas' ist ein keltisches Cognomen. Der Ehemann stammte aus Raetien oder dem benachbarten keltischen Raum.</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"&amp;nbsp;---, seiner allerliebsten Ehefrau, ließ Marcus Aquilius Piperas, der Ehemann, (das Grabmal) errichten.</p></div></body>
     </text>
 </TEI>

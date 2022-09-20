@@ -103,7 +103,7 @@
          <change when="2020-02-05" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -135,6 +135,6 @@
             <div type="commentary">
                 <p> Nur handschriftlich überliefert. Großer Stein, der nach der Überlieferung nur die angegebenen vier Buchstaben trug; vielleicht zu einer größeren Inschrift gehörig? Nach Nuber könnten die folgenden Inschriften mit der Vorliegenden zu einer Gesamtinschrift zu verbinden sein: http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058505; http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058075; http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058658.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Nur handschriftlich überliefert. Großer Stein, der nach der Überlieferung nur die angegebenen vier sorgfältig eingearbeiteten Buchstaben trug; vielleicht zu einer größeren Inschrift gehörig? Nach Nuber könnten die folgenden Inschriften mit der Vorliegenden zu einer Gesamtinschrift zu verbinden sein: HD058505, HD058075, HD058658.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="translation"><p>"--- Pomp(?) ---</p></div><div type="commentary" resp="ria"><p>"Nur handschriftlich überliefert. Großer Stein, der nach der Überlieferung nur die angegebenen vier sorgfältig eingearbeiteten Buchstaben trug; vielleicht zu einer größeren Inschrift gehörig? Nach Nuber könnten die folgenden Inschriften mit der Vorliegenden zu einer Gesamtinschrift zu verbinden sein: HD058505, HD058075, HD058658.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

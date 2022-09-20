@@ -103,7 +103,7 @@
          <change when="2017-11-22" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -132,6 +132,6 @@
             <div type="commentary">
                 <p> Nur handschriftlich überliefert. (B): CIL 03, 05799: Z. 4: 'V [S] L [L] M'.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Nur handschriftlich überlieferte Weihinschrift für Vulcanus (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1649/view).</p><p>IBR: Abweichende Lesungen: Z. 1: VOLIANO. Z. 4: VRLIM. CIL: Z. 4: 'V [S] L [L] M'.</p><p>Gschaid: Die Weihung an den Gott der Schmiede könnte mit dem Beruf des Marcianus zusammenhängen.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="translation"><p>"Dem Gott Vulcanus löste Iulius Marcianus gemäß seinem Gelübde das Gelübde bereitwillig, freudig und nach Verdienst ein.</p></div><div type="commentary" resp="ria"><p>"Nur handschriftlich überlieferte Weihinschrift für Vulcanus (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1649/view).</p><p>IBR: Abweichende Lesungen: Z. 1: VOLIANO. Z. 4: VRLIM. CIL: Z. 4: 'V [S] L [L] M'.</p><p>Gschaid: Die Weihung an den Gott der Schmiede könnte mit dem Beruf des Marcianus zusammenhängen.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

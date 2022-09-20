@@ -103,7 +103,7 @@
          <change when="2017-09-06" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F020428.JPG">
@@ -150,6 +150,6 @@
             <div type="commentary">
                 <p> Laut Wagner Grabmalaufsatz. Rechts der Inschrift Darstellung eines Fasses.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Die Buchstabenhöhe beträgt 24,5cm. Von der Inschrift ist außer dem D M nichts erhalten.</p><p>Laut Wagner ähnelt das Stück dem Stein: HD058078.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"Die Buchstabenhöhe beträgt 24,5cm. Von der Inschrift ist außer dem D M nichts erhalten.</p><p>Laut Wagner ähnelt das Stück dem Stein: HD058078.</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"Den Totengöttern.</p></div></body>
     </text>
 </TEI>

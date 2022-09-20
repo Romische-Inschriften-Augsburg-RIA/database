@@ -103,7 +103,7 @@
          <change when="2017-10-12" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -132,6 +132,6 @@
             <div type="commentary">
                 <p> Allseitig abgebrochenes Fragment mit dem oberen Rand des Inschriftfeldes, S in Z. 3 unsicher, statt T auch E oder F möglich.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"IBR: Z. 2: TR P statt IMP möglich. S in Z. 3 unsicher, statt T auch E oder F möglich, sacritissimi principis?</p><p>CIL, IBR: Hirschfeld hielt eine Ehrung für Septimius Severus (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1055/view) möglich. Falls TR P korrekt ist, könnte die Inschrift auch ins Jahr 136 (tr. pot. X von Hadrian (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1655/view)) fallen.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="translation"><p>"Für die Gesundheit des Kaisers ---, im zehnten(?) Jahr seines Konsulats, --- des heiligsten ---</p></div><div type="commentary" resp="ria"><p>"IBR: Z. 2: TR P statt IMP möglich. S in Z. 3 unsicher, statt T auch E oder F möglich, sacritissimi principis?</p><p>CIL, IBR: Hirschfeld hielt eine Ehrung für Septimius Severus (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1055/view) möglich. Falls TR P korrekt ist, könnte die Inschrift auch ins Jahr 136 (tr. pot. X von Hadrian (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1655/view)) fallen.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

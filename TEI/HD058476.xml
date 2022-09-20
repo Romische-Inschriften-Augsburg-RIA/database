@@ -104,7 +104,7 @@
          <change when="2017-09-21" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -133,6 +133,6 @@
             <div type="commentary">
                 <p> Nur handschriftlich überliefert. Hederae in Z. 2 und 4.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Nur handschriftlich überlieferte Weihung an &lt;a href=""https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1630/view""&gt;Iuppiter&lt;/a&gt;.</p><p>Hederae in Z. 2 und 4. Z. 2: Welser: LIBERIS, IBR: CETERIS</p><p>Kellner: Der Decurio kam wohl aus Italien. Rupprecht: Er gehörte zu der romanisierten einheimischen Bevölkerung.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"Nur handschriftlich überlieferte Weihung an &lt;a href=""https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1630/view""&gt;Iuppiter&lt;/a&gt;.</p><p>Hederae in Z. 2 und 4. Z. 2: Welser: LIBERIS, IBR: CETERIS</p><p>Kellner: Der Decurio kam wohl aus Italien. Rupprecht: Er gehörte zu der romanisierten einheimischen Bevölkerung.</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"Dem besten und größten Iuppiter und allen übrigen Göttern und Göttinnen hat Adiutorius Romanus, decurio des municipium, sein Gelübde gern, freudig und nach Gebühr eingelöst.</p></div></body>
     </text>
 </TEI>

@@ -103,7 +103,7 @@
          <change when="2017-09-29" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -135,6 +135,6 @@
             <div type="commentary">
                 <p> Rest des Monuments modern ergänzt.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Rest des Monuments modern ergänzt.</p><p>IBR: Z. 2: NI-Ligatur.</p><p>Kakoschke: 'Silvia' könnte ein italisches oder ein einheimisches Pseudo-Gentilnomen, welches sich vom gleichnamigen Cognomen ableitet, sein. Wahrscheinlich war sie eine Einheimische aus Raetien oder dem benachbarten keltischen Gebiet.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="translation"><p>"--- der Silvia Maternina, der Tochter des Titus, der Priesterin ---</p></div><div type="commentary" resp="ria"><p>"Rest des Monuments modern ergänzt.</p><p>IBR: Z. 2: NI-Ligatur.</p><p>Kakoschke: 'Silvia' könnte ein italisches oder ein einheimisches Pseudo-Gentilnomen, welches sich vom gleichnamigen Cognomen ableitet, sein. Wahrscheinlich war sie eine Einheimische aus Raetien oder dem benachbarten keltischen Gebiet.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

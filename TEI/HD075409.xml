@@ -102,7 +102,7 @@
          <change when="2017-11-09" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -128,6 +128,6 @@
             <div type="commentary">
                 <p> Bronzekrug. Die Inschrift verläuft bandförmig entlang des größten Umfangs. Zitat von Psalm 26,6.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Die Inschrift verweist auf den Psalm 26,6.</p><p>Wahrscheinlich steht sie im Zusammenhang mit der Handwaschung des Priesters vor Beginn der Eucharistiefeier oder mit der Eucharistiefeier selbst.</p><p>Diese Grabbeigabe deutet auf eine höhere soziale Stellung des verstorbenen Christen hin.</p><p>(JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"Die Inschrift verweist auf den Psalm 26,6.</p><p>Wahrscheinlich steht sie im Zusammenhang mit der Handwaschung des Priesters vor Beginn der Eucharistiefeier oder mit der Eucharistiefeier selbst.</p><p>Diese Grabbeigabe deutet auf eine höhere soziale Stellung des verstorbenen Christen hin.</p><p>(JW)</p><p>"</p></div><div type="translation"><p>"Ich wasche meine Hände in Unschuld und umschreite deinen Altar, Herr.</p></div></body>
     </text>
 </TEI>

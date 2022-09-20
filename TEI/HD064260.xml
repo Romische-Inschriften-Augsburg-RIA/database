@@ -103,7 +103,7 @@
          <change when="2020-02-05" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -129,6 +129,6 @@
             <div type="commentary">
                 <p> Ursprünglich wohl Basis, die in der Neuzeit zerteilt wurde; das Stück fand schließlich als Konsole eines Altartisches Verwendung. In Z. 1 am Ende noch der linke Rand des oberen Bogens eines S zu erkennen. Z. 3 statt P auch R möglich. Z. 5: E klein links über O stehend. Z. 7 rechts noch der obere Ansatz einer abfallenden Schräghaste zu erkennen.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Abstände als Worttrenner.</p><p>In Z. 1 am Ende noch der linke Rand des oberen Bogens eines S zu erkennen. Z. 2: [---]SI als Endung einer Tribus- oder Herkunftsangabe?, IC[---] als Beginn eines Cognomen oder Ortsnamens? Z. 3 statt P auch R möglich. Z. 4: PRA erg. zu Praefectus? Z. 5: E klein links über O stehend, erg. zu moenia, Moesia oder Moesica? Z. 6: HV als Beginn eines Demonstrativpronomens. Z. 7 rechts noch der obere Ansatz einer abfallenden Schräghaste zu erkennen, FV als Beginn eines Frauennames oder erg. zu a fu[ndamentis]?</p><p>Eine Übersetzung ist aufgrund des bruckstückhaften Textes zurzeit schwierig.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="translation"/><div type="commentary" resp="ria"><p>"Abstände als Worttrenner.</p><p>In Z. 1 am Ende noch der linke Rand des oberen Bogens eines S zu erkennen. Z. 2: [---]SI als Endung einer Tribus- oder Herkunftsangabe?, IC[---] als Beginn eines Cognomen oder Ortsnamens? Z. 3 statt P auch R möglich. Z. 4: PRA erg. zu Praefectus? Z. 5: E klein links über O stehend, erg. zu moenia, Moesia oder Moesica? Z. 6: HV als Beginn eines Demonstrativpronomens. Z. 7 rechts noch der obere Ansatz einer abfallenden Schräghaste zu erkennen, FV als Beginn eines Frauennames oder erg. zu a fu[ndamentis]?</p><p>Eine Übersetzung ist aufgrund des bruckstückhaften Textes zurzeit schwierig.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

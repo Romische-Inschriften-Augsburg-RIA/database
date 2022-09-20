@@ -103,7 +103,7 @@
          <change when="2017-09-13" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -129,6 +129,6 @@
             <div type="commentary">
                 <p/>
             </div>
-        <div type="commentary" resp="ria"><p>"Von der Inschrift mit einer Buchstabenhöhe von 3cm sind die erste Zeile und die erste Hälfte der zweiten Zeile verloren. Z. 3: Wagner: negot(iatores) mun(icipii); Platschek: negot(iatores?) mur(---) (ein von &lt;em&gt;murus &lt;/em&gt;abgeleitetes Adjektiv)</p><p>Die Inschrift erwähnt eine Gruppierung von Händlern, von deren Namen einzig der des Iunianus Pastor erhalten ist. Die Identifikation der Händlerorganisation ist umstritten:</p><p>Kuhoff: Eine Art Dachverband der Kaufmänner der Stadt oder sogar aller vor Ort aktiven Händler. Die Vereinigung lässt sich vielleicht mit den Wiesbadener &lt;em&gt;negotiatores cives Mattiaci &lt;/em&gt;vergleichen.</p><p>Platschek: Es war kein Dachverband, sondern Geschäftsleute im Mauerbau oder Bauunternehmer, die den Tempel wiederherstellten.</p><p>(JW)</p><p>"</p></div></body>
+        <div type="translation"><p>"--- Iunianus Pastor, die Kaufleute des municipium stellten den Tempel wieder her.</p></div><div type="commentary" resp="ria"><p>"Von der Inschrift mit einer Buchstabenhöhe von 3cm sind die erste Zeile und die erste Hälfte der zweiten Zeile verloren. Z. 3: Wagner: negot(iatores) mun(icipii); Platschek: negot(iatores?) mur(---) (ein von &lt;em&gt;murus &lt;/em&gt;abgeleitetes Adjektiv)</p><p>Die Inschrift erwähnt eine Gruppierung von Händlern, von deren Namen einzig der des Iunianus Pastor erhalten ist. Die Identifikation der Händlerorganisation ist umstritten:</p><p>Kuhoff: Eine Art Dachverband der Kaufmänner der Stadt oder sogar aller vor Ort aktiven Händler. Die Vereinigung lässt sich vielleicht mit den Wiesbadener &lt;em&gt;negotiatores cives Mattiaci &lt;/em&gt;vergleichen.</p><p>Platschek: Es war kein Dachverband, sondern Geschäftsleute im Mauerbau oder Bauunternehmer, die den Tempel wiederherstellten.</p><p>(JW)</p><p>"</p></div></body>
     </text>
 </TEI>

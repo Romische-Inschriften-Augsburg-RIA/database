@@ -1,5 +1,4 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -105,7 +104,7 @@
          <change when="2017-09-29" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -134,7 +133,6 @@
             <div type="commentary">
                 <p> Nur handschriftlich überliefert.</p>
             </div>
-            <div type="commentary" resp="ria"><p>"Nur handschriftlich überliefert.</p><p>Der Decurio verstarb wahrscheinlich an seinem ständigen Wohn- und Amtssitz und wurde in den Gräberfeldern außerhalb der Stadt beigesetzt.</p><p>(EDH, JW)</p><p>"</p></div>
-        </body>
+            <div type="translation"><p>"&amp;nbsp;--- , dem Dekurio des municipium, (errichtete das Grabmal) der Sohn seines Bruders als Erbe. Der Platz wurde auf Beschluss des Stadtrates eingeräumt.</p><p>"&amp;nbsp;--- , dem Dekurio des municipium, (errichtete das Grabmal) der Sohn seines Bruders als Erbe. Der Platz wurde auf Beschluss des Stadtrates eingeräumt.</p><p>"&amp;nbsp;--- , dem Dekurio des municipium, (errichtete das Grabmal) der Sohn seines Bruders als Erbe. Der Platz wurde auf Beschluss des Stadtrates eingeräumt.</p><p>"&amp;nbsp;--- , dem Dekurio des municipium, (errichtete das Grabmal) der Sohn seines Bruders als Erbe. Der Platz wurde auf Beschluss des Stadtrates eingeräumt.</p><p>"&amp;nbsp;--- , dem Dekurio des municipium, (errichtete das Grabmal) der Sohn seines Bruders als Erbe. Der Platz wurde auf Beschluss des Stadtrates eingeräumt.</p></div><div type="commentary" resp="ria"><p>"Nur handschriftlich überliefert.</p><p>Der Decurio verstarb wahrscheinlich an seinem ständigen Wohn- und Amtssitz und wurde in den Gräberfeldern außerhalb der Stadt beigesetzt.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

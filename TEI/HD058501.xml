@@ -103,7 +103,7 @@
          <change when="2017-09-22" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -132,6 +132,6 @@
             <div type="commentary">
                 <p> Unterer Teil eines Altars mit dem rechten und unteren Rand des Inschriftfeldes. (B): CIL 03, 05804: Z. 1: EC.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Z. 1: CIL: EC, IBR: ECC. Der vorab genannte Name der Gottheit ist nicht lesbar.</p><p>Kakoschke: 'Secco' ist ein keltisches Cognomen. Er war sicher ein Einheimischer aus Rätien oder dem benachbarten keltischen Gebiet.</p><p>Das Cognomen wird auch in einer anderen Augsburger Inschrift genannt: HD058475.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"Z. 1: CIL: EC, IBR: ECC. Der vorab genannte Name der Gottheit ist nicht lesbar.</p><p>Kakoschke: 'Secco' ist ein keltisches Cognomen. Er war sicher ein Einheimischer aus Rätien oder dem benachbarten keltischen Gebiet.</p><p>Das Cognomen wird auch in einer anderen Augsburger Inschrift genannt: HD058475.</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"--- Secco und Valeria Agathe haben ihr Gelübde gern, freudig und nach Gebühr eingelöst.</p></div></body>
     </text>
 </TEI>

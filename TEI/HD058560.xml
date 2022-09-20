@@ -103,7 +103,7 @@
          <change when="2017-09-28" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -132,6 +132,6 @@
             <div type="commentary">
                 <p> Nur handschriftlich überliefert. (B): CIL 03, 05821: Z. 5: EX AVBDAN; Z. 6 nicht angegeben.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Nur handschriftlich überliefert.</p><p>CIL: Z. 5: EX AVBDAN, ex(archi) Dalm(atorum)?. Z. 6 nicht lesbar, fehlt bei CIL.</p><p>Kakoschke: 'Catullinus' ist ein kelt./lat. Cognomen. Die Ehefrau jedenfalls trägt ein keltisches Cognomen. Wahrscheinlich kamen beide aus Raetien oder dem benachbarten kelt. Gebiet.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="translation"><p>"Den Totengöttern und der ewigen Sorgenfreiheit ihres Ehegatten (?) Valerius Catullinus, --- der 30 Jahre, vier Monate und sieben Tage lebte, setzte diese Grabinschrift seine Ehefrau Valeria Senilia und sie errichtete ihm dies nach vollem Verdienst.</p></div><div type="commentary" resp="ria"><p>"Nur handschriftlich überliefert.</p><p>CIL: Z. 5: EX AVBDAN, ex(archi) Dalm(atorum)?. Z. 6 nicht lesbar, fehlt bei CIL.</p><p>Kakoschke: 'Catullinus' ist ein kelt./lat. Cognomen. Die Ehefrau jedenfalls trägt ein keltisches Cognomen. Wahrscheinlich kamen beide aus Raetien oder dem benachbarten kelt. Gebiet.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>
