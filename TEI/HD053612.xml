@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Grabinschrift auf Block</title>
-            </titleStmt>  
+            <title resp="ria">Grabinschrift des Duplarius Aurelius Marcus und seiner Familie</title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD053612</idno>
@@ -104,7 +103,7 @@
          <change when="2017-07-21" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F035390.JPG">
@@ -151,6 +150,6 @@
             <div type="commentary">
                 <p> Die Oberfläche des Inschriftfeldes ist stellenweise stark beschädigt und schwer lesbar. Z. 4 zu Beginn noch die oberen Ansätze zweier Buchstaben zu erkennen. Späte Schrift.</p>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"Die Oberfläche des Inschriftfeldes ist stellenweise stark beschädigt und schwer lesbar. Z. 4 zu Beginn sind noch die oberen Ansätze zweier Buchstaben zu erkennen.</p><p>Bakker: Die Inschrift nennt einen doppelt besoldeten Unteroffizier der 3. Italischen Legion namens Aurelius Marcus, der seinen Dienst am Sitz des Statthalters leistete. Er selbst und seine drei Söhne waren bereits verstorben, als die Ehefrau das Grabmal für drei Generationen (alle Aurelius/a) errichten ließ. Die Familie profitierte wahrscheinlich von der &lt;em&gt;constitutio Antoniniana&lt;/em&gt; und erhielt dadurch das Bürgerrecht.</p><p>Datierung: Der Text und der Duktus mit Einflüssen der lateinischen Kursive datieren den Stein in die Mitte des bzw. ins späte 3. Jahrhundert.</p><p>Die Herkunft der Familie ist aufgrund der gängigen Namen kaum zu identifizieren. Kakoschke: Das Cognomen 'Decoratus/a' kommt vermehrt in Pannonien vor. Das bedeutet aber nicht zwingend, dass die Ehefrau von dort kam.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

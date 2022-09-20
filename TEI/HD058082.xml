@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Ehreninschrift auf Tafel</title>
-            </titleStmt>  
+            <title resp="ria">Ehren- oder (christl.?) Grabinschrift aus der Spätantike</title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058082</idno>
@@ -104,7 +103,7 @@
          <change when="2017-12-13" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F007381.JPG">
@@ -158,6 +157,6 @@
             <div type="commentary">
                 <p> Zwei nicht aneinanderpassende Fragmente. Die Rekonstruktion ist fehlerhaft zusammengefügt und ergänzt. Wie die beiden Fragmente zueinander gesetzt werden müssen, ist aus dem Text nicht klar ersichtlich. Gefunden in Sekundärverwendung als mittelalterliche Türschwelle. Die angegebenen Maße beziehen sich auf Fragment 2. Fragment 1: -41x-32.5x12 cm. Links auf Fragment 1 sind zwei parallele Rahmungsstriche erhalten, in die Z. 2 hineinragt und über die Z. 3 und 4 hinausgehen. Vielleicht auch Grabinschrift. Datierbar durch die Nennung des Truppenkörpers der Honoriani. Eventuell genauere Datierung in die Jahre 430/1 möglich (Feldzüge des Aëtius). Text 1 Z. 4: das I(?) liegt direkt auf dem dem zweiten Rahmungsstrich, so daß es sich möglicherweise nicht um einen Buchstaben handelt. Text 1 Z. 6: vom I(?) ist nur das obere Drittel einer senkrechten Haste erhalten; auch H(?) oder L(?) möglich. Text 2 Z. 6: Pannoniciani (Kasusendung unklar). Text 2 Z. 7: vor rivar möglicherweise Rest eines C oder G erhalten. Angrivarii, Honoriani bzw. Honoriaci (Kasusendung unklar). (B): Wagner: Abweichende Lesung als christliche Grabinschrift.</p>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"Beide Fragmente haben eine Buchstabenhöhe von circa 3,2cm und einen zentrierten Text. Vielleicht handelt es sich nicht um eine Ehreninschrift, sondern um eine Weih- oder Grabinschrift. Wagner: Christliche Grabinschrift anhand der Wortwahl in Z. 3 und 4 von Fragment 1, dagegen Scharf: spätrömische Inschrift eines Senators.</p><p>Fragment 1: Links sind zwei parallele Rahmungsstriche erhalten, in die Z. 2 hineinragt und über die Z. 3 und 4 hinausgehen. Z. 2 zeigt zum Ende hin kleiner werdende und sogar über den Rand hinausgehende Buchstaben, da der Steinmetz die Größe des Inschriftenfeldes überschätzt hatte. Z. 4: das I(?) liegt direkt auf dem dem zweiten Rahmungsstrich, so daß es sich möglicherweise nicht um einen Buchstaben handelt. Z. 6: Wagner: IIII. Scharf: vom I(?) ist nur das obere Drittel einer senkrechten Haste erhalten; auch H(?) oder L(?) möglich.</p><p>Fragment 2: Z. 5: NT-Ligatur, wie Wagner sie sah, laut Scharf nicht erkennbar. Z. 6: Pannoniciani (Kasusendung unklar). Text 2 Z. 7: vor RIVAR möglicherweise Rest eines C oder G erhalten. Angrivarii, Honoriani bzw. Honoriaci (Kasusendung unklar). Z. 8-10: Großer Abstand der Buchstaben.</p><p>Die spätantiken Einheiten der Angrivarii und Honoriani werden in der Not. Not. Dign. Oriens V 58-59 bzw. 21=62, die Pannoniciani in Not. Dign. Occ. V 149, VII 7 und Not. Dign Oriens VIII 48 genannt. Die hier genannten Soldaten kamen also sowohl aus der östlichen als auch der westlichen Hälfte des Reiches zusammen.</p><p>Datierung: AE: Nennung des Truppenkörpers der Honoriani datiert die Inschrift in die Zeit um 400 n. Chr. Eventuell genauere Datierung in die Jahre 430/1 möglich, als der&lt;em&gt; magister equitum presentalis &lt;/em&gt;Flavius Aetius von Italien aus mit einem Heer, das vielleicht die hier genannten Kontingente umfasste, nach Raetien aufbrach, um die durchgebrochenen Juthungen zu besiegen. Das Ehrenmonument würde demnach wie bereits der Siegesaltar (260 n. Chr.; HD044953) einen historisch bedeutsamen Sieg auf raetischem Boden bezeugen.</p><p>Für mehr Informationen zum Inschriftentyp, den genannten Einheiten und der historischen Einordnung: vgl. Scharf 1994.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

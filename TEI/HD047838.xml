@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Ziegel</title>
-            </titleStmt>  
+            <title resp="ria">Ziegel</title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD047838</idno>
@@ -104,7 +103,7 @@
          <change when="2008-03-18" who="Platz">
              provisorisch bearbeitet
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -130,6 +129,6 @@
             <div type="commentary">
                 <p/>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"AE: Da der Fundort nahe der Via Claudia und des Südtores der Stadt lag sowie zahlreiche militärische Ausrüstungsgegenstände in der Gegend gefunden wurden, gehörte der Ziegel vermutlich zu einer &lt;em&gt;mansio &lt;/em&gt;oder einer Station der Benefiziarier.</p><p>(JW)</p><p>"</p></div></body>
     </text>
 </TEI>

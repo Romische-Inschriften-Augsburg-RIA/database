@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Weihinschrift auf Altar</title>
-            </titleStmt>  
+            <title resp="ria">Weihinschrift auf Siegesaltar des M. Simplicinius Genialis für Victoria</title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD044953</idno>
@@ -101,7 +100,7 @@
          <change when="2018-07-06" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F004649.JPG">
@@ -253,6 +252,6 @@
             <div type="commentary">
                 <p> Altar wiederverwendet. Zur ersten Verwendung gehören die lesbaren (Z. 1; Gesims), teils lesbaren, teils ergänzten (Z. 2; Inschriftfeld) und die ergänzten Buchstaben (Z. 3; Inschriftfeld). Der vollständig lesbare Text (ausschließlich Inschriftfeld) gehört zur sekundären Verwendung. Auf sie bezieht sich die angegebene Datierung. Material: Jurakalkstein. (B): Johne: Z. 19: [[Postumo Aug(usto) et Honoratiano co(n)s(ulibus)]].</p>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"Der Altar (max. 97cm breit, max. 75cm tief, max. 78cm hoch) wurde bei Bauarbeiten im Kiesbett eines ehemaligen Lecharms ungefähr 350m östlich des antiken Augsburgs gefunden. Da später nicht weit entfernt eine Marmorplatte (122cm breit, 120cm tief, 30-34cm hoch) gefunden wurde, die als Untersatz diente, wird davon ausgegangen, dass das Monument in der Nähe des Fundplatzes, vielleicht an einem Lechübergang, gestanden hat. Der Sockel und das Gesims wurden bei der Bergung beschädigt. Die Schmalseiten zeigen Reliefs von Mars mit Helm, Lanze und Schild sowie Victoria mit Kranz und Palmzweig über einem gefesselten Barbaren, der die besiegten Juthungen symbolisiert. Auf der Oberseite des Denkmals muss ein bronzener Aufsatz (eventuell eine Victoria-Statue) gestanden haben.</p><p>Die Inschrift des Altars zählt zu den historisch bedeutsamsten Raetiens. Eine ältere Weihinschrift wird von einer neueren überdeckt. Von der ersten Gravur sind im Gesims noch die Reste der Buchstaben (5,5cm hoch, die I-longa 6,5cm) IN H D D in klassischer Kapitalis erhalten. In der Z. 1 des eigentlichen Inschriftenfeldes sind die Buchstaben S E V R und I erkennbar, die sich zum Namen des Kaisers Severus Alexander ergänzen lassen.</p><p>Für die zweite Verwendung wurde die alte Inschrift geglättet und mit vierzehn Zeilen in Rustica-Schrift überschrieben. Die Buchstabenhöhe beträgt in Zeile 1 5,5cm, in Zeile 2 4,5cm und sonst 3,5cm. Kleine Dreickecke fungieren als Worttrenner. Z. 4: stilisierte Hedera. Z. 14: TE-,MB-Ligaturen, Abkürzung IMP D N durch Horizontale markiert. Z. 15: Abkürzung AVG und COS durch Horizontale markiert. &amp;nbsp; Nachträgliche Tilgungen gibt es in Z. 11 [[M SIMPLICINIVS GENIALIS V P A V P]] , Z. 12 [[CVM EODEM EXERCITV]] und Z. 15 [[POSTVMO AV]] ... [[HONORATIANO COS]].</p><p>Die Inschrift berichtet von einer erfolgreichen Schlacht gegen die Juthungen (ehemals Semnonen) am 24./25. April. Im vorherigen Herbst/Winter waren die mehr als 10.000 Mann starken zum Stamm der Sueben gehörenden Germanen durch den raetischen Limes gebrochen und haben einen Plünderungszug bis nach Italien durchgeführt. Nach großem Erfolg wurden sie auf dem Rückweg nach Norden von einem Aufgebot aus raetischen und (ober-?)germanischen Einheiten sowie raetischen Lokalen gestellt und geschlagen. Dabei wurden angeblich mehrere tausend italische Gefangene befreit. Das Kommando hatte der weihende Ritter M. Simplicinius Genialis inne, der Stellvertreter des Statthalters war. Eventuell hatte ihn noch Kaiser Gallienus eingesetzt. Da die 3. Italische Legion nicht genannt wird, wurde sie wahrscheinlich zuvor von Gallienus für den Kampf gegen den Usurpator Ingenuus in die Donauprovinzen abgezogen.</p><p>Datierung: Genialis führte die Weihung für die Victoria (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1622/view) erst vier Monate nach der Schlacht am 11. September durch, als er sich samt seiner Provinz Raetien bereits Kaiser Postumus und dessen Gallischem Sonderreich angeschlossen hatte. Die Konsulatsangabe des Postumus und des Honoratianus belegen dies. Da keine Iteration von Postumus' Konsulat angegeben wird, muss das Monument in die Zeit seines ersten Konsulats im Jahr 260 n. Chr. fallen.</p><p>Der Fund des Siegesaltars trug dazu bei, Postumus' Erhebung chronologisch früher in den Juni/August 260 einzuordnen sowie Obergermanien und Raetien zu seinem (und nicht mehr Gallienus') Machtbereich zu zählen. Die Tilgung der Namen in Z. 11,12 und 15 geht auf die baldige Rückeroberung der Provinz durch Gallienus wohl um 264/265 zurück, jedoch fiel sie bereits 267/270 wieder an das Sonderreich.</p><p>Eine weitere Augsburger Inschrift erwähnt vermutlich einen weiteren Sieg über die Juthungen im Jahr 430/431 unter der Führung des Heermeisters Flavius Aetius: HD058082.</p><p>(JW)</p><p>"</p></div></body>
     </text>
 </TEI>

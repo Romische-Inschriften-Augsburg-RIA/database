@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Grabinschrift auf Ehren-/Grab-/Votivsäule</title>
-            </titleStmt>  
+            <title resp="ria">Grabinschrift des T. Flavius Martialis und seiner Familie</title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058543</idno>
@@ -105,7 +104,7 @@
          <change when="2017-09-28" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F007360.JPG">
@@ -179,6 +178,6 @@
             <div type="commentary">
                 <p> Hederae in Z. 1 und Z. 11. Das Grabmal besteht aus Sockel, Inschriftenblock, Reliefblock und Dachaufsatz. Auf der Hauptseite des Reliefblocks sind die Eltern mit den beiden Söhnen dargestellt, auf der rechten Nebenseite eine Frau, auf der linken Nebenseite vier Personen an einem Tisch. Im Giebel über der Hauptseite Krater mit Schlangen und zwei Pfauen, über der rechten Nebenseite Erot mit Korb sowie ein Hase, über der linken Nebenseite Früchtekorb.</p>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"IBR: Hederae in Z. 1 und Z. 11. Z. 3: TI-, AE-Ligatur. Z. 7: Querhaste über COS. Z. 9: Kein Worttrenner vor SIBI (aus Platzgründen?).</p><p>Die Militärfamilie zeigt mit dem Monument ihren Wohlstand, Status und auch ihre Bildung. Als &lt;em&gt;exactus consularis&lt;/em&gt; war T. Flavius Clemens im Stab des Statthalters und des Legionslegaten aktiv.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

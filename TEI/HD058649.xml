@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Grabinschrift</title>
-            </titleStmt>  
+            <title resp="ria">"Grabinschrift des Serotinus, Pistaucus und der Isaurica"</title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058649</idno>
@@ -104,7 +103,7 @@
          <change when="2017-10-04" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -133,6 +132,6 @@
             <div type="commentary">
                 <p> Nur handschriftlich überliefert. Z. 4: Isauricae (scil. libertorum?)</p>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"Nur handschriftlich überliefert. Z. 4: Isauricae (scil. libertorum?)</p><p>Kakoschke: 'Pistaucus' ist ein keltisches Cognomen. 'Serotinus' könnte keltischen oder lateinischen Urpsrungs sein, 'Isaurica' keltischen oder griechischen Ursprungs (gr.: Person aus Isaurien). Wahrscheinlich waren sie alle Einheimische aus Raetien oder dem benachbarten keltischen Gebiet. Das gleiche gilt zumindest für einen der Grabmalstifter, Iulius Statianus.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

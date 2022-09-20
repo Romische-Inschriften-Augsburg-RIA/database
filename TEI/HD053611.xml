@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Weihinschrift auf Ehren-/Grab-/Votivsäule</title>
-            </titleStmt>  
+            <title resp="ria">Weihinschrift des Publius P. Helius für Iuppiter</title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD053611</idno>
@@ -104,7 +103,7 @@
          <change when="2017-07-21" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F008214.JPG">
@@ -157,6 +156,6 @@
             <div type="commentary">
                 <p> Basis einer Jupitersäule. Z. 2: der Name des Stifters wurde offenbar absichtlich beschädigt. Z. 3: AM-Ligatur; Z. 3: VM-Ligatur. (B): AE 1992; Bakker: Z. 2: P(ublius) P(---).</p>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"Dreieckige Worttrenner im ganzen Text; Z. 2: der Name des Stifters wurde offenbar absichtlich beschädigt,&amp;nbsp;P(ublius) P(---). Z. 3: VM-Ligatur, AM-Ligatur.</p><p>Bakker: Die Gottheit erschien vermutlich als Thronender oder Gigantenreiter. Die Ursache und der Zeitpunkt der absichtlich begonnenen Tilgung des Gentilnomens ist unbekannt. Denkmäler dieser Art sind in Raetien selten und besser aus den germanischen und gallischen Provinzen bekannt. In Augsburg gibt es allerdings ein ähnliches Exemplar, das zudem mit Reliefs von Mars, Victoria und Mercurius verziert ist: HD058499.</p><p>Datierung: Letztes Jahrzehnt des 2. Jahrhunderts, erste Hälfte des 3. Jahrhunderts.</p><p>Kakoschke: Das Cognomen 'Helius' leitet sich vom griechischen Sonnengott ab. Bei P. Helius handelt sich wahrscheinlich aber um keinen Einwanderer aus dem östlichen Mittelmeerraum, sondern um einen Bewohner der gallischen oder germanischen Provinzen, in denen religiöse und mythische Beinamen häufiger vorkamen. Diese Herkunft passt auch zu der Art des Denkmals.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

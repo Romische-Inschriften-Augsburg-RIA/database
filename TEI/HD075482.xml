@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Aufschrift auf Instrumentum domesticum</title>
-            </titleStmt>  
+            <title resp="ria">Aufschrift eines Marcus V---</title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD075482</idno>
@@ -103,7 +102,7 @@
          <change when="2017-12-01" who="Osnabrügge">
              überprüft an Zeichnung
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -129,6 +128,6 @@
             <div type="commentary">
                 <p> Fragment von der Schulter einer Amphore (Schörgendorfer 558). Schreibtechnik: gemalt. Rote Farbe.</p>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"Schreibtechnik: gemalt. Rote Farbe.</p><p>Ehmig: Die verbliebenen Buchstaben markierten den Namen des Warentransporteurs (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1629/view). In dem Amphorentyp werden normalerweise eingelegte schwarze Oliven transportiert, die immer mit &lt;em&gt;ex dulci &lt;/em&gt;spezifiziert werden und das Qualitätsattribut &lt;em&gt;excellens &lt;/em&gt;tragen.</p><p>In Augsburg wurde ein sehr ähnliches Fragment gefunden: HD075483.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

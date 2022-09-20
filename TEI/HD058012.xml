@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Inschrift</title>
-            </titleStmt>  
+            <title resp="ria">Inschrift aus Severischer Zeit</title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058012</idno>
@@ -104,7 +103,7 @@
          <change when="2017-08-25" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -130,6 +129,6 @@
             <div type="commentary">
                 <p> Erhalten ist der Teil des Steines, der zu einer Weihwasserschale umgearbeitet wurde.</p>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"Die Buchstabenhöhe beträgt 6,2cm. Wagner: Z. 1: [Sept]imi Seve[ri]. Z. 2: --- G.....D ---, vielleich zu ergänzen zu [Au]g(usto) [Arab(ico) A]d[iab(enico)] [ Z. 4: --- s ---</p><p>Datierung: Severische Zeit. Wenn Wagner die zweite Zeile richtig ergänzt hat, wurde die Inschrift unter Caracalla gestiftet.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

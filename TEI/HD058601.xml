@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Grabinschrift auf Altar</title>
-            </titleStmt>  
+            <title resp="ria">Grabinschrift des Händlers Flavius Acutianus Serenus</title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058601</idno>
@@ -104,7 +103,7 @@
          <change when="2017-09-29" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -139,6 +138,6 @@
             <div type="commentary">
                 <p> Grabaltar, jedoch ohne Bekrönung. Die ergänzten Stellen waren früher noch lesbar. Aufbewahrungsort unsicher, 1973 nicht auffindbar. (B): Abweichungen in Lesung/Ergänzung.</p>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"Zu Welsers Zeiten war der ganze Text scheinbar noch lesbar, Vollmer und Mommsen können nur die Zeilen 6-9 lesen.</p><p>Z. 6: IBR: CVTIAN anstelle von CVNAN, CIL: QVTIAN. IBR, CIL: Z. 8: ET-, NE-, EN-Ligatur. FRATRI anstelle von PATRI.</p><p>Kakoschke: 'Acutianius' ist ein einheimisches Pseudo-Gentilnomen, abgeleitet vom lat. Cognomen 'Acutianus'. Der Händler und sein Bruder stammten sicherlich aus Raetien oder dem benachbarten keltischen Raum.</p><p>In einer weiteren Augsburger Inschrift erscheint der Bruder selbst als Verstorbener: HD058606.</p><p>(JW)</p><p>"</p></div></body>
     </text>
 </TEI>

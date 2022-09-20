@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Ehreninschrift auf Statuenbasis</title>
-            </titleStmt>  
+            <title resp="ria">Ehreninschrift des Statthalters Septimius Valentio für Diokletian</title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD009442</idno>
@@ -104,7 +103,7 @@
          <change when="2017-08-02" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F007359.JPG">
@@ -178,6 +177,6 @@
             <div type="commentary">
                 <p> Stark bestoßen, Inschrift stellenweise schwer lesbar. In Z. 6 Am Zeilenende möglicherweise noch ein zweites, irrtümlich eingehauenes P. In Z. 13 links noch die oberen Ansätze der Buchstaben zu erkennen.</p>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"Inschrift stellenweise schwer lesbar. CIL: In Z. 6 Q EIVSD, am Zeilenende möglicherweise noch ein zweites, irrtümlich eingehauenes P. In Z. 13 links noch die oberen Ansätze der Buchstaben zu erkennen.</p><p>Der Ritter Septimius Valentio fungierte als vollgültiger &lt;em&gt;praeses &lt;/em&gt;(https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1401/view) ohne Stellvertreterausübung und hatte seinen Sitz in Augsburg. Die große Reichsreform Diokletians, die eine Teilung der Provinzen in Raetia I und Raetia II vorsah, wurde zu diesem Zeitpunkt noch nicht umgesetzt.</p><p>Kuhoff: Die Inschrift belegt, dass sich sich die Kaiser Diokletian und Maximian nach einem gemeinsamen Feldzug gegen die Alamannen im Jahr 288 in Augsburg trafen, um dort aktuelle Staatsgeschäfte zu besprechen, ehe sie in ihre Verwaltungsgebiete zurückkehrten. Neben der Statue für Diokletian wird noch eine zweite für Maximian gestanden haben, um die Eintracht der Kaiser zu verdeutlichen. Die im Text angesprochenen Siegerbeinamen &lt;em&gt;Germanicus max(imus) Pers(icus) max(imus)&lt;/em&gt; und die inoffiziellen, zum Hauptteil eigens für diese Ehrung kreierten Titulaturelemente in Form der Tugendattribute &lt;em&gt;providentissimus princeps rector orbis ac dominus fimdator pacis aeternae&lt;/em&gt; drücken eine sichtbare Emphase aus, welche eine Erleichterung über die Leistung des Kaisers zum Wohl der Provinzen im gallisch-germanischen Bereich beinhaltet.</p><p>Chastagnol: Die Titulatur Diokletians ermöglicht es, die Inschrift auf den Zeitraum vom 01. Jan. bis 10. Dez. 290 zu datieren. In der Rolle eines stellvertretenden Prätorianerpräfekten oder Vikars stiftete Valentio zwischen 293 und 296 n. Chr. eine Statue mit Sockel für Maximianus Herculius in Rom (CIL VI 1125=ILS 619).</p><p>(EDH, JW)</p><p>&amp;nbsp;</p><p>"</p></div></body>
     </text>
 </TEI>

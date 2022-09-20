@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Grabinschrift auf Ehren-/Grab-/Votivsäule</title>
-            </titleStmt>  
+            <title resp="ria">Grabinschrift des Pompeianius Silvinus und Pompeianius Victor</title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD008658</idno>
@@ -105,7 +104,7 @@
          <change when="2017-08-23" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F004517.JPG">
@@ -161,6 +160,6 @@
             <div type="commentary">
                 <p> Mittelblock eines Grabmals, von diesem ist weiter noch das Dach mit geschuppten Seitenflächen erhalten: http://lupa.at/6454. Blattförmige hedera als Worttrenner in Z. 3. Z. 5: irrtümlich gesetzter Worttrenner pi°issimo; Z. 6: NI-Ligatur. Auf den Nebenseiten Berufsdarstellungen. Links Verkaufsszene, Weinhändler in Ärmeltunica gießt Wein in auf einem Trichter stehendes Maßgefäß, Kunde/Kundin, von links herantretend, hält seinen/ihren Krug unter den Trichter. Im Hintergrund Regal mit Fässern, Korbamphoren, Henkelkrügen. Rechts Abrechnungsszene: Frau, mit den Fingern rechnend in der Mitte, davor mit Münzen bedeckter Tisch, links und rechts davon sitzende Männer, die Münzen zählend. Im Hintergrund Regal mit Schreibtafeln(?), Fässern, Korbamphoren. (B): Radnoti-Alföldi u. a.: Z. 6: ann(i)s XX[X].</p>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"Blattförmige hedera als Worttrenner in Z. 3. Z. 5: irrtümlich gesetzter Worttrenner pi°issimo; Z. 6: NI-Ligatur. (B): Radnoti-Alföldi u. a.: Z. 6: ann(i)s XX[X].</p><p>Kakoschke: Bei Pompeianius Silvinus und seinem Bruder Pompeianius Victor handelte es sich sicherlich um Einheimische aus Rätien oder dem benachbarten keltischen Raum&amp;nbsp;mit einem Pseudo-Gentilnomen ('Pompeianius' anstelle von 'Pompeianus'). Radnoti-Alföldi: Aufgrund der Darstellungen ist anzunehmen, daß der Grabmalstifter und dessen Bruder den Berufen eines Weinhändlers bzw. Wirtes nachgingen. Broekaert: Das abgebildete Korbgeflecht deutet auf südgallische Weinamphoren hin, die die Brüder vermutlich für den Import von gallischem oder italischem Wein verwendeten.</p><p>AE, Radnoti-Alföldi: Datierung auf Ende 2., Anfang 3. Jahrhundert.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

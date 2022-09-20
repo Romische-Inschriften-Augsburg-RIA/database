@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Ehreninschrift auf Statuenbasis</title>
-            </titleStmt>  
+            <title resp="ria">Ehreninschrift des Kleiderhändlers Iulius Victor</title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058555</idno>
@@ -105,7 +104,7 @@
          <change when="2017-09-28" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -134,6 +133,6 @@
             <div type="commentary">
                 <p> Hedera in Z. 8. (B): IBR 127: fehlender Zeilenfall Z. 4/5.</p>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"Der Anfang und das Ende der Zeilen 1-6 sind verloren, können jedoch ergänzt werden.</p><p>IBR: Z. 4: Drittes T leichtes berziert. Z. 4-5: fehlender Zeilenfall. Hedera in Z. 8. Z. 9: CIL: DD, IBR: LD DD.</p><p>Wierschowski: Vielleicht war Iulius Clemens als Geldgeber am Geschäft seines Bruders beteiligt und half ihm dabei, lukrative Heeresaufträge zu erhalten. Nach dem Tod des Victor übernahm er wahrscheinlich als (Teil-)Erbe das Geschäft.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

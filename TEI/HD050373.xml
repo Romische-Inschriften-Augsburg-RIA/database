@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Weihinschrift auf Altar</title>
-            </titleStmt>  
+            <title resp="ria">"Weihinschrift des M. Montanius Celer für Iuppiter, Minerva, Mars und Victoria"</title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD050373</idno>
@@ -105,7 +104,7 @@
          <change when="2017-11-15" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F020390.JPG">
@@ -164,6 +163,6 @@
             <div type="commentary">
                 <p> Sekundär verwendet im Fundament eines spätantiken Gebäudes. Z. 4: ET-Ligatur; Z. 7: B und F durch eine Horizontalhaste mittig ligiert, sicilicus über COS; Z. 8: EP-, ER-, AM-Ligaturen; Z. 8: blattförmige hederae als Worttrenner; Z. 9: E klein am Zeilenende. (B): Z. 1: [[I(ovi) O(ptimo) M(aximo)]]; Z. 2/3: Mi/nervae.</p>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"Zur Inschrift: Z. 1: [[I(ovi) O(ptimo) M(aximo)]]; Z. 2/3: Mi/nervae. Z. 4: ET-Ligatur; Z. 7: B und F durch eine Horizontalhaste mittig ligiert, sicilicus über COS; Z. 8: EP-, ER-, AM-Ligaturen; Z. 8: blattförmige hederae als Worttrenner; Z. 9: E klein am Zeilenende. Z. 11 [[Albino Caes(are)]]</p><p>Bakker: Die Nennung einer Minverva Doctrix ist einmalig und geht eventuell auf doctores und campidoctores zurück, die im Heer zur Rekruten- und Waffenausbildung eingesetzt wurden. M. Montanius Celer diente womöglich in einer dieser Gruppen, vielleicht als Exerziermeister, in der 3. Italischen Legion. Den Altar stellte er nach seiner Pensionierung aus der Straßenpolizei, den Benefiziariern, auf. Die Rasur des Namens vom Caesar Clodius Albinus, der im Jahr 194 Konsulatskollege des Septimius Severus war, geht auf seinen letztlich erfolglosen Kampf gegen Severus und die darauffolgende &lt;em&gt;damnatio memoriae&lt;/em&gt; zurück.</p><p>Die stark abgeschlagenen Lettern I O M könnten auf eine anti-heidnische Gesinnung späterer Beobachter hindeuten. Eventuell entweihten Christen den Altar, als sie ihn im späten 4. Jahrhundert für den Bau sekundär verwendeten.</p><p>Datierung: Gemäß der Konsulatsangabe datiert sich der Altar auf den 13. Dezember 194 n. Chr.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

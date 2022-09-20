@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Grabinschrift auf Altar</title>
-            </titleStmt>  
+            <title resp="ria">Grabinschrift des Zenturio Septimius Chaereas </title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058074</idno>
@@ -104,7 +103,7 @@
          <change when="2017-08-25" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F035551.JPG">
@@ -145,6 +144,6 @@
             <div type="commentary">
                 <p> Über der Inschrift Reliefbüste des Verstorbenen. Gamer - Rüsch: keine Wiedergabe der Inschrift.</p>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"Die Buchstabenhöhe beträgt 4,2-4,6cm. Gamer - Rüsch: keine Wiedergabe der Inschrift.</p><p>Wagner: Der Zenturio mit griechischer Herkunft erhielt seine Stellung in der 3. Italischen Legion vielleicht während des Partherfeldzuges (215/217?).</p><p>Datierung: AE: Zu Zeiten des Probus (276-281 n. Chr.)</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

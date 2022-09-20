@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Weihinschrift auf Tafel</title>
-            </titleStmt>
+            <title resp="ria">Weihinschrift des Flavius Eudiapractus für Isis</title></titleStmt>
             <editionStmt>
                 <edition>Based on the TEI file originally published by the Epigraphische Datenbank Heidelberg <ref>https://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD001306.xml</ref></edition>
             </editionStmt>
@@ -103,7 +102,7 @@
          <change when="2019-06-19" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
 
@@ -150,6 +149,6 @@
             <div type="commentary">
                 <p> Inschrift ist durch zwei Fußabdrücke in drei Kolumnen gegliedert; Votivformel steht unten waagerecht. (B): Wagner: Schlußzeile: O (klein) // I // m(onumentum) p(osuit) (mit Vorbehalt). Grimm: Schlußzeile: l(ibens) m(erito). SIRIS: Schlußzeile: I / MP. Bricault: Fehlender Zeilenfall Eu/dia. Material: Laaser Marmor.</p>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Votivformel steht unten waagerecht, allerdings sind die Buchstaben durch Beschädigungen nur am oberen Teil zu erkennen. Ohlenroth/Wagner: m(onumentum) p(ousuit). Wagner: Schlußzeile: O (klein) // I // m(onumentum) p(osuit) (mit Vorbehalt). Vidman: I MP, vermutet ([ex]) imp(erio). Grimm: Schlußzeile: l(ibens) m(erito). SIRIS: Schlußzeile: I / MP. Bricault: Fehlender Zeilenfall Eu/dia. Gottlieb/Grabert/Kern: s(olvit) l(ibens) m(erito). Material: Laaser Marmor.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</p><p>&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Das Cognomen suggeriert einen griechischen Ursprung (“der sich durchsetzt, Erfolg hat”).&amp;nbsp;Gschaid erkennt einen Einwanderer aus der Levante.&amp;nbsp;Laut Gottlieb/Grabert/Kern könnte es sich um einen Freigelassenen gehandelt haben. Da er ein gebräuchliches, abgekürztes cognomen und zudem kein Praenomen führt, ist die Inschrift wahrscheinlich im 2. Jahrhundert entstanden.&lt;/span&gt;&lt;/span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</p><p>&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Die Abbildung von Fußsohlen kann folgendes symbolisieren: eine Pilgerfahrt zum Heiligtum der Gottheit, die Gottheit selbst, Dank für die Heilung einer Fußkrankheit, wobei im Kontext der Isis auch andere Deutungen möglich wären.&lt;/span&gt;&lt;/span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</p><p>&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Es stellt sich die Frage, ob es ein Isis-Heiligtum in Augsburg gab. 1953 wurde auf dem Hohen Weg 1 (ehem. Karolinenstraße 35/37) eine einhenklige Bronzekanne entdeckt, die zur Ausstattung eines solchen Heiligtums gehört haben könnte. Ferner wurden in Westheim Tonreliefs von Isis, Osiris und Anubis gefunden. Es darf also zumindest eine kleine Gemeinde von Isisverehrern angenommen werden.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</p><p>&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;(EDH, JW)&lt;/span&gt;&lt;/span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</p><p>"</p></div></body>
     </text>
 </TEI>

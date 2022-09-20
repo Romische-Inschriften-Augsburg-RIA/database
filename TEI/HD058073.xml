@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Grabinschrift auf Altar</title>
-            </titleStmt>  
+            <title resp="ria">Grabinschrift des Quaestors Tiberius Claudius</title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058073</idno>
@@ -105,7 +104,7 @@
          <change when="2017-08-25" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F007380.JPG">
@@ -152,6 +151,6 @@
             <div type="commentary">
                 <p> Vielleicht Mittelteil eines Grabaltars. Hedera links neben Z. 1 und 2.</p>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"Die Buchstbabenhöhe beträgt: Z. 1-4 5,8cm, Z. 5 7,2cm. Hedera links neben Z. 1 und 2. Wagner: Z. 1: Tib. Claud[io Tib(eri) filio]. Ohlenroth: Z. 2: leg(ato)] oder proc(uratori)]</p><p>Datierung: Die von mehreren Octavi aufgestellte Inschrift stammt aus dem 2. Jahrhundert, frühestens aus hadrianischer Zeit.</p><p>Das municipium Aelium erhielt mit dem Stadtrecht die hadrianische tribus Sergia. Kuhoff: Der junge Senator muss nicht aus Augsburg stammen.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

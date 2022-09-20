@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Besitzer-/Herstellerinschrift auf Instrumentum domesticum</title>
-            </titleStmt>  
+            <title resp="ria">Herstellerinschrift des Comitialis</title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD065568</idno>
@@ -104,7 +103,7 @@
          <change when="2012-11-19" who="Gräf">
              keine Bildvorlage
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -133,6 +132,6 @@
             <div type="commentary">
                 <p> Terra sigillata; Inschrift gestempelt. Fundjahr: zwischen 1986 und 1994.</p>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"Terra sigillata, in Rheinzabern hergestellt, Inschrift gestempelt.</p><p>Kakoschke: Der Töpfer trägt ein keltisches oder lateinisches Cognomen. Wahrscheinlich war er ein Einheimischer aus Raetien oder dem benachbarten keltischen Raum. Der Töpfer produzierte vielleicht auch in Westernheim, in Heddernheim, Trier und Mandeure oder fungierte als Großunternehmer an diesen Orten.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

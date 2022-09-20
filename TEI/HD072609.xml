@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Grabinschrift auf Altar</title>
-            </titleStmt>  
+            <title resp="ria">Grabinschrift der Kinder Burilla und Burinianus</title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD072609</idno>
@@ -103,7 +102,7 @@
          <change when="2018-09-05" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F038222.JPG">
@@ -154,6 +153,6 @@
             <div type="commentary">
                 <p> Grabaltar mit Nische und Pinienzapfenbekrönung in zwei Teilen. ZWeile 1 befindet sich oberhalb der Nische auf dem oberen Teil.</p>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"Zeile 1 befindet sich oberhalb der Nische auf dem oberen Teil. Auffällig sind die Altersangaben in verschiedenen Fällen (Dativ, Akkusativ).</p><p>AE: Der Vater Burius gehört zu den wenigen Thrakern in Raetien. Sein Name und die Namen seiner Kinder, welche sich wiederum von ihm ableiten, sind alle sehr selten.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Weihinschrift auf Ehren-/Grab-/Votivsäule</title>
-            </titleStmt>  
+            <title resp="ria">Weihinschrift des Aelius Montanius Phaeder und seiner Familie</title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058499</idno>
@@ -104,7 +103,7 @@
          <change when="2017-09-22" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F007358.JPG">
@@ -175,6 +174,6 @@
             <div type="commentary">
                 <p> Viergötterstein einer Jupitergigantensäule oder Altar. Auf der linken Nebenseite Merkur, auf der rechten Nebenseite Mars, auf der Rückseite Victoria. (B): IBR: kleinere Leseabweichungen.</p>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"CIL: Abweichende Lesungen: Z. 1: ELMONI. Z. 9-10: Konsulatsangaben wurden eradiert, sind aber noch lesbar.</p><p>Die verschiedenen Namensbestandteile der drei Familienmitglieder lassen vermuten, dass sie Einheimische aus Rätien oder dem benachbarten keltischen Gebiet waren.</p><p>Dietz: Wahrscheinlich kamen sie aus dem südlichen Rätien.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

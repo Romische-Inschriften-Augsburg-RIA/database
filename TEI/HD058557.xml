@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Grabinschrift auf Block</title>
-            </titleStmt>  
+            <title resp="ria">Grabinschrift des Veteranen C. Senilius Pervincus und seines Sohnes Aurelius Inpetratus</title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058557</idno>
@@ -105,7 +104,7 @@
          <change when="2017-09-28" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F035376.JPG">
@@ -149,6 +148,6 @@
             <div type="commentary">
                 <p> Hedera in Z. 1. (B): CIL 03, 05818: kleinere Leseabweichungen.</p>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"Hedera in Z. 1. Z. 4: et? am Ende. CIL: kleinere Leseabweichungen.</p><p>Kakoschke: 'Pervincus' ist ein keltisches oder lateinisches Cognomen. In jedem Fall war der Veteran wohl ein Einheimischer aus Raetien oder dem benachbarten kelt. Gebiet.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

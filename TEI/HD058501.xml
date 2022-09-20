@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Weihinschrift auf Altar</title>
-            </titleStmt>  
+            <title resp="ria">Weihinschrift des Secco und der Valeria Agathe</title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058501</idno>
@@ -104,7 +103,7 @@
          <change when="2017-09-22" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -133,6 +132,6 @@
             <div type="commentary">
                 <p> Unterer Teil eines Altars mit dem rechten und unteren Rand des Inschriftfeldes. (B): CIL 03, 05804: Z. 1: EC.</p>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"Z. 1: CIL: EC, IBR: ECC. Der vorab genannte Name der Gottheit ist nicht lesbar.</p><p>Kakoschke: 'Secco' ist ein keltisches Cognomen. Er war sicher ein Einheimischer aus Rätien oder dem benachbarten keltischen Gebiet.</p><p>Das Cognomen wird auch in einer anderen Augsburger Inschrift genannt: HD058475.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

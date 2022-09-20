@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Grabinschrift</title>
-            </titleStmt>  
+            <title resp="ria">Grabinschrift des Victorinus und der Iulia Providentia</title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD063792</idno>
@@ -104,7 +103,7 @@
          <change when="2017-11-15" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -139,6 +138,6 @@
             <div type="commentary">
                 <p> Allseitig abgebrochen. Z. 1: NI-Ligatur; Z. 2: ET-, PR- ID-, NT-Ligatur; Z. 3: ND-Ligatur. (B): Roger: Abweichungen in der Lesung.</p>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"Es handelt sich um ein allseitig abgebrochenes Stück eines Grabsteins, das noch einen circa 52cm hohen und 38cm breiten Rest einer Inschriftenfläche besitzt. Die Buchstabenhöhe, welche nur zweimal durch die Ligierung von I überschritten wird, beträgt ebenso wie der Zeilenabstand 3,5cm.</p><p>Der Text enthält fünf Ligaturen: Z. 1: NI-Ligatur durch eine höhere Schlusshaste des N; Z. 2: ET-Ligatur durch ein umgekehrtes Anfügen des E an das T; PR-Ligatur durch ein umgekehrtes P; ID-Ligatur durch eine höhere Haste des D; Z. 3: ND-Ligatur durch das Anfügen des D-Bogens an die Schlusshaste des N.</p><p>Unter der letzten Zeile befindet sich noch der Rest eines kleines Ornaments.</p><p>Kakoschke liest das Cognomen 'Providens' (von lat. vorsichtig) und hält die benannte Frau für eine Einheimische aus Rätien oder aus dem benachbarten keltischen Raum. Das cognomen Victorinus ist eine Weiterbildung von 'Victor' und generell weit verbreitet. In Raetien ist der Name vor allem im Kontext der 3. Italischen Legion in Regensburg bekannt, in Augsburg speziell nur eine Victorina (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1002/view).</p><p>Roger: Der Palaeographie zufolge dürfte die Inschrift am Ende des 2. Jahrhunderts entstanden sein.</p><p>(JW)</p><p>"</p></div></body>
     </text>
 </TEI>

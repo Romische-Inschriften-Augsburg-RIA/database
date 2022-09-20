@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Grabinschrift auf Stele</title>
-            </titleStmt>  
+            <title resp="ria">Grabinschriften der Iulia Matt--- und des Veteranen Gavius Silvanus</title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058545</idno>
@@ -104,7 +103,7 @@
          <change when="2017-09-28" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F007361.JPG">
@@ -163,6 +162,6 @@
             <div type="commentary">
                 <p> Giebelstele mit Büste eines Mannes und einer Frau in Ädicula. Text 1 befindet sich zwischen der Nische und dem eigentlichen Inschriftenfeld. Auf der Rückseite spätere Inschrift (Text 3; IBR 124 = CIL 3, 5813). (B): Text 3; Z. 5/6: IBR 124: vixit [---] Ulp(ia) / Iulia; CIL 03, 5813: Vincenti vive; CIL 03, 05813 add. p. 1853: VIRGINII?</p>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"Text 1 befindet sich zwischen der Nische und dem eigentlichen Inschriftenfeld. Auf der Rückseite spätere Inschrift (Text 3).</p><p>Text 3: IBR: Z. 2: et?. Z. 5/6: IBR: vixit [---] Ulp(ia) / Iulia; CIL: Vincenti vive, VIRGINII?, MIL ITAL MVL VP?</p><p>Kakoschke: Die in Text 1 erwähnte Iulia Matt[ua?] hat ein kelt./germ. Cognomen</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

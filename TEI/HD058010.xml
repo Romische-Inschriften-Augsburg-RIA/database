@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Bau-/Stifterinschrift auf Altar</title>
-            </titleStmt>  
+            <title resp="ria">Bau-/Stifterinschrift des Händlers Iunianus Pastor</title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058010</idno>
@@ -104,7 +103,7 @@
          <change when="2017-09-13" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -130,6 +129,6 @@
             <div type="commentary">
                 <p/>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"Von der Inschrift mit einer Buchstabenhöhe von 3cm sind die erste Zeile und die erste Hälfte der zweiten Zeile verloren. Z. 3: Wagner: negot(iatores) mun(icipii); Platschek: negot(iatores?) mur(---) (ein von &lt;em&gt;murus &lt;/em&gt;abgeleitetes Adjektiv)</p><p>Die Inschrift erwähnt eine Gruppierung von Händlern, von deren Namen einzig der des Iunianus Pastor erhalten ist. Die Identifikation der Händlerorganisation ist umstritten:</p><p>Kuhoff: Eine Art Dachverband der Kaufmänner der Stadt oder sogar aller vor Ort aktiven Händler. Die Vereinigung lässt sich vielleicht mit den Wiesbadener &lt;em&gt;negotiatores cives Mattiaci &lt;/em&gt;vergleichen.</p><p>Platschek: Es war kein Dachverband, sondern Geschäftsleute im Mauerbau oder Bauunternehmer, die den Tempel wiederherstellten.</p><p>(JW)</p><p>"</p></div></body>
     </text>
 </TEI>

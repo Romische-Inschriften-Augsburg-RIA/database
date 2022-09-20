@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Grabinschrift</title>
-            </titleStmt>  
+            <title resp="ria">Grabinschrift der Claudia Lucana</title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058315</idno>
@@ -104,7 +103,7 @@
          <change when="2017-09-06" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -136,6 +135,6 @@
             <div type="commentary">
                 <p> Die Inschrift wurde 1934 im Dom, an der Ostseite des zweiten nördlichen Mittelpfeilers (vom Ostchor aus nach Westen gezählt) unterhalb des Kämpfers vermauert, wiedergefunden, derzeit unzugänglich. Wagner: keine Wiedergabe der Inschrift.</p>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"IBR, CIL: Z. 1 L(oder I?)VCANAE. Z. 7: N(ummis) F I L oder N(ummis) III mit horizontalem Strich.</p><p>Das Cognomen der Verstorbenen verweist auf die Landschaft Lukanien.</p><p>(EDH, JW)</p><p>&amp;nbsp;</p><p>"</p></div></body>
     </text>
 </TEI>

@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Grabinschrift auf Stele</title>
-            </titleStmt>  
+            <title resp="ria">Grabinschrift des L. Valerius Rusticus</title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058313</idno>
@@ -42,7 +41,7 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout>
-                                    <rs type="execution">eingemeiÃ&#x9F;elt (mit Farbresten)</rs>
+                                    <rs type="execution">eingemeiÃelt (mit Farbresten)</rs>
 
 
                                 </layout>
@@ -104,7 +103,7 @@
          <change when="2017-09-06" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
 
@@ -145,6 +144,6 @@
             <div type="commentary">
                 <p> Reste von roter Farbe in den Buchstaben, Altersangabe nach Wagner nur aufgemalt. In Z. 1 kleines V zwischen C u. S? Z. 3/4 auch 'ann(os) LXXXX / testamento fie/[ri iussit ---' möglich. Die Inschrift wurde 1925 beim Umbau des Hauses Frauentorstr. 51 wiedergefunden. (B): IBR 143: Z. 2: Lugudunens; Z. 3: ex nicht wiedergegeben; Z. 4: testamento f(ieri) i(ussit); Wagner: Z. 1: Rustic(us).</p>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"In Z. 1 Rustic(us), kleines V zwischen C u. S? IBR 143: Z. 2: Lugudunens; eine ältere Lesung IVGVRTINAE. Wagner: Z. 3/4 LXX [ex]?, auch 'ann(os) LXXXX / testamento fie/[ri iussit ---' möglich. Die Altersangabe wurde aufgemalt und nicht eingemeißelt.</p><p>Wagner: Bei der erwähnten Heimat des Rusticus kommt das heutige Lyon, schwerlich das Lugdunum im Bataverland infrage.</p><p>Datierung: 1. Jahrhundert.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

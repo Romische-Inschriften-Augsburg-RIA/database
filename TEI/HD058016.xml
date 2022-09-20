@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Grabinschrift</title>
-            </titleStmt>  
+            <title resp="ria">Grabinschrift des Tiberius Claudius </title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058016</idno>
@@ -104,7 +103,7 @@
          <change when="2017-08-25" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -130,6 +129,6 @@
             <div type="commentary">
                 <p> Fragment vom linken Teil des Inschriftfeldes, Inschrift steht in einer tabula ansata, linke ansa erhalten.</p>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"Die Buchstabenhöhe variiert: Z. 1 9,6cm. Z. 2 7,2cm. Z. 3 6cm. Z. 4-6 4,1 cm</p><p>Die verbliebenen Namensbestandteile des Ehepaars lassen keinen Rückschluss auf ihre genaue Herkunft zu.</p><p>(JW)</p><p>"</p></div></body>
     </text>
 </TEI>

@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Bau-/Stifterinschrift</title>
-            </titleStmt>  
+            <title resp="ria">Stifterinschrift des VIvir Sex. Attonius Privatus für Silvanus</title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058491</idno>
@@ -105,7 +104,7 @@
          <change when="2017-09-21" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -169,6 +168,6 @@
             <div type="commentary">
                 <p> Nur handschriftlich überliefert. Hedera in Z. 7.</p>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"Nur handschriftlich überlieferte Stifterinschrift für Silvanus (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1647/view). Hedera in Z. 7.</p><p>Krier: Der Treverer war wahrscheinlich ein Kaufmann, der sich in Augsburg niederließ. Es ist nicht ersichtlich, ob er die Augustalenwürde in Tier oder Augsburg oder sogar in beiden Städten innehatte.</p><p>Der auf ein Jahr gewählte VIvir, meist ein Freigelassener, war für Opfer und Spiele zu Ehren der Kaiser zuständig und behielt auch nach Ablauf seiner Amtszeit die Ehrenrechte. Er besaß eine angesehene Stellung zwischen den Dekurionen und den Bürgern.</p><p>Kakoschke: 'Attonius' ist ein Pseudo-Gentilnomen, das sich vom kelt./germ. 'Atto' ableitet. Der Name ist vor allem in Germania Superior verbreitet.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

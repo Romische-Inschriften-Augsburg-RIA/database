@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Grabinschrift</title>
-            </titleStmt>  
+            <title resp="ria">Grabinschrift des Tib. Acutianius Ursacius Veteranicinus</title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058606</idno>
@@ -104,7 +103,7 @@
          <change when="2017-12-14" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F035380.JPG">
@@ -145,6 +144,6 @@
             <div type="commentary">
                 <p> Die ergänzten Stellen waren früher noch lesbar. Text 1 steht auf dem Profil über dem Inschriftenfeld. Text 2 befindet sich unter der Hauptinschrift, kreuzförmig in einem Kreis angeordnet. Von der Unterseite des Kreises verlaufen zu den Seiten nach oben geschwungen zwei Linien, an deren Enden sich jeweils in einem Oval die Texte 4 (links) und 5 (rechts) befinden. Die Oberfläche ist stark verwittert und stellenweise kaum noch lesbar.</p>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"Die ergänzten Stellen waren früher noch lesbar. Text 1 steht auf dem Profil über dem Inschriftenfeld. Text 2 befindet sich unter der Hauptinschrift, kreuzförmig in einem Kreis angeordnet. Z. 2: EN-Ligatur. Z. 3: I(?)ACVTIANO. Von der Unterseite des Kreises verlaufen zu den Seiten nach oben geschwungen zwei Linien, an deren Enden sich jeweils in einem Oval die Texte 4 (links) und 5 (rechts) befinden. Die Oberfläche ist stark verwittert und stellenweise kaum noch lesbar.</p><p>Kakoschke: 'Acutianius' ist ein einheimisches Pseudo-Gentilnomen, 'Veteranicinus' ein keltisches Cognomen. Das Ehepaar kam sicherlich aus Raetien oder dem benachbarten keltischen Gebiet.</p><p>Der Verstorbene erscheint in einer weiteren Augsburger Inschrift als Grabstifter für seinen Bruder Flavius Acutianius Serenus: HD058601.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

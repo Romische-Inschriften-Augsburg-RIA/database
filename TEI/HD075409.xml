@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Gebet auf Instrumentum sacrum</title>
-            </titleStmt>  
+            <title resp="ria">Christliches Gebet mit Psalm-Zitat</title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD075409</idno>
@@ -103,7 +102,7 @@
          <change when="2017-11-09" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -129,6 +128,6 @@
             <div type="commentary">
                 <p> Bronzekrug. Die Inschrift verläuft bandförmig entlang des größten Umfangs. Zitat von Psalm 26,6.</p>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"Die Inschrift verweist auf den Psalm 26,6.</p><p>Wahrscheinlich steht sie im Zusammenhang mit der Handwaschung des Priesters vor Beginn der Eucharistiefeier oder mit der Eucharistiefeier selbst.</p><p>Diese Grabbeigabe deutet auf eine höhere soziale Stellung des verstorbenen Christen hin.</p><p>(JW)</p><p>"</p></div></body>
     </text>
 </TEI>

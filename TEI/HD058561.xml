@@ -1,10 +1,9 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Grabinschrift auf Altar</title>
-            </titleStmt>  
+            <title resp="ria">Grabinschrift des Gardereiters Victorinius Longinus</title></titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058561</idno>
@@ -104,7 +103,7 @@
          <change when="2017-09-28" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F007362.JPG">
@@ -157,6 +156,6 @@
             <div type="commentary">
                 <p> Auf der rechten Nebenseite stilisierter Baum. (B): IBR 133: Z. 4: Fl(aviae) sing(ularium).</p>
             </div>
-        </body>
+        <div type="commentary" resp="ria"><p>"IBR: Z. 3 NI-Ligatur. Z. 4: Fl(aviae) sing(ularium).</p><p>Longinus diente zunächst in Heidenheim/Aquileia, wo seine &lt;em&gt;ala &lt;/em&gt;stationiert war, eher er in die raetische Haupstadt versetzt wurde.</p><p>Kakoschke: 'Victorinius' ist ein einheimisches Pseudo-Gentilnomen. Wahrscheinlich kam Longinus aus Raetien oder dem benachbarten keltischen Gebiet. Sein Erbe kam möglichweise aus demselben Raum.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>
