@@ -1,9 +1,10 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Ehreninschrift</title>
-            <title resp="ria">Ehreninschrift für Matidia Minor</title></titleStmt>  
+            </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058506</idno>
@@ -103,7 +104,7 @@
          <change when="2017-09-22" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -132,6 +133,6 @@
             <div type="commentary">
                 <p> Nur handschriftlich überliefert. Divus Traianus = Divus Traianus pater.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Nur handschriftlich überlieferte Ehreninschrift für Mindia Matidia. Divus Traianus = Divus Traianus pater.</p><p>Kuhoff: Eventuell steht die Inschrift für die Großnichte Traians in Zusammenhang mit einem Aufenthalt vor Ort.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        </body>
     </text>
 </TEI>

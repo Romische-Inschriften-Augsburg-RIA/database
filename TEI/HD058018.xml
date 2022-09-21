@@ -1,9 +1,10 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Grabinschrift auf Altar</title>
-            <title resp="ria">Grabinschrift des Decurio C. Iulius Achilleus und seiner Familie</title></titleStmt>  
+            </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058018</idno>
@@ -103,7 +104,7 @@
          <change when="2017-08-25" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        </revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F013021.JPG">
@@ -159,6 +160,6 @@
             <div type="commentary">
                 <p> Text 1 steht auf dem Profil über dem Inschriftenfeld. Text 3 befindet sich auf der Altarbasis und besteht aus einem großen O, in das die übrigen Buchstaben eingeschrieben sind. In Text 2, Zeile 1 möglicherweise noch Reste einer früheren Inschrift. Auf der Hauptseite über dem Inschriftenfeld Büsten zweier Männer und zweier Frauen; auf der rechten Nebenseite Diener, der sitzender Frau ein Kästchen reicht; auf der linken Nebenseite unbekleidetes Kind mit erhobenem rechten Arm.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Wagner: Die Buchstabenhöhe der Textzeilen beträgt 2,6-3,0cm. Z.1 steht auf dem Profil über dem Inschriftenfeld. Wagner: Möglicherweise gibt es in der Zeile noch Reste einer früheren Inschrift. Schneider: Reste der früheren Inschrift inzwischen nicht mehr erkennbar. Z. 12 befindet sich auf der Altarbasis und besteht aus einem großen O, in das die übrigen Buchstaben der Schlussformel hineingeschrieben sind.</p><p>Wagner: Die genaue Amtbezeichnung 'decurio suae civitatis' (anstelle von municipii) ist in Rätien selten und sinngemäß mit der Formulierung 'res publica civitatis Aeliae Augustae' (HD058663) vergleichbar. Achilleus und seine Familie gehörten also zur lokalen Oberschicht.</p><p>Datierung: Die fehlende Umrahmung des Inschriftenfeldes, die erwachsene und nicht kindliche Darstellung der Tochter sowie die Reste einer älteren Inschrift deuten auf das 3. Jahrhundert als Entstehungszeitraum hin.</p><p>Schneider: Das Relief steht symbolisch für eine Familie und soll absichtlich keine realistische Darstellung der Familienmitglieder darstellen.</p><p>Rupprecht: C. Iulius Achilleus (Das Cognomen lehnt sich an den gr. Held an) war vermutlich kein Teil der einheimischen romanisierten Bevölkerung, sondern reiste selbst (oder seine Vorfahren) noch unfrei oder schon freigelassen aus dem östlichen Mittelmeerraum nach Raetien.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        </body>
     </text>
 </TEI>

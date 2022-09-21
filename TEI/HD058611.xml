@@ -1,9 +1,10 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Beischrift auf Architekturteil</title>
-            <title resp="ria">Beischrift mit Gladiatorennamen</title></titleStmt>  
+            </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058611</idno>
@@ -103,7 +104,7 @@
          <change when="2018-03-16" who="Osnabrügge">
              überprüft an Zeichnung
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -138,6 +139,6 @@
             <div type="commentary">
                 <p> Bodenmosaik, die Mittelzone unterteilt in drei Reihen von noch 5x3 erhaltenen Mosaikfeldern. Je vier Felder der oberen und unteren Reihe zeigen Kampfszenen zwischen Gladiatoren, deren Namen als Beischrift gegeben sind. In der mittleren Reihe noch drei Mosaikfelder mit Quadrigae, rechts davon Wendemarke. Die obere Reihe ist zu der mittleren und unteren um 180° gedreht, in der rechten Spalte um 90° gedreht drei Felder mit Vögeln (Hahn, Raben). Der Rand des gesamten Mosaiks ist an keiner Stelle erhalten. Schreibtechnik: Mosaik. (B): IBR 147: Text 1: die aus dem 16. Jh. stammende Zeichnung weist vor dem Namen Crispus noch die Namensendung -us auf, die in der Lesung von IBR nicht wiedergegeben ist.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Schreibtechnik: Mosaik. IBR 147: Text 1: die aus dem 16. Jh. stammende Zeichnung weist vor dem Namen Crispus noch die Namensendung -us auf, die in der Lesung von IBR nicht wiedergegeben ist. CIL: Quadr. 1: SIRIPVS vor CRISPVS. Quadr. 10: MANLIVS unsicher.</p><p>Die Namen der Gladiatoren sind vorwiegend lateinisch und griechisch, Aprius ist keltisch.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        </body>
     </text>
 </TEI>

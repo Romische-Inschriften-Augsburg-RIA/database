@@ -1,9 +1,10 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Besitzer-/Herstellerinschrift auf Instrumentum domesticum</title>
-            <title resp="ria">Besitzer-/Herstellerinschrift des Caius Iulius Dion?</title></titleStmt>  
+            </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD072610</idno>
@@ -102,7 +103,7 @@
          <change when="2017-11-23" who="Osnabrügge">
              provisorisch bearbeitet
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -128,6 +129,6 @@
             <div type="commentary">
                 <p> Schreibtechnik: gestempelt.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Schreibtechnik: gestempelt.</p><p>AE: Die Buchstaben DKN könnten für DION(is) stehen, mit einem I und einem nach rechts offenen O, welche zusammen mit N eine Ligatur bilden.</p><p>Datierung: Gemäß der umliegenden archäologischen Funde frühestens 215 n. Chr.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        </body>
     </text>
 </TEI>

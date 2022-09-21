@@ -1,9 +1,10 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Weihinschrift auf Tafel</title>
-            <title resp="ria">Weihinschrift der Flavia Veneria für Pluto und Proserpina</title></titleStmt>  
+            </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058489</idno>
@@ -103,7 +104,7 @@
          <change when="2017-09-21" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        </revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F035479.JPG">
@@ -147,6 +148,6 @@
             <div type="commentary">
                 <p> Z. 7 der Bogen des P nicht sicher zu erkennen. Möglicherweise auch p(osuit); zunächst fehlerhaft eine Haste wohl für ein L eingehauen.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Die 1505 entdeckte Inschrift war für Pluto (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1645/view) und Proserpina (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1646/view) geweiht.</p><p>Z. 1. Beide T höher gezogenen. Z. 7 der Bogen des P nicht sicher zu erkennen. Möglicherweise auch p(osuit); zunächst fehlerhaft eine Haste wohl für ein L eingehauen.</p><p>Der Standort des Tempels ist nicht lokalisierbar.</p><p>Kakoschke: Flavia Veneria gehörte dem thrakischen Stamm der Bessi an. Deren Zentrum lag in Sinitowo/Bessapara in Südbulgarien.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        </body>
     </text>
 </TEI>

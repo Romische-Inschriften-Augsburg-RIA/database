@@ -1,9 +1,10 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Bau-/Stifterinschrift auf Architekturteil</title>
-            <title resp="ria">Bau-/Stifterinschrift eines unbekannten Decurio und Textilhändlers</title></titleStmt>  
+            </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058494</idno>
@@ -103,7 +104,7 @@
          <change when="2018-12-27" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        </revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F035480.JPG">
@@ -150,6 +151,6 @@
             <div type="commentary">
                 <p> Die ergänzten Stellen in der Mitte jeder Zeile waren im 16. Jh. noch lesbar. Z. 3: statt P(ublio?) Pat(ernio?) auch p(atri) pat(rono) denkbar. (B): CIL 03, 05800; ILS: kleinere Leseabweichungen.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Die ergänzten Stellen in der Mitte jeder Zeile waren im 16. Jh. noch lesbar, wurden aber angeblich durch Salpeter und Säure beschädigt. CIL: Abweichende Lesungen: Z. 2: ES FR AREAE ET LINETANAE AEDEM; ......N ET ........ Z. 3: statt P(ublio?) Pat(ernio?) auch p(atri) pat(rono) denkbar, Platschek:&amp;nbsp;P(io)/P(iissimo)/P(ientissimo) P(atri). CIL: Z. 6: DECVRIONI MVNICIPI AEL AVG FILIO.</p><p>Kuhoff, Platschek: Aufgrund eines Säulenreliefs links und dem Rahmen oberhalb der Inschrift wurde der erhaltene Beginn des Textes als der ursprünglich betrachtet. Durch die Formel &lt;em&gt;aliquis sibi et alicui&lt;/em&gt; ist klar, dass es sich um eine Grabinschrift handelt, jedoch fangen diese nicht mit der Berufsbezeichnung einer Einzelperson an, sondern nennen mindestens vorab einen Namen. Eine zweifelhafte Lösung lag im Plural &lt;em&gt;negotiatores&lt;/em&gt;, womit ein Verein oder eine Kooperation Augsburger Textilhändler das Grabmal für sich selbst und den erwähnten Patronen Aelianus errichten ließ. Wahrscheinlicher ist jedoch, dass der Beginn des Textes auf einem anderen anschließenden Stein eingehauen war und dieser die fehlenden Bestandteile enthielt. Der Interpretation folgend stiftete ein unbekannter Decurio und Textilhändler das Grabmonument für sich und seinen ehrwürdigsten Vater Aelianus, der ebenfalls Decurio war.</p><p>(EDH, JW)</p><p>&amp;nbsp;</p><p>&amp;nbsp;</p><p>"</p><p>"Die ergänzten Stellen in der Mitte jeder Zeile waren im 16. Jh. noch lesbar, wurden aber angeblich durch Salpeter und Säure beschädigt. CIL: Abweichende Lesungen: Z. 2: ES FR AREAE ET LINETANAE AEDEM; ......N ET ........ Z. 3: statt P(ublio?) Pat(ernio?) auch p(atri) pat(rono) denkbar, Platschek:&amp;nbsp;P(io)/P(iissimo)/P(ientissimo) P(atri). CIL: Z. 6: DECVRIONI MVNICIPI AEL AVG FILIO.</p><p>Kuhoff, Platschek: Aufgrund eines Säulenreliefs links und dem Rahmen oberhalb der Inschrift wurde der erhaltene Beginn des Textes als der ursprünglich betrachtet. Durch die Formel &lt;em&gt;aliquis sibi et alicui&lt;/em&gt; ist klar, dass es sich um eine Grabinschrift handelt, jedoch fangen diese nicht mit der Berufsbezeichnung einer Einzelperson an, sondern nennen mindestens vorab einen Namen. Eine zweifelhafte Lösung lag im Plural &lt;em&gt;negotiatores&lt;/em&gt;, womit ein Verein oder eine Kooperation Augsburger Textilhändler das Grabmal für sich selbst und den erwähnten Patronen Aelianus errichten ließ. Wahrscheinlicher ist jedoch, dass der Beginn des Textes auf einem anderen anschließenden Stein eingehauen war und dieser die fehlenden Bestandteile enthielt. Der Interpretation folgend stiftete ein unbekannter Decurio und Textilhändler das Grabmonument für sich und seinen ehrwürdigsten Vater Aelianus, der ebenfalls Decurio war.</p><p>(EDH, JW)</p><p>&amp;nbsp;</p><p>&amp;nbsp;</p><p>"</p></div></body>
+        </body>
     </text>
 </TEI>

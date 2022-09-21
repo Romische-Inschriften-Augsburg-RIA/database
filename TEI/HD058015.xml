@@ -1,9 +1,10 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Ehreninschrift auf Statuenbasis</title>
-            <title resp="ria">Ehreninschrift für Probus auf Statuenbasis</title></titleStmt>  
+            </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058015</idno>
@@ -104,7 +105,7 @@
          <change when="2017-08-25" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        </revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F007378.JPG">
@@ -167,6 +168,6 @@
             <div type="commentary">
                 <p> Erhalten sind zwei nebeneinander angeordnete Blöcke, an die sich rechts und links je ein weiterer Block anschloss. Der erste Block ist in zwei Fragmente, der zweite Block in drei Fragmente gebrochen. Die vorne und an der Rückseite vorhandene Rundung der Blöcke weist darauf hin, daß sie in einer Apsis angebracht gewesen sein könnten. Hederae in Z. 3, 6. (B): Wagner: Z. 2: [retro]; Z. 3: Aur(elio); Horster: Z. 4: patr[i.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Der erste Teil der Inschrift ist mit den oberen Blöcken verloren gegangen. Die Buchstabenhöhe der verbliebenen Textzeilen beträgt 6cm.</p><p>Hederae in Z. 3, 6. Wagner: Z. 2: [retro]; Z. 3: Aur(elio); Horster: Z. 4: patr[i.</p><p>Datierung: Wagner: Den Amtsbezeichnungen zufolge wurde der Stein im Jahr 281 zu Ehren von Kaiser Probus gestiftet.</p><p>Die hier ausgedrückte große Dankbarkeit gegenüber Probus könnte auf seinen früheren Sieg gegen germanische Stämme und die Sicherung des Limes durch die Anlage neuer Kastelle zurückgehen.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        </body>
     </text>
 </TEI>

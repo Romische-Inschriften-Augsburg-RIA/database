@@ -1,9 +1,10 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Grabinschrift auf Sarkophag</title>
-            <title resp="ria">Grabinschrift des Priesters und Bergbaupächters P. Frontinius Decoratus</title></titleStmt>  
+            </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD063776</idno>
@@ -103,7 +104,7 @@
          <change when="2020-02-05" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        </revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F035522.JPG">
@@ -147,6 +148,6 @@
             <div type="commentary">
                 <p> Sarkophag ohne Deckel. Auf der Hauptseite zwei Eroten, die das Inschriftenfeld halten. Nuber: keine Wiedergabe der Inschrift.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Decoratus war als &lt;em&gt;manceps &lt;/em&gt;im staatlichen Bergbauwesen der Provinzen Rätien, Noricum und der drei dakischen Donauprovinzen aktiv. Ob er seinen Haupssitz in Augsburg hatte, bleibt offen. Czysz: Diese eigentümliche Organisationsform der Gewinnabschöpfung über ein Pachtsystem war typisch für das Bergrecht der römischen Kaiserzeit. Die Aufgabe dieser Großpächter (&lt;em&gt;mancipes&lt;/em&gt;, anderenorts &lt;em&gt;conductores&lt;/em&gt;) bestand darin, die Abgaben (&lt;em&gt;vectigalia&lt;/em&gt;) der vom Staat bzw. Kaiser vergebenen Konzessionen einzutreiben, die einzelne Bergwerkspächter dem Fiskus schuldeten.</p><p>Als Mitglied der seviri Augustales oblag es Decoratus, den Kaiserkult vor Ort zu organisieren und durchzuführen. Diese Priester waren meist Freigelassene.</p><p>Kakoschke: 'Frontinius' ist ein einheimisches Pseudo-Gentilnomen. Der Pächter kam sicherlich aus Raetien oder dem benachbarten keltischen Raum. Die Herkunft seiner Ehefrau ist unklar.</p><p>(JW)</p><p>"</p></div></body>
+        </body>
     </text>
 </TEI>

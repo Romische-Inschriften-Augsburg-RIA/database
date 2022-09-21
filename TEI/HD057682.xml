@@ -1,9 +1,10 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Besitzer-/Herstellerinschrift auf Instrumentum domesticum</title>
-            <title resp="ria">Inschrift auf spätantikem Messer</title></titleStmt>  
+            </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD057682</idno>
@@ -103,7 +104,7 @@
          <change when="2017-07-12" who="Osnabrügge">
              überprüft an Zeichnung
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -132,6 +133,6 @@
             <div type="commentary">
                 <p> Messer; der Griff fehlt. Länge der Klinge: 5.8 cm. Dekor: die Inschrift befindet sich zwischen einer punktierten Linie und einem Spiralband. Auf der anderen Seite Darstellung einer Taube. Z. 1: statt O(?) auch C(?) möglich. Die Interpretation der Inschrift ist schwierig, da es sich bei bestimmten Buchstaben auch um rein dekorative Elemente handeln könnte; so ergäbe sich die Lesung {II}v{S}ixi{S}t{o}. Eine andere Möglichkeit ist die Lesung [---]lius, gefolgt von einem cognomen.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Ortisi: Der Beginn des Texts ist aufgrund der abgebrochenen Spitze verloren. Der mittlere Teil liest sich schwierig, da dekorative Elemente in die Zeile eingeflossen sind: {II}v{S}ixi{S}t{o} mit den beiden S als verschnörkelte Ornamente oder ...IVSTVS..., wobei hier das vormalige mittige X als V mit Randschnörkeln versehen wäre. Für die zweite Interpretation sprechen Messerfunde aus Salurn mit ähnlichen dekorativen Elementen. Die Bedeutung des O oder C am Ende der Zeile ist unklar. AE: Eine andere Möglichkeit ist die Lesung [---]lius, gefolgt von einem cognomen.</p><p>Datierung: Das Messer wurde im zweiten Drittel des 4. Jahrhunderts gefertigt und diente als Essbesteck sowie als Taschenmesser.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        </body>
     </text>
 </TEI>

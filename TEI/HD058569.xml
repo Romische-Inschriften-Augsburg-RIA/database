@@ -1,9 +1,10 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Grabinschrift</title>
-            <title resp="ria">Grabinschrift des Decurio C. Iulianius Iulius und seiner Familie</title></titleStmt>  
+            </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058569</idno>
@@ -103,7 +104,7 @@
          <change when="2017-09-29" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        </revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F035378.JPG">
@@ -144,6 +145,6 @@
             <div type="commentary">
                 <p> Mehrere aneinanderpassende Fragmente. (B): vor Z. 1: [D(is) M(anibus) et].</p>
             </div>
-        <div type="commentary" resp="ria"><p>"IBR: vor Z. 1: [D(is) M(anibus) et].</p><p>Kakoschke: Der Decurio und seine Ehefrau trugen beide einheimische Pseudo-Gentilnomina und stammten vermutlich aus Raetien oder dem benachbarten keltischen Gebiet.</p><p>Sie gehörten zur romanisierten Bevölkerung und stiegen in die höchsten sozialen Kreise der Stadt auf. Iulius' Aufgaben als IVvir ließen sich mit denen der aediles in Bürgerkolonien vergleichen.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        </body>
     </text>
 </TEI>

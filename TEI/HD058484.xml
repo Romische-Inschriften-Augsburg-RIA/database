@@ -1,9 +1,10 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Weihinschrift auf Altar</title>
-            <title resp="ria">Weihinschrift des P. Aelius Senno für Mercurius</title></titleStmt>  
+            </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058484</idno>
@@ -103,7 +104,7 @@
          <change when="2017-09-21" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        </revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F007355.JPG">
@@ -150,6 +151,6 @@
             <div type="commentary">
                 <p> Die zugehörige Statue wurde ebenfalls gefunden: IBR tab. 15, ad 103. Z. 1: RI-Ligatur; Haste senkrecht auf dem oberen Bogen des R; Z. 3: NN-Ligatur.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Z. 1: RI-Ligatur (Haste senkrecht auf dem oberen Bogen des R). Z. 3: NN-Ligatur.</p><p>Klein: Die Spolien dürften aus einem Merkurheiligtum stammen, das an der römischen Fernstraße zur Donau lag.</p><p>Kakoschke: Das Cognomen des Weihenden ist keltischen Ursprungs. Er war ein Einheimischer aus Rätien oder dem benachbarten keltischen Raum.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        </body>
     </text>
 </TEI>

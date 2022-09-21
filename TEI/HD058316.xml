@@ -1,9 +1,10 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Bau-/Stifterinschrift auf Tafel</title>
-            <title resp="ria">Stifterinschrift eines Decurio und Schweinefleischhändlers</title></titleStmt>  
+            </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058316</idno>
@@ -103,7 +104,7 @@
          <change when="2019-12-19" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        </revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F000346.JPG">
@@ -151,6 +152,6 @@
             <div type="commentary">
                 <p> In Z. 1 noch der Rand des Bogens eines D zu erkennen. Z. 2: [Iano? Patri? M]atutino? Vgl. Hor. sat. 2,6,20. Oder [Mercurio? M]atutino? (B): IBR 175; CIL 03, 14370; ILS: Z. 1: d(omus)] d(ivinae); Z. 4: negotiator] porcarius.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Auf der verlorenen Hälfte standen pro Zeile 12-15 Buchstaben.</p><p>In Z. 1 noch der Rand des Bogens eines D zu erkennen, d(omus)] d(ivinae). Z. 2: [Iano? Patri? M]atutino? Vgl. Hor. sat. 2,6,20. Oder [Mercurio? M]atutino? Z. 4: negotiator] porcarius.</p><p>Kuhoff: Der wohlhabende Decurio und Händler der Stadt zeigte wie einige Kollegen seine Munifizenz gegenüber Stadt. Seine Tätigkeit als porcarius ist im süddeutschem Raum sonst nicht überliefert, obwohl der Handel mit Fleisch nicht selten gewesen sein kann. Wahrscheinlich handelte es sich um einen gut verdienenden Großkaufmann, der die nötigen Mittel zur Wiederherstellung des Tempels überhaupt aufbringen konnte. Vermutlich verweist der Beiname 'Matutinus' nicht auf Mercurius (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1618/view), sondern auf Ianus.</p><p>Datierung: Die Anfangsformel IN H D D, die Symmetrie des Textes, der regelmäßige Duktus, und die fehlenden Ligaturen verweisen auf die severische oder etwas spätere Zeit.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        </body>
     </text>
 </TEI>

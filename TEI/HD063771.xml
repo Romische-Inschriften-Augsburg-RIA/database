@@ -1,9 +1,10 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Grabinschrift auf Sarkophag</title>
-            <title resp="ria">Grabinschrift eines/r Luc--- auf Weisung des Candidius Virilis</title></titleStmt>  
+            </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD063771</idno>
@@ -103,7 +104,7 @@
          <change when="2017-08-04" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        </revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F008212.JPG">
@@ -151,6 +152,6 @@
             <div type="commentary">
                 <p> Sarkophag mit Deckel. Auf der Deckelvorderseite liegende Gestalt und stehender Eros. Auf der Sarkophagvorderseite zwei Eroten, die das Inschriftenfeld halten. Die Reliefs sind nicht fertig gearbeitet, ebenso die Inschrift. Der Sarkophag wurde in spätrömischer Zeit sekundär verwendet, der ursprüngliche Aufstellungsort ist unbekannt. Langgezogene vertikale Worttrenner.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Langgezogene vertikale Worttrenner.</p><p>Kakoschke: 'Candidius' ist ein einheimisches Pseudo-Gentilnomen. Sicherlich kam er aus Raetien oder dem benachbarten keltischen Gebiet.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        </body>
     </text>
 </TEI>

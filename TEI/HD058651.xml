@@ -1,9 +1,10 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Grabinschrift</title>
-            <title resp="ria">Grabinschrift eines/r Vict---</title></titleStmt>  
+            </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058651</idno>
@@ -100,7 +101,7 @@
          <change when="2017-11-29" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -129,6 +130,6 @@
             <div type="commentary">
                 <p> Auf einer Seite Dreizack. Die Maße sind aus alten Angaben umgerechnet (Höhe 9 Fuß, Breite 2,5 Fuß). Unklar ist, ob weitere Zeilen zwischen Z. 1 und 2 fehlen, ebenso die Lesung der ersten Zeile. (B): IBR 162: D(is) M(anibus) [et perpetuae] s[ecuritati]; CIL 03, 05850: S nicht angegeben.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Die Maße sind aus alten Angaben umgerechnet (Höhe 9 Fuß, Breite 2,5 Fuß). Unklar ist, ob weitere Zeilen zwischen Z. 1 und 2 fehlen, ebenso die Lesung der ersten Zeile. IBR: D(is) M(anibus) [et perpetuae] s[ecuritati]; CIL: S nicht angegeben.</p><p>(EDH)</p><p>"</p></div></body>
+        </body>
     </text>
 </TEI>

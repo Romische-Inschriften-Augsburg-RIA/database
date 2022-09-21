@@ -1,9 +1,10 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Bau-/Stifterinschrift</title>
-            <title resp="ria">Stifterinschrift des Surus</title></titleStmt>  
+            </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058538</idno>
@@ -103,7 +104,7 @@
          <change when="2017-09-28" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -132,6 +133,6 @@
             <div type="commentary">
                 <p> Möglicherweise ins Jahr 237 zu datieren.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"IBR: Abweichende Lesungen: Z. 2: cos(ulis) II procos(ulis).</p><p>Eher unwahrscheinlich ist Ohlenschlager's Identifikation des Stifters mit dem Statthalter Noricums, M. Iuventius Surus Proculus.</p><p>Kakoschke: Die sprachliche Zuweisung des Cognomens 'Surus' fällt schwer. Es könnte ein semitisches, illyrisches oder keltisches Cognomen sein.</p><p>Vielleicht war der Stifter auch ein &lt;em&gt;civis Surus&lt;/em&gt; und stammte aus Syrien.</p><p>Datierung: IBR: Die Inschrift ließe sich in das Jahr 195 in die Zeit des Septimius Severus oder in das Jahr 237 zur Zeit Maximinus' Thrax datieren.</p><p>(JW)</p><p>"</p></div></body>
+        </body>
     </text>
 </TEI>

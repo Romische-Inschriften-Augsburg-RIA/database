@@ -1,9 +1,10 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Block</title>
-            <title resp="ria">Inschrift der Priesterin Silvia Maternina</title></titleStmt>  
+            </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058598</idno>
@@ -103,7 +104,7 @@
          <change when="2017-09-29" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -135,6 +136,6 @@
             <div type="commentary">
                 <p> Rest des Monuments modern ergänzt.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Rest des Monuments modern ergänzt.</p><p>IBR: Z. 2: NI-Ligatur.</p><p>Kakoschke: 'Silvia' könnte ein italisches oder ein einheimisches Pseudo-Gentilnomen, welches sich vom gleichnamigen Cognomen ableitet, sein. Wahrscheinlich war sie eine Einheimische aus Raetien oder dem benachbarten keltischen Gebiet.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        </body>
     </text>
 </TEI>

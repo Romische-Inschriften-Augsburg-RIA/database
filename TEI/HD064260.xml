@@ -1,9 +1,10 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Ehreninschrift auf Statuenbasis</title>
-            <title resp="ria">Ehreninschrift eines Unbekannten</title></titleStmt>  
+            </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD064260</idno>
@@ -103,7 +104,7 @@
          <change when="2020-02-05" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -129,6 +130,6 @@
             <div type="commentary">
                 <p> Ursprünglich wohl Basis, die in der Neuzeit zerteilt wurde; das Stück fand schließlich als Konsole eines Altartisches Verwendung. In Z. 1 am Ende noch der linke Rand des oberen Bogens eines S zu erkennen. Z. 3 statt P auch R möglich. Z. 5: E klein links über O stehend. Z. 7 rechts noch der obere Ansatz einer abfallenden Schräghaste zu erkennen.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Abstände als Worttrenner.</p><p>In Z. 1 am Ende noch der linke Rand des oberen Bogens eines S zu erkennen. Z. 2: [---]SI als Endung einer Tribus- oder Herkunftsangabe?, IC[---] als Beginn eines Cognomen oder Ortsnamens? Z. 3 statt P auch R möglich. Z. 4: PRA erg. zu Praefectus? Z. 5: E klein links über O stehend, erg. zu moenia, Moesia oder Moesica? Z. 6: HV als Beginn eines Demonstrativpronomens. Z. 7 rechts noch der obere Ansatz einer abfallenden Schräghaste zu erkennen, FV als Beginn eines Frauennames oder erg. zu a fu[ndamentis]?</p><p>Eine Übersetzung ist aufgrund des bruckstückhaften Textes zurzeit schwierig.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        </body>
     </text>
 </TEI>

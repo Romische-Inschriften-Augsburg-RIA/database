@@ -1,9 +1,10 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Weihinschrift auf Tafel</title>
-            <title resp="ria">Weihinschrift des M. Trebius Secco</title></titleStmt>  
+            </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058475</idno>
@@ -103,7 +104,7 @@
          <change when="2017-09-14" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        </revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F007353.JPG">
@@ -153,6 +154,6 @@
             <div type="commentary">
                 <p> Neue Ergänzung des Gentilizes nach B. Steidl.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Steidl: Die gerahmte Steinplatte (111cm h, 85cm b) trägt trotz eines größeren Inschriftenfeldes nur zwei kurze Zeilen, die jedoch groß und sorgfältig eingemeißelt wurden. Das zugehörige große Monument, welches Iuppiter (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1630/view) geweiht ist, stand vermutlich in einer aedicula oder einem Tempel. Eine Iupitersäule trug das Monument eher nicht.</p><p>Z. 2: TR(ebius)</p><p>Die Abkürzung von einem eigentlich seltenen Gentiliz ist sehr ungewöhnlich. Das oskische Praenomen Trebius, von dem sich das Gentilnomen ableitet, wurde allerdings ebenfalls mit TR abgekürzt. Im Umfeld des ursprünglichen Aufstellungsortes muss die Kurzform der &lt;em&gt;gens &lt;/em&gt;bekannt gewesen sein. Die gleichen Abkürzungen von Trebii finden sich auf zwei weiteren Inschriften aus Raetien: Vgl. Steidl, S. 65-67.</p><p>Das Gentilnomen Trebius und das keltische Cognomen 'Secco' sind aus der &lt;em&gt;regio X Venetia et Histria&lt;/em&gt;, u. a. Aquileia, bekannt. Der Weihende kam wahrscheinlich von dort und brachte das Gentiliz nach Raetien.</p><p>Datierung: Das Schriftbild und die Rahmung deuten auf das 2. Jahrhundert hin.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        </body>
     </text>
 </TEI>

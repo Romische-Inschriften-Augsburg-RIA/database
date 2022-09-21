@@ -4,7 +4,6 @@
         <fileDesc>
             <titleStmt>
                 <title>Grabinschrift</title>
-                <title resp="ria">Grabinschrift eines unbekannten Decurio</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
@@ -134,7 +133,6 @@
             <div type="commentary">
                 <p> Nur handschriftlich überliefert.</p>
             </div>
-            <div type="commentary" resp="ria"><p>"Nur handschriftlich überliefert.</p><p>Der Decurio verstarb wahrscheinlich an seinem ständigen Wohn- und Amtssitz und wurde in den Gräberfeldern außerhalb der Stadt beigesetzt.</p><p>(EDH, JW)</p><p>"</p></div>
         </body>
     </text>
 </TEI>

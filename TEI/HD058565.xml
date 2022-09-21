@@ -1,9 +1,10 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Grabinschrift</title>
-            <title resp="ria">Grabinschrift des Purpurhändlers Tib. Claudius Euphras und seiner Familie</title></titleStmt>  
+            </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058565</idno>
@@ -103,7 +104,7 @@
          <change when="2017-09-29" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -135,6 +136,6 @@
             <div type="commentary">
                 <p> Nur handschriftlich überliefert. (B): ILS; CIL 03, 05824: Z. 1: [d. m. et] perpetuae securit. Tib. Cl. Euph[r]a[tes] IIIIIIvir Aug., nego[t.]; Z. 4: Clau[d.]. ILS: Zeilenfälle nicht angegeben.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Nur handschriftlich überliefert.</p><p>IBR, ILS: Z. 1: [d. m. et] perpetuae securit, AE-Ligatur. Eventuell noch ein ET zwischen ME und SECVRIT Z. 2: Euph[r]a[s] oder Euph[r]a[tes], nego[t.]; Z. 4: Clau[d.]. CIL: Z. 7: ANTIGONO. ILS: Zeilenfälle nicht angegeben.</p><p>Kuhoff: Als Cognomen kommt eher 'Euphrates' infrage, da es häufiger belegt und ein gleichnamiger Tib. Cl. Euphrates in Rom bezeugt ist. Der Augsburger Händler von Luxusgütern war vermutlich ein Nachkomme eines aus Syrien stammenden Freigelassenen des Kaisers Claudius und versorgte einen lokalen, reichen Abnehmerkreis. Er wurde in Raetien sesshaft und heiratete die Einheimische Senilia (einheim. Pseudo-GN) Lasciva. Die Namen der Kinder passen laut Kuhoff zu dem Status eines Freigelassenen. Der Händler beweist, dass das Fernhandelnetz bis nach Augsburg reichte. Er unterhielt vermutlich Kontakte zur Heimat, von wo er seine Purpurwaren bezog.</p><p>Platschek: Die Verortung eines 'Euphrates' in Syrien passt zwar zur dortigen Purpurproduktion, jedoch kam der Name auch andernorts vor (CIL X 2872). Die Lesung 'Euphras' ist nicht abwegig, da der Namen auch in anderen Inschriften erscheint: CIL VI 1057, 1058.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        </body>
     </text>
 </TEI>

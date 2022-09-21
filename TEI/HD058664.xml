@@ -1,9 +1,10 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Ehreninschrift</title>
-            <title resp="ria">Ehreninschrift für Septimius Severus?</title></titleStmt>  
+            </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058664</idno>
@@ -103,7 +104,7 @@
          <change when="2017-10-12" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -132,6 +133,6 @@
             <div type="commentary">
                 <p> Allseitig abgebrochenes Fragment mit dem oberen Rand des Inschriftfeldes, S in Z. 3 unsicher, statt T auch E oder F möglich.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"IBR: Z. 2: TR P statt IMP möglich. S in Z. 3 unsicher, statt T auch E oder F möglich, sacritissimi principis?</p><p>CIL, IBR: Hirschfeld hielt eine Ehrung für Septimius Severus (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1055/view) möglich. Falls TR P korrekt ist, könnte die Inschrift auch ins Jahr 136 (tr. pot. X von Hadrian (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1655/view)) fallen.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        </body>
     </text>
 </TEI>

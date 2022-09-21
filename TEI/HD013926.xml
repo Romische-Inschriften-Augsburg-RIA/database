@@ -1,9 +1,10 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Grabinschrift</title>
-            <title resp="ria">Grabinschrift der Kinder Iulia Leontia und Iulius Leontius</title></titleStmt>  
+            </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD013926</idno>
@@ -103,7 +104,7 @@
          <change when="2017-09-15" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -132,6 +133,6 @@
             <div type="commentary">
                 <p> Mehrere Fragmente. (B): Schillinger-Häfele: Z. 1: [D(is)] M(anibus) et.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Schillinger-Häfele: Z. 1: [D(is)] M(anibus) et.</p><p>Datierung frühestens ins 3. Jahrhundert, eher 4. Jahrhundert, weil das Cognomen ,Leontius/ia' überwiegend in dieser Zeit belegt ist. Altersangaben teils in Ziffern, teils mit ausgeschriebenem Zahlwort finden sich auch sonst (vgl. CIL III 5834).</p><p>Kakoschke: Leontius/ia ist griechischen Ursprungs. Die Belege aus den germanischen Provinzen stammen alle aus späterer Zeit. Eventuell haben die Leontii tatsächlich eine griechische Herkunft.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        </body>
     </text>
 </TEI>

@@ -1,9 +1,10 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Weihinschrift</title>
-            <title resp="ria">Weihinschrift des Statthalters Lutatius</title></titleStmt>  
+            </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058078</idno>
@@ -103,7 +104,7 @@
          <change when="2017-09-06" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -129,6 +130,6 @@
             <div type="commentary">
                 <p> Fragment mit der linken unteren Ecke des Inschriftfeldes. Z. 2: vom T(?) ist der untere Teil einer senkrechten Haste erhalten, statt T auch I möglich.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Die Buchstabenhöhe beträgt 6cm. Wagner: Z.1: A---. Z. 2: LVI(T?), vom T(?) ist der untere Teil einer senkrechten Haste erhalten. Z. 3: Hier muss sicher&lt;em&gt; leg(ionis) III Ital(icae) &lt;/em&gt;folgen.</p><p>Vielleicht ist der hier genannte Legat identisch mit dem bekannten Statthalter und XVvir Appius Claudius Lateranus (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/913/view). Der Namensbestandteil 'Lutatius' wäre für den Procurator allerdings neu.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        </body>
     </text>
 </TEI>

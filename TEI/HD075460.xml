@@ -1,9 +1,10 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Besitzer-/Herstellerinschrift auf Instrumentum domesticum</title>
-            <title resp="ria">Herstellerinschrift des Ianuarius</title></titleStmt>  
+            </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD075460</idno>
@@ -102,7 +103,7 @@
          <change when="2017-11-29" who="Osnabrügge">
              überprüft an Zeichnung
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -128,6 +129,6 @@
             <div type="commentary">
                 <p> Lampenform. Schreibtechnik: geritzt. Kursive Schrift.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Schreibtechnik: geritzt/Graffito. Kursive Schrift.</p><p>Die Inschrift stellt eine Firmenangabe dar.</p><p>Das lateinische Cognomen 'Ianuarius' ist gängig. Es könnte sich auch um eine Latinisierung eines keltischen Nomens handeln.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        </body>
     </text>
 </TEI>

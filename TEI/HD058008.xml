@@ -1,9 +1,10 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Weihinschrift auf Altar</title>
-            <title resp="ria">Weihinschrift für Iuppiter</title></titleStmt>  
+            </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058008</idno>
@@ -103,7 +104,7 @@
          <change when="2017-08-25" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        </revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F020430.JPG">
@@ -150,6 +151,6 @@
             <div type="commentary">
                 <p> Rechter Teil eines Altars.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Die sorgsam eingehauen Buchstaben der&amp;nbsp;Weihinschrift für Iuppiter (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1630/view) betragen in der ersten Zeile 8cm, sonst 4cm.</p><p>Der Text muss an etlichen Stellen mit Formeln ergänz werden. Wagner: Z. 3: weibliches Gentilnomen auf ---ia. Z. 4: weibliches Cognomen auf ---na.</p><p>(JW)</p><p>"</p></div></body>
+        </body>
     </text>
 </TEI>

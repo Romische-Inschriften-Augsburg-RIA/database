@@ -1,9 +1,10 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Grabinschrift auf Architekturteil</title>
-            <title resp="ria">Grabinschrift des Veteranen und ehemaligen Gardereiters Tib. Claudius Victor</title></titleStmt>  
+            </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD072500</idno>
@@ -102,7 +103,7 @@
          <change when="2016-05-30" who="Feraudi">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -128,6 +129,6 @@
             <div type="commentary">
                 <p> Inschriftenblock eines Pfeilergrabmals. Rekonstruierte Höhe des Pfeilergrabmals ca. 6,20 m (Gairhos 72).</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Der Text ist in sorgfältiger Capitalis ohne Ligaturen eingearbeitet worden. Buchstabenhöhe: Z. 1-4: 3,8cm, Z. 5: 3,1cm. Dreiecke als Worttrenner.</p><p>Z. 1: V(eterano). Z. 2. Am Ende Spezifizierung der Kleiderwaren.</p><p>Die Inschrift belegt, dass die berittene Leibgarde des raetischen Statthalters ebenfalls in einem Numerus organisiert war. Nach seiner Entlassung erhielt der Reiter das vielleicht noch nicht vorhandene röm. Bürgerrecht und widmete sich dem Textilhandel, der in Augsburg eine besondere Stellung besaß (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1639/view). Der Name seiner Ehefrau ist ungewöhnlich. Es lassen sich aber Parallelen aus Aquincum finden.</p><p>Datierung: Die Form der Buchstaben, die Formulierungen und Abkürzungen deuten auf die spätantoninische oder severische Zeit hin.</p><p>(JW)</p><p>"</p></div></body>
+        </body>
     </text>
 </TEI>

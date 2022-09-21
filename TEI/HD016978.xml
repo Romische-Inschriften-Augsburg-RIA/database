@@ -1,9 +1,10 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Weihinschrift auf Altar</title>
-            <title resp="ria">Weihinschrift des C. Iulius Avitus Alexianus für Sol Elagabal</title></titleStmt>  
+            </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD016978</idno>
@@ -103,7 +104,7 @@
          <change when="2017-08-04" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        </revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F007389.JPG">
@@ -177,6 +178,6 @@
             <div type="commentary">
                 <p> Drei Fragmente eines Altars mit Bekrönung. Auf der linken Nebenseite Darstellung eines Baumes, auf der Rückseite Gittermuster. (B): Schillinger-Häfele: Z. 6: Titi[alis]; AE 1962; Radnóti: Z. 5/6: soda[l(is) ---] / Titia[l(is) ---]; Z. 7: lega[tus Aug. pr. pr.; Z. 8: prov[inciae Raetiae].</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Schillinger-Häfele: Z. 6: Titi[alis]; AE 1962; Radnóti: Z. 5/6: soda[l(is) ---] / Titia[l(is) ---]; Z. 7: lega[tus Aug. pr. pr.; Z. 8: prov[inciae Raetiae].</p><p>Radnóti: Der Statthalter mit dem Cognomen gr. Herkunft war ein Verwandter, wahrscheinlich der Onkel der beiden jungen Kaiser Elagabal (218-222) und Severus Alexander (222-235). Matijević: Er stammte aus dem syrischen Emesa, und war über seine Frau Julia Maesa, eine Schwester der Iulia Domna, mit der Severischen Dynastie verbunden. Seine Statthalterschaft fand zwischen 196/197 und 198/200 statt. Während seiner Zeit in Rom wurde er Mitglied in dem Kollegium, das den Kult um den vergöttlichten Titus aufrechterhielt. Zu weiteren Stationen seiner langen Karriere: Vgl. Matijević.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        </body>
     </text>
 </TEI>
