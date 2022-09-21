@@ -103,7 +103,7 @@
          <change when="2017-09-29" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -132,6 +132,6 @@
             <div type="commentary">
                 <p> Nur handschriftlich überliefert. Z. 6: überliefert ist ALRINIVS. (B): CIL 03, 05826: Z. 5: meri[tae]</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Nur handschriftlich überliefert.</p><p>IBR, CIL: Z. 6: überliefert ist ALRINIVS, Mommsen schlägt Albinius vor. Z. 5: meri[tae]. Z. 7: CIL: qui et., IBR: quinq(uennalis).</p><p>Kakoschke: Die Ehefrau trägt ein einheimisches Pseudo-Gentilnomen und stammte sicherlich aus Raetien oder dem benachbarten keltischen Gebiet. Bei ihrem Ehemann, dem Decurio und Priester, ist eine Herkunftsangabe schwierig, da 'Albinius' entweder ein italisches oder ein einheimisches Pseudo-Gentilnomen ist.</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"Der Iuvennia Prisca, seiner allerliebsten Ehefrau, die --- sich um ihn sehr verdient machte, (errichtete das Grabmal) Marcus Albinius Felix (?), der Dekurio des municipium, der auch das Priesteramt innehatte und alle Ehrenstellungen im Gemeinwesen bekleidete.</p></div></body>
+        <div type="commentary" resp="ria"><p>"Nur handschriftlich überliefert.</p><p>IBR, CIL: Z. 6: überliefert ist ALRINIVS, Mommsen schlägt Albinius vor. Z. 5: meri[tae]. Z. 7: CIL: qui et., IBR: quinq(uennalis).</p><p>Kakoschke: Die Ehefrau trägt ein einheimisches Pseudo-Gentilnomen und stammte sicherlich aus Raetien oder dem benachbarten keltischen Gebiet. Bei ihrem Ehemann, dem Decurio und Priester, ist eine Herkunftsangabe schwierig, da 'Albinius' entweder ein italisches oder ein einheimisches Pseudo-Gentilnomen ist.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

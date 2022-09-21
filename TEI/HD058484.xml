@@ -103,7 +103,7 @@
          <change when="2017-09-21" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F007355.JPG">
@@ -150,6 +150,6 @@
             <div type="commentary">
                 <p> Die zugehörige Statue wurde ebenfalls gefunden: IBR tab. 15, ad 103. Z. 1: RI-Ligatur; Haste senkrecht auf dem oberen Bogen des R; Z. 3: NN-Ligatur.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Z. 1: RI-Ligatur (Haste senkrecht auf dem oberen Bogen des R). Z. 3: NN-Ligatur.</p><p>Klein: Die Spolien dürften aus einem Merkurheiligtum stammen, das an der römischen Fernstraße zur Donau lag.</p><p>Kakoschke: Das Cognomen des Weihenden ist keltischen Ursprungs. Er war ein Einheimischer aus Rätien oder dem benachbarten keltischen Raum.</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"Dem Merkur (stiftete dies) gemäß seinem Gelübde Publius Aelius Senno, der den Tempel und das Götterbild (errichten ließ). Er löste (sein Gelübde) bereitwillig, freudig und nach Verdienst ein.</p></div></body>
+        <div type="commentary" resp="ria"><p>"Z. 1: RI-Ligatur (Haste senkrecht auf dem oberen Bogen des R). Z. 3: NN-Ligatur.</p><p>Klein: Die Spolien dürften aus einem Merkurheiligtum stammen, das an der römischen Fernstraße zur Donau lag.</p><p>Kakoschke: Das Cognomen des Weihenden ist keltischen Ursprungs. Er war ein Einheimischer aus Rätien oder dem benachbarten keltischen Raum.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

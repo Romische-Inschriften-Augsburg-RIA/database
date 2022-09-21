@@ -102,7 +102,7 @@
          <change when="2017-11-23" who="Osnabrügge">
              provisorisch bearbeitet
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -128,6 +128,6 @@
             <div type="commentary">
                 <p> Schreibtechnik: gestempelt.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Schreibtechnik: gestempelt.</p><p>AE: Die Buchstaben DKN könnten für DION(is) stehen, mit einem I und einem nach rechts offenen O, welche zusammen mit N eine Ligatur bilden.</p><p>Datierung: Gemäß der umliegenden archäologischen Funde frühestens 215 n. Chr.</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"des Caius Iulius Dion?</p></div></body>
+        <div type="commentary" resp="ria"><p>"Schreibtechnik: gestempelt.</p><p>AE: Die Buchstaben DKN könnten für DION(is) stehen, mit einem I und einem nach rechts offenen O, welche zusammen mit N eine Ligatur bilden.</p><p>Datierung: Gemäß der umliegenden archäologischen Funde frühestens 215 n. Chr.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

@@ -103,7 +103,7 @@
          <change when="2017-09-29" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F035382.JPG">
@@ -150,6 +150,6 @@
             <div type="commentary">
                 <p> Giebelstele; Text 1 befindet sich im Giebel. Zwei aneinanderpassende Fragmente. Z. 2: VR-, ATI-Ligatur; Z. 11: VR-, VE-Ligatur.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Z. 1: D M ET befindet sich im Giebel. Z. 2: AE-, VR-, ATI-Ligatur. Z. 11: VR-, VE-, NT-Ligatur.</p><p>Das Kind und die Ehefrau tragen ein italisches Gentilnomen, dennoch geht Kakoschke davon aus, dass die Familie Einheimische aus Raetien oder dem benachbarten keltischen Gebieten waren.</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"Den Totengöttern und der ewigen Sorgenfreiheit. Dem Crassicius Constantinus, ihrem allersüßesten Kind, der sieben Jahre lebte, ließen seine Eltern Aelius Aelianus und Crassicia Ursa (das Grabmal) errichten.</p></div></body>
+        <div type="commentary" resp="ria"><p>"Z. 1: D M ET befindet sich im Giebel. Z. 2: AE-, VR-, ATI-Ligatur. Z. 11: VR-, VE-, NT-Ligatur.</p><p>Das Kind und die Ehefrau tragen ein italisches Gentilnomen, dennoch geht Kakoschke davon aus, dass die Familie Einheimische aus Raetien oder dem benachbarten keltischen Gebieten waren.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

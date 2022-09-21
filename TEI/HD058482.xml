@@ -103,7 +103,7 @@
          <change when="2018-03-16" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F007354.JPG">
@@ -156,6 +156,6 @@
             <div type="commentary">
                 <p> Altar, corona abgeschlagen. (B): ILS: fehlender Zeilenfall Z. 4/5.</p>
             </div>
-        <div type="translation"><p>"Zur Ehre des Kaiserhauses setzte die Kultgenossenschaft der Marsverehrer dem Mars und der Victoria (diesen Altar). Sie löste das Gelübde bereitwillig, freudig und nach Gebühr ein.</p></div><div type="commentary" resp="ria"><p>"ILS: fehlender Zeilenfall Z. 4/5.</p><p>Gottlieb: Ehemalige oder aktive Soldaten stifteten den Stein für ihre Lieblingsgottheiten. Andererseits können Weihungen für für Mars (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1633/view) und Victoria (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1622/view) vielleicht auf Kriegsereignisse, militärische Erfolge und glückliche Rückkehr schließen lassen.</p><p>Die Inschrift steht wahrscheinlich in Verbindung zu dem Mars- und Victoria-Tempel, von dem wir wissen, dass er im 3. Jahrhundert wiederhergestellt wurde: HD058663.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"ILS: fehlender Zeilenfall Z. 4/5.</p><p>Gottlieb: Ehemalige oder aktive Soldaten stifteten den Stein für ihre Lieblingsgottheiten. Andererseits können Weihungen für für Mars (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1633/view) und Victoria (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1622/view) vielleicht auf Kriegsereignisse, militärische Erfolge und glückliche Rückkehr schließen lassen.</p><p>Die Inschrift steht wahrscheinlich in Verbindung zu dem Mars- und Victoria-Tempel, von dem wir wissen, dass er im 3. Jahrhundert wiederhergestellt wurde: HD058663.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

@@ -103,7 +103,7 @@
          <change when="2017-11-22" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F035385.JPG">
@@ -147,6 +147,6 @@
             <div type="commentary">
                 <p> Giebelstele mit Büsten zweier Frauen und eines Mannes. Z. 8 ist durch eine große runde Vertiefung beschädigt, die beinahe den ganzen unteren Teil des Inschriftenfeldes ausfüllt. Z. 1: ET-Ligatur; Z. 2: VAE-, ATI-Ligatur; Z. 5: AE-, RI(?)-Ligatur. (B): Z. 5: IBR: socr(u)s; CIL: I nicht gelesen.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Z. 8 ist durch eine große runde Vertiefung beschädigt, die beinahe den ganzen unteren Teil des Inschriftenfeldes ausfüllt. Z. 1: ET-Ligatur; Z. 2: VAE-, ATI-Ligatur; Z. 5: AE-, RI(?)-Ligatur, IBR: socr(u)s, CIL: I nicht gelesen.</p><p>Kakoschke: Der Schwiegervater des ---ctus trägt ein keltisches Cognomen. Wahrscheinlich kamen Pusinna und ihre Eltern aus Raetien oder dem benachbarten keltischen Gebiet.</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"Den Totengötter und der ewigen Sorgenfreiheit. Zum Gedenken an seine Schwiegereltern Pusintus und Victorina sowie seiner allersüßesten Ehefrau Pusinna --- --ctus ---</p></div></body>
+        <div type="commentary" resp="ria"><p>"Z. 8 ist durch eine große runde Vertiefung beschädigt, die beinahe den ganzen unteren Teil des Inschriftenfeldes ausfüllt. Z. 1: ET-Ligatur; Z. 2: VAE-, ATI-Ligatur; Z. 5: AE-, RI(?)-Ligatur, IBR: socr(u)s, CIL: I nicht gelesen.</p><p>Kakoschke: Der Schwiegervater des ---ctus trägt ein keltisches Cognomen. Wahrscheinlich kamen Pusinna und ihre Eltern aus Raetien oder dem benachbarten keltischen Gebiet.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

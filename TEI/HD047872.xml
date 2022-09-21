@@ -100,7 +100,7 @@
          <change when="2017-11-23" who="Osnabrügge">
              überprüft an Zeichnung
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -129,6 +129,6 @@
             <div type="commentary">
                 <p> Oberteil einer Amphore (Dressel 9 sim.). Die Inschrift befindet sich auf dem Hals zwischen den Henkeln. Schreibtechnik: gemalt. (B): AE 2000: Z. 3: T[---].</p>
             </div>
-        <div type="translation"><p>"Vortreffliche Fischsauce des Titus ---</p></div><div type="commentary" resp="ria"><p>"Die Inschrift befindet sich auf dem Hals zwischen den Henkeln. Schreibtechnik: gemalt. AE: Z. 3: T[---].</p><p>Ehmig: Die Amphore aus dem mittleren Rhônetal belegt, dass hispanische Fischsaucen von augusteischer Zeit bis ins frühe 3. Jahrhundert nicht immer im Herstellungsort in Amphoren abgefüllt wurden, sondern teilweise zur Einsparung von Kosten vorerst in großen Paketen transportiert und bei einer Zwischenstation in lokal produzierte Gefäße umgefüllt wurden. Die Warenqualität spielte dabei keine Rolle. Das Attribut excellens ist bisher nur bei dem hochwertigen garum scombri bekannt, allerdings wurde dieses stets im Produktionsort abgefüllt. Andernfalls wird garum fast immer mit flos gekennzeichnet. In der untersten Zeile ist nur das Praenomen Titus erhalten. Auf Amphoren des mittleren Rhônetals werden die Transporteure oft mit den tria nomina abgekürzt.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"Die Inschrift befindet sich auf dem Hals zwischen den Henkeln. Schreibtechnik: gemalt. AE: Z. 3: T[---].</p><p>Ehmig: Die Amphore aus dem mittleren Rhônetal belegt, dass hispanische Fischsaucen von augusteischer Zeit bis ins frühe 3. Jahrhundert nicht immer im Herstellungsort in Amphoren abgefüllt wurden, sondern teilweise zur Einsparung von Kosten vorerst in großen Paketen transportiert und bei einer Zwischenstation in lokal produzierte Gefäße umgefüllt wurden. Die Warenqualität spielte dabei keine Rolle. Das Attribut excellens ist bisher nur bei dem hochwertigen garum scombri bekannt, allerdings wurde dieses stets im Produktionsort abgefüllt. Andernfalls wird garum fast immer mit flos gekennzeichnet. In der untersten Zeile ist nur das Praenomen Titus erhalten. Auf Amphoren des mittleren Rhônetals werden die Transporteure oft mit den tria nomina abgekürzt.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

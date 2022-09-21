@@ -103,7 +103,7 @@
          <change when="2020-02-05" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F035397.JPG">
@@ -159,6 +159,6 @@
             <div type="commentary">
                 <p> Zwei nicht aneinanderpassende Fragmente. In der Oberseite Zapflöcher. Die angegebene Fundstelle bezieht sich auf das linke Fragment, das 1963 gefunden wurde, die Maße beziehen sich auf beide Fragmente zusammen. Fundort rechtes Fragment (IBR 117; CIL 03, 05806): bei S. Ulrich und Afra. Z. 1: statt ded(icavit?) auch ded(icatum) denkbar. Nach Nuber könnten die folgenden Inschriften mit der Vorliegenden zu einer Gesamtinschrift zu verbinden sein: http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058075; http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058646; http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058658.</p>
             </div>
-        <div type="translation"><p>"--- weihte (dies) am Tag vor den Iden des Oktober, als Gentianus und Bassus Konsuln waren, ---</p></div><div type="commentary" resp="ria"><p>"CIL: Große und sorgfältig eingehauene Buchstaben. Z. 1: statt ded(icavit?) auch ded(icatum) denkbar.</p><p>Nach Nuber könnten die folgenden Inschriften mit der Vorliegenden zu einer Gesamtinschrift zu verbinden sein: HD058075, HD058658.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"CIL: Große und sorgfältig eingehauene Buchstaben. Z. 1: statt ded(icavit?) auch ded(icatum) denkbar.</p><p>Nach Nuber könnten die folgenden Inschriften mit der Vorliegenden zu einer Gesamtinschrift zu verbinden sein: HD058075, HD058658.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

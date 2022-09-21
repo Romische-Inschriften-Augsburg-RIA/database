@@ -103,7 +103,7 @@
          <change when="2017-10-04" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
 
@@ -141,6 +141,6 @@
             <div type="commentary">
                 <p> Über der Inschrift Nische mit Büste des Verstorbenen. In Z. 4 zu Beginn noch der obere linke Bogen eines C oder G, dahinter noch Ansätze von nicht identifizierbaren Buchstaben. (B): Z. 4: nicht gelesen.</p>
             </div>
-        <div type="translation"><p>"Den Totengöttern und dem Andenken, dem Licin--- C--- ----</p></div><div type="commentary" resp="ria"><p>"In Z. 4 zu Beginn noch der obere linke Bogen eines C oder G, dahinter noch Ansätze von nicht identifizierbaren Buchstaben. IBR, CIL: Z. 4: nicht gelesen.</p><p>Das Gentilnomen lautet vermutlich 'Licinius'.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"In Z. 4 zu Beginn noch der obere linke Bogen eines C oder G, dahinter noch Ansätze von nicht identifizierbaren Buchstaben. IBR, CIL: Z. 4: nicht gelesen.</p><p>Das Gentilnomen lautet vermutlich 'Licinius'.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

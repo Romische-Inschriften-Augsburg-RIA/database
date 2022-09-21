@@ -103,7 +103,7 @@
          <change when="2017-09-06" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
 
@@ -144,6 +144,6 @@
             <div type="commentary">
                 <p> Reste von roter Farbe in den Buchstaben, Altersangabe nach Wagner nur aufgemalt. In Z. 1 kleines V zwischen C u. S? Z. 3/4 auch 'ann(os) LXXXX / testamento fie/[ri iussit ---' möglich. Die Inschrift wurde 1925 beim Umbau des Hauses Frauentorstr. 51 wiedergefunden. (B): IBR 143: Z. 2: Lugudunens; Z. 3: ex nicht wiedergegeben; Z. 4: testamento f(ieri) i(ussit); Wagner: Z. 1: Rustic(us).</p>
             </div>
-        <div type="commentary" resp="ria"><p>"In Z. 1 Rustic(us), kleines V zwischen C u. S? IBR 143: Z. 2: Lugudunens; eine ältere Lesung IVGVRTINAE. Wagner: Z. 3/4 LXX [ex]?, auch 'ann(os) LXXXX / testamento fie/[ri iussit ---' möglich. Die Altersangabe wurde aufgemalt und nicht eingemeißelt.</p><p>Wagner: Bei der erwähnten Heimat des Rusticus kommt das heutige Lyon, schwerlich das Lugdunum im Bataverland infrage.</p><p>Datierung: 1. Jahrhundert.</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"Lucius Valerius Rusticus aus Lugdunum. Er lebte 70 Jahre. Gemäß seinem Testament errichtete (das Grabmal) sein Sohn.</p></div></body>
+        <div type="commentary" resp="ria"><p>"In Z. 1 Rustic(us), kleines V zwischen C u. S? IBR 143: Z. 2: Lugudunens; eine ältere Lesung IVGVRTINAE. Wagner: Z. 3/4 LXX [ex]?, auch 'ann(os) LXXXX / testamento fie/[ri iussit ---' möglich. Die Altersangabe wurde aufgemalt und nicht eingemeißelt.</p><p>Wagner: Bei der erwähnten Heimat des Rusticus kommt das heutige Lyon, schwerlich das Lugdunum im Bataverland infrage.</p><p>Datierung: 1. Jahrhundert.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

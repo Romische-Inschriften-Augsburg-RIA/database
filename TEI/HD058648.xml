@@ -103,7 +103,7 @@
          <change when="2017-10-04" who="Osnabrügge">
              überprüft an Zeichnung
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -135,6 +135,6 @@
             <div type="commentary">
                 <p> Nur handschriftlich überliefert. Links neben der Inschrift und auf der linken Nebenseite Pflanzenornamente.</p>
             </div>
-        <div type="translation"><p>"Quintuc Sec--- --- Caius Satur---</p></div><div type="commentary" resp="ria"><p>"Nur handschriftlich überliefert.</p><p>(EDH)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"Nur handschriftlich überliefert.</p><p>(EDH)</p><p>"</p></div></body>
     </text>
 </TEI>

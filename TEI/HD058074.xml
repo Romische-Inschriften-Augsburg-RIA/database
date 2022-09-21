@@ -103,7 +103,7 @@
          <change when="2017-08-25" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F035551.JPG">
@@ -144,6 +144,6 @@
             <div type="commentary">
                 <p> Über der Inschrift Reliefbüste des Verstorbenen. Gamer - Rüsch: keine Wiedergabe der Inschrift.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Die Buchstabenhöhe beträgt 4,2-4,6cm. Gamer - Rüsch: keine Wiedergabe der Inschrift.</p><p>Wagner: Der Zenturio mit griechischer Herkunft erhielt seine Stellung in der 3. Italischen Legion vielleicht während des Partherfeldzuges (215/217?).</p><p>Datierung: AE: Zu Zeiten des Probus (276-281 n. Chr.)</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"Dem Septimius Chaereas, dem Zenturio der 3. Italischen Legion, seinem liebenswürdigsten Vater errichtete (das Grabmal) Septimius Archelaus, sein Sohn.</p></div></body>
+        <div type="commentary" resp="ria"><p>"Die Buchstabenhöhe beträgt 4,2-4,6cm. Gamer - Rüsch: keine Wiedergabe der Inschrift.</p><p>Wagner: Der Zenturio mit griechischer Herkunft erhielt seine Stellung in der 3. Italischen Legion vielleicht während des Partherfeldzuges (215/217?).</p><p>Datierung: AE: Zu Zeiten des Probus (276-281 n. Chr.)</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

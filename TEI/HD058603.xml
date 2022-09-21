@@ -103,7 +103,7 @@
          <change when="2017-12-14" who="Osnabrügge">
              überprüft an Zeichnung
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
 
@@ -144,6 +144,6 @@
             <div type="commentary">
                 <p> Z. 4: überliefert ist am Ende der Zeile H S I. Die Zeichnung zeigt eine Stele mit Rundgiebel über dem Inschriftfeld, darin Rosette, unterhalb des Inschriftfeldes Rundbogennische ohne Inhalt. (B): CIL 03, 05831: kleinere Leseabweichungen.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Die Zeilen 1-2 bereiten bei der Lesung größere Probleme. IBR, CIL: C. Iuli, Silani liberti, Liberti(i)? oder C. Iuli Silani L. Primigeni? Z. 4: I statt ein E für 'est'.</p><p>Zeitweise wurde 'C. Iulius Silanus' als Patron eines hier verstorbenen Freigelassenen gelesen und mit dem gleichnamigen Suffektkonsul von 92 n. Chr. identifiziert, allerdings widerlegte dies Eck. Spitzlberger: Vielleicht ist er identisch mit dem auf einem Augsburger Ziegeleiprodukt belegten Privatziegler C. Iul. S[-].</p><p>Die Übersetzung folgt der Angabe bei Dietz/Weber.</p><p>Der Verstorbene gehörte in jedem Fall zum keltischen Volksstamm der Bituriger (Cubi oder Vivisci?).</p><p>(JW)</p><p>"</p></div><div type="translation"><p>"--- des Gaius Iulius Libertus, des Freigelassenen des Silanus, der Herkunft nach ein Bituriger, gestorben im Alter von 18 Jahren. Hier ist er beigesetzt.</p></div></body>
+        <div type="commentary" resp="ria"><p>"Die Zeilen 1-2 bereiten bei der Lesung größere Probleme. IBR, CIL: C. Iuli, Silani liberti, Liberti(i)? oder C. Iuli Silani L. Primigeni? Z. 4: I statt ein E für 'est'.</p><p>Zeitweise wurde 'C. Iulius Silanus' als Patron eines hier verstorbenen Freigelassenen gelesen und mit dem gleichnamigen Suffektkonsul von 92 n. Chr. identifiziert, allerdings widerlegte dies Eck. Spitzlberger: Vielleicht ist er identisch mit dem auf einem Augsburger Ziegeleiprodukt belegten Privatziegler C. Iul. S[-].</p><p>Die Übersetzung folgt der Angabe bei Dietz/Weber.</p><p>Der Verstorbene gehörte in jedem Fall zum keltischen Volksstamm der Bituriger (Cubi oder Vivisci?).</p><p>(JW)</p><p>"</p></div></body>
     </text>
 </TEI>

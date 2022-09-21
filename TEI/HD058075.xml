@@ -103,7 +103,7 @@
          <change when="2020-02-05" who="Osnabrügge">
              überprüft an Zeichnung
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -141,6 +141,6 @@
             <div type="commentary">
                 <p> Fragment mit dem unteren Rand des Monuments. Zunächst verschollen, jedoch 1944 in der Peutingerstr. 5 vermauert wieder aufgefunden. Zu Beginn noch der untere Ansatz einer Haste mit Serife. Nach Nuber könnten die folgenden Inschriften mit der Vorliegenden zu einer Gesamtinschrift zu verbinden sein: http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058505; http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058646; http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058658.</p>
             </div>
-        <div type="translation"><p>"---,</p></div><div type="commentary" resp="ria"><p>"Die Buchstabenhöhe beträgt 14,4cm. Zu Beginn noch der untere Ansatz einer Haste mit Serife. Nach Nuber könnten die folgenden Inschriften mit der Vorliegenden zu einer Gesamtinschrift zu verbinden sein: HD058505, HD058646, HD058658.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"Die Buchstabenhöhe beträgt 14,4cm. Zu Beginn noch der untere Ansatz einer Haste mit Serife. Nach Nuber könnten die folgenden Inschriften mit der Vorliegenden zu einer Gesamtinschrift zu verbinden sein: HD058505, HD058646, HD058658.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

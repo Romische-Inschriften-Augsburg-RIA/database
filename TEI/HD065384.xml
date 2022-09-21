@@ -103,7 +103,7 @@
          <change when="2017-11-23" who="Osnabrügge">
              provisorisch bearbeitet
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -132,6 +132,6 @@
             <div type="commentary">
                 <p> Terra sigillata. Schreibtechnik: gestempelt. Fundjahr: zwischen 1986 und 1994.</p>
             </div>
-        <div type="translation"><p>"Carantus hat (das) gemacht.</p></div><div type="commentary" resp="ria"><p>"Terra sigillata, in Ittenweiler hergestellt. Schreibtechnik: gestempelt.</p><p>Kakoschke: 'Carantus' ist ein keltisches Cognomen. Der Töpfer stammte sicherlich aus Raetien oder dem benachbarten keltischen Raum. Ein gleichnamiger, möglichweise identischer Produzent von Reibschalen ist aus Günzburg bekannt.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"Terra sigillata, in Ittenweiler hergestellt. Schreibtechnik: gestempelt.</p><p>Kakoschke: 'Carantus' ist ein keltisches Cognomen. Der Töpfer stammte sicherlich aus Raetien oder dem benachbarten keltischen Raum. Ein gleichnamiger, möglichweise identischer Produzent von Reibschalen ist aus Günzburg bekannt.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

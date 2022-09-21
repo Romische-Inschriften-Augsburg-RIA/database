@@ -103,7 +103,7 @@
          <change when="2017-11-23" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -132,6 +132,6 @@
             <div type="commentary">
                 <p> Scherbe einer Amphore (Form Camulodunum 189). Schreibtechnik: gemalt.</p>
             </div>
-        <div type="translation"><p>"Feigen</p></div><div type="commentary" resp="ria"><p>"Schreibtechnik: gemalt.</p><p>Ehmig: Die Amphore enthielt cottana, die laut Plinius (nat. I 13; XIII 10,51; XV 21,83) in Syrien wuchsen. Da die verpackende Amphore häufig im Anbaugebiet produziert wurde, stammte sie womöglich ebenfalls aus Syrien. Das Fundobjekt aus Augsburg widerlegte die These, dass Ampohren des Camulodunum 189-Typs stets ägyptische Datteln in sich bargen.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"Schreibtechnik: gemalt.</p><p>Ehmig: Die Amphore enthielt cottana, die laut Plinius (nat. I 13; XIII 10,51; XV 21,83) in Syrien wuchsen. Da die verpackende Amphore häufig im Anbaugebiet produziert wurde, stammte sie womöglich ebenfalls aus Syrien. Das Fundobjekt aus Augsburg widerlegte die These, dass Ampohren des Camulodunum 189-Typs stets ägyptische Datteln in sich bargen.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

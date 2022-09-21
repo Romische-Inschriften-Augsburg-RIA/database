@@ -103,7 +103,7 @@
          <change when="2017-08-25" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -129,6 +129,6 @@
             <div type="commentary">
                 <p> Erhalten ist der Teil des Steines, der zu einer Weihwasserschale umgearbeitet wurde.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Die Buchstabenhöhe beträgt 6,2cm. Wagner: Z. 1: [Sept]imi Seve[ri]. Z. 2: --- G.....D ---, vielleich zu ergänzen zu [Au]g(usto) [Arab(ico) A]d[iab(enico)] [ Z. 4: --- s ---</p><p>Datierung: Severische Zeit. Wenn Wagner die zweite Zeile richtig ergänzt hat, wurde die Inschrift unter Caracalla gestiftet.</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"--- des Septimius Severus ---</p></div></body>
+        <div type="commentary" resp="ria"><p>"Die Buchstabenhöhe beträgt 6,2cm. Wagner: Z. 1: [Sept]imi Seve[ri]. Z. 2: --- G.....D ---, vielleich zu ergänzen zu [Au]g(usto) [Arab(ico) A]d[iab(enico)] [ Z. 4: --- s ---</p><p>Datierung: Severische Zeit. Wenn Wagner die zweite Zeile richtig ergänzt hat, wurde die Inschrift unter Caracalla gestiftet.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

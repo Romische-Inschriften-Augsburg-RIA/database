@@ -103,7 +103,7 @@
          <change when="2017-08-04" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -132,6 +132,6 @@
             <div type="commentary">
                 <p> Glasschale mit eingravierter Darstellung des Sündenfalls, Adam links, Eva rechts. Oben mittig Chi-Rho. Schreibtechnik: geritzt. Die Inschrift befindet sich auf dem Rand, im Uhrzeigersinn umlaufend. Datierung: Nach den Münzen im Fundkontext konstantinisch.</p>
             </div>
-        <div type="translation"><p>"Lebe in Gott, sei ehrfürchtig und du wirst leben!</p></div><div type="commentary" resp="ria"><p>"Bakker: Augrund der Ritztechnik und der Form gehört die Schale zur Wint-Hill-Gruppe, die für Jagdszenen und Darstellungen aus der Mythologie sowie des frühen Christentums bekannt ist und aus einer Kölner Werkstatt stammt. Ein Grab in Köln brachte eine ähnliche Schale zutage, die die Inschrift GAVDIAS IN DEO PIE Z trägt.</p><p>Datierung: Die Münzen und das Christogramm deuten auf eine Entstehungszeit um 340/350 hin. Es ist das älteste Zeugnis für das Christentum in Augsburg.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"Bakker: Augrund der Ritztechnik und der Form gehört die Schale zur Wint-Hill-Gruppe, die für Jagdszenen und Darstellungen aus der Mythologie sowie des frühen Christentums bekannt ist und aus einer Kölner Werkstatt stammt. Ein Grab in Köln brachte eine ähnliche Schale zutage, die die Inschrift GAVDIAS IN DEO PIE Z trägt.</p><p>Datierung: Die Münzen und das Christogramm deuten auf eine Entstehungszeit um 340/350 hin. Es ist das älteste Zeugnis für das Christentum in Augsburg.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

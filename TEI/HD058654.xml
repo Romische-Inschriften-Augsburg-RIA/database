@@ -103,7 +103,7 @@
          <change when="2017-10-04" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -132,6 +132,6 @@
             <div type="commentary">
                 <p/>
             </div>
-        <div type="commentary" resp="ria"><p>"Ob ein Zusammenhang mit der parallel entdeckten&amp;nbsp;Inschrift HD058640 besteht, ist unklar. Vollmer konnte den Stein im Museum nicht finden.</p><p>(JW)</p><p>"</p></div><div type="translation"><p>"--- ---cundius ---</p></div></body>
+        <div type="commentary" resp="ria"><p>"Ob ein Zusammenhang mit der parallel entdeckten&amp;nbsp;Inschrift HD058640 besteht, ist unklar. Vollmer konnte den Stein im Museum nicht finden.</p><p>(JW)</p><p>"</p></div></body>
     </text>
 </TEI>

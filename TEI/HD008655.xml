@@ -103,7 +103,7 @@
          <change when="2017-08-23" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F035408.JPG">
@@ -144,6 +144,6 @@
             <div type="commentary">
                 <p> Der Block gehörte zu einem Grabmonument. Die Inschrift befindet sich in einem Inschriftfeld in Form einer tabula ansata, rechte ansa erhalten. (B): Radnoti-Alföldi u. a.: Z. 2: MAR.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Die Inschrift befindet sich in einem Inschriftfeld in Form einer tabula ansata, rechte ansa erhalten. Radnoti-Alföldi u. a.: Z. 2: MAR.</p><p>Marcellus war Kommandant der vornehmsten raetischen Reitereinheit. Die 30 Dienstjahre, die er wohl zum großen Teil in Aalen,&lt;br /&gt;</p><p>dem Standort der Schwadron, verbracht hat, sind ungewöhnlich. Nach seiner Pensionierung kam er in die Provinzhauptstadt Augsburg.</p><p>AE, Radnoti-Alföldi: Datierung auf das Ende des 2. Jahrhunderts.</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"Den Totengöttern des [-] Marius Marcellus, des Veteranen und ehemaligen Dekurio der ala II Flavia in 1000er-Stärke.</p></div></body>
+        <div type="commentary" resp="ria"><p>"Die Inschrift befindet sich in einem Inschriftfeld in Form einer tabula ansata, rechte ansa erhalten. Radnoti-Alföldi u. a.: Z. 2: MAR.</p><p>Marcellus war Kommandant der vornehmsten raetischen Reitereinheit. Die 30 Dienstjahre, die er wohl zum großen Teil in Aalen,&lt;br /&gt;</p><p>dem Standort der Schwadron, verbracht hat, sind ungewöhnlich. Nach seiner Pensionierung kam er in die Provinzhauptstadt Augsburg.</p><p>AE, Radnoti-Alföldi: Datierung auf das Ende des 2. Jahrhunderts.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

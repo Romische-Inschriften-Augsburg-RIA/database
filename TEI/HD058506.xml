@@ -103,7 +103,7 @@
          <change when="2017-09-22" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -132,6 +132,6 @@
             <div type="commentary">
                 <p> Nur handschriftlich überliefert. Divus Traianus = Divus Traianus pater.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Nur handschriftlich überlieferte Ehreninschrift für Mindia Matidia. Divus Traianus = Divus Traianus pater.</p><p>Kuhoff: Eventuell steht die Inschrift für die Großnichte Traians in Zusammenhang mit einem Aufenthalt vor Ort.</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"Der Matidia, der Tochter der göttlichen, erlauchten Matidia, der Enkelin der göttlichen, erlauchten Marciana, der Urenkelin des göttlichen Trajan, der Schwester der göttlichen Sabina, der Gemahlin des erlauchten Hadrian ---</p></div></body>
+        <div type="commentary" resp="ria"><p>"Nur handschriftlich überlieferte Ehreninschrift für Mindia Matidia. Divus Traianus = Divus Traianus pater.</p><p>Kuhoff: Eventuell steht die Inschrift für die Großnichte Traians in Zusammenhang mit einem Aufenthalt vor Ort.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

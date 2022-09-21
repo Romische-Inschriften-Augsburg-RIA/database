@@ -103,7 +103,7 @@
          <change when="2019-10-23" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F020391.JPG">
@@ -161,6 +161,6 @@
             <div type="commentary">
                 <p> Vier aneinanderpassende Fragmente eines Altars. AE 1998; Bakker 1998; Bakker 2000: keine Wiedergabe der Inschrift. Z. 3: M am Zeilenende mit weit ausgezogener rechter unterer Serife. (B): AE 2001: Z. 2 u. 5: Ser(gia); Z. 8: ei&amp;lt;u&amp;gt;sdem.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Z. 3: M am Zeilenende mit weit ausgezogener rechter unterer Serife. Z. 2 u. 5: Ser(gia); Z. 8: ei&amp;lt;u&amp;gt;sdem.</p><p>Der Grabstein wurde von dem Stadtrat M. Buccinius Saturninus für seinen Onkel M. Buccinius Melo, ebenfalls Stadtrat von Augusta Vindelicum, errichtet.</p><p>Kakoschke: 'Buccinius' ist ein einheimisches Pseudo-Gentilnomen, das von dem keltischen Namen Buccus abgeleitet wurde. Saturninus und Melo kamen wahrscheinlich aus Rätien oder dem benachbarten keltischen Raum.</p><p>Bakker, AE: Datierung in die Mitte des 2. Jahrhunderts.</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"Den Totengöttern und dem Marcus Buccinius Melo, zugehörig zum Stimmbezirk Sergia, dem Dekurio des municipium Aelium Augusta, ließ (das Grabmal) errichten Marcus Buccinius Saturninus, zugehörig zum Stimmbezirk Sergia, Dekurio desselben municipium, als Erbe seinem Onkel väterlicherseits.</p></div></body>
+        <div type="commentary" resp="ria"><p>"Z. 3: M am Zeilenende mit weit ausgezogener rechter unterer Serife. Z. 2 u. 5: Ser(gia); Z. 8: ei&amp;lt;u&amp;gt;sdem.</p><p>Der Grabstein wurde von dem Stadtrat M. Buccinius Saturninus für seinen Onkel M. Buccinius Melo, ebenfalls Stadtrat von Augusta Vindelicum, errichtet.</p><p>Kakoschke: 'Buccinius' ist ein einheimisches Pseudo-Gentilnomen, das von dem keltischen Namen Buccus abgeleitet wurde. Saturninus und Melo kamen wahrscheinlich aus Rätien oder dem benachbarten keltischen Raum.</p><p>Bakker, AE: Datierung in die Mitte des 2. Jahrhunderts.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

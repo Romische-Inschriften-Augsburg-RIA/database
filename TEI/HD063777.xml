@@ -104,7 +104,7 @@
          <change when="2020-02-05" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F035525.JPG">
@@ -148,6 +148,6 @@
             <div type="commentary">
                 <p> Die angegebenen Maße beziehen sich auf den Sarkophag mit Deckel. Auf der Hauptseite Inschriftenfeld, flankiert von peltae. Blattförmige hedera als Worttrenner in Z. 1. In Z. 1 u 2 ist damit begonnen worden, diese auszumeißeln Nuber: keine Wiedergabe der Inschrift. (B): AE 2011: Z. 2: securit(ati); Spieß: Z. 1/2: Eradierung nicht gekennzeichnet, aber im Kommentar angegeben; Z. 2: securit(ati).</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Blattförmige hedera als Worttrenner in Z. 1. In Z. 1 und 2 ist damit begonnen worden, diese auszumeißeln.</p><p>AE 2011: Z. 2: securit(ati). Z. 3. Campiae? Spieß: Z. 1/2: Eradierung nicht gekennzeichnet, aber im Kommentar angegeben; Z. 2: securit(ati).</p><p>Kakoschke: Die verstorbene Ehefrau trägt das italische oder einheimische Pseudo-Gentilnomen 'Campania' und ist vermutlich eine Einheimische aus Raetien oder dem benachbarten keltischen Gebiet. Der Stifter trägt ebenfalls ein einheimisches Pseudo-Gentilnomen und stammt aus demselben Raum.</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"Den Totengöttern und der ewigen Sorgenfreiheit. Der treusorgendsten Ehefrau Campina Faustina ließ der Ehemann Caius Frequentius Saturninus (das Grabmal) errichten.</p></div></body>
+        <div type="commentary" resp="ria"><p>"Blattförmige hedera als Worttrenner in Z. 1. In Z. 1 und 2 ist damit begonnen worden, diese auszumeißeln.</p><p>AE 2011: Z. 2: securit(ati). Z. 3. Campiae? Spieß: Z. 1/2: Eradierung nicht gekennzeichnet, aber im Kommentar angegeben; Z. 2: securit(ati).</p><p>Kakoschke: Die verstorbene Ehefrau trägt das italische oder einheimische Pseudo-Gentilnomen 'Campania' und ist vermutlich eine Einheimische aus Raetien oder dem benachbarten keltischen Gebiet. Der Stifter trägt ebenfalls ein einheimisches Pseudo-Gentilnomen und stammt aus demselben Raum.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

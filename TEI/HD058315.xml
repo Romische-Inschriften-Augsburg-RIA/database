@@ -103,7 +103,7 @@
          <change when="2017-09-06" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -135,6 +135,6 @@
             <div type="commentary">
                 <p> Die Inschrift wurde 1934 im Dom, an der Ostseite des zweiten nördlichen Mittelpfeilers (vom Ostchor aus nach Westen gezählt) unterhalb des Kämpfers vermauert, wiedergefunden, derzeit unzugänglich. Wagner: keine Wiedergabe der Inschrift.</p>
             </div>
-        <div type="translation"><p>"Der Claudia Lucana ? gemäß dem Testament ihres Vaters Publius Claudius Maternus ließ (das Grabmal) errichten Silvina, seine Ehefrau und Erbin, für 3000 (50+?) Sesterzen.</p><p>"Der Claudia Lucana ? gemäß dem Testament ihres Vaters Publius Claudius Maternus ließ (das Grabmal) errichten Silvina, seine Ehefrau und Erbin, für 3000 (50+?) Sesterzen.</p><p>"Der Claudia Lucana ? gemäß dem Testament ihres Vaters Publius Claudius Maternus ließ (das Grabmal) errichten Silvina, seine Ehefrau und Erbin, für 3000 (50+?) Sesterzen.</p><p>"Der Claudia Lucana ? gemäß dem Testament ihres Vaters Publius Claudius Maternus ließ (das Grabmal) errichten Silvina, seine Ehefrau und Erbin, für 3000 (50+?) Sesterzen.</p><p>"Der Claudia Lucana ? gemäß dem Testament ihres Vaters Publius Claudius Maternus ließ (das Grabmal) errichten Silvina, seine Ehefrau und Erbin, für 3000 (50+?) Sesterzen.</p></div><div type="commentary" resp="ria"><p>"IBR, CIL: Z. 1 L(oder I?)VCANAE. Z. 7: N(ummis) F I L oder N(ummis) III mit horizontalem Strich.</p><p>Das Cognomen der Verstorbenen verweist auf die Landschaft Lukanien.</p><p>(EDH, JW)</p><p>&amp;nbsp;</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"IBR, CIL: Z. 1 L(oder I?)VCANAE. Z. 7: N(ummis) F I L oder N(ummis) III mit horizontalem Strich.</p><p>Das Cognomen der Verstorbenen verweist auf die Landschaft Lukanien.</p><p>(EDH, JW)</p><p>&amp;nbsp;</p><p>"</p></div></body>
     </text>
 </TEI>

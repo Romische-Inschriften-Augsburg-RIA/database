@@ -103,7 +103,7 @@
          <change when="2017-09-06" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -132,6 +132,6 @@
             <div type="commentary">
                 <p> Fragment mit der linken oberen Ecke des Inschriftfeldes. Z. 3: statt G(?) auch C(?) möglich, co]/n[i]ug[i? Der Abstand zwischen N und V scheint jedoch zu groß.</p>
             </div>
-        <div type="translation"><p>"Den Totengöttern und dem Adiutorius ---.</p><p>"Den Totengöttern und dem Adiutorius ---.</p><p>"Den Totengöttern und dem Adiutorius ---.</p><p>"Den Totengöttern und dem Adiutorius ---.</p><p>"Den Totengöttern und dem Adiutorius ---.</p></div><div type="commentary" resp="ria"><p>"Die Buchstabenhöhe beträgt Z. 1 13 cm, Z. 2.-3 7cm. Z. 3: statt G(?) auch C(?) möglich, co]/n[i]ug[i? Der Abstand zwischen N und V scheint jedoch zu groß.</p><p>Der Name Adiutorius erscheint auch auf einer anderen Augsburger Weihinschrift: HD058476. Der dortige Adiutorius ist Ritter und Decurio der Stadt.</p><p>Kakoschke: Er war ein Einheimischer aus Raetien oder dem benachbarten keltischen Raum. Sein Pseudo-Gentilnomen, das sich vom lat. Cognomen Adiutor ableitete, tritt am häufigsten in Germania Superior auf.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"Die Buchstabenhöhe beträgt Z. 1 13 cm, Z. 2.-3 7cm. Z. 3: statt G(?) auch C(?) möglich, co]/n[i]ug[i? Der Abstand zwischen N und V scheint jedoch zu groß.</p><p>Der Name Adiutorius erscheint auch auf einer anderen Augsburger Weihinschrift: HD058476. Der dortige Adiutorius ist Ritter und Decurio der Stadt.</p><p>Kakoschke: Er war ein Einheimischer aus Raetien oder dem benachbarten keltischen Raum. Sein Pseudo-Gentilnomen, das sich vom lat. Cognomen Adiutor ableitete, tritt am häufigsten in Germania Superior auf.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

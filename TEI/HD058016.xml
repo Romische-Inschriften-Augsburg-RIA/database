@@ -103,7 +103,7 @@
          <change when="2017-08-25" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -129,6 +129,6 @@
             <div type="commentary">
                 <p> Fragment vom linken Teil des Inschriftfeldes, Inschrift steht in einer tabula ansata, linke ansa erhalten.</p>
             </div>
-        <div type="translation"><p>"Den Totengöttern und dem Tiberius Claudius ---, ihrem allerliebsten und ihr gegenüber höchst aufmerksamen Ehemann, ließ Claudia Api- (das Grabmal) noch zu ihren Lebzeiten errichten.</p></div><div type="commentary" resp="ria"><p>"Die Buchstabenhöhe variiert: Z. 1 9,6cm. Z. 2 7,2cm. Z. 3 6cm. Z. 4-6 4,1 cm</p><p>Die verbliebenen Namensbestandteile des Ehepaars lassen keinen Rückschluss auf ihre genaue Herkunft zu.</p><p>(JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"Die Buchstabenhöhe variiert: Z. 1 9,6cm. Z. 2 7,2cm. Z. 3 6cm. Z. 4-6 4,1 cm</p><p>Die verbliebenen Namensbestandteile des Ehepaars lassen keinen Rückschluss auf ihre genaue Herkunft zu.</p><p>(JW)</p><p>"</p></div></body>
     </text>
 </TEI>

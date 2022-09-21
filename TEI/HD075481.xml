@@ -102,7 +102,7 @@
          <change when="2017-11-30" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -134,6 +134,6 @@
             <div type="commentary">
                 <p> Oberteil einer Amphore (Dressel 12). Die Inschrift befindet sich auf dem Hals zwischen den Henkeln. (B): CIL 03, 12010, 48; IBR: Z. 1: f(los) nicht gelesen.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Die Inschrift befindet sich auf dem Hals zwischen den Henkeln. Schreibtechnik: Kursivschrift.</p><p>Ehmig: Amphoren der Form Dressel 12 gehören zu frühesten Behältern für hispanische Fischsaucen (Dat. vom späteren 1. Jh. v. Chr. und frühe 1. Jh. n. Chr.). Die Verbindung der Begriffe liquamen und scomber sind sehr ungewöhnlich und anderweitig nur durch eine Amphore vom Vesuv bekannt: CIL IV 5716 = 2588. Der Kontrollvermerk im Formularteil F wurde in beiden Fällen von einem Domesticus (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1629/view) unterzeichnet. Interessant ist auf beiden Amphoren der Zusatz MA[---] unter der Bezeichnung des Warentransporteurs, der sonst nicht belegt ist.</p><p>IBR: Z. 1: f(actum) anstelle von f(los).</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"Gereifte, vortreffliche Makrelensauce des Marcus Valerius Maxumus (=Maximus)</p></div></body>
+        <div type="commentary" resp="ria"><p>"Die Inschrift befindet sich auf dem Hals zwischen den Henkeln. Schreibtechnik: Kursivschrift.</p><p>Ehmig: Amphoren der Form Dressel 12 gehören zu frühesten Behältern für hispanische Fischsaucen (Dat. vom späteren 1. Jh. v. Chr. und frühe 1. Jh. n. Chr.). Die Verbindung der Begriffe liquamen und scomber sind sehr ungewöhnlich und anderweitig nur durch eine Amphore vom Vesuv bekannt: CIL IV 5716 = 2588. Der Kontrollvermerk im Formularteil F wurde in beiden Fällen von einem Domesticus (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1629/view) unterzeichnet. Interessant ist auf beiden Amphoren der Zusatz MA[---] unter der Bezeichnung des Warentransporteurs, der sonst nicht belegt ist.</p><p>IBR: Z. 1: f(actum) anstelle von f(los).</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

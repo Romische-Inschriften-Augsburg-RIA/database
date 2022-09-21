@@ -103,7 +103,7 @@
          <change when="2017-10-04" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -132,6 +132,6 @@
             <div type="commentary">
                 <p> Nur handschriftlich überliefert.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Nur handschriftlich überliefert. Der Beginn der Inschrift mit dem Namen der Mutter ist nicht erhalten.</p><p>Trotz der italischen und gängigen Namensbestandteile der Söhne glaubt Kakoschke, dass sie Einheimische aus Rätien oder dem benachbarten keltischen Gebiet waren.</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"---, ihrer allerpflichtbewusstesten Mutter, ließen (das Grabmal) ihre Söhne Lucretius Clemens und Flavius Fortunatus errichten.</p></div></body>
+        <div type="commentary" resp="ria"><p>"Nur handschriftlich überliefert. Der Beginn der Inschrift mit dem Namen der Mutter ist nicht erhalten.</p><p>Trotz der italischen und gängigen Namensbestandteile der Söhne glaubt Kakoschke, dass sie Einheimische aus Rätien oder dem benachbarten keltischen Gebiet waren.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

@@ -102,7 +102,7 @@
          <change when="2018-09-05" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F038222.JPG">
@@ -153,6 +153,6 @@
             <div type="commentary">
                 <p> Grabaltar mit Nische und Pinienzapfenbekrönung in zwei Teilen. ZWeile 1 befindet sich oberhalb der Nische auf dem oberen Teil.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Zeile 1 befindet sich oberhalb der Nische auf dem oberen Teil. Auffällig sind die Altersangaben in verschiedenen Fällen (Dativ, Akkusativ).</p><p>AE: Der Vater Burius gehört zu den wenigen Thrakern in Raetien. Sein Name und die Namen seiner Kinder, welche sich wiederum von ihm ableiten, sind alle sehr selten.</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"Den Totengöttern und der ewigen Sorgenfreiheit. Seiner allerliebsten Tochter Burilla, die acht Jahre, fünf Monate und 28 Tage lebte, und seinem allerliebsten Sohn Burinianus, der ein Jahr, sechs Monate und elf Tage lebte, ließ (das Grabmal) der Vater Burius, zugehörig zum Stamm der Thraker, errichten.</p></div></body>
+        <div type="commentary" resp="ria"><p>"Zeile 1 befindet sich oberhalb der Nische auf dem oberen Teil. Auffällig sind die Altersangaben in verschiedenen Fällen (Dativ, Akkusativ).</p><p>AE: Der Vater Burius gehört zu den wenigen Thrakern in Raetien. Sein Name und die Namen seiner Kinder, welche sich wiederum von ihm ableiten, sind alle sehr selten.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

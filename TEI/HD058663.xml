@@ -103,7 +103,7 @@
          <change when="2017-10-12" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F035513.JPG">
@@ -147,6 +147,6 @@
             <div type="commentary">
                 <p> Fragment vom rechten oberen Teil eines Altars mit Teilen der Bekrönung. (B): CIL 03, 11889; IBR: Abweichungen in Lesung/Ergänzung.</p>
             </div>
-        <div type="translation"><p>"Dem heiligen Gott Mars und der Victoria stellte den aufgrund seines Alters völlig verfallenen Tempel das Gemeinwesen der Stadt Aelia Augusta wieder her, wobei Praecilius (?) Iulianus (?) die Ausführung übernahm.</p></div><div type="commentary" resp="ria"><p>"IBR: Z. 2: M am Ende erkennbar. Z. 4: Ält. Lesung CIVITFAEI. Z. 5-6: IBR: PRAECILIO IVLIANO, CIL: PRAECEPTORVM EORVM.</p><p>Dietz: Die Nennung 'civitas' lässt keine Rückschlüsse auf die Rechtsstellung der Gemeinde zu, da seit der Mitte des 2. nachchristlichen Jahrhunderts die technischen Städtebezeichnungen wie &lt;em&gt;colonia &lt;/em&gt;und &lt;em&gt;municipium &lt;/em&gt;in zunehmendem Maße von der Bezeichnung 'civitas' verdrängt wurden.</p><p>Datierung: Die Weihinschrift an das nicht nur in Militärkreisen verehrte Götterpaar Mars (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1633/view) und Victoria (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1622/view) dürfte wegen des vielleicht auf epichorische Gottheiten hinweisenden Zusatzes &lt;em&gt;deus &lt;/em&gt;nicht in der Zeit vor 200 gesetzt worden sein.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"IBR: Z. 2: M am Ende erkennbar. Z. 4: Ält. Lesung CIVITFAEI. Z. 5-6: IBR: PRAECILIO IVLIANO, CIL: PRAECEPTORVM EORVM.</p><p>Dietz: Die Nennung 'civitas' lässt keine Rückschlüsse auf die Rechtsstellung der Gemeinde zu, da seit der Mitte des 2. nachchristlichen Jahrhunderts die technischen Städtebezeichnungen wie &lt;em&gt;colonia &lt;/em&gt;und &lt;em&gt;municipium &lt;/em&gt;in zunehmendem Maße von der Bezeichnung 'civitas' verdrängt wurden.</p><p>Datierung: Die Weihinschrift an das nicht nur in Militärkreisen verehrte Götterpaar Mars (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1633/view) und Victoria (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1622/view) dürfte wegen des vielleicht auf epichorische Gottheiten hinweisenden Zusatzes &lt;em&gt;deus &lt;/em&gt;nicht in der Zeit vor 200 gesetzt worden sein.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

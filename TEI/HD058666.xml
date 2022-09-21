@@ -103,7 +103,7 @@
          <change when="2017-10-26" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -129,6 +129,6 @@
             <div type="commentary">
                 <p> Z. 6: Vinculum über XIIII als 1000er-Multiplikator. Aufbewahrungsort unsicher.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"IBR: Z. 1. FLAV zu Beginn und T am Ende. Z. 2. VS D zu Beginn und A am Ende. Z. 4: ET-Ligatur. Z. 6: Vinculum über XIIII als 1000er-Multiplikator.</p><p>Czysz: Der reiche Finanjurist der Stadtverwaltung verstarb vermutlich auf seinem Landgut und wurde dort auch beerdigt.</p><p>Bermúdez Lorenzo: Es verwundert, dass eine eher wirtschaftsschwache Region wie Raetien einen eigenen &lt;em&gt;advocatus fisci&lt;/em&gt; hatte, da selbst die drei hispanischen Provinzen zusammen nur einen hatten. Er muss in enger Verbindung zum Statthalter gestanden haben.</p><p>Vettius Titus kam, wie die Inschrift verrät, aus Claudia Savaria, einer Stadt in Pannonia Superior. Die Freigelassenen tragen wie der Patron selbst lateinisch-italische Namen, weshalb sich ihre Herkunft nicht genauer verorten lässt. Vielleicht kamen sie ebenfalls aus der Stadt.</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"Flavius Vettius Titus, beheimatet in Claudia Savaria [Szombathely, Ungarn], Anwalt der Kasse der Provinz Raetia. Entsprechend seines Testamentes haben Flavius Quintilianus und Flavius Fortunatus, seine Freigelassenen und Erben, ihrem allerbesten Patron (das Grabmal) errichtet für 14.000 Sesterzen. Er lebte 49 Jahre.</p></div></body>
+        <div type="commentary" resp="ria"><p>"IBR: Z. 1. FLAV zu Beginn und T am Ende. Z. 2. VS D zu Beginn und A am Ende. Z. 4: ET-Ligatur. Z. 6: Vinculum über XIIII als 1000er-Multiplikator.</p><p>Czysz: Der reiche Finanjurist der Stadtverwaltung verstarb vermutlich auf seinem Landgut und wurde dort auch beerdigt.</p><p>Bermúdez Lorenzo: Es verwundert, dass eine eher wirtschaftsschwache Region wie Raetien einen eigenen &lt;em&gt;advocatus fisci&lt;/em&gt; hatte, da selbst die drei hispanischen Provinzen zusammen nur einen hatten. Er muss in enger Verbindung zum Statthalter gestanden haben.</p><p>Vettius Titus kam, wie die Inschrift verrät, aus Claudia Savaria, einer Stadt in Pannonia Superior. Die Freigelassenen tragen wie der Patron selbst lateinisch-italische Namen, weshalb sich ihre Herkunft nicht genauer verorten lässt. Vielleicht kamen sie ebenfalls aus der Stadt.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

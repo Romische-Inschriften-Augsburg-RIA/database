@@ -103,7 +103,7 @@
          <change when="2017-09-15" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -132,6 +132,6 @@
             <div type="commentary">
                 <p> Mehrere Fragmente. (B): Schillinger-Häfele: Z. 1: [D(is)] M(anibus) et.</p>
             </div>
-        <div type="translation"><p>"Den Totengöttern und der ewigen Sorgenfreiheit. Seiner Tochter Iulia Leontia, die ihren Eltern allerliebst war und 17 Jahre lebte, und seinem allerpflichtbewusstesten Sohn Iulius Leontius, der zehn (?) Jahre lebte, (errichtete das Grabmal) der Vater Iulius ---</p></div><div type="commentary" resp="ria"><p>"Schillinger-Häfele: Z. 1: [D(is)] M(anibus) et.</p><p>Datierung frühestens ins 3. Jahrhundert, eher 4. Jahrhundert, weil das Cognomen ,Leontius/ia' überwiegend in dieser Zeit belegt ist. Altersangaben teils in Ziffern, teils mit ausgeschriebenem Zahlwort finden sich auch sonst (vgl. CIL III 5834).</p><p>Kakoschke: Leontius/ia ist griechischen Ursprungs. Die Belege aus den germanischen Provinzen stammen alle aus späterer Zeit. Eventuell haben die Leontii tatsächlich eine griechische Herkunft.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"Schillinger-Häfele: Z. 1: [D(is)] M(anibus) et.</p><p>Datierung frühestens ins 3. Jahrhundert, eher 4. Jahrhundert, weil das Cognomen ,Leontius/ia' überwiegend in dieser Zeit belegt ist. Altersangaben teils in Ziffern, teils mit ausgeschriebenem Zahlwort finden sich auch sonst (vgl. CIL III 5834).</p><p>Kakoschke: Leontius/ia ist griechischen Ursprungs. Die Belege aus den germanischen Provinzen stammen alle aus späterer Zeit. Eventuell haben die Leontii tatsächlich eine griechische Herkunft.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

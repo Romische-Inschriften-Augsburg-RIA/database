@@ -103,7 +103,7 @@
          <change when="2017-09-28" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -132,6 +132,6 @@
             <div type="commentary">
                 <p> Mittelteil einer Statuenbasis? Zeilenfall unklar.</p>
             </div>
-        <div type="translation"><p>"Dem Imperator Caesar [sc. Caracalla], dem Sohn des Imperator Caesar Lucius Septimius Severus, des Pflichtbewussten, des Beharrlichen, des Erhabenen, des Siegers über Araber, Adiabener und größten Siegers über die Parther, des Oberpriesters, dem Enkel des Gottes Marcus Antoninus, des Siegers über die Germanen und Sarmaten, dem Urenkel des Gottes Hadrian, Ururenkel des Gottes Trajan, des Parthersiegers, und Urururenkel des Gottes Nerva, dem Marcus Aurelius Antoninus, dem Pflichtbewussten, dem Erhabenen, im – Jahr seiner tribunizischen Gewalt, dem Prokonsul ---</p></div><div type="commentary" resp="ria"><p>"Zeilenfall aufgrund der vielen Ergänzungen unklar.</p><p>Datierung gemäß der Widmung an Caracalla.</p><p>(JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"Zeilenfall aufgrund der vielen Ergänzungen unklar.</p><p>Datierung gemäß der Widmung an Caracalla.</p><p>(JW)</p><p>"</p></div></body>
     </text>
 </TEI>

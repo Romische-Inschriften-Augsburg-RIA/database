@@ -103,7 +103,7 @@
          <change when="2017-08-04" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F008212.JPG">
@@ -151,6 +151,6 @@
             <div type="commentary">
                 <p> Sarkophag mit Deckel. Auf der Deckelvorderseite liegende Gestalt und stehender Eros. Auf der Sarkophagvorderseite zwei Eroten, die das Inschriftenfeld halten. Die Reliefs sind nicht fertig gearbeitet, ebenso die Inschrift. Der Sarkophag wurde in spätrömischer Zeit sekundär verwendet, der ursprüngliche Aufstellungsort ist unbekannt. Langgezogene vertikale Worttrenner.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Langgezogene vertikale Worttrenner.</p><p>Kakoschke: 'Candidius' ist ein einheimisches Pseudo-Gentilnomen. Sicherlich kam er aus Raetien oder dem benachbarten keltischen Gebiet.</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"Den Totengöttern. Luc--- gemäß des Testaments --- Candidius Virilis und --- ließ (das Grabmal) errichten.</p></div></body>
+        <div type="commentary" resp="ria"><p>"Langgezogene vertikale Worttrenner.</p><p>Kakoschke: 'Candidius' ist ein einheimisches Pseudo-Gentilnomen. Sicherlich kam er aus Raetien oder dem benachbarten keltischen Gebiet.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

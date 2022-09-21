@@ -104,7 +104,7 @@
          <change when="2017-09-29" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
 
@@ -142,6 +142,6 @@
             <div type="commentary">
                 <p> Mittelteil eines Grabaltars, Aufsatz und Basis neuzeitlich ergänzt. Auf den Nebenseiten Pinienzapfen. Z. 6/7 offenbar nachträglich hinzugefügt. Hedera in Z. 7.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"IBR, CIL: Z. 6/7 offenbar nachträglich hinzugefügt. Hedera in Z. 7.</p><p>Kakoschke: 'Buccinius' ist ein einheimisches Pseudo-Gentilnomen, abgeleitet vom keltischen Cognomen Buccus. Der erst genannte Verstorbene kam sicherlich aus Raetien oder dem benachbarten keltischen Gebiet. Das Cognomen des zweiten Verstorbenen, Marinus, kommt im östlichen Mittelmeerraum häufiger vor, jedoch reicht das vermutlich nicht, um seine Herkunft dort zu verorten. Laut Kakoschke war er eher auch ein Einheimischer.</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"Den Totengöttern und dem Marcus Buccinius Tacitus, der 80 Jahre lebte, ließ sein Patron und Erbe (das Grabmal) errichten und dem Iulius Marinus.</p></div></body>
+        <div type="commentary" resp="ria"><p>"IBR, CIL: Z. 6/7 offenbar nachträglich hinzugefügt. Hedera in Z. 7.</p><p>Kakoschke: 'Buccinius' ist ein einheimisches Pseudo-Gentilnomen, abgeleitet vom keltischen Cognomen Buccus. Der erst genannte Verstorbene kam sicherlich aus Raetien oder dem benachbarten keltischen Gebiet. Das Cognomen des zweiten Verstorbenen, Marinus, kommt im östlichen Mittelmeerraum häufiger vor, jedoch reicht das vermutlich nicht, um seine Herkunft dort zu verorten. Laut Kakoschke war er eher auch ein Einheimischer.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

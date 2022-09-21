@@ -103,7 +103,7 @@
          <change when="2017-11-24" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -132,6 +132,6 @@
             <div type="commentary">
                 <p> Kleiner Behälter mit Henkeln. Die Inschrift befindet sich auf dem oberen Teil des Bauches zwischen den Henkeln. Text 2 von anderer Hand rechts neben Z. 2 gesetzt. Schreibtechnik: gemalt.</p>
             </div>
-        <div type="translation"><p>"--- Birne ---</p></div><div type="commentary" resp="ria"><p>"Ehmig: Kleiner gerillter Behälter mit Henkeln, vermutlich nordafrikanischen Ursprungs. Die Inschrift befindet sich auf dem oberen Teil des Bauches zwischen den Henkeln. In Z. 1 wird vielleicht eine Zahl CXC? genannt. Text 2 von anderer Hand rechts neben Z. 2 gesetzt. PY ATR- könnte zu pyrum atrum ergänzt werden, was auf die dunkle Farbe der Früchte hinwiese. Schreibtechnik: gemalt.</p><p>Aufgrund der kleinen Größe des Gefäßes ist nicht an den Transport ganzer Früchte zu denken. Stattdessen handelte es sich eher um eingelegte Fruchstücke, Mus oder ein Getränk (z.B. Wein) aus Birnen.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"Ehmig: Kleiner gerillter Behälter mit Henkeln, vermutlich nordafrikanischen Ursprungs. Die Inschrift befindet sich auf dem oberen Teil des Bauches zwischen den Henkeln. In Z. 1 wird vielleicht eine Zahl CXC? genannt. Text 2 von anderer Hand rechts neben Z. 2 gesetzt. PY ATR- könnte zu pyrum atrum ergänzt werden, was auf die dunkle Farbe der Früchte hinwiese. Schreibtechnik: gemalt.</p><p>Aufgrund der kleinen Größe des Gefäßes ist nicht an den Transport ganzer Früchte zu denken. Stattdessen handelte es sich eher um eingelegte Fruchstücke, Mus oder ein Getränk (z.B. Wein) aus Birnen.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

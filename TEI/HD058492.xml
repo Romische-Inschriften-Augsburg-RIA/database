@@ -103,7 +103,7 @@
          <change when="2017-09-21" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -132,6 +132,6 @@
             <div type="commentary">
                 <p> Nur handschriftlich überliefert. Lesung unsicher. (B): IBR: Abweichende Überlieferungen von Z. 1/2: '...VRI..SC.. / ...RIVI....'; 'VRIIS CC / RIVI / V S L L M'; 'VRHSO / RIVI'.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Nur handschriftlich überlieferte Weihinschrift für die Trives (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1674/view) und Quadrives (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1674/view).</p><p>Die Lesung ist unsicher. IBR: Abweichende Überlieferungen von Z. 1/2: '...VRI..SC.. / ...RIVI....'; 'VRIIS CC / RIVI'; 'VRHSO / RIVI'. CIL: 'TRIVIS QVAD / RIVIS'</p><p>(EDH, JW)</p><p>&amp;nbsp;</p><p>"</p></div><div type="translation"><p>"Den Göttinnen der Weggabelungen und -kreuzungen löste er das Gelübde bereitwillig, freudig und nach Verdienst ein.</p></div></body>
+        <div type="commentary" resp="ria"><p>"Nur handschriftlich überlieferte Weihinschrift für die Trives (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1674/view) und Quadrives (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1674/view).</p><p>Die Lesung ist unsicher. IBR: Abweichende Überlieferungen von Z. 1/2: '...VRI..SC.. / ...RIVI....'; 'VRIIS CC / RIVI'; 'VRHSO / RIVI'. CIL: 'TRIVIS QVAD / RIVIS'</p><p>(EDH, JW)</p><p>&amp;nbsp;</p><p>"</p></div></body>
     </text>
 </TEI>

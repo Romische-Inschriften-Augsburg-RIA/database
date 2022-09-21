@@ -103,7 +103,7 @@
          <change when="2008-03-18" who="Platz">
              provisorisch bearbeitet
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -129,6 +129,6 @@
             <div type="commentary">
                 <p/>
             </div>
-        <div type="translation"><p>"des Statthalters (des Legaten mit konsularischem Rang?)</p></div><div type="commentary" resp="ria"><p>"AE: Da der Fundort nahe der Via Claudia und des Südtores der Stadt lag sowie zahlreiche militärische Ausrüstungsgegenstände in der Gegend gefunden wurden, gehörte der Ziegel vermutlich zu einer &lt;em&gt;mansio &lt;/em&gt;oder einer Station der Benefiziarier.</p><p>(JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"AE: Da der Fundort nahe der Via Claudia und des Südtores der Stadt lag sowie zahlreiche militärische Ausrüstungsgegenstände in der Gegend gefunden wurden, gehörte der Ziegel vermutlich zu einer &lt;em&gt;mansio &lt;/em&gt;oder einer Station der Benefiziarier.</p><p>(JW)</p><p>"</p></div></body>
     </text>
 </TEI>

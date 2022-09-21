@@ -103,7 +103,7 @@
          <change when="2017-09-28" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -132,6 +132,6 @@
             <div type="commentary">
                 <p> Möglicherweise ins Jahr 237 zu datieren.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"IBR: Abweichende Lesungen: Z. 2: cos(ulis) II procos(ulis).</p><p>Eher unwahrscheinlich ist Ohlenschlager's Identifikation des Stifters mit dem Statthalter Noricums, M. Iuventius Surus Proculus.</p><p>Kakoschke: Die sprachliche Zuweisung des Cognomens 'Surus' fällt schwer. Es könnte ein semitisches, illyrisches oder keltisches Cognomen sein.</p><p>Vielleicht war der Stifter auch ein &lt;em&gt;civis Surus&lt;/em&gt; und stammte aus Syrien.</p><p>Datierung: IBR: Die Inschrift ließe sich in das Jahr 195 in die Zeit des Septimius Severus oder in das Jahr 237 zur Zeit Maximinus' Thrax datieren.</p><p>(JW)</p><p>"</p></div><div type="translation"><p>"Für das Heil und die Unversehrtheit des ---, im dritten Jahr seiner tribunizischen Gewalt, des fünfmaligen Imperator, des Konsuls --- und des gesamten göttlichen Hauses --- stellte die verfallenen --- wieder her --- ius Surus ---</p></div></body>
+        <div type="commentary" resp="ria"><p>"IBR: Abweichende Lesungen: Z. 2: cos(ulis) II procos(ulis).</p><p>Eher unwahrscheinlich ist Ohlenschlager's Identifikation des Stifters mit dem Statthalter Noricums, M. Iuventius Surus Proculus.</p><p>Kakoschke: Die sprachliche Zuweisung des Cognomens 'Surus' fällt schwer. Es könnte ein semitisches, illyrisches oder keltisches Cognomen sein.</p><p>Vielleicht war der Stifter auch ein &lt;em&gt;civis Surus&lt;/em&gt; und stammte aus Syrien.</p><p>Datierung: IBR: Die Inschrift ließe sich in das Jahr 195 in die Zeit des Septimius Severus oder in das Jahr 237 zur Zeit Maximinus' Thrax datieren.</p><p>(JW)</p><p>"</p></div></body>
     </text>
 </TEI>

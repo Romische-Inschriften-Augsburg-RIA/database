@@ -104,7 +104,7 @@
          <change when="2017-09-21" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -168,6 +168,6 @@
             <div type="commentary">
                 <p> Nur handschriftlich überliefert. Hedera in Z. 7.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Nur handschriftlich überlieferte Stifterinschrift für Silvanus (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1647/view). Hedera in Z. 7.</p><p>Krier: Der Treverer war wahrscheinlich ein Kaufmann, der sich in Augsburg niederließ. Es ist nicht ersichtlich, ob er die Augustalenwürde in Tier oder Augsburg oder sogar in beiden Städten innehatte.</p><p>Der auf ein Jahr gewählte VIvir, meist ein Freigelassener, war für Opfer und Spiele zu Ehren der Kaiser zuständig und behielt auch nach Ablauf seiner Amtszeit die Ehrenrechte. Er besaß eine angesehene Stellung zwischen den Dekurionen und den Bürgern.</p><p>Kakoschke: 'Attonius' ist ein Pseudo-Gentilnomen, das sich vom kelt./germ. 'Atto' ableitet. Der Name ist vor allem in Germania Superior verbreitet.</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"Zur Ehre des göttlichen Hauses stellte dem Gott Silvanus den Tempel, der aufgrund seines Alters verfallen war, zusammen mit dem Götterbild auf eigene Kosten wieder her Sextus Attonius Privatus, Bürger des Stammes der Treverer und Mitglied des Sechsmännerkollegiums der Augustalen.</p></div></body>
+        <div type="commentary" resp="ria"><p>"Nur handschriftlich überlieferte Stifterinschrift für Silvanus (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1647/view). Hedera in Z. 7.</p><p>Krier: Der Treverer war wahrscheinlich ein Kaufmann, der sich in Augsburg niederließ. Es ist nicht ersichtlich, ob er die Augustalenwürde in Tier oder Augsburg oder sogar in beiden Städten innehatte.</p><p>Der auf ein Jahr gewählte VIvir, meist ein Freigelassener, war für Opfer und Spiele zu Ehren der Kaiser zuständig und behielt auch nach Ablauf seiner Amtszeit die Ehrenrechte. Er besaß eine angesehene Stellung zwischen den Dekurionen und den Bürgern.</p><p>Kakoschke: 'Attonius' ist ein Pseudo-Gentilnomen, das sich vom kelt./germ. 'Atto' ableitet. Der Name ist vor allem in Germania Superior verbreitet.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

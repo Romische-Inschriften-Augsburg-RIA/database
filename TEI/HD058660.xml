@@ -103,7 +103,7 @@
          <change when="2017-11-15" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -132,6 +132,6 @@
             <div type="commentary">
                 <p> Fragment vom oberen Rand des Inschriftfeldes. (B): CIL 03, 05859: Z. 2 nicht gelesen.</p>
             </div>
-        <div type="translation"><p>"---, Sohn des Titus, ---</p></div><div type="commentary" resp="ria"><p>"CIL: Z. 2 nicht gelesen.</p><p>(EDH)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"CIL: Z. 2 nicht gelesen.</p><p>(EDH)</p><p>"</p></div></body>
     </text>
 </TEI>

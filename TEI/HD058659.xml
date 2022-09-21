@@ -103,7 +103,7 @@
          <change when="2020-02-05" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F035510.JPG">
@@ -156,6 +156,6 @@
             <div type="commentary">
                 <p> Deckel nicht erhalten. Der Sarkophag wurde im Hochmittelalter für die Aufbewahrung der Überreste des Bischofs Simpert (gest. 807) verwendet. Neben dem Inschriftenfeld Eroten, die die Tafel mit der Inschrift halten. Text 1 steht über dem eigentlichen Inschriftenfeld. Gamer - Rüsch; Nuber: keine Wiedergabe der Inschrift. Alternative Lesung CIL: Z. 2-5: AVTIAVG[---]V[---] / MTAVLD[---]S / [---]A[---]CON[-]MV[---]S / A[------</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Z.1 steht über dem eigentlichen Inschriftenfeld.</p><p>Alternative Lesung CIL: Z. 2-5: AVTIAVG[---]V[---] / MTAVLD[---]S / [---]A[---]CON[-]MV[---]S / A[------</p><p>Nuber erkennt den Namen Tettia Gemma und einen &lt;em&gt;negotatior artis &lt;/em&gt;(https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1639/view) namens Aurelius.</p><p>(EDH, JW)</p><p>"</p></div><div type="translation"><p>"Den Totengöttern.</p></div></body>
+        <div type="commentary" resp="ria"><p>"Z.1 steht über dem eigentlichen Inschriftenfeld.</p><p>Alternative Lesung CIL: Z. 2-5: AVTIAVG[---]V[---] / MTAVLD[---]S / [---]A[---]CON[-]MV[---]S / A[------</p><p>Nuber erkennt den Namen Tettia Gemma und einen &lt;em&gt;negotatior artis &lt;/em&gt;(https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1639/view) namens Aurelius.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

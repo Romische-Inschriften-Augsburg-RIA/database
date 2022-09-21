@@ -102,7 +102,7 @@
          <change when="2017-09-06" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -128,7 +128,6 @@
             <div type="commentary">
                 <p> Allseitig abgebrochenes Fragment. Römische Herkunft nach Wagner fraglich.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Römische Herkunft nach Wagner fraglich.</p><p>(EDH)</p><p>"</p></div>
-            </body>
+        <div type="commentary" resp="ria"><p>"Römische Herkunft nach Wagner fraglich.</p><p>(EDH)</p><p>"</p></div></body>
     </text>
 </TEI>

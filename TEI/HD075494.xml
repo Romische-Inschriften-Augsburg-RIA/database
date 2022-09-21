@@ -102,7 +102,7 @@
          <change when="2017-12-01" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -134,6 +134,6 @@
             <div type="commentary">
                 <p> Goldener Fingerring. 'Fidem' befindet sich auf einer abgesetzten Platte, der Rest der Inschrift umlaufend auf dem Reif. Schreibtechnik: graviert.</p>
             </div>
-        <div type="translation"><p>"Treue dem Konstantin.</p><p>"Treue dem Konstantin.</p><p>"Treue dem Konstantin.</p><p>"Treue dem Konstantin.</p><p>"Treue dem Konstantin.</p></div><div type="commentary" resp="ria"><p>"'Fidem' befindet sich auf der abgesetzten Platte, der Rest der Inschrift umlaufend auf dem Reif. Schreibtechnik: graviert.</p><p>Martin: Die Ähnlichkeit der Gestalt und des Gewichts des Ringes zu weiteren Constantino Fidem-Ringen lässt auf eine zentral angeordnete, aber dezentral durchgeführte Herstellung denken. Es ist unklar, ob die Ringe aus Überzeugung und Parteiergreifung für den Genannten gefertigt, gekauft und getragen oder als Teil einer Propagandaaktion verteilt wurden.</p><p>(EDH, JW)</p><p>"</p></div></body>
+        <div type="commentary" resp="ria"><p>"'Fidem' befindet sich auf der abgesetzten Platte, der Rest der Inschrift umlaufend auf dem Reif. Schreibtechnik: graviert.</p><p>Martin: Die Ähnlichkeit der Gestalt und des Gewichts des Ringes zu weiteren Constantino Fidem-Ringen lässt auf eine zentral angeordnete, aber dezentral durchgeführte Herstellung denken. Es ist unklar, ob die Ringe aus Überzeugung und Parteiergreifung für den Genannten gefertigt, gekauft und getragen oder als Teil einer Propagandaaktion verteilt wurden.</p><p>(EDH, JW)</p><p>"</p></div></body>
     </text>
 </TEI>

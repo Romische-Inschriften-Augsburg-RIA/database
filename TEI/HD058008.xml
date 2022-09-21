@@ -103,7 +103,7 @@
          <change when="2017-08-25" who="Osnabrügge">
              überprüft an Foto
          </change>
-        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
+        <change when="2022-09-20" who="ria">Automatically updated with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F020430.JPG">
@@ -150,6 +150,6 @@
             <div type="commentary">
                 <p> Rechter Teil eines Altars.</p>
             </div>
-        <div type="commentary" resp="ria"><p>"Die sorgsam eingehauen Buchstaben der&amp;nbsp;Weihinschrift für Iuppiter (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1630/view) betragen in der ersten Zeile 8cm, sonst 4cm.</p><p>Der Text muss an etlichen Stellen mit Formeln ergänz werden. Wagner: Z. 3: weibliches Gentilnomen auf ---ia. Z. 4: weibliches Cognomen auf ---na.</p><p>(JW)</p><p>"</p></div><div type="translation"><p>"Dem besten und größten Iuppiter und allen übrigen Göttern und Göttinnen.</p></div></body>
+        <div type="commentary" resp="ria"><p>"Die sorgsam eingehauen Buchstaben der&amp;nbsp;Weihinschrift für Iuppiter (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1630/view) betragen in der ersten Zeile 8cm, sonst 4cm.</p><p>Der Text muss an etlichen Stellen mit Formeln ergänz werden. Wagner: Z. 3: weibliches Gentilnomen auf ---ia. Z. 4: weibliches Cognomen auf ---na.</p><p>(JW)</p><p>"</p></div></body>
     </text>
 </TEI>
