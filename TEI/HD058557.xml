@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Grabinschrift auf Block</title>
+                <title>Grabinschrift des Veteranen C. Senilius Pervincus und seines Sohnes Aurelius Inpetratus</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058557</idno>
-                <idno type="TM">217081</idno><idno type="localID">HD058557</idno>
+                <idno type="TM">217081</idno><idno type="ibr">129</idno><idno type="cil">5818</idno><idno type="lupa">6464</idno><idno type="edh">HD058557</idno><idno type="ace">127939</idno><idno type="edcs">27100335</idno><idno type="localID">HD058557</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -29,9 +28,7 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/189">Block?</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/189">Steinquader</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material><p/>
                                     <dimensions unit="cm">
                                         <height>96</height>
                                         <width>-88</width>
@@ -105,7 +102,7 @@
          <change when="2017-09-28" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F035376.JPG">
@@ -134,7 +131,7 @@
                          G. Gamer - A. Rüsch, Raetia (Bayern südlich des Limes) und Noricum (Chiemseegebiet), CSIR Deutschland 1, 1 (Bonn 1973) 24, Nr. 20; Taf. 7, 20. 
                     </bibl>
 
-                </listBibl>
+                <bibl>CIL III 5818.</bibl><bibl>A. Kakoschke, Die Personennamen in der römischen Provinz Rätien, Hildesheim 2009, CN489.</bibl></listBibl>
             </div>
             
             
@@ -147,8 +144,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Hedera in Z. 1. (B): CIL 03, 05818: kleinere Leseabweichungen.</p>
-            </div>
-        </body>
+                <p>Hedera in Z. 1. Z. 4: et? am Ende. CIL: kleinere Leseabweichungen. Kakoschke: 'Pervincus' ist ein keltisches oder lateinisches Cognomen. In jedem Fall war der Veteran wohl ein Einheimischer aus Raetien oder dem benachbarten kelt. Gebiet. (EDH, JW) </p></div>
+        <div type="translation"><p>"Den Totengöttern und dem Gaius Senilius Pervincus, dem Veteranen und ehemaligen Feldzeichenträger der 3. Italischen Legion, und seinem Sohn Aurelius Inpetratus</p></div></body>
     </text>
 </TEI>

@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Grabinschrift</title>
+                <title>Grabinschrift des Decurio C. Iulianius Iulius und seiner Familie</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058569</idno>
-                <idno type="TM">217088</idno><idno type="localID">HD058569</idno>
+                <idno type="TM">217088</idno><idno type="ibr">136</idno><idno type="cil">5825</idno><idno type="lupa">6465</idno><idno type="edh">HD058569</idno><idno type="ace">127943</idno><idno type="edcs">27200189</idno><idno type="localID">HD058569</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -26,12 +25,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Mehrere aneinanderpassende Fragmente.</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/2">unbestimmt</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/2">unbekannt</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material><p/>
                                     <dimensions unit="cm">
                                         <height>102</height>
                                         <width>117</width>
@@ -104,7 +101,7 @@
          <change when="2017-09-29" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F035378.JPG">
@@ -130,7 +127,7 @@
                          CIL 03, 05825. 
                     </bibl>
 
-                </listBibl>
+                <bibl>CIL III 5825.</bibl><bibl>A. Kakoschke, Die Personennamen in der römischen Provinz Rätien, Hildesheim 2009, GN89, GN159.</bibl></listBibl>
             </div>
             
             
@@ -143,8 +140,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Mehrere aneinanderpassende Fragmente. (B): vor Z. 1: [D(is) M(anibus) et].</p>
-            </div>
-        </body>
+                <p>IBR: vor Z. 1: [D(is) M(anibus) et]. Kakoschke: Der Decurio und seine Ehefrau trugen beide einheimische Pseudo-Gentilnomina und stammten vermutlich aus Raetien oder dem benachbarten keltischen Gebiet. Sie gehörten zur romanisierten Bevölkerung und stiegen in die höchsten sozialen Kreise der Stadt auf. Iulius' Aufgaben als IVvir ließen sich mit denen der aediles in Bürgerkolonien vergleichen. (EDH, JW) </p></div>
+        <div type="translation"><p>"Der ewigen Sorgenfreiheit. Caius Iulianius Iulius, Dekurio und ehemaliger Viermann [Kollegium von Oberbeamten] errichtete (das Grabmal) für sich und Secundinia Pervinca, seine allerliebste und ihm gegenüber höchst aufmerksame Gemahlin, eine Frau, wie man sie höchst selten findet, die sich durch einzigartige bespielhafte Schamhaftigkeit auszeichnete, ja einzigartigem Anstand, die 45 Jahre, sieben Monate und 21 Tage lebte, sowie seine Söhne Iulianius Iulius Iunior, Iulianius Iucundus und Iulianius Iustus zu ihren und seinen Lebzeiten.</p></div></body>
     </text>
 </TEI>

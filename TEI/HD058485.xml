@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Weihinschrift auf Tafel</title>
+                <title>Weihinschrift des M. Bassinius Vitalis für Mercurius</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058485</idno>
-                <idno type="TM">217058</idno><idno type="localID">HD058485</idno>
+                <idno type="TM">217058</idno><idno type="ibr">105</idno><idno type="cil">5794</idno><idno type="lupa">6423</idno><idno type="edh">HD058485</idno><idno type="ace">127929</idno><idno type="edcs">27100311</idno><idno type="localID">HD058485</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -26,12 +25,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Tabula tophacea mit sorgfältig gearbeiteten Buchstaben.</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">Tafel</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/30">Tuff</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/257">Tafel</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/30">Tuff (vulkanischer) </material><p/>
                                     <dimensions unit="cm">
                                         <height>45</height>
                                         <width>61</width>
@@ -104,7 +101,7 @@
          <change when="2017-09-21" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F007356.JPG">
@@ -127,7 +124,7 @@
                          CIL 03, 05794. 
                     </bibl>
 
-                </listBibl>
+                <bibl>CIL III 5794.</bibl><bibl>A. Kakoschke, Die Personennamen in der römischen Provinz Rätien, Hildesheim 2009, GN28.</bibl></listBibl>
             </div>
             
             
@@ -140,8 +137,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p/>
-            </div>
-        </body>
+                <p>Weihung an Mercurius Augustus (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1618/view). Kakoschke: 'Bassinius' ist ein einheimisches Pseudo-Gentilnomen, abgeleitet vom lat. 'Bassinus'. Der Weihende kam aus Raetien oder dem benachbarten keltischen Raum. (JW) </p></div>
+        <div type="translation"><p>"Dem Mercurius Augustus heilig! Marcus Bassinius Vitalis löste bereitwillig und nach Gebühr sein Gelübde ein.</p></div></body>
     </text>
 </TEI>

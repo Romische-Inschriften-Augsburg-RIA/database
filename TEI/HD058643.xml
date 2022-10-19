@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Grabinschrift auf Stele</title>
+                <title>Grabinschrift des Kindes Crassicius Constantinus</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058643</idno>
-                <idno type="TM">217101</idno><idno type="localID">HD058643</idno>
+                <idno type="TM">217101</idno><idno type="ibr">154</idno><idno type="cil">5842</idno><idno type="lupa">6467</idno><idno type="edh">HD058643</idno><idno type="ace">103307</idno><idno type="edcs">27500241</idno><idno type="localID">HD058643</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -26,12 +25,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Giebelstele</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/250">Stele</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/60">Kalkstein?</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/250">Stele</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material><p/>
                                     <dimensions unit="cm">
                                         <height>132</height>
                                         <width>49</width>
@@ -104,7 +101,7 @@
          <change when="2017-09-29" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F035382.JPG">
@@ -136,7 +133,7 @@
                          CIL 03, 05842 add. p. 1050. 
                     </bibl>
 
-                </listBibl>
+                <bibl>CIL III 5842.</bibl><bibl>A. Kakoschke, Die Personennamen in der römischen Provinz Rätien, Hildesheim 2009, GN55.</bibl></listBibl>
             </div>
             
             
@@ -149,8 +146,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Giebelstele; Text 1 befindet sich im Giebel. Zwei aneinanderpassende Fragmente. Z. 2: VR-, ATI-Ligatur; Z. 11: VR-, VE-Ligatur.</p>
-            </div>
-        </body>
+                <p>Z. 1: D M ET befindet sich im Giebel. Z. 2: AE-, VR-, ATI-Ligatur. Z. 11: VR-, VE-, NT-Ligatur. Das Kind und die Ehefrau tragen ein italisches Gentilnomen, dennoch geht Kakoschke davon aus, dass die Familie Einheimische aus Raetien oder dem benachbarten keltischen Gebieten waren. (EDH, JW) </p></div>
+        <div type="translation"><p>"Den Totengöttern und der ewigen Sorgenfreiheit. Dem Crassicius Constantinus, ihrem allersüßesten Kind, der sieben Jahre lebte, ließen seine Eltern Aelius Aelianus und Crassicia Ursa (das Grabmal) errichten.</p></div></body>
     </text>
 </TEI>

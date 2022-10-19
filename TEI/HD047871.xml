@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Aufschrift auf Instrumentum domesticum</title>
+                <title>Pinselaufschrift auf Amphore mit spanischer Fischsauce</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD047871</idno>
-                <idno type="TM">216782</idno><idno type="localID">HD047871</idno>
+                <idno type="TM">216782</idno><idno type="edh">HD047871</idno><idno type="ace"></idno><idno type="edcs">20601126</idno><idno type="localID">HD047871</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -26,12 +25,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Amphore (Pélichet 46).</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/140">Instrumentum domesticum</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/131">Ton</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/140">Kleininschriften</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/131">Ton</material><p/>
                                     <dimensions unit="cm">
                                         <height/>
                                         <width/>
@@ -104,7 +101,7 @@
          <change when="2017-11-23" who="Osnabrügge">
              überprüft an Zeichnung
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -131,8 +128,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Amphore (Pélichet 46). Die Inschrift befindet sich auf dem Hals, die letze Zeile (Zollvermerk?) um 90° nach rechts gedreht neben einem der Henkel. Schreibtechnik: gemalt.</p>
-            </div>
-        </body>
+                <p>Die Inschrift befindet sich auf dem Hals, die letze Zeile (Zollvermerk?) um 90° nach rechts gedreht neben einem der Henkel. Schreibtechnik: gemalt. Ehmig: Die Qualität der spanischen Fischsauce wird mit penuarium excellens sum(---) beschrieben. Alle drei sind typische Qualitätsbezeichnungen von cod(---). Das Alter der Sauce ist auf dieser Amphore nicht erhalten, jedoch lassen sich schwache Reste der Transporteure Proculus und Urbicus erkennen. Diese sind von anderen Amphoren aus Augst/Kaiseraugst, Vindonissa, Pompeji und Mainz bekannt. Diese trugen abgesehen von dem Mainzer Exemplar sämtlich cod(---). Der schräggestellte Formularteil mit dem Namen des Warenkontrolleurs ist kaum zu lesen. Die Ergänzung [---]TIC[---] zu Domestici wird nach zwei der Mainzer Amphoren vorgeschlagen. Der senkrecht gestellte sekundäre (Zoll-?)Vermerk MM XII X[L] ist derzeit weder aufzulösen noch zu deuten. (EDH, JW) </p></div>
+        <div type="translation"><p>"70 (librae) besonders vortreffliche, gealterte und zum Verzehr geeignete Sauce jungen Thunfisches der Warentransporteure Proculus und Urbicus. (Zollzeichen) MM XII X[L]</p></div></body>
     </text>
 </TEI>

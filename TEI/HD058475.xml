@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Weihinschrift auf Tafel</title>
+                <title>Weihinschrift des M. Trebius Secco</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058475</idno>
-                <idno type="TM">217050</idno><idno type="localID">HD058475</idno>
+                <idno type="TM">217050</idno><idno type="lupa">6419</idno><idno type="edh">HD058475</idno><idno type="ace">127920</idno><idno type="edcs">27100303</idno><idno type="localID">HD058475</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -29,9 +28,7 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">Tafel?</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">Marmor, weiß</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/257">Tafel</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/48">Marmor</material><material ref="https://www.eagle-network.eu/voc/material/lod/48">Marmor</material><p/>
                                     <dimensions unit="cm">
                                         <height>85</height>
                                         <width>111</width>
@@ -104,7 +101,7 @@
          <change when="2017-09-14" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F007353.JPG">
@@ -152,8 +149,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Neue Ergänzung des Gentilizes nach B. Steidl.</p>
-            </div>
-        </body>
+                <p>Steidl: Die gerahmte Steinplatte (111cm h, 85cm b) trägt trotz eines größeren Inschriftenfeldes nur zwei kurze Zeilen, die jedoch groß und sorgfältig eingemeißelt wurden. Das zugehörige große Monument, welches Iuppiter (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1630/view) geweiht ist, stand vermutlich in einer aedicula oder einem Tempel. Eine Iupitersäule trug das Monument eher nicht. Z. 2: TR(ebius) Die Abkürzung von einem eigentlich seltenen Gentiliz ist sehr ungewöhnlich. Das oskische Praenomen Trebius, von dem sich das Gentilnomen ableitet, wurde allerdings ebenfalls mit TR abgekürzt. Im Umfeld des ursprünglichen Aufstellungsortes muss die Kurzform der &lt;em&gt;gens &lt;/em&gt;bekannt gewesen sein. Die gleichen Abkürzungen von Trebii finden sich auf zwei weiteren Inschriften aus Raetien: Vgl. Steidl, S. 65-67. Das Gentilnomen Trebius und das keltische Cognomen 'Secco' sind aus der &lt;em&gt;regio X Venetia et Histria&lt;/em&gt;, u. a. Aquileia, bekannt. Der Weihende kam wahrscheinlich von dort und brachte das Gentiliz nach Raetien. Datierung: Das Schriftbild und die Rahmung deuten auf das 2. Jahrhundert hin. (EDH, JW) </p></div>
+        <div type="translation"><p>"Dem Iuppiter Optimus Maximus (hat es) Marcus Trebius Secco (geweiht).</p></div></body>
     </text>
 </TEI>

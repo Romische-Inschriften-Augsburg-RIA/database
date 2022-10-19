@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Grabinschrift</title>
+                <title>Grabinschrift des Victorinus und der Iulia Providentia</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD063792</idno>
-                <idno type="TM">217393</idno><idno type="localID">HD063792</idno>
+                <idno type="TM">217393</idno><idno type="edh">HD063792</idno><idno type="ace"></idno><idno type="edcs">37600014</idno><idno type="localID">HD063792</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -29,9 +28,7 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/2">unbestimmt</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/2">unbekannt</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material><p/>
                                     <dimensions unit="cm">
                                         <height>-57</height>
                                         <width>-42</width>
@@ -104,7 +101,7 @@
          <change when="2017-11-15" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -124,7 +121,7 @@
                          O. Roger, ZHistSchwab 41, 1915, 141, Nr. 2. (B) 
                     </bibl>
 
-                </listBibl>
+                <bibl>A. Kakoschke, Die Personennamen in der römischen Provinz Rätien, Hildesheim 2009, CN527.</bibl></listBibl>
             </div>
             
             
@@ -137,8 +134,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Allseitig abgebrochen. Z. 1: NI-Ligatur; Z. 2: ET-, PR- ID-, NT-Ligatur; Z. 3: ND-Ligatur. (B): Roger: Abweichungen in der Lesung.</p>
-            </div>
-        </body>
+                <p>Es handelt sich um ein allseitig abgebrochenes Stück eines Grabsteins, das noch einen circa 52cm hohen und 38cm breiten Rest einer Inschriftenfläche besitzt. Die Buchstabenhöhe, welche nur zweimal durch die Ligierung von I überschritten wird, beträgt ebenso wie der Zeilenabstand 3,5cm. Der Text enthält fünf Ligaturen: Z. 1: NI-Ligatur durch eine höhere Schlusshaste des N; Z. 2: ET-Ligatur durch ein umgekehrtes Anfügen des E an das T; PR-Ligatur durch ein umgekehrtes P; ID-Ligatur durch eine höhere Haste des D; Z. 3: ND-Ligatur durch das Anfügen des D-Bogens an die Schlusshaste des N. Unter der letzten Zeile befindet sich noch der Rest eines kleines Ornaments. Kakoschke liest das Cognomen 'Providens' (von lat. vorsichtig) und hält die benannte Frau für eine Einheimische aus Rätien oder aus dem benachbarten keltischen Raum. Das cognomen Victorinus ist eine Weiterbildung von 'Victor' und generell weit verbreitet. In Raetien ist der Name vor allem im Kontext der 3. Italischen Legion in Regensburg bekannt, in Augsburg speziell nur eine Victorina (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1002/view). Roger: Der Palaeographie zufolge dürfte die Inschrift am Ende des 2. Jahrhunderts entstanden sein. (JW) </p></div>
+        <div type="translation"><p>"--- ---lanius Victorinus zu Lebzeiten und der Iulia Providentia, ehemals allerliebste und süßeste Ehefrau, die XXX--- Jahre, XX--- Tage --- gelebt hat, und ---</p></div></body>
     </text>
 </TEI>

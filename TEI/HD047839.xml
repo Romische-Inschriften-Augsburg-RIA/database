@@ -1,14 +1,17 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Akklamation auf Instrumentum domesticum</title>
+                <title>Akklamation auf Glasschale mit Sündenfall</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD047839</idno>
-                <idno type="TM">216777</idno><idno type="localID">HD047839</idno>
+                <idno type="TM">216777</idno>
+                <idno type="edh">HD047839</idno>
+                <idno type="ace"></idno>
+                <idno type="edcs">20601119</idno>
+                <idno type="localID">HD047839</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -26,12 +29,11 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
+                        <p>Bakker: Mit der christlichen Glasschliffschale wurden einige Glasbecher und Münzen in der Latrine, ehemals Badebecken, eines mittelkaiserzeitlichen Gebäudes gefunden. Die flache Kugelabschnittschale aus entfärbtem, leicht olivgrünem Glas trägt, mit dem Stichel auf der Unterseite graviert, eine Darstellung des biblischen Sündenfalls. In der Mitte steht der Baum der Erkenntnis, an dem die Schlange emporkriecht. Rechts steht Eva, ähnlich Venus pudica, und greift nach den Paradiesäpfeln. Im Haar trägt sie ein Diadem mit Bändern, an der Brust eine Perlenkette. Links vom Baum steht Adam leicht nach vorn gebeugt und streckt seinen rechten Arm in Richtung Eva aus. Beide verwenden mit ihrer zweiten Hand ein großes Blatt, um ihre Scham zu bedecken. Über dem Baum befindet sich das Christogramm von zwei Sternen flankiert. Die Inschrift verläuft im Uhrzeigersinn als am ausgebogenen Schalenrand umlaufendes Spruchband. Spuren längeren Gebrauchs gibt es nicht. An der Stelle, wo sich Adams Füße befänden, ist ein Stück aus der Schale herausgebrochen.</p>
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/140">Instrumentum domesticum</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/122">Glas</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/140">Kleininschriften</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/122">Glas</material><p/>
                                     <dimensions unit="cm">
                                         <height>5.1</height>
                                         <width>19.5</width>
@@ -104,7 +106,7 @@
          <change when="2017-08-04" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -118,7 +120,7 @@
                          A. Schaub - L. Bakker - V. Babucka, ArchJahrBay 2000, 87-88; Abb. 87. 
                     </bibl>
 
-                </listBibl>
+                <bibl>L. Bakker, Sündenfall in Augsburg, AiD (2001), S. 38.</bibl></listBibl>
             </div>
             
             
@@ -131,8 +133,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Glasschale mit eingravierter Darstellung des Sündenfalls, Adam links, Eva rechts. Oben mittig Chi-Rho. Schreibtechnik: geritzt. Die Inschrift befindet sich auf dem Rand, im Uhrzeigersinn umlaufend. Datierung: Nach den Münzen im Fundkontext konstantinisch.</p>
-            </div>
-        </body>
+                <p>Bakker: Augrund der Ritztechnik und der Form gehört die Schale zur Wint-Hill-Gruppe, die für Jagdszenen und Darstellungen aus der Mythologie sowie des frühen Christentums bekannt ist und aus einer Kölner Werkstatt stammt. Ein Grab in Köln brachte eine ähnliche Schale zutage, die die Inschrift GAVDIAS IN DEO PIE Z trägt. Datierung: Die Münzen und das Christogramm deuten auf eine Entstehungszeit um 340/350 hin. Es ist das älteste Zeugnis für das Christentum in Augsburg. (EDH, JW) </p></div>
+        <div type="translation"><p>"Lebe in Gott, sei ehrfürchtig und du wirst leben!</p></div></body>
     </text>
 </TEI>

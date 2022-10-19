@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Grabinschrift auf Stele</title>
+                <title>Grabinschrift des Claudius Constantinus und seiner Familie</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058314</idno>
-                <idno type="TM">216992</idno><idno type="localID">HD058314</idno>
+                <idno type="TM">216992</idno><idno type="ibr">151</idno><idno type="cil">5839</idno><idno type="lupa">6435</idno><idno type="edh">HD058314</idno><idno type="ace">39283</idno><idno type="edcs">27500238</idno><idno type="localID">HD058314</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -26,12 +25,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Stele mit dreieckigem Giebel im Relief. Das Inschriftenfeld misst 88cm h, 47cm b.</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/250">Stele</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/250">Stele</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material><p/>
                                     <dimensions unit="cm">
                                         <height>133</height>
                                         <width>57</width>
@@ -104,7 +101,7 @@
          <change when="2017-09-06" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F007363.JPG">
@@ -139,7 +136,7 @@
                          CIL 03, 11888. 
                     </bibl>
 
-                </listBibl>
+                <bibl>CIL III 5839</bibl><bibl>H. F. Gallego: Nomina imperatoria: onomástica imperial en la sociedad de las provincias romanas del alto y medio Danubio (Historia y sociedad; Bd. 89), Valladolid 2001, S. 108.</bibl><bibl>A. Kakoschke, Die Personennamen in der römischen Provinz Rätien, Hildesheim 2009, CN547.</bibl><bibl>CIL III 11888.</bibl></listBibl>
             </div>
             
             
@@ -152,8 +149,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Stele mit dreieckigem Giebel im Relief. Text 1 befindet sich im Giebel. Z. 1: RI-Ligatur. Wagner: keine Wiedergabe der Inschrift.</p>
-            </div>
-        </body>
+                <p>Die erste Zeile befindet sich im Giebel. Z. 1: Obere horizontale Haste von E und T schwingen tildenförmig aufwärts. Z. 2: RI-Ligatur. Z. 12: hac anstelle von ac. Z. 13: Obere horizontale Haste von F schwingt tildenförmig aufwärts. Gallego: Claudius Constantinus war der Herr der hispanischen Sklavin Hispanilla, mit der er einen Sohn hatte. Vielleicht diente sie ehemals als Sklavin bei den Auxiliaren in den Limeskastellen. Kakoschke: Der Name des Sohnes, Reticius, ist eine kelt./lat. Weiterbildung des Cognomen 'Raeticus' und verweist auf die Provinz. (EDH, JW) </p></div>
+        <div type="translation"><p>"Den Totengöttern und der ewigen Sorgenfreiheit,</p></div></body>
     </text>
 </TEI>

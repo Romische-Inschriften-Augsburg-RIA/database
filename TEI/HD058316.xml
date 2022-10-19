@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Bau-/Stifterinschrift auf Tafel</title>
+                <title>Stifterinschrift eines Decurio und Schweinefleischhändlers</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058316</idno>
-                <idno type="TM">216994</idno><idno type="localID">HD058316</idno>
+                <idno type="TM">216994</idno><idno type="ibr">175</idno><idno type="cil">14370</idno><idno type="lupa">6631</idno><idno type="edh">HD058316</idno><idno type="ace">3040</idno><idno type="edcs">31300298</idno><idno type="localID">HD058316</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -26,12 +25,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Der auf einer Platte mit profiliertem Rahmen angebrachte Text ist wenigstens zur Hälfte links verloren.</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">Tafel</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/257">Tafel</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material><p/>
                                     <dimensions unit="cm">
                                         <height>53</height>
                                         <width>-41</width>
@@ -104,7 +101,7 @@
          <change when="2019-12-19" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F000346.JPG">
@@ -137,7 +134,7 @@
                          L. Chioffi, Caro: Il mercato della carne nell'Occidente romano (Roma 1999) 91-92, Nr. 120; fig. 54. 
                     </bibl>
 
-                </listBibl>
+                <bibl>L. Chioffi, Caro: Il mercato della carne nell’Occidente romano (Roma 1999) 91-92, Nr. 120; fig. 54.</bibl><bibl>CIL III 14370.</bibl><bibl>W. Kuhoff, Der Handel im römischen Süddeutschland, in: MBAH 3 (1984), S. 94.</bibl></listBibl>
             </div>
             
             
@@ -150,8 +147,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> In Z. 1 noch der Rand des Bogens eines D zu erkennen. Z. 2: [Iano? Patri? M]atutino? Vgl. Hor. sat. 2,6,20. Oder [Mercurio? M]atutino? (B): IBR 175; CIL 03, 14370; ILS: Z. 1: d(omus)] d(ivinae); Z. 4: negotiator] porcarius.</p>
-            </div>
-        </body>
+                <p>Auf der verlorenen Hälfte standen pro Zeile 12-15 Buchstaben. In Z. 1 noch der Rand des Bogens eines D zu erkennen, d(omus)] d(ivinae). Z. 2: [Iano? Patri? M]atutino? Vgl. Hor. sat. 2,6,20. Oder [Mercurio? M]atutino? Z. 4: negotiator] porcarius. Kuhoff: Der wohlhabende Decurio und Händler der Stadt zeigte wie einige Kollegen seine Munifizenz gegenüber Stadt. Seine Tätigkeit als porcarius ist im süddeutschem Raum sonst nicht überliefert, obwohl der Handel mit Fleisch nicht selten gewesen sein kann. Wahrscheinlich handelte es sich um einen gut verdienenden Großkaufmann, der die nötigen Mittel zur Wiederherstellung des Tempels überhaupt aufbringen konnte. Vermutlich verweist der Beiname 'Matutinus' nicht auf Mercurius (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1618/view), sondern auf Ianus. Datierung: Die Anfangsformel IN H D D, die Symmetrie des Textes, der regelmäßige Duktus, und die fehlenden Ligaturen verweisen auf die severische oder etwas spätere Zeit. (EDH, JW) </p></div>
+        <div type="translation"><p>"Zur Ehre des göttlichen Hauses (errichtete) dem Merkur (?) Matutinus ---us, der Dekurio des municipium Aelium Augusta und Händler mit Schweinefleisch ---, den Tempel, der infolge seines Alters völlig verfallen war, von Grund auf neu aus seinem eigenen Vermögen bereitwillig, froh und nach Verdienst.</p></div></body>
     </text>
 </TEI>

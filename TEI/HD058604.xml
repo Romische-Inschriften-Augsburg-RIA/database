@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Grabinschrift</title>
+                <title>Grabinschrift des Händlers Victorius Victorianus</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058604</idno>
-                <idno type="TM">217094</idno><idno type="localID">HD058604</idno>
+                <idno type="TM">217094</idno><idno type="ibr">144</idno><idno type="cil">5833</idno><idno type="edh">HD058604</idno><idno type="ace">127949</idno><idno type="edcs">27200197</idno><idno type="localID">HD058604</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -29,9 +28,7 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/2">unbestimmt</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/138">unbestimmt</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/2">unbekannt</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/138">unbekannt</material><p/>
                                     <dimensions unit="cm">
                                         <height/>
                                         <width/>
@@ -104,7 +101,7 @@
          <change when="2017-09-29" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -118,7 +115,7 @@
                          CIL 03, 05833. 
                     </bibl>
 
-                </listBibl>
+                <bibl>CIL III 5833.</bibl><bibl>W. Kuhoff, Der Handel im römischen Süddeutschland, in: MBAH 3 (1984), S. 93-94.</bibl><bibl>K. Dietz - W. Czysz, Die Errichtung der Römerherrschaft in Vindelikien, in: Handbuch der bayerischen Geschichte III/2, München 2001, S. 62.</bibl></listBibl>
             </div>
             
             
@@ -131,8 +128,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Nur handschriftlich überliefert.</p>
-            </div>
-        </body>
+                <p>Die Grabinschrift ist nur handschriftlich überliefert. IBR: Ab Zeile 3 sind die Anfänge der Textzeilen und ab Zeile 5 die Enden nicht erhalten, in Z. 10 nur ein C. Der die Berufsbezeichnung des Victorianus ist auffällig, da er zwei Branchen kombiniert. Laut Kuhoff produzierte er wahrscheinlich Tongeschirr und Figuren aus Ton und Metall, die als Votivgaben verwendet wurden. Dietz/Czysz lesen 'turariae' und glauben, dass der Händler mit Weihrauch handelte, der in Häusern, Tempeln und Friedhöfen verbrannt wurde. Er kam vermutlich aus Raetien oder den benachbarten Gebieten, wie sein gall.-germ. Gentiliz, das in Germania Superior verbreitet war, verrät. (JW) </p></div>
+        <div type="translation"><p>"Den Totengöttern und der ewigen Sorgenfreiheit und dem Victorius Victorianus, dem Händler mit Töpferwaren und Kunstschmiedearbeiten, ließ (das Grabmal) errichten Si--- ---, die Mutter ihrem Sohn (?), der ? Jahre lebte.</p></div></body>
     </text>
 </TEI>

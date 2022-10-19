@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Grabinschrift auf Block</title>
+                <title>Grabinschrift des Duplarius Aurelius Marcus und seiner Familie</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD053612</idno>
-                <idno type="TM">216857</idno><idno type="localID">HD053612</idno>
+                <idno type="TM">216857</idno><idno type="lupa">6447</idno><idno type="edh">HD053612</idno><idno type="ace"></idno><idno type="edcs">4900766</idno><idno type="localID">HD053612</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -29,9 +28,7 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/189">Block?</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/189">Steinquader</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material><p/>
                                     <dimensions unit="cm">
                                         <height>53</height>
                                         <width>83</width>
@@ -104,7 +101,7 @@
          <change when="2017-07-21" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F035390.JPG">
@@ -136,7 +133,7 @@
                          L. Bakker, AJahrBay 1984, 110-112; Abb. 74. - AE 1992. 
                     </bibl>
 
-                </listBibl>
+                <bibl>A. Kakoschke, Die Personennamen in der römischen Provinz Rätien, Hildesheim 2009, CN196.</bibl></listBibl>
             </div>
             
             
@@ -149,8 +146,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Die Oberfläche des Inschriftfeldes ist stellenweise stark beschädigt und schwer lesbar. Z. 4 zu Beginn noch die oberen Ansätze zweier Buchstaben zu erkennen. Späte Schrift.</p>
-            </div>
-        </body>
+                <p>Die Oberfläche des Inschriftfeldes ist stellenweise stark beschädigt und schwer lesbar. Z. 4 zu Beginn sind noch die oberen Ansätze zweier Buchstaben zu erkennen. Bakker: Die Inschrift nennt einen doppelt besoldeten Unteroffizier der 3. Italischen Legion namens Aurelius Marcus, der seinen Dienst am Sitz des Statthalters leistete. Er selbst und seine drei Söhne waren bereits verstorben, als die Ehefrau das Grabmal für drei Generationen (alle Aurelius/a) errichten ließ. Die Familie profitierte wahrscheinlich von der &lt;em&gt;constitutio Antoniniana&lt;/em&gt; und erhielt dadurch das Bürgerrecht. Datierung: Der Text und der Duktus mit Einflüssen der lateinischen Kursive datieren den Stein in die Mitte des bzw. ins späte 3. Jahrhundert. Die Herkunft der Familie ist aufgrund der gängigen Namen kaum zu identifizieren. Kakoschke: Das Cognomen 'Decoratus/a' kommt vermehrt in Pannonien vor. Das bedeutet aber nicht zwingend, dass die Ehefrau von dort kam. (EDH, JW) </p></div>
+        <div type="translation"><p>"Den Totengöttern und dem Aurelius Marcus, dem Duplarius (doppelt besoldet) der 3. Italischen Legion, ihrem allerliebsten Ehemann, der 40 Jahre lebte, und dem Aurelius Marcianus, der 13 Jahre lebte, und dem Aurelius ----mus, der 11 Jahre lebte, und dem Aurelius Maturus, der ein Jahr und sieben Monate lebte, ihren allersüßesten Söhnen, und der Aurelia Severa, ihrer Mutter, die sich bester Gesundheit erfreute, und sich selbst hat Aurelia Decorata (dieses Grabmal) zu ihren Lebzeiten errichten lassen.</p></div></body>
     </text>
 </TEI>

@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Weihinschrift auf Altar</title>
+                <title>Weihinschrift des P. Aelius Senno für Mercurius</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058484</idno>
-                <idno type="TM">217057</idno><idno type="localID">HD058484</idno>
+                <idno type="TM">217057</idno><idno type="ibr">103</idno><idno type="cil">5792</idno><idno type="lupa">6421</idno><idno type="edh">HD058484</idno><idno type="ace">127924</idno><idno type="edcs">27100310</idno><idno type="localID">HD058484</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -26,12 +25,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Klein: Der Inschriftenstein wurde zusammen mit zwei Statuen und einem Kopfstück beim Bau einer neuen Kirche in Gersthofen in älteren Kirchenfundamenten entdeckt. Eine Statue zeigt Mercurius (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1618/view), der sich mit dem linken Unterarm auf einen Pfeiler stützt und mit der Hand den Heroldstab senkrecht hält. Darunter steht ein Hahn. Mit der rechten Hand hält der Gott einen gefüllten Geldsack, während ein Mantel über dem rechten Unteram hängt. Hier steht unterhalb ein Ziegenbock. Die zweite Statue zeigt wiederum Mercurius, der den Heroldstab mit der rechten Hand auf den Boden stützt und auf dem linken Arm ein Bacchuskind trägt.</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/29">Altar</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/29">kleiner Altar</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material><p/>
                                     <dimensions unit="cm">
                                         <height>89</height>
                                         <width>52</width>
@@ -104,7 +101,7 @@
          <change when="2017-09-21" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F007355.JPG">
@@ -136,7 +133,7 @@
                          CIL 03, 05792. 
                     </bibl>
 
-                </listBibl>
+                <bibl>CIL III 5792.</bibl><bibl>M. J. Klein, ""Von den Göttern verehren sie am meisten Merkur"". Heiligtümer, Götterbilder und Inschriften aus Obergermanien und Raetien, in: Klein (Hrsg.): Die Römer und ihr Erbe, Mainz 2003, S. 121-122.</bibl><bibl>A. Kakoschke, Die Personennamen in der römischen Provinz Rätien, Hildesheim 2009, CN606.</bibl></listBibl>
             </div>
             
             
@@ -149,8 +146,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Die zugehörige Statue wurde ebenfalls gefunden: IBR tab. 15, ad 103. Z. 1: RI-Ligatur; Haste senkrecht auf dem oberen Bogen des R; Z. 3: NN-Ligatur.</p>
-            </div>
-        </body>
+                <p>Z. 1: RI-Ligatur (Haste senkrecht auf dem oberen Bogen des R). Z. 3: NN-Ligatur. Klein: Die Spolien dürften aus einem Merkurheiligtum stammen, das an der römischen Fernstraße zur Donau lag. Kakoschke: Das Cognomen des Weihenden ist keltischen Ursprungs. Er war ein Einheimischer aus Rätien oder dem benachbarten keltischen Raum. (EDH, JW) </p></div>
+        <div type="translation"><p>"Dem Merkur (stiftete dies) gemäß seinem Gelübde Publius Aelius Senno, der den Tempel und das Götterbild (errichten ließ). Er löste (sein Gelübde) bereitwillig, freudig und nach Verdienst ein.</p></div></body>
     </text>
 </TEI>

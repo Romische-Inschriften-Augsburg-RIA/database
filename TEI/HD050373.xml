@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Weihinschrift auf Altar</title>
+                <title>Weihinschrift des M. Montanius Celer für Iuppiter, Minerva, Mars und Victoria</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD050373</idno>
-                <idno type="TM">216822</idno><idno type="localID">HD050373</idno>
+                <idno type="TM">216822</idno><idno type="lupa">6444</idno><idno type="edh">HD050373</idno><idno type="ace"></idno><idno type="edcs">3000717</idno><idno type="localID">HD050373</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -26,12 +25,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Der Altar wurde sekundär im Fundament eines spätantiken Gebäudes verwendet und zur Anpassung an mehreren Seiten behauen.</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/29">Altar</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/29">kleiner Altar</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material><p/>
                                     <dimensions unit="cm">
                                         <height>94</height>
                                         <width>68</width>
@@ -105,7 +102,7 @@
          <change when="2017-11-15" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F020390.JPG">
@@ -162,8 +159,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Sekundär verwendet im Fundament eines spätantiken Gebäudes. Z. 4: ET-Ligatur; Z. 7: B und F durch eine Horizontalhaste mittig ligiert, sicilicus über COS; Z. 8: EP-, ER-, AM-Ligaturen; Z. 8: blattförmige hederae als Worttrenner; Z. 9: E klein am Zeilenende. (B): Z. 1: [[I(ovi) O(ptimo) M(aximo)]]; Z. 2/3: Mi/nervae.</p>
-            </div>
-        </body>
+                <p>Zur Inschrift: Z. 1: [[I(ovi) O(ptimo) M(aximo)]]; Z. 2/3: Mi/nervae. Z. 4: ET-Ligatur; Z. 7: B und F durch eine Horizontalhaste mittig ligiert, sicilicus über COS; Z. 8: EP-, ER-, AM-Ligaturen; Z. 8: blattförmige hederae als Worttrenner; Z. 9: E klein am Zeilenende. Z. 11 [[Albino Caes(are)]] Bakker: Die Nennung einer Minverva Doctrix ist einmalig und geht eventuell auf doctores und campidoctores zurück, die im Heer zur Rekruten- und Waffenausbildung eingesetzt wurden. M. Montanius Celer diente womöglich in einer dieser Gruppen, vielleicht als Exerziermeister, in der 3. Italischen Legion. Den Altar stellte er nach seiner Pensionierung aus der Straßenpolizei, den Benefiziariern, auf. Die Rasur des Namens vom Caesar Clodius Albinus, der im Jahr 194 Konsulatskollege des Septimius Severus war, geht auf seinen letztlich erfolglosen Kampf gegen Severus und die darauffolgende &lt;em&gt;damnatio memoriae&lt;/em&gt; zurück. Die stark abgeschlagenen Lettern I O M könnten auf eine anti-heidnische Gesinnung späterer Beobachter hindeuten. Eventuell entweihten Christen den Altar, als sie ihn im späten 4. Jahrhundert für den Bau sekundär verwendeten. Datierung: Gemäß der Konsulatsangabe datiert sich der Altar auf den 13. Dezember 194 n. Chr. (EDH, JW) </p></div>
+        <div type="translation"><p>"Dem besten und größten Jupiter, der königlichen Juno, der lehrenden Minerva, dem Mars und der Victoria. Marcus Montanius Celer, in Ehren entlassen aus dem Dienst, gewesener konsularischer Beneficiarier. Was ich als Soldat übernommen habe, das Gelübde erfülle ich gern und freudig nach dem Verdienst. (Der Altar) geweiht an den Iden des Dezembers, als der Imperator Severus und der Caesar Clodius Albinus zum zweiten Mal das Konsulat innehatten.</p></div></body>
     </text>
 </TEI>

@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Bau-/Stifterinschrift auf Altar</title>
+                <title>Bau-/Stifterinschrift des Händlers Iunianus Pastor</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058010</idno>
-                <idno type="TM">216907</idno><idno type="localID">HD058010</idno>
+                <idno type="TM">216907</idno><idno type="edh">HD058010</idno><idno type="ace"></idno><idno type="edcs">31001577</idno><idno type="localID">HD058010</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -26,12 +25,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Nur der untere Teil des Altars ist erhalten.</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/29">Altar</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/29">kleiner Altar</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material><p/>
                                     <dimensions unit="cm">
                                         <height>-27.5</height>
                                         <width>-46</width>
@@ -104,7 +101,7 @@
          <change when="2017-09-13" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -115,7 +112,7 @@
                         F. Wagner, BRGK 37/38, 1956/57, 223, Nr. 25; Taf. 10, 25. 
                     </bibl>
 
-                </listBibl>
+                <bibl>L. Bakker, Inschriften von Händlen aus Augsburg, in: Die Römer in Schwaben (1985), S. 128.</bibl><bibl>J. Platschek, Negotiatores in Augsburger Inschriften und in den Quellen des römischen Rechts, in: C. Becker (Hrsg.): Ökonomie und Recht, Berlin 2009, S. 18.</bibl><bibl>W. Kuhoff, Der Handel im römischen Süddeutschland, in: MBAH 3 (1984), S. 94.</bibl></listBibl>
             </div>
             
             
@@ -128,8 +125,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p/>
-            </div>
-        </body>
+                <p>Von der Inschrift mit einer Buchstabenhöhe von 3cm sind die erste Zeile und die erste Hälfte der zweiten Zeile verloren. Z. 3: Wagner: negot(iatores) mun(icipii); Platschek: negot(iatores?) mur(---) (ein von &lt;em&gt;murus &lt;/em&gt;abgeleitetes Adjektiv) Die Inschrift erwähnt eine Gruppierung von Händlern, von deren Namen einzig der des Iunianus Pastor erhalten ist. Die Identifikation der Händlerorganisation ist umstritten: Kuhoff: Eine Art Dachverband der Kaufmänner der Stadt oder sogar aller vor Ort aktiven Händler. Die Vereinigung lässt sich vielleicht mit den Wiesbadener &lt;em&gt;negotiatores cives Mattiaci &lt;/em&gt;vergleichen. Platschek: Es war kein Dachverband, sondern Geschäftsleute im Mauerbau oder Bauunternehmer, die den Tempel wiederherstellten. (JW) </p></div>
+        <div type="translation"><p>"--- Iunianus Pastor, die Kaufleute des municipium stellten den Tempel wieder her.</p></div></body>
     </text>
 </TEI>

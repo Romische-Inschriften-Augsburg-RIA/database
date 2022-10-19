@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Weihinschrift auf Statuenbasis</title>
+                <title>Weihinschrift des Iulius Marcianus für Vulcanus</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058493</idno>
-                <idno type="TM">217063</idno><idno type="localID">HD058493</idno>
+                <idno type="TM">217063</idno><idno type="ibr">110</idno><idno type="cil">5799</idno><idno type="edh">HD058493</idno><idno type="ace">127932</idno><idno type="edcs">27100316</idno><idno type="localID">HD058493</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -26,12 +25,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Quadratische Statuenbasis.</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/57">Statuenbasis</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">Marmor</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/57">Statuenbasis</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/48">Marmor</material><material ref="https://www.eagle-network.eu/voc/material/lod/48">Marmor</material><p/>
                                     <dimensions unit="cm">
                                         <height/>
                                         <width/>
@@ -104,7 +101,7 @@
          <change when="2017-11-22" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -118,7 +115,7 @@
                          CIL 03, 05799. (B) 
                     </bibl>
 
-                </listBibl>
+                <bibl>CIL III 5799.</bibl><bibl>M. Gschaid: Die Götterkulte im römischen Augsburg. In: Acta praehistorica et archaeologica 25 (1993), S. 261.</bibl></listBibl>
             </div>
             
             
@@ -131,8 +128,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Nur handschriftlich überliefert. (B): CIL 03, 05799: Z. 4: 'V [S] L [L] M'.</p>
-            </div>
-        </body>
+                <p>Nur handschriftlich überlieferte Weihinschrift für Vulcanus (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1649/view). IBR: Abweichende Lesungen: Z. 1: VOLIANO. Z. 4: VRLIM. CIL: Z. 4: 'V [S] L [L] M'. Gschaid: Die Weihung an den Gott der Schmiede könnte mit dem Beruf des Marcianus zusammenhängen. (EDH, JW) </p></div>
+        <div type="translation"><p>"Dem Gott Vulcanus löste Iulius Marcianus gemäß seinem Gelübde das Gelübde bereitwillig, freudig und nach Verdienst ein.</p></div></body>
     </text>
 </TEI>

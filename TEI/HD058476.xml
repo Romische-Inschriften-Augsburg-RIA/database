@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Weihinschrift auf Altar</title>
+                <title>Weihinschrift des Decurio Adiutorius Romanus für Iuppiter</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058476</idno>
-                <idno type="TM">217051</idno><idno type="localID">HD058476</idno>
+                <idno type="TM">217051</idno><idno type="ibr">97</idno><idno type="cil">5787</idno><idno type="edh">HD058476</idno><idno type="ace">127921</idno><idno type="edcs">27100304</idno><idno type="localID">HD058476</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -29,9 +28,7 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/29">Altar?</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/138">unbestimmt</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/29">kleiner Altar</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/138">unbekannt</material><p/>
                                     <dimensions unit="cm">
                                         <height/>
                                         <width/>
@@ -105,7 +102,7 @@
          <change when="2017-09-21" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -119,7 +116,7 @@
                          CIL 03, 05787. 
                     </bibl>
 
-                </listBibl>
+                <bibl>CIL III 5787.</bibl><bibl>H.-J. Kellner, Augsburg, Provinzhauptstadt Raetiens, ANRW II 5,2 (1976), S. 712.</bibl><bibl>G. Rupprecht, Untersuchungen zum Dekurionenstand in den nordwestlichen Provinzen des römischen Reiches (FAS; Bd. 8), Kallmünz 1975, S. 82, 234.</bibl></listBibl>
             </div>
             
             
@@ -132,8 +129,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Nur handschriftlich überliefert. Hederae in Z. 2 und 4.</p>
-            </div>
-        </body>
+                <p>Nur handschriftlich überlieferte Weihung an &lt;a href=""https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1630/view""&gt;Iuppiter&lt;/a&gt;. Hederae in Z. 2 und 4. Z. 2: Welser: LIBERIS, IBR: CETERIS Kellner: Der Decurio kam wohl aus Italien. Rupprecht: Er gehörte zu der romanisierten einheimischen Bevölkerung. (EDH, JW) </p></div>
+        <div type="translation"><p>"Dem besten und größten Iuppiter und allen übrigen Göttern und Göttinnen hat Adiutorius Romanus, decurio des municipium, sein Gelübde gern, freudig und nach Gebühr eingelöst.</p></div></body>
     </text>
 </TEI>

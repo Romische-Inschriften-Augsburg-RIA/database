@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Grabinschrift auf Tafel</title>
+                <title>Grabinschrift des Finanzjuristen Fl. Vettius Titus</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058666</idno>
-                <idno type="TM">217124</idno><idno type="localID">HD058666</idno>
+                <idno type="TM">217124</idno><idno type="ibr">176</idno><idno type="edh">HD058666</idno><idno type="ace"></idno><idno type="edcs">37500152</idno><idno type="localID">HD058666</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -26,12 +25,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Die linke obere Ecke des Inschriftenfeldes ist nicht erhalten, rechts fehlt nur der Rand.</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">Tafel?</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/60">Kalkstein?</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/257">Tafel</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material><p/>
                                     <dimensions unit="cm">
                                         <height>-45</height>
                                         <width>-105</width>
@@ -104,7 +101,7 @@
          <change when="2017-10-26" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -115,7 +112,7 @@
                         IBR 176; tab. 24, 176. 
                     </bibl>
 
-                </listBibl>
+                <bibl>J. M. Bermúdez Lorenzo, La administración subalterna en Raetia durante el Imperio Romano, in: Studia Antiqua et Archaeologica 24,1 (2018), S. 73.</bibl><bibl>W. Czysz, Das Umland von Augsburg in der römischen Kaiserzeit, in: W. Pötzl, O. Schneider (Hg.): Vor- und Frühgeschichte, Augsburg 1996, S. 234.</bibl></listBibl>
             </div>
             
             
@@ -128,8 +125,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Z. 6: Vinculum über XIIII als 1000er-Multiplikator. Aufbewahrungsort unsicher.</p>
-            </div>
-        </body>
+                <p>IBR: Z. 1. FLAV zu Beginn und T am Ende. Z. 2. VS D zu Beginn und A am Ende. Z. 4: ET-Ligatur. Z. 6: Vinculum über XIIII als 1000er-Multiplikator. Czysz: Der reiche Finanjurist der Stadtverwaltung verstarb vermutlich auf seinem Landgut und wurde dort auch beerdigt. Bermúdez Lorenzo: Es verwundert, dass eine eher wirtschaftsschwache Region wie Raetien einen eigenen &lt;em&gt;advocatus fisci&lt;/em&gt; hatte, da selbst die drei hispanischen Provinzen zusammen nur einen hatten. Er muss in enger Verbindung zum Statthalter gestanden haben. Vettius Titus kam, wie die Inschrift verrät, aus Claudia Savaria, einer Stadt in Pannonia Superior. Die Freigelassenen tragen wie der Patron selbst lateinisch-italische Namen, weshalb sich ihre Herkunft nicht genauer verorten lässt. Vielleicht kamen sie ebenfalls aus der Stadt. (EDH, JW) </p></div>
+        <div type="translation"><p>"Flavius Vettius Titus, beheimatet in Claudia Savaria [Szombathely, Ungarn], Anwalt der Kasse der Provinz Raetia. Entsprechend seines Testamentes haben Flavius Quintilianus und Flavius Fortunatus, seine Freigelassenen und Erben, ihrem allerbesten Patron (das Grabmal) errichtet für 14.000 Sesterzen. Er lebte 49 Jahre.</p></div></body>
     </text>
 </TEI>

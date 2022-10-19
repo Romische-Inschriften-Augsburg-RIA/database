@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ehreninschrift auf Statuenbasis</title>
+                <title>Ehreninschrift für Probus auf Statuenbasis</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058015</idno>
-                <idno type="TM">216911</idno><idno type="localID">HD058015</idno>
+                <idno type="TM">216911</idno><idno type="edh">HD058015</idno><idno type="ace"></idno><idno type="edcs">31001581</idno><idno type="localID">HD058015</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -26,12 +25,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Erhalten sind zwei nebeneinander angeordnete Blöcke, an die oben weitere Blöcke anschlossen. Sie wurden im Fundament der Osthälfte der Südmauer des spätantiken, frühmittelalterlichen Baus (spätere Veitskapelle) gefunden. Der erste Block ist in zwei Fragmente, der zweite Block in drei Fragmente gebrochen. Die vorne und an der Rückseite vorhandene Rundung der Blöcke weist darauf hin, daß sie in einer Apsis angebracht gewesen sein könnten.</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/57">Statuenbasis?</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/57">Statuenbasis</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material><p/>
                                     <dimensions unit="cm">
                                         <height>-89</height>
                                         <width>-124</width>
@@ -105,7 +102,7 @@
          <change when="2017-08-25" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F007378.JPG">
@@ -153,7 +150,7 @@
                          M. Horster, Bauinschriften römischer Kaiser (Stuttgart 2001) 387-388, Nr. XXVI 1. (B) 
                     </bibl>
 
-                </listBibl>
+                <bibl>L. Ohlenroth - F. Wagner, BVbl 18/19 (1951/1952), S. 278-279.</bibl></listBibl>
             </div>
             
             
@@ -166,8 +163,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Erhalten sind zwei nebeneinander angeordnete Blöcke, an die sich rechts und links je ein weiterer Block anschloss. Der erste Block ist in zwei Fragmente, der zweite Block in drei Fragmente gebrochen. Die vorne und an der Rückseite vorhandene Rundung der Blöcke weist darauf hin, daß sie in einer Apsis angebracht gewesen sein könnten. Hederae in Z. 3, 6. (B): Wagner: Z. 2: [retro]; Z. 3: Aur(elio); Horster: Z. 4: patr[i.</p>
-            </div>
-        </body>
+                <p>Der erste Teil der Inschrift ist mit den oberen Blöcken verloren gegangen. Die Buchstabenhöhe der verbliebenen Textzeilen beträgt 6cm. Hederae in Z. 3, 6. Wagner: Z. 2: [retro]; Z. 3: Aur(elio); Horster: Z. 4: patr[i. Datierung: Wagner: Den Amtsbezeichnungen zufolge wurde der Stein im Jahr 281 zu Ehren von Kaiser Probus gestiftet. Die hier ausgedrückte große Dankbarkeit gegenüber Probus könnte auf seinen früheren Sieg gegen germanische Stämme und die Sicherung des Limes durch die Anlage neuer Kastelle zurückgehen. (EDH, JW) </p></div>
+        <div type="translation"><p>"Dem Wiederhersteller der Provinzen und der öffentlichen Bauten, dem allervorausschauendsten und über alle früheren Herrscher hinaus allerstärksten Imperator Caesar Marcus Aurelius Probus, dem pflichtbewussten, glückbegnadeten, unbesiegten Augustus, dem Oberpriester, im sechsten Jahr seiner tribunizischen Gewalt, dem viermaligen Konsul, dem Vater des Vaterlandes, dem Prokonsul, (setzte dieses Ehrenmal) seine Vollkommenheit ---inus, handelnd in Stellvertretung des Statthalters der Provinz Raetia, in höchster Ergebenheit gegenüber seinem göttlichem Wesen und seiner Erhabenheit.</p></div></body>
     </text>
 </TEI>

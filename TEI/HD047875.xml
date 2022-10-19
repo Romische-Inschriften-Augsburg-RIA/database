@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Aufschrift auf Instrumentum domesticum</title>
+                <title>Pinselaufschrift auf Fischsaucenamphore für C. Saturius Secundus</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD047875</idno>
-                <idno type="TM">216786</idno><idno type="localID">HD047875</idno>
+                <idno type="TM">216786</idno><idno type="edh">HD047875</idno><idno type="ace"></idno><idno type="edcs">20601131</idno><idno type="localID">HD047875</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -26,12 +25,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Amphore (Dressel 7-11)</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/140">Instrumentum domesticum</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/131">Ton</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/140">Kleininschriften</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/131">Ton</material><p/>
                                     <dimensions unit="cm">
                                         <height/>
                                         <width/>
@@ -104,7 +101,7 @@
          <change when="2017-12-14" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -140,8 +137,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Amphore (Dressel 7-11). Die Inschrift befinder sich auf dem Hals. C. Saturius Secundus ist als procurator in Raetia in den Jahren 77 und 80 n. Chr. belegt. Schreibtechnik: gemalt. (B): AE 2000; Ehmig 2000: C. Saturio Sesto.</p>
-            </div>
-        </body>
+                <p>Schreibtechnik: gemalt. AE; Ehmig 2001: C. Saturio Sesto; Ehmig 2004: C. Saturius Secundus Ehmig: Die einzige erhaltene Zeile auf der Amphore mit hispanischem garum widmet sich dem Adressaten C. Saturius Secundus. Dieser war Statthalter in Raetien zwischen 77 und 80 n. Chr. und erhielt eine ähnliche Amphore vom Warentransporteur Publius Valerius: HD048774. (EDH, JW) </p></div>
+        <div type="translation"><p>"dem C. Saturius Secundus gehörig</p></div></body>
     </text>
 </TEI>

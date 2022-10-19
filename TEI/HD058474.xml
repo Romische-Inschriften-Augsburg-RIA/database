@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Weihinschrift auf Statuenbasis</title>
+                <title>Weihinschrift des Statthalters Aurelius Mucianus für Hercules</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058474</idno>
-                <idno type="TM">217049</idno><idno type="localID">HD058474</idno>
+                <idno type="TM">217049</idno><idno type="ibr">95</idno><idno type="cil">5785</idno><idno type="edh">HD058474</idno><idno type="ace">127919</idno><idno type="edcs">27100302</idno><idno type="localID">HD058474</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -29,9 +28,7 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/57">Statuenbasis</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/138">unbestimmt</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/57">Statuenbasis</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/138">unbekannt</material><p/>
                                     <dimensions unit="cm">
                                         <height/>
                                         <width/>
@@ -104,7 +101,7 @@
          <change when="2017-09-21" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -121,7 +118,7 @@
                          PIR (2. Aufl.) A 1560. 
                     </bibl>
 
-                </listBibl>
+                <bibl>CIL III 5785.</bibl><bibl>M. Gschaid, Die Götterkulte im römischen Augsburg, in: Acta praehistorica et archaeologica 25 (1993), S. 260.</bibl></listBibl>
             </div>
             
             
@@ -134,8 +131,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Nur handschriftlich überliefert.</p>
-            </div>
-        </body>
+                <p>Die Hercules-Statue mit Sockel ist nur handschriftlich überliefert. CIL: Z. 1: HERCVLI, Z. 6: POSVIT Gschaid: Wahrscheinlich verehrte Mucianus den Hercules (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1643/view), den göttlichen Genius des Kaisers Maximian. Datierung: Die Statthalterschaft des Mucianus ist am Ende des 3., Anfang des 4. Jahrhundert anzusetzen. (JW) &amp;nbsp; </p></div>
+        <div type="translation"><p>"Dem Hercules errichtete die Statue zusammen mit der Basis seine Vollkommenheit Aurelius Mucianus, der Statthalter der Provinz Raetia für sein eigenes Heil und das aller der Seinen, wobei die Ausführung --- Gerontius --- übernahm.</p></div></body>
     </text>
 </TEI>

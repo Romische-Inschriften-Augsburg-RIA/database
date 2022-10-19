@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Grabinschrift auf Altar</title>
+                <title>Grabinschrift des M. Buccinius Tacitus und des Iulius Marinus</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058641</idno>
-                <idno type="TM">217099</idno><idno type="localID">HD058641</idno>
+                <idno type="TM">217099</idno><idno type="ibr">150</idno><idno type="cil">5838</idno><idno type="lupa">6301</idno><idno type="edh">HD058641</idno><idno type="ace">127953</idno><idno type="edcs">27500237</idno><idno type="localID">HD058641</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -26,12 +25,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Mittelteil eines Grabaltars. Aufsatz und Basis wurden neuzeitlich ergänzt. Auf den Nebenseiten sind Pinienzapfen zu sehen.</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/29">Altar</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/29">kleiner Altar</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material><p/>
                                     <dimensions unit="cm">
                                         <height>116</height>
                                         <width>70</width>
@@ -105,7 +102,7 @@
          <change when="2017-09-29" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
 
@@ -128,7 +125,7 @@
                          G. Gamer - A. Rüsch, Raetia (Bayern südlich des Limes) und Noricum (Chiemseegebiet), CSIR Deutschland 1, 1 (Bonn 1973) 49, Nr. 144; Taf. 45, 144. 
                     </bibl>
 
-                </listBibl>
+                <bibl>A. Kakoschke, Die Personennamen in der römischen Provinz Rätien, Hildesheim 2009, GN30, CN385.</bibl><bibl>CIL III 5838.</bibl></listBibl>
             </div>
             
             
@@ -141,8 +138,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Mittelteil eines Grabaltars, Aufsatz und Basis neuzeitlich ergänzt. Auf den Nebenseiten Pinienzapfen. Z. 6/7 offenbar nachträglich hinzugefügt. Hedera in Z. 7.</p>
-            </div>
-        </body>
+                <p>IBR, CIL: Z. 6/7 offenbar nachträglich hinzugefügt. Hedera in Z. 7. Kakoschke: 'Buccinius' ist ein einheimisches Pseudo-Gentilnomen, abgeleitet vom keltischen Cognomen Buccus. Der erst genannte Verstorbene kam sicherlich aus Raetien oder dem benachbarten keltischen Gebiet. Das Cognomen des zweiten Verstorbenen, Marinus, kommt im östlichen Mittelmeerraum häufiger vor, jedoch reicht das vermutlich nicht, um seine Herkunft dort zu verorten. Laut Kakoschke war er eher auch ein Einheimischer. (EDH, JW) </p></div>
+        <div type="translation"><p>"Den Totengöttern und dem Marcus Buccinius Tacitus, der 80 Jahre lebte, ließ sein Patron und Erbe (das Grabmal) errichten und dem Iulius Marinus.</p></div></body>
     </text>
 </TEI>

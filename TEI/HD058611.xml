@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Beischrift auf Architekturteil</title>
+                <title>Beischrift mit Gladiatorennamen</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058611</idno>
-                <idno type="TM">217097</idno><idno type="localID">HD058611</idno>
+                <idno type="TM">217097</idno><idno type="ibr">147</idno><idno type="cil">5835</idno><idno type="edh">HD058611</idno><idno type="ace">127951</idno><idno type="edcs">27500234</idno><idno type="localID">HD058611</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -26,12 +25,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Bodenmosaik, die Mittelzone unterteilt in drei Reihen von noch 5x3 erhaltenen Mosaikfeldern. Je vier Felder der oberen und unteren Reihe zeigen Kampfszenen zwischen Gladiatoren, deren Namen als Beischrift gegeben sind. In der mittleren Reihe noch drei Mosaikfelder mit Quadrigae, rechts davon Wendemarke. Die obere Reihe ist zu der mittleren und unteren um 180° gedreht, in der rechten Spalte um 90° gedreht drei Felder mit Vögeln (Hahn, Raben). Der Rand des gesamten Mosaiks ist an keiner Stelle erhalten.</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/35">Architekturteil</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/138">unbestimmt</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/35">Architekturteil</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/138">unbekannt</material><p/>
                                     <dimensions unit="cm">
                                         <height/>
                                         <width/>
@@ -104,7 +101,7 @@
          <change when="2018-03-16" who="Osnabrügge">
              überprüft an Zeichnung
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -124,7 +121,7 @@
                          (Zeichnung). 
                     </bibl>
 
-                </listBibl>
+                <bibl>IBR 147; p. 49. tab. 20, 147 </bibl><bibl>CIL III 5835a.</bibl><bibl>L. Bakker, Mosaikfunde aus Augusta Vindelicum, in: M. Petzet (Hg.): Die Römer in Schwaben (Arbeitshefte des Bayerischen Landesamtes für Denkmalpflege; Bd. 27), München 1985, S.106-107.</bibl><bibl>IBR 147; p. 49. tab. 20, 147 </bibl><bibl>IBR 147; p. 49. tab. 20, 147 </bibl><bibl>IBR 147; p. 49. tab. 20, 147 </bibl><bibl>IBR 147; p. 49. tab. 20, 147 </bibl><bibl>IBR 147; p. 49. tab. 20, 147 </bibl><bibl>IBR 147; p. 49. tab. 20, 147 </bibl><bibl>IBR 147; p. 49. tab. 20, 147 </bibl><bibl>IBR 147; p. 49. tab. 20, 147 </bibl><bibl>IBR 147; p. 49. tab. 20, 147 </bibl><bibl>IBR 147; p. 49. tab. 20, 147 </bibl></listBibl>
             </div>
             
             
@@ -137,8 +134,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Bodenmosaik, die Mittelzone unterteilt in drei Reihen von noch 5x3 erhaltenen Mosaikfeldern. Je vier Felder der oberen und unteren Reihe zeigen Kampfszenen zwischen Gladiatoren, deren Namen als Beischrift gegeben sind. In der mittleren Reihe noch drei Mosaikfelder mit Quadrigae, rechts davon Wendemarke. Die obere Reihe ist zu der mittleren und unteren um 180° gedreht, in der rechten Spalte um 90° gedreht drei Felder mit Vögeln (Hahn, Raben). Der Rand des gesamten Mosaiks ist an keiner Stelle erhalten. Schreibtechnik: Mosaik. (B): IBR 147: Text 1: die aus dem 16. Jh. stammende Zeichnung weist vor dem Namen Crispus noch die Namensendung -us auf, die in der Lesung von IBR nicht wiedergegeben ist.</p>
-            </div>
-        </body>
+                <p>Schreibtechnik: Mosaik. IBR 147: Text 1: die aus dem 16. Jh. stammende Zeichnung weist vor dem Namen Crispus noch die Namensendung -us auf, die in der Lesung von IBR nicht wiedergegeben ist. CIL: Quadr. 1: SIRIPVS vor CRISPVS. Quadr. 10: MANLIVS unsicher. Die Namen der Gladiatoren sind vorwiegend lateinisch und griechisch, Aprius ist keltisch. (EDH, JW) </p></div>
+        <div type="translation"><p>"---us Crispus</p></div></body>
     </text>
 </TEI>

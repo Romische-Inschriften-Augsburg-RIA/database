@@ -1,5 +1,4 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -8,7 +7,7 @@
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058607</idno>
-                <idno type="TM">217096</idno><idno type="localID">HD058607</idno>
+                <idno type="TM">217096</idno><idno type="ibr">146</idno><idno type="cil">5835</idno><idno type="edh">HD058607</idno><idno type="ace">127951</idno><idno type="edcs">27500233</idno><idno type="localID">HD058607</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -26,12 +25,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Die Altar-Hörner und die obere Verzierung sollen noch sichtbar sein.</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/29">Altar</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/138">unbestimmt</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/29">kleiner Altar</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/138">unbekannt</material><p/>
                                     <dimensions unit="cm">
                                         <height>63</height>
                                         <width>34</width>
@@ -104,7 +101,7 @@
          <change when="2017-12-13" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -118,7 +115,7 @@
                          CIL 03, 05835. 
                     </bibl>
 
-                </listBibl>
+                <bibl>CIL III 5835.</bibl><bibl>Raiser, Oberdonaukreis 3, S. 89.</bibl></listBibl>
             </div>
             
             
@@ -131,8 +128,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Die Texte 1 und 2 befinden sich im selben Inschriftenfeld, allerdings geht aus der überlieferten Beschreibung nicht hervor, ob es sich um zwei aufeinanderfolgende Zeilen handelt oder nicht. Die Maßangabe ist nach den überlieferten Angaben in (duodezimalen?) bayerischen Fuß und Zoll umgerechnet (2'2" hoch, 1'2" breit)</p>
-            </div>
-        </body>
+                <p>Raiser betrachtete den Stein nach eigenen Angaben im Augsburger 'Antiquarium Romanum', Vollmer und Mommsen konnten ihn nicht finden. In zwei Zeilen unbekannter Position sollen die dunklen Buchstaben A AEL und weiter unten P C erkennbar gewesen sein. (JW) </p></div>
+        <div type="translation"><p>"--- ließ (diesen Altar) errichten ---</p></div></body>
     </text>
 </TEI>

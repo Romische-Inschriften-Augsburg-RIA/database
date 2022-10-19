@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ehreninschrift auf Statuenbasis</title>
+                <title>Ehreninschrift des Statthalters Septimius Valentio für Diokletian</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD009442</idno>
-                <idno type="TM">216578</idno><idno type="localID">HD009442</idno>
+                <idno type="TM">216578</idno><idno type="ibr">121</idno><idno type="cil">5810</idno><idno type="lupa">6433</idno><idno type="edh">HD009442</idno><idno type="ace"></idno><idno type="edcs">27100327</idno><idno type="localID">HD009442</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -26,12 +25,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Stark bestoßen.</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/57">Statuenbasis?</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/57">Statuenbasis</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material><p/>
                                     <dimensions unit="cm">
                                         <height>-116</height>
                                         <width>70</width>
@@ -104,7 +101,7 @@
          <change when="2017-08-02" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F007359.JPG">
@@ -163,7 +160,7 @@
                          PIR (2. Aufl.) S 493. 
                     </bibl>
 
-                </listBibl>
+                <bibl>CIL III 5810</bibl><bibl>W. Kuhoff, Römische Kaiser in Augsburg, in: ZHVSchwaben 103 (2011), S. 19-21, Abb. 11.</bibl><bibl>L. Bakker, Ehreninschriften für Probus und Diokletian aus Augsburg, in: Römer in Schwaben, München 1985, S. 261-262.</bibl></listBibl>
             </div>
             
             
@@ -176,8 +173,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Stark bestoßen, Inschrift stellenweise schwer lesbar. In Z. 6 Am Zeilenende möglicherweise noch ein zweites, irrtümlich eingehauenes P. In Z. 13 links noch die oberen Ansätze der Buchstaben zu erkennen.</p>
-            </div>
-        </body>
+                <p>Inschrift stellenweise schwer lesbar. CIL: In Z. 6 Q EIVSD, am Zeilenende möglicherweise noch ein zweites, irrtümlich eingehauenes P. In Z. 13 links noch die oberen Ansätze der Buchstaben zu erkennen. Der Ritter Septimius Valentio fungierte als vollgültiger &lt;em&gt;praeses &lt;/em&gt;(https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1401/view) ohne Stellvertreterausübung und hatte seinen Sitz in Augsburg. Die große Reichsreform Diokletians, die eine Teilung der Provinzen in Raetia I und Raetia II vorsah, wurde zu diesem Zeitpunkt noch nicht umgesetzt. Kuhoff: Die Inschrift belegt, dass sich sich die Kaiser Diokletian und Maximian nach einem gemeinsamen Feldzug gegen die Alamannen im Jahr 288 in Augsburg trafen, um dort aktuelle Staatsgeschäfte zu besprechen, ehe sie in ihre Verwaltungsgebiete zurückkehrten. Neben der Statue für Diokletian wird noch eine zweite für Maximian gestanden haben, um die Eintracht der Kaiser zu verdeutlichen. Die im Text angesprochenen Siegerbeinamen &lt;em&gt;Germanicus max(imus) Pers(icus) max(imus)&lt;/em&gt; und die inoffiziellen, zum Hauptteil eigens für diese Ehrung kreierten Titulaturelemente in Form der Tugendattribute &lt;em&gt;providentissimus princeps rector orbis ac dominus fimdator pacis aeternae&lt;/em&gt; drücken eine sichtbare Emphase aus, welche eine Erleichterung über die Leistung des Kaisers zum Wohl der Provinzen im gallisch-germanischen Bereich beinhaltet. Chastagnol: Die Titulatur Diokletians ermöglicht es, die Inschrift auf den Zeitraum vom 01. Jan. bis 10. Dez. 290 zu datieren. In der Rolle eines stellvertretenden Prätorianerpräfekten oder Vikars stiftete Valentio zwischen 293 und 296 n. Chr. eine Statue mit Sockel für Maximianus Herculius in Rom (CIL VI 1125=ILS 619). (EDH, JW) &amp;nbsp; </p></div>
+        <div type="translation"><p>"Dem allervorausschauendsten Herrscher, dem Lenker und Herrn des Erdkreises, dem Begründer des ewigen Friedens, Diokletian, dem Imperator, dem unbesiegten Augustus, dem Oberpriester, dem größten Sieger über die Germanen, dem größten Sieger über die Perser, im siebten Jahr seiner tribunizischen Gewalt, dem viermaligen Konsul, dem Vater des Vaterlandes, dem Prokonsul (setzte dieses Ehrenmal) seine Vollkommenheit Septimius Valentio, der Statthalter der Provinz Raetia, in Ergebenheit gegenüber seinem göttlichen Wesen und seiner Erhabenheit.</p></div></body>
     </text>
 </TEI>

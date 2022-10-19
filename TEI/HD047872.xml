@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Aufschrift auf Instrumentum domesticum</title>
+                <title>Pinselaufschrift auf Amphore mit spanischer Fischsauce</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD047872</idno>
-                <idno type="TM">216783</idno><idno type="localID">HD047872</idno>
+                <idno type="TM">216783</idno><idno type="edh">HD047872</idno><idno type="ace"></idno><idno type="edcs">20601128</idno><idno type="localID">HD047872</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -23,12 +22,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Oberteil einer Amphore (Dressel 9 similis).</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/140">Instrumentum domesticum</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/131">Ton</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/140">Kleininschriften</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/131">Ton</material><p/>
                                     <dimensions unit="cm">
                                         <height/>
                                         <width/>
@@ -101,7 +98,7 @@
          <change when="2017-11-23" who="Osnabrügge">
              überprüft an Zeichnung
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -128,8 +125,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Oberteil einer Amphore (Dressel 9 sim.). Die Inschrift befindet sich auf dem Hals zwischen den Henkeln. Schreibtechnik: gemalt. (B): AE 2000: Z. 3: T[---].</p>
-            </div>
-        </body>
+                <p>Die Inschrift befindet sich auf dem Hals zwischen den Henkeln. Schreibtechnik: gemalt. AE: Z. 3: T[---]. Ehmig: Die Amphore aus dem mittleren Rhônetal belegt, dass hispanische Fischsaucen von augusteischer Zeit bis ins frühe 3. Jahrhundert nicht immer im Herstellungsort in Amphoren abgefüllt wurden, sondern teilweise zur Einsparung von Kosten vorerst in großen Paketen transportiert und bei einer Zwischenstation in lokal produzierte Gefäße umgefüllt wurden. Die Warenqualität spielte dabei keine Rolle. Das Attribut excellens ist bisher nur bei dem hochwertigen garum scombri bekannt, allerdings wurde dieses stets im Produktionsort abgefüllt. Andernfalls wird garum fast immer mit flos gekennzeichnet. In der untersten Zeile ist nur das Praenomen Titus erhalten. Auf Amphoren des mittleren Rhônetals werden die Transporteure oft mit den tria nomina abgekürzt. (EDH, JW) </p></div>
+        <div type="translation"><p>"Vortreffliche Fischsauce des Titus ---</p></div></body>
     </text>
 </TEI>

@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Grabinschrift auf Ehren-/Grab-/Votivsäule</title>
+                <title>Grabinschrift des Decurio C. Iulius Secundinus</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD008661</idno>
-                <idno type="TM">216571</idno><idno type="localID">HD008661</idno>
+                <idno type="TM">216571</idno><idno type="lupa">6442</idno><idno type="edh">HD008661</idno><idno type="ace"></idno><idno type="edcs">8900496</idno><idno type="localID">HD008661</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -26,12 +25,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Gottlieb: Der Inschriftquader aus gelblichgrauem Kalkstein ist an der rechten oberen und unteren Ecke der Vorderseite (lnschriftplatte) beschädigt. Die Ecken der Rückseite sind abgebrochen. Die Seitendarstellungen, jeweils ein Kantharos, sind dagegen gut erhalten. Die Lesung der Inschrift wird durch die Abnutzung der Steinoberfläche erschwert, zum Teil unmöglich gemacht (Zeile 5/6). Das Rahmenprofil der Inschriftplatte ist fast völlig zerstört; an den Längsseiten und an der Rückseite sind die Rahmenproßle noch bruchstückhaft erhalten. In der Mitte der Oberseite befindet sich ein kreisrundes Dübelloch ( (/) ca. 1.0,7 cm; tiefste Stelle der unregelmäßigen Bohrung ca. 9,5 cm). Vermutlich gehörte der ca. 1.1.5 cm breite, ca. 1.04 cm hohe und ca. 67 cm tiefe Quader zu einem Pfeilergrab. Die Darstellungen auf den Schmalseiten sind in voller Plastizität erhalten. Sie zeigen auf vertieftem, profiliertem Feld (Abmessungen: ca. 46 x 85 cm) jeweils einen Kantharos (maximale Höhe: ca. 71 cm; maximale Breite: ca. 43 cm), ein zweihenkliges, mit Bandornamenten verziertes (Trink-) Gefäß mit hohem Standsockel und weiter, becherartiger Öffnung, aus der stilisierte Weintrauben »wachsen«. Das vertiefte, profilierte Feld der Steinrückseite ist unverziert. Die Abmessungen der umrahmten Platte entsprechen mit etwa 93 x 85 cm denen der Vorderseite.</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/102">Ehren-/Grab-/Votivsäule</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/102">Ehren-/Grab-/Votivsäule</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material><p/>
                                     <dimensions unit="cm">
                                         <height>104</height>
                                         <width>110</width>
@@ -104,7 +101,7 @@
          <change when="2017-08-23" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F020386.JPG">
@@ -142,7 +139,7 @@
                          M. Radnoti-Alföldi, u. a. in: L. Weber, Neue Funde aus Augsburg (Augsburg 1978) 94-96; Taf. 19-20. (B) - AE 1980. 
                     </bibl>
 
-                </listBibl>
+                <bibl>K. Dietz, Die römischen und frühmittelalterlichen Namen Augsburgs, in: J. Bellot, W. Czysz und G. Krahe (Hg.): Forschungen zur provinzialrömischen Archäologie in Bayerisch-Schwaben (Schwäbische Geschichtsquellen und Forschungen, Bd. 14), Augsburg 1985, S. 90 Taf. 16.</bibl><bibl>K. Dietz - G. Weber, Fremde in Rätien, in: Chiron 12 (1982), S. 440 Nr. 8.</bibl><bibl>G. Gottlieb - W. Grabert - R. Kern, Römische Inschriften aus Augsburg, in: ZHVSchwaben 73 (1979), S. 88-91.</bibl><bibl>A. Kakoschke, Die Personennamen in der römischen Provinz Rätien, Hildesheim 2009, CN596, CN713.</bibl></listBibl>
             </div>
             
             
@@ -155,8 +152,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Inschriftfeld stark beschädigt, die Inschrift stellenweise nur schwer lesbar. Am Ende von Z. 1 noch ein Teil des linken Bogens eines O zu erkennen; Z. 2 vom ersten V noch der obere Ansatz der rechten Schräghaste. Z. 5: Lesung unsicher. Die oberen Ansätze einiger Buchstaben erhalten; NT-Ligatur? Dekor: auf den Nebenseiten jeweils Darstellung eines Kantharos mit Weintrauben. (B): AE 1980: Überflüssiger Zeilenfall mun(icipi) / Ael(i); Z. 3: Iul(ii); Z. 5: [cu]rante [---]; Radnoti-Alföldi: Z. 3: V[e]ra Ver[us; Z. 5: [cu]rante;</p>
-            </div>
-        </body>
+                <p>Buchstabenhöhe: 7,0 cm (bei Ligaturen 8,6 cm); Zeilenabstand: 5,5 cm; Worttrennung, soweit noch erkennbar, durch kleine Dreiecke. Am Ende von Z. 1 ist noch ein Teil des linken Bogens eines O erkennbar; Z. 2 vom ersten V noch der obere Ansatz der rechten Schräghaste; Z. 3. Erhöhtes L am Ende von ivL; Z. 5: Lesung unsicher. Die oberen Ansätze einiger Buchstaben erhalten, NT-Ligatur; Dekor: auf den Nebenseiten jeweils Darstellung eines Kantharos mit Weintrauben. (B): AE 1980: Überflüssiger Zeilenfall mun(icipi) / Ael(i); Z. 3: Iul(ii); Z. 5: [cu]rante [---]; Radnoti-Alföldi: Z. 3: V[e]ra Ver[us; Z. 5: [cu]rante; Gottlieb: [c]urante MIV[--. Dietz: Die Grabinschrift des Stadtrats (https://sempub.ub.uni-heidelberg.de/ria/wisski/navigate/1399/view) C. lulius Secundinus ist ganz sicher in die Zeit nach der genannten Erhebung Augsburgs zum Munizipium durch Hadrian zu datieren (nach 121 n. Chr.) Da der Verstorbene im Dativ genannt wird, Heimats- und Altersangaben sowie superlativische Ehrennamen fehlen, dürfte ein Ansatz ins fortgeschrittene 2. Jahrhundert realistisch sein, womit auch die Gestaltung der Seitenreliefs durch Kantharoi und mit Weintrauben gefüllte Gefäße übereingehen dürfte. Gottlieb: Datierung in der 2. Hälfte des 2. Jahrhunderts, spätestens Anfang des 3. Jahrhunderts. Das Cognomen 'Secundinus' ist ein gängiger Name, aber vor allem in Noricum belegt, wo auch das kaiserliche Gentilnomen 'Iulius' als Folge von Bürgerrechtsverleihungen verbreitet war. Vor allem unter dortigen höheren Magistraten wie duumviri, aediles, quaestores waren lateinische cognomina charakteristisch. Kakoschke: Das Cognomen 'Secundinus' ist genauso geographisch unspezifisch wie das Cognomen 'Verus' bzw. 'Vera' zweier Kinder. Gottlieb: Die Kinder des Verstorbenen (Secundina, Vera, Verus) werden vermutlich nach ihrem Alter geordnet genannt. Sicher standen in Z. 5 das praeno­men und das nomen gentile des Vormunds der als Dedikanten genannten Kinder des Verstorbenen. Eine noch erhaltene senkrechte Haste könnte zu einem M (Marcus) gehört haben. Außerdem sind die Buchstaben I und V, die sich leicht zu Iulius ergänzen lassen, ganz schwach zu erkennen. Dann war der Vormund wahrscheinlich der Bruder des Verstorbenen. Die Z. 6 ist vollständig zerstört. Sie enthielt vermutlich das cognomen und das Verwandtschaftsverhältnis des Vormunds. (EDH, JW) </p></div>
+        <div type="translation"><p>"Dem Gaius Iulius Secundinus, Decurio des Municipium Aelium Augusta, (errichteten das Grabmal) seine Kinder Iulia Secundina, Iulia Vera und Iulius Verus. Die Ausführung übernahm ---</p></div></body>
     </text>
 </TEI>

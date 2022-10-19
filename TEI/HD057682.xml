@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Besitzer-/Herstellerinschrift auf Instrumentum domesticum</title>
+                <title>Inschrift auf spätantikem Messer</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD057682</idno>
-                <idno type="TM">216884</idno><idno type="localID">HD057682</idno>
+                <idno type="TM">216884</idno><idno type="edh">HD057682</idno><idno type="ace"></idno><idno type="edcs">44200166</idno><idno type="localID">HD057682</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -26,12 +25,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Ortisi: Das Messer (Salurn-Typ 1e) misst 11,5cm Länge/2,5cm Breite und ist an der Griffangel verbogen sowie an der Spitze abgebrochen. Die verbliebene, einschneidige Klinge ist 5,8cm lang. Der ehehmals nur aufgesteckte Griff aus organischem Material ist nicht erhalten, besaß aber ursprünglich die gleiche Länge.</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/140">Instrumentum domesticum</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/111">Eisen</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/140">Kleininschriften</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/111">Eisen</material><p/>
                                     <dimensions unit="cm">
                                         <height>11.5</height>
                                         <width>2.5</width>
@@ -104,7 +101,7 @@
          <change when="2017-07-12" who="Osnabrügge">
              überprüft an Zeichnung
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -131,8 +128,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Messer; der Griff fehlt. Länge der Klinge: 5.8 cm. Dekor: die Inschrift befindet sich zwischen einer punktierten Linie und einem Spiralband. Auf der anderen Seite Darstellung einer Taube. Z. 1: statt O(?) auch C(?) möglich. Die Interpretation der Inschrift ist schwierig, da es sich bei bestimmten Buchstaben auch um rein dekorative Elemente handeln könnte; so ergäbe sich die Lesung {II}v{S}ixi{S}t{o}. Eine andere Möglichkeit ist die Lesung [---]lius, gefolgt von einem cognomen.</p>
-            </div>
-        </body>
+                <p>Ortisi: Der Beginn des Texts ist aufgrund der abgebrochenen Spitze verloren. Der mittlere Teil liest sich schwierig, da dekorative Elemente in die Zeile eingeflossen sind: {II}v{S}ixi{S}t{o} mit den beiden S als verschnörkelte Ornamente oder ...IVSTVS..., wobei hier das vormalige mittige X als V mit Randschnörkeln versehen wäre. Für die zweite Interpretation sprechen Messerfunde aus Salurn mit ähnlichen dekorativen Elementen. Die Bedeutung des O oder C am Ende der Zeile ist unklar. AE: Eine andere Möglichkeit ist die Lesung [---]lius, gefolgt von einem cognomen. Datierung: Das Messer wurde im zweiten Drittel des 4. Jahrhunderts gefertigt und diente als Essbesteck sowie als Taschenmesser. (EDH, JW) </p></div>
+        <div type="translation"><p>"--- lebte(?) ---</p></div></body>
     </text>
 </TEI>

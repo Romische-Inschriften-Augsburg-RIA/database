@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Grabinschrift</title>
+                <title>Grabinschrift des Purpurhändlers Tib. Claudius Euphras und seiner Familie</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058565</idno>
-                <idno type="TM">217087</idno><idno type="localID">HD058565</idno>
+                <idno type="TM">217087</idno><idno type="ibr">135</idno><idno type="cil">5824</idno><idno type="edh">HD058565</idno><idno type="ace">73164</idno><idno type="edcs">27200188</idno><idno type="localID">HD058565</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -29,9 +28,7 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/2">unbestimmt</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/138">unbestimmt</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/2">unbekannt</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/138">unbekannt</material><p/>
                                     <dimensions unit="cm">
                                         <height/>
                                         <width/>
@@ -104,7 +101,7 @@
          <change when="2017-09-29" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -121,7 +118,7 @@
                          ILS 7598. (B) 
                     </bibl>
 
-                </listBibl>
+                <bibl>J. Platschek, Negotiatores in Augsburger Inschriften und in den Quellen des römischen Rechts, in: C. Becker (Hg.): Ökonomie und Recht (Augsburger Schriften zur Rechtsgeschichte; Bd. 19), Berlin 2009, S. 19.</bibl><bibl>W. Kuhoff, Der Handel im römischen Süddeutschland, in MBAH 3 (1984), S. 92 - 93.</bibl><bibl>CIL III 5824.</bibl></listBibl>
             </div>
             
             
@@ -134,8 +131,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Nur handschriftlich überliefert. (B): ILS; CIL 03, 05824: Z. 1: [d. m. et] perpetuae securit. Tib. Cl. Euph[r]a[tes] IIIIIIvir Aug., nego[t.]; Z. 4: Clau[d.]. ILS: Zeilenfälle nicht angegeben.</p>
-            </div>
-        </body>
+                <p>Nur handschriftlich überliefert. IBR, ILS: Z. 1: [d. m. et] perpetuae securit, AE-Ligatur. Eventuell noch ein ET zwischen ME und SECVRIT Z. 2: Euph[r]a[s] oder Euph[r]a[tes], nego[t.]; Z. 4: Clau[d.]. CIL: Z. 7: ANTIGONO. ILS: Zeilenfälle nicht angegeben. Kuhoff: Als Cognomen kommt eher 'Euphrates' infrage, da es häufiger belegt und ein gleichnamiger Tib. Cl. Euphrates in Rom bezeugt ist. Der Augsburger Händler von Luxusgütern war vermutlich ein Nachkomme eines aus Syrien stammenden Freigelassenen des Kaisers Claudius und versorgte einen lokalen, reichen Abnehmerkreis. Er wurde in Raetien sesshaft und heiratete die Einheimische Senilia (einheim. Pseudo-GN) Lasciva. Die Namen der Kinder passen laut Kuhoff zu dem Status eines Freigelassenen. Der Händler beweist, dass das Fernhandelnetz bis nach Augsburg reichte. Er unterhielt vermutlich Kontakte zur Heimat, von wo er seine Purpurwaren bezog. Platschek: Die Verortung eines 'Euphrates' in Syrien passt zwar zur dortigen Purpurproduktion, jedoch kam der Name auch andernorts vor (CIL X 2872). Die Lesung 'Euphras' ist nicht abwegig, da der Namen auch in anderen Inschriften erscheint: CIL VI 1057, 1058. (EDH, JW) </p></div>
+        <div type="translation"><p>"Zu ewigem Andenken und Sorgenfreiheit. Tiberius Claudius Euphras, Mitglied des Sechsmännerkollegium der Augustalen und Händler mit Purpurstoffen, der 76 Jahre lebte, errichtete (das Grabmal) seiner Ehefrau Senilia Lasciva und seinen Söhnen Claudius Fortunensis, Claudius Epigonus und Claudius Aper zu seinen und ihren Lebzeiten.</p></div></body>
     </text>
 </TEI>

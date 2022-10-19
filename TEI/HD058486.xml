@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Weihinschrift</title>
+                <title>Weihinschrift des C. Cossinius Primus für die Parcae</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058486</idno>
-                <idno type="TM">217059</idno><idno type="localID">HD058486</idno>
+                <idno type="TM">217059</idno><idno type="ibr">106</idno><idno type="cil">5795</idno><idno type="edh">HD058486</idno><idno type="ace">127930</idno><idno type="edcs">27100312</idno><idno type="localID">HD058486</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -29,9 +28,7 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/2">unbestimmt</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/138">unbestimmt</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/2">unbekannt</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/138">unbekannt</material><p/>
                                     <dimensions unit="cm">
                                         <height/>
                                         <width/>
@@ -105,7 +102,7 @@
          <change when="2017-09-21" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -119,7 +116,7 @@
                          CIL 03, 05795. 
                     </bibl>
 
-                </listBibl>
+                <bibl>CIL III 5795</bibl><bibl>A. Kakoschke, Die Personennamen in der römischen Provinz Rätien, Hildesheim 2009, GN54.</bibl></listBibl>
             </div>
             
             
@@ -132,8 +129,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Hederae unter der letzten Zeile der Inschrift. Nur handschriftlich überliefert. Möglicherweise im ehemaligen Dompropsteigebäude vermauert.</p>
-            </div>
-        </body>
+                <p>Nur handschriftlich überlieferte Weihung für die Parzen (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1644/view). Z. 3: Untere Reste von Buchstaben erkennbar. Z. 4: NI- Ligatur, alternative Lesung: Cossitius. Hederae unter der letzten Zeile der Inschrift. Kakoschke: Das Gentilnomen Cossinius ist entweder italisch oder ein einheimisches Pseudo-Gentilnomen, abgeleitet vom kelt./lat. Cognomen Cossus. Wahrscheinlich stammte der Weihende aus Raetien oder dem benachbarten keltischen Raum. (EDH, JW) </p></div>
+        <div type="translation"><p>"Den Parzen heilig! Caius Cossinius Primus löste sein Gelübde pflichtbewusst, bereitwillig, freudig und nach Verdienst ein.</p></div></body>
     </text>
 </TEI>

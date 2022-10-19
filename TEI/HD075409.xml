@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Gebet auf Instrumentum sacrum</title>
+                <title>Christliches Gebet mit Psalm-Zitat</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD075409</idno>
-                <idno type="TM"/><idno type="localID">HD075409</idno>
+                <idno type="TM"/><idno type="edh">HD075409</idno><idno type="ace"></idno><idno type="edcs">53701552</idno><idno type="localID">HD075409</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by-sa/3.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license.
                     </licence>
@@ -25,12 +24,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Gegossene Bronzekanne des koptischen Typus mediterraner Provenienz mit geometrischem Punzdekor. Bodeneinsatz und Henkel fehlen. Spuren längeren Gebrauchs, eventuell wurde die Kanne zunächst profan verwendet.</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/142">Instrumentum sacrum</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/109">Bronze</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/142">Kultgerät</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/109">Bronze</material><p/>
                                     <dimensions unit="cm">
                                         <height/>
                                         <width/>
@@ -103,7 +100,7 @@
          <change when="2017-11-09" who="Osnabrügge">
              keine Bildvorlage
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -114,7 +111,7 @@
                         A.E. Felle, Biblia Epigraphica. La sacra scrittura nella documentazione epigrafica dell'Orbis Christianus Antiquus (III-VIII secolo) (Bari 2006) 278-279, Nr. 598. 
                     </bibl>
 
-                </listBibl>
+                <bibl>A.E. Felle, Biblia Epigraphica. La sacra scrittura nella documentazione epigrafica dell’Orbis Christianus Antiquus (III-VIII secolo) (Bari 2006) 278-279, Nr. 598.</bibl><bibl>M. Trier, Ein koptisches Bronzegefäß aus Oberbaar, Gde. Thierhaupten, Lkrs. Augsburg: Heimatverein für den Landkreis Augsburg e. V., 20. Jahresbericht (1985/86), S. 286-288.</bibl><bibl>D. Korol, Juden und Christen in Augsburg und Umgebung in Spätantike und frühem Mittelalter. Das Zeugnis der Kleinkunst, in: J. Engemann, E. Dassmann (Hg.): Tesserae (JbAC Erg.; Bd. 18), Münster 1991, S. 59-60.</bibl></listBibl>
             </div>
             
             
@@ -127,8 +124,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Bronzekrug. Die Inschrift verläuft bandförmig entlang des größten Umfangs. Zitat von Psalm 26,6.</p>
-            </div>
-        </body>
+                <p>Die Inschrift verweist auf den Psalm 26,6. Wahrscheinlich steht sie im Zusammenhang mit der Handwaschung des Priesters vor Beginn der Eucharistiefeier oder mit der Eucharistiefeier selbst. Diese Grabbeigabe deutet auf eine höhere soziale Stellung des verstorbenen Christen hin. (JW) </p></div>
+        <div type="translation"><p>"Ich wasche meine Hände in Unschuld und umschreite deinen Altar, Herr.</p></div></body>
     </text>
 </TEI>

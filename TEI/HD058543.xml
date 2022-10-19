@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Grabinschrift auf Ehren-/Grab-/Votivsäule</title>
+                <title>Grabinschrift des T. Flavius Martialis und seiner Familie</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058543</idno>
-                <idno type="TM">217075</idno><idno type="localID">HD058543</idno>
+                <idno type="TM">217075</idno><idno type="ibr">123</idno><idno type="cil">5812</idno><idno type="lupa">6326</idno><idno type="edh">HD058543</idno><idno type="ace">73163</idno><idno type="edcs">27100329</idno><idno type="localID">HD058543</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -26,12 +25,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Stoll: Das Grabpfeilerdenkmal besteht aus Sockel, Inschriftenblock mit Profilen, Figurenblock, Gesims und Dach mit Bekrönung. In einer Rundbogennische mit Doppelbogen erscheinen vier Personen in Reliefbildern. Links steht der verstorbene Soldat&amp;nbsp;in Ärmeltunika, sagum, cingulum mit Ringschnalle, einem Kurzschwert an der rechten Seite und Schriftrolle in der linken Hand. Daneben steht der togierte Vater mit Schriftrollen in beiden Händen und die Mutter in Stola und palla. Rechts steht der Stifter Martialis eine Schriftrolle haltend. Auf der rechten Nebenseite befindet sich eine Frau, auf der linken Nebenseite vier Personen, die an einem Tisch Geld zählen. Im Giebel über der Hauptseite ist ein Krater mit Schlangen und zwei Pfauen erkennbar, über der rechten Nebenseite ein Erot mit Korb sowie ein Hase, über der linken Nebenseite ein Früchtekorb.</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/102">Ehren-/Grab-/Votivsäule</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/102">Ehren-/Grab-/Votivsäule</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material><p/>
                                     <dimensions unit="cm">
                                         <height>450</height>
                                         <width>96</width>
@@ -105,7 +102,7 @@
          <change when="2017-09-28" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F007360.JPG">
@@ -164,7 +161,7 @@
                          G. Gamer - A. Rüsch, Raetia (Bayern südlich des Limes) und Noricum (Chiemseegebiet), CSIR Deutschland 1, 1 (Bonn 1973) 26-27, Nr. 29; Taf. 13-15. 
                     </bibl>
 
-                </listBibl>
+                <bibl>CIL III 5812.</bibl><bibl>O. Stoll, Legionäre, Frauen, Militärfamilien. Untersuchungen zur Bevölkerungsstruktur und Bevölkerungsentwicklung in den Grenzprovinzen des Imperium Romanum, in: Jahrb. RGZM 53,1 (2006), S. 309.</bibl></listBibl>
             </div>
             
             
@@ -177,8 +174,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Hederae in Z. 1 und Z. 11. Das Grabmal besteht aus Sockel, Inschriftenblock, Reliefblock und Dachaufsatz. Auf der Hauptseite des Reliefblocks sind die Eltern mit den beiden Söhnen dargestellt, auf der rechten Nebenseite eine Frau, auf der linken Nebenseite vier Personen an einem Tisch. Im Giebel über der Hauptseite Krater mit Schlangen und zwei Pfauen, über der rechten Nebenseite Erot mit Korb sowie ein Hase, über der linken Nebenseite Früchtekorb.</p>
-            </div>
-        </body>
+                <p>IBR: Hederae in Z. 1 und Z. 11. Z. 3: TI-, AE-Ligatur. Z. 7: Querhaste über COS. Z. 9: Kein Worttrenner vor SIBI (aus Platzgründen?). Die Militärfamilie zeigt mit dem Monument ihren Wohlstand, Status und auch ihre Bildung. Als &lt;em&gt;exactus consularis&lt;/em&gt; war T. Flavius Clemens im Stab des Statthalters und des Legionslegaten aktiv. (EDH, JW) </p></div>
+        <div type="translation"><p>"Den Totengöttern. Dem Vater Titus Flavius Primanus, der Mutter Traiania Clementina und dem Bruder Titus Flavius Clemens, dem Soldaten der 3. Italischen Legion und Schreiber im Büro des Statthalters, der 24 Jahre lebte. Titus Flavius Martialis errichtete (das Grabmal) für sich und seine Eltern zu seinen Lebzeiten.</p></div></body>
     </text>
 </TEI>

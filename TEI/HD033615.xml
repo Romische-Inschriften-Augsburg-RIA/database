@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Weihinschrift auf Altar</title>
+                <title>Weihinschrift des Legaten Appius Claudius Lateranus für Mercurius</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD033615</idno>
-                <idno type="TM">216646</idno><idno type="localID">HD033615</idno>
+                <idno type="TM">216646</idno><idno type="ibr">104</idno><idno type="cil">5793</idno><idno type="lupa">6417</idno><idno type="edh">HD033615</idno><idno type="ace">73160</idno><idno type="edcs">24200325</idno><idno type="localID">HD033615</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -29,9 +28,7 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/29">Altar</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/29">kleiner Altar</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material><p/>
                                     <dimensions unit="cm">
                                         <height>118</height>
                                         <width>56</width>
@@ -104,7 +101,7 @@
          <change when="2017-11-16" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F035474.JPG">
@@ -157,7 +154,7 @@
                          PIR (2. Aufl.) C 907. 
                     </bibl>
 
-                </listBibl>
+                <bibl>G. Alföldy, in: P. Barceló - V. Rosenberger (Hrsg.), Humanitas - Beiträge zur antiken Kulturgeschichte. Festschrift für Gunther Gottlieb zum 65. Geburtstag (München 2001) 9-27, Nr. 1; Abb. 1.</bibl><bibl>K. Dietz, Inschriften rätischer Statthalter aus Augsburg, in: Die Römer in Schwaben. Jubiläumsausstellung 2000 Jahre Augsburg, München 1985, S. 98, 100.</bibl><bibl>A. Kakoschke, Die Personennamen in der römischen Provinz Rätien, Hildesheim 2009, CN332.</bibl><bibl>CIL III 5793.</bibl></listBibl>
             </div>
             
             
@@ -170,8 +167,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Z. 2: TE-Ligatur. Vom R noch der obere Teil des Bogens, das folgende G und O sind in älteren Handschriften überliefert, da aber nur genug Platz für einen Buchstaben bleibt, war O wohl klein in G eingeschrieben; Z. 4: PP-, NV-Ligatur. Datierung nach Alföldy: 188. (B): CIL 03, 05793; ILS; IBR: Z. 2: TEP.</p>
-            </div>
-        </body>
+                <p>Alföldy: Z. 2: unsichere Lesung von ATEP mit TE-Ligatur, in älterer Literatur A TERGO. Vom R noch der obere Teil des Bogens, das folgende G und O sind in älteren Handschriften überliefert, da aber nur genug Platz für einen Buchstaben bleibt, war O wohl klein in G eingeschrieben; Z. 4: PP-, NV-Ligatur. Generell versuchte der Schreiber eine symmetrische Ordnung der Zeilen zu erzielen, jedoch scheiterte er in Zeile 5 und 6, weshalb diese leicht rechtsbündig sind. Auch die Ligaturen und Unregelmäßigkeiten in den vorherigen Zeilen sind dadruch zu erklären. Die dem Mercurius (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1618/view) gewidmete Inschrift erwähnt einen Appius Claudius Lateranus, der nach Meinung der früheren Forschung ein Statthalter Raetiens war. Seine Amtsbezeichnung als &lt;em&gt;legatus Augusti pro praetore legionis III Italicae&lt;/em&gt; ist allerdings bei den anderen Statthaltern Raetiens in dieser Form nicht belegt. Stattdessen war er eher ein Kommandant der Legion aus Regensburg, der mit prätorischer Vollmacht einen Feldzug im Limesvorland durchführte, während zeitgleich ein Finanzprokurator die zivilen Tätigkeiten eines Statthalters in Raetien übernahm. Eventuell weihte Lateranus den Stein auf seinem Rückweg nach Rom als Dank für die göttliche Hilfe, die er Zeit seines Feldzuges genoss. Zum Konsul wurde er vermutlich erst in der Zeit zwischen seinem militärischen Erfolg und der Ankunft in Augsburg designiert, als XVvir sacris faciundist erst kooptiert. Der Feldherr nahm wahrscheinlich einen Auftrag im Zusammenhang der &lt;em&gt;expeditio Germanica tertia &lt;/em&gt;im Jahr 188 wahr und trat in demselben oder nächsten Jahr sein Konsulat an. Er war vielleicht ein 10 bis 15 Jahre älterer Bruder (oder Neffe) des Appius Claudius Iulianus, der am gleichen Feldzug teilnahm. Iulianus ist unter anderem in einem Militärdiplom aus Pannonien bezeugt, das lange Zeit für einen Beweis einer Karrierestation des Lateranus gehalten wurde (CIL XVI 131). Vater der beiden war evenutell Appius Claudius Martialis, der zwischen 161-164 als Legat in Thrakien aktiv war. Das Geburtsdatum des Lateranus könnte um 145 n. Chr. gelegen haben. Der These des Feldzugs folgend datiert sich die Inschrift in das Jahr 188. Die Legatur fiel jedenfalls frühestens in das späte 2. Jahrhundert, eine Datierung später als die Severerzeit ist angesichts der sorgfältig und regelmäßig gearbeiteten Buchstaben kaum möglich. Kakoschke: Das Cognomen 'Lateranus' (vom lat. Gott des Herdes bzw urpr. 'der auf dem Hügel') könnte auf das Haus der Plautii Laterani auf dem Mons Caelius in Rom verweisen. Es könnte allerdings auch auf ein veraltetes Adjektiv oder eine andere Formierung zurückgehen. (EDH, JW) </p></div>
+        <div type="translation"><p>"Dem Merkur, dessen Tempel rückseitig liegt, hat Appius Claudius Lateranus, einer der Fünfzehnmänner zur Durchführung von Opfern, designierter Konsul, Legat des Kaisers an der Stelle des Prätor bei der dritten italischen Legion, sein Gelübde freudig nach Gebühr gelöst.</p></div></body>
     </text>
 </TEI>

@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Grabinschrift auf Altar</title>
+                <title>Grabinschrift des Decurio Marcus Buccinius Melo</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD047105</idno>
-                <idno type="TM">216771</idno><idno type="localID">HD047105</idno>
+                <idno type="TM">216771</idno><idno type="lupa">2743</idno><idno type="edh">HD047105</idno><idno type="ace"></idno><idno type="edcs">11801091</idno><idno type="localID">HD047105</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -26,12 +25,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Vier aneinanderpassende Fragmente eines altarförmigen Grabsteins.</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/29">Altar</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/29">kleiner Altar</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material><p/>
                                     <dimensions unit="cm">
                                         <height>121</height>
                                         <width>70</width>
@@ -104,7 +101,7 @@
          <change when="2019-10-23" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F020391.JPG">
@@ -160,8 +157,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Vier aneinanderpassende Fragmente eines Altars. AE 1998; Bakker 1998; Bakker 2000: keine Wiedergabe der Inschrift. Z. 3: M am Zeilenende mit weit ausgezogener rechter unterer Serife. (B): AE 2001: Z. 2 u. 5: Ser(gia); Z. 8: ei&amp;lt;u&amp;gt;sdem.</p>
-            </div>
-        </body>
+                <p>Z. 3: M am Zeilenende mit weit ausgezogener rechter unterer Serife. Z. 2 u. 5: Ser(gia); Z. 8: ei&amp;lt;u&amp;gt;sdem. Der Grabstein wurde von dem Stadtrat M. Buccinius Saturninus für seinen Onkel M. Buccinius Melo, ebenfalls Stadtrat von Augusta Vindelicum, errichtet. Kakoschke: 'Buccinius' ist ein einheimisches Pseudo-Gentilnomen, das von dem keltischen Namen Buccus abgeleitet wurde. Saturninus und Melo kamen wahrscheinlich aus Rätien oder dem benachbarten keltischen Raum. Bakker, AE: Datierung in die Mitte des 2. Jahrhunderts. (EDH, JW) </p></div>
+        <div type="translation"><p>"Den Totengöttern und dem Marcus Buccinius Melo, zugehörig zum Stimmbezirk Sergia, dem Dekurio des municipium Aelium Augusta, ließ (das Grabmal) errichten Marcus Buccinius Saturninus, zugehörig zum Stimmbezirk Sergia, Dekurio desselben municipium, als Erbe seinem Onkel väterlicherseits.</p></div></body>
     </text>
 </TEI>

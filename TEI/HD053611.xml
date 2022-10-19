@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Weihinschrift auf Ehren-/Grab-/Votivsäule</title>
+                <title>Weihinschrift des Publius P. Helius für Iuppiter</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD053611</idno>
-                <idno type="TM">216856</idno><idno type="localID">HD053611</idno>
+                <idno type="TM">216856</idno><idno type="lupa">6449</idno><idno type="edh">HD053611</idno><idno type="ace"></idno><idno type="edcs">4900765</idno><idno type="localID">HD053611</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -26,12 +25,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Der große Kalksteinblock stellt den Sockel einer Jupitersäule dar. In nachantiker Zeit verwendete man ihn als Belag für das Straßenpflaster, wie die Karrenspuren offenbaren. Der Riss, der bis zu einem Viertel der Länge reicht, deutet daraufhin, dass er bei den Arbeiten erfolglos durchgesägt wurde.</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/102">Ehren-/Grab-/Votivsäule</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/102">Ehren-/Grab-/Votivsäule</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material><p/>
                                     <dimensions unit="cm">
                                         <height>96</height>
                                         <width/>
@@ -104,7 +101,7 @@
          <change when="2017-07-21" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F008214.JPG">
@@ -142,7 +139,7 @@
                          L. Bakker, AJahrBay 1984, 110; Abb. 73. - AE 1992. 
                     </bibl>
 
-                </listBibl>
+                <bibl>A. Kakoschke, Die Personennamen in der römischen Provinz Rätien, Hildesheim 2009, CN286.</bibl></listBibl>
             </div>
             
             
@@ -155,8 +152,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Basis einer Jupitersäule. Z. 2: der Name des Stifters wurde offenbar absichtlich beschädigt. Z. 3: AM-Ligatur; Z. 3: VM-Ligatur. (B): AE 1992; Bakker: Z. 2: P(ublius) P(---).</p>
-            </div>
-        </body>
+                <p>Dreieckige Worttrenner im ganzen Text; Z. 2: der Name des Stifters wurde offenbar absichtlich beschädigt,&amp;nbsp;P(ublius) P(---). Z. 3: VM-Ligatur, AM-Ligatur. Bakker: Die Gottheit erschien vermutlich als Thronender oder Gigantenreiter. Die Ursache und der Zeitpunkt der absichtlich begonnenen Tilgung des Gentilnomens ist unbekannt. Denkmäler dieser Art sind in Raetien selten und besser aus den germanischen und gallischen Provinzen bekannt. In Augsburg gibt es allerdings ein ähnliches Exemplar, das zudem mit Reliefs von Mars, Victoria und Mercurius verziert ist: HD058499. Datierung: Letztes Jahrzehnt des 2. Jahrhunderts, erste Hälfte des 3. Jahrhunderts. Kakoschke: Das Cognomen 'Helius' leitet sich vom griechischen Sonnengott ab. Bei P. Helius handelt sich wahrscheinlich aber um keinen Einwanderer aus dem östlichen Mittelmeerraum, sondern um einen Bewohner der gallischen oder germanischen Provinzen, in denen religiöse und mythische Beinamen häufiger vorkamen. Diese Herkunft passt auch zu der Art des Denkmals. (EDH, JW) </p></div>
+        <div type="translation"><p>"Dem größten und besten Iuppiter (stiftete) Publius P--- Helius die Säule mit dem (Götter-)Bild. Er löste sein Gelübde bereitwillig, freudig und nach Verdienst ein.</p></div></body>
     </text>
 </TEI>

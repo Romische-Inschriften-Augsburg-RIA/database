@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Grabinschrift auf Architekturteil</title>
+                <title>Grabinschrift des Veteranen und ehemaligen Gardereiters Tib. Claudius Victor</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD072500</idno>
-                <idno type="TM">700060</idno><idno type="localID">HD072500</idno>
+                <idno type="TM">700060</idno><idno type="edh">HD072500</idno><idno type="ace"></idno><idno type="edcs"></idno><idno type="localID">HD072500</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by-sa/3.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license.
                     </licence>
@@ -25,12 +24,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Das Fundstück besteht aus einem Gesims (154,5cm h, 126,0cm b, 25cm t), auf dem ein Quader aufsitzt (Maße oben). An der Längsseite befindet sich ein Inschriftenfeld (26,5cm h, 95,5cm b), dessen obere rechte Ecke abgebrochen ist. Die Auflagerflächen auf der Ober- und Unterseite sind grob, die Unterseite des Gesimses&lt;br /&gt;</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/35">Architekturteil</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/35">Architekturteil</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material><p/>
                                     <dimensions unit="cm">
                                         <height>42.5</height>
                                         <width>109.5</width>
@@ -103,7 +100,7 @@
          <change when="2016-05-30" who="Feraudi">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -127,8 +124,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Inschriftenblock eines Pfeilergrabmals. Rekonstruierte Höhe des Pfeilergrabmals ca. 6,20 m (Gairhos 72).</p>
-            </div>
-        </body>
+                <p>Der Text ist in sorgfältiger Capitalis ohne Ligaturen eingearbeitet worden. Buchstabenhöhe: Z. 1-4: 3,8cm, Z. 5: 3,1cm. Dreiecke als Worttrenner. Z. 1: V(eterano). Z. 2. Am Ende Spezifizierung der Kleiderwaren. Die Inschrift belegt, dass die berittene Leibgarde des raetischen Statthalters ebenfalls in einem Numerus organisiert war. Nach seiner Entlassung erhielt der Reiter das vielleicht noch nicht vorhandene röm. Bürgerrecht und widmete sich dem Textilhandel, der in Augsburg eine besondere Stellung besaß (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1639/view). Der Name seiner Ehefrau ist ungewöhnlich. Es lassen sich aber Parallelen aus Aquincum finden. Datierung: Die Form der Buchstaben, die Formulierungen und Abkürzungen deuten auf die spätantoninische oder severische Zeit hin. (JW) </p></div>
+        <div type="translation"><p>"Dem Tiberius Claudius Victor, ehemals Veteran des Numerus der Gardereiter, dem Kleiderhändler. Er lebte 70 Jahre. Seine Ehefrau lulia lulia ließ ihrem pflichtbewusstesten Gatten zusammen mit seinen Freigelassenen (das Grabmal) errichten.</p></div></body>
     </text>
 </TEI>

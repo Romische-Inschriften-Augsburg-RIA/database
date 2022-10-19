@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Bau-/Stifterinschrift auf Altar</title>
+                <title>Bau-/Stifterinschrift des Praecilius Iulianus?</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058663</idno>
-                <idno type="TM">217121</idno><idno type="localID">HD058663</idno>
+                <idno type="TM">217121</idno><idno type="ibr">173</idno><idno type="cil">11889</idno><idno type="lupa">6426</idno><idno type="edh">HD058663</idno><idno type="ace">127970</idno><idno type="edcs">30500945</idno><idno type="localID">HD058663</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -26,12 +25,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Fragment vom rechten oberen Teil eines Altars mit Teilen der Bekrönung.</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/29">Altar</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/29">kleiner Altar</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material><p/>
                                     <dimensions unit="cm">
                                         <height>-60</height>
                                         <width>-60</width>
@@ -104,7 +101,7 @@
          <change when="2017-10-12" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F035513.JPG">
@@ -133,7 +130,7 @@
                          CIL 03, 11889. (B) 
                     </bibl>
 
-                </listBibl>
+                <bibl>CIL III 11889.</bibl><bibl>K. Dietz, Die römischen und frühmittelalterlichen Namen Augsburgs, in: J .Bellot, W. Czysz, G. Krahe (Hg.): Forschungen zur provinzialrömischen Archäologie in Bayerisch-Schwaben (Schwäbische Geschichtsquellen und Forschungen; Bd. 14), Augsburg 1985, S. 85-87, T13.</bibl></listBibl>
             </div>
             
             
@@ -146,8 +143,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Fragment vom rechten oberen Teil eines Altars mit Teilen der Bekrönung. (B): CIL 03, 11889; IBR: Abweichungen in Lesung/Ergänzung.</p>
-            </div>
-        </body>
+                <p>IBR: Z. 2: M am Ende erkennbar. Z. 4: Ält. Lesung CIVITFAEI. Z. 5-6: IBR: PRAECILIO IVLIANO, CIL: PRAECEPTORVM EORVM. Dietz: Die Nennung 'civitas' lässt keine Rückschlüsse auf die Rechtsstellung der Gemeinde zu, da seit der Mitte des 2. nachchristlichen Jahrhunderts die technischen Städtebezeichnungen wie &lt;em&gt;colonia &lt;/em&gt;und &lt;em&gt;municipium &lt;/em&gt;in zunehmendem Maße von der Bezeichnung 'civitas' verdrängt wurden. Datierung: Die Weihinschrift an das nicht nur in Militärkreisen verehrte Götterpaar Mars (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1633/view) und Victoria (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1622/view) dürfte wegen des vielleicht auf epichorische Gottheiten hinweisenden Zusatzes &lt;em&gt;deus &lt;/em&gt;nicht in der Zeit vor 200 gesetzt worden sein. (EDH, JW) </p></div>
+        <div type="translation"><p>"Dem heiligen Gott Mars und der Victoria stellte den aufgrund seines Alters völlig verfallenen Tempel das Gemeinwesen der Stadt Aelia Augusta wieder her, wobei Praecilius (?) Iulianus (?) die Ausführung übernahm.</p></div></body>
     </text>
 </TEI>

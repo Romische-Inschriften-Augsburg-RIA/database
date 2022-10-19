@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Weihinschrift auf Altar</title>
+                <title>Weihinschrift der Iulia Matrona für Apollo Grannus, Diana und Sirona</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD053609</idno>
-                <idno type="TM">216854</idno><idno type="localID">HD053609</idno>
+                <idno type="TM">216854</idno><idno type="lupa">6448</idno><idno type="edh">HD053609</idno><idno type="ace"></idno><idno type="edcs">4900763</idno><idno type="localID">HD053609</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -26,12 +25,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Bakker: Der fast vollständig erhaltene Altar ist an der oberen rechten Ecke der Bekrönung abgebrochen und hat an der linken Vorderkante neuere Beschädigungen, die beim Fund verursacht wurden. Die antiken Steinmetze arbeiteten ihn oben flach ab, fügten allerdings keine Mulde für eine Opferschale ein. Der mit Blüten dekorierte Aufsatz über dem Gesims könnte als Basis für Kultfiguren oder -bildern fungiert haben. Im Inschriftenfeld sind die Ritzlinien für die einzelnen Zeilen noch gut erkennbar.</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/29">Altar</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/29">kleiner Altar</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material><p/>
                                     <dimensions unit="cm">
                                         <height>90</height>
                                         <width>36</width>
@@ -106,7 +103,7 @@
          <change when="2017-07-20" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F020388.JPG">
@@ -160,8 +157,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Blattförmige hederae als Worttrenner in Z. 3, 5, 7. Z. 3 steht auf Rasur. Z. 4: TE-, NE-Ligatur; Z. 8: LI-Ligatur.</p>
-            </div>
-        </body>
+                <p>Bakker: Blattförmige hederae als Worttrenner in Z. 3, 5, 7. Z. 3 DIANAE steht auf einer Rasur [[et deae]]. Z. 4: zerstörter Anfangsbuchstabe, TE-, NE-Ligatur; Z. 5: zerstörter Anfangsbuchstabe. Z. 8: LI-, NA-Ligatur. Der römische Gott Apollo wird hier in einer&lt;em&gt; interpretatio Romana &lt;/em&gt;dem keltischen Heilgott Grannus (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1636/view) gleichgesetzt und zusammen mit seiner Kultgenossin, der Heilgöttin Sirona (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1637/view), verehrt. Letztere wird auf Reliefs und bei Statuen wie die griechische Hygieia dargestellt. Der Name der Diana (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1754/view), der Schwester des Apollo, wurde nachträglich eingefügt. In der Provinz Raetien lag der zentrale Verehrungsort des Apollo Grannus in Faimingen. Während die namentlichen Kombinationen von Apollo Grannus und Hygieia oder Apollo und Sirona öfter vorkommen, ist die dreifache Nennung von Apollo Grannus, Diana und Sirona in Augsburg einmalig. Wahrscheinlich befand sich in der Nähe einer Quelle oder der Flüsse Lech und Wertach ein Weihebezirk. Datierung: Spätes 2. Jahrhundert, frühes 3. Jahrhundert. (EDH, JW) </p></div>
+        <div type="translation"><p>"Dem Apollo Grannus, der Diana, der heiligen Sirona für ihr Wohl und das aller Ihrigen Iulia Matrona.</p></div></body>
     </text>
 </TEI>

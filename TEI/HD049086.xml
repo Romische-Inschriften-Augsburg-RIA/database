@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Grabinschrift auf Ehren-/Grab-/Votivsäule</title>
+                <title>Grabinschrift des Priesters und Rechtsberaters M. Aurelius Carus und seiner Familie</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD049086</idno>
-                <idno type="TM">216808</idno><idno type="localID">HD049086</idno>
+                <idno type="TM">216808</idno><idno type="lupa">6439</idno><idno type="edh">HD049086</idno><idno type="ace"></idno><idno type="edcs">11801090</idno><idno type="localID">HD049086</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -26,12 +25,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Das Grabmal besteht aus insgesamt neun Quadern, Bekrönung mit Kapitell und Pinienzapfen gefunden im Januar 1999. Auf dem Obergeschoß befindet sich eine Reliefdarstellung einer sitzenden männlichen Figur, bärtig und in einer Toga(?), die vermutlich den Grabstifter darstellt. Seine Arme und Hände, die wahrscheinlich eine Schriftrolle trugen, sind nicht erhalten. Links von ihm steht ein Hahn oder eine andere Vogelart. Die Reliefnische wird von Pilastern mit Weinranken, die aus einem Kantharos wachsen, gerahmt. Oberhalb des Zwei-Faszien-Architravs gibt es ein Fries mit Weinkrügen. Am Hals eines Krugs ist ein antikes Warenetikett abgebildet, das hier zum ersten Mal in situ entdeckt wurde.</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/102">Ehren-/Grab-/Votivsäule</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/102">Ehren-/Grab-/Votivsäule</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material><p/>
                                     <dimensions unit="cm">
                                         <height>688</height>
                                         <width/>
@@ -104,7 +101,7 @@
          <change when="2019-10-23" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F035387.JPG">
@@ -151,7 +148,7 @@
                          L. Bakker, AJahrBay 1998, 85-86; Abb. 67. - AE 1998. 
                     </bibl>
 
-                </listBibl>
+                <bibl>U. Ehmig - R. Haensch, Die erste bildliche Darstellung eines römischen Warenetiketts, in: AA 51 (2021), S. 246-248.</bibl><bibl>L. Bakker, Eine Gräberstraße der Oberschicht, in: AiD (2000), S. 38.</bibl><bibl>A. Kakoschke, Die Personennamen in der römischen Provinz Rätien, Hildesheim 2009, CN129, GN66.</bibl></listBibl>
             </div>
             
             
@@ -164,8 +161,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Die Inschrift befindet sich auf einem quaderförmigen Block, zwischen Untergeschoss mit Zwischengesims und Figurenobergeschoss eines Pfeilergrabmals. Das Grabmal besteht aus insgesamt neun Quadern, Bekrönung mit Kapitell und Pinienzapfen gefunden im Januar 1999. Z. 1 : D u. M stehen mit etwas größerer Buchstabenhöhe links und rechts auf dem Rahmen des Inschriftfeldes. Z. 2: AV-Ligatur. Z. 3: Faust(iniae) oder Faust(iae). Auf dem Obergeschoß Reliefdarstellung einer sitzenden männlichen Figur, bärtig, in toga(?). Reliefnische gerahmt von Pilastern mit Weinranken, oberhalb des Architravs Fries mit Weinkrügen.</p>
-            </div>
-        </body>
+                <p>Die Inschrift befindet sich auf einem quaderförmigen Block, zwischen Untergeschoss mit Zwischengesims und Figurenobergeschoss eines Pfeilergrabmals. Z. 1 : D u. M stehen mit etwas größerer Buchstabenhöhe links und rechts auf dem Rahmen des Inschriftfeldes. Z. 2: AV-Ligatur. Z. 3: Faust(iniae) oder Faust(iae). Ehmig: Das Grab ließ der sevir Augustalis Marcus Aurelius Carus, ein städtischer Priester zuständig für den Kaiserkult, zu Lebzeiten für sich, seine Frau Faustinia Iucunda, seine Tochter Aurelia und übrige Verwandte errichten. Seviri Augustales waren größtenteils Freigelassene, jedoch merkt Carus an, dass er einer der wenigen Freigeborenen war und zusätzlich den Beruf eines Rechtsberaters ausübte. Das Fries lässt auf eine gastronomische Tätigkeit des Grabstifters schließen. Eventuell trat er als pragmaticus der Händler auf oder leitete zusätzlich eine Gastwirtschaft. Carus wurde wie ein weiterer sevir Augustalis, der Treverer Sextus Attonius Privatus (https://sempub.ub.uni-heidelberg.de/ria/de/wisski/navigate/1061/view), wahrscheinlich nicht vor Ort geboren. Ein Grab &lt;em&gt;et cognatis &lt;/em&gt;zu errichten, war eine fast ausschließlich stadtrömische Sitte. Datierung: Bakker: Spätes 2. Jahrhundert; Ehmig: Die Abkürzung des seltenen Gentilnomen der Ehefrau, das Fehlen von Gentilnomen und Cognomen der Tochter auf einem sorgfältig bearbeiteten großen Monument eines Angehörigen einer herausgehobenen Gruppe in einer Stadt und der Name des Grabstifters deuten auf eine Entstehung ein bis zwei Jahrzehnte nach der &lt;em&gt;constitutio Antoniniana&lt;/em&gt; hin. Die Verbindung von Ingenuität und Sevirat fügt sich in diesen Zeitraum ein. Kakoschke: Der Name des Carus ist gängig und nicht genauer geographisch spezifizierbar. Faustinia besitzt ein Pseudo-Gentilnomen, abgeleitet vom lat. Faustus/Faustinus, und ist sicherlich eine Einheimische aus Raetien oder dem benachbarten keltischen Gebiet. (EDH, JW) </p></div>
+        <div type="translation"><p>"Den Totengöttern. Marcus Aurelius Carus, Mitglied des Sechsmännerkollegiums der Augustalen als Freigeborener, der Rechtsberater hat (das Grabmal) für sich und seine Ehefrau Faustinia Iucunda und seine Tochter Aurelia und seine übrigen Verwandten zu seinen Lebzeiten errichtet.</p></div></body>
     </text>
 </TEI>

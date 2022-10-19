@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Grabinschrift</title>
+                <title>Grabinschrift des Tib. Acutianius Ursacius Veteranicinus</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058606</idno>
-                <idno type="TM">217095</idno><idno type="localID">HD058606</idno>
+                <idno type="TM">217095</idno><idno type="ibr">145</idno><idno type="cil">5834</idno><idno type="lupa">6466</idno><idno type="edh">HD058606</idno><idno type="ace">127950</idno><idno type="edcs">27200198</idno><idno type="localID">HD058606</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -29,9 +28,7 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/2">unbestimmt</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/75">Sandstein</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/2">unbekannt</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/75">Sandstein</material><p/>
                                     <dimensions unit="cm">
                                         <height>102</height>
                                         <width>40</width>
@@ -104,7 +101,7 @@
          <change when="2017-12-14" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F035380.JPG">
@@ -130,7 +127,7 @@
                          CIL 03, 05834. 
                     </bibl>
 
-                </listBibl>
+                <bibl>CIL III 5834.</bibl><bibl>A. Kakoschke, Die Personennamen in der römischen Provinz Rätien, Hildesheim 2009, GN1, CN630, CN715.</bibl></listBibl>
             </div>
             
             
@@ -143,8 +140,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Die ergänzten Stellen waren früher noch lesbar. Text 1 steht auf dem Profil über dem Inschriftenfeld. Text 2 befindet sich unter der Hauptinschrift, kreuzförmig in einem Kreis angeordnet. Von der Unterseite des Kreises verlaufen zu den Seiten nach oben geschwungen zwei Linien, an deren Enden sich jeweils in einem Oval die Texte 4 (links) und 5 (rechts) befinden. Die Oberfläche ist stark verwittert und stellenweise kaum noch lesbar.</p>
-            </div>
-        </body>
+                <p>Die ergänzten Stellen waren früher noch lesbar. Text 1 steht auf dem Profil über dem Inschriftenfeld. Text 2 befindet sich unter der Hauptinschrift, kreuzförmig in einem Kreis angeordnet. Z. 2: EN-Ligatur. Z. 3: I(?)ACVTIANO. Von der Unterseite des Kreises verlaufen zu den Seiten nach oben geschwungen zwei Linien, an deren Enden sich jeweils in einem Oval die Texte 4 (links) und 5 (rechts) befinden. Die Oberfläche ist stark verwittert und stellenweise kaum noch lesbar. Kakoschke: 'Acutianius' ist ein einheimisches Pseudo-Gentilnomen, 'Veteranicinus' ein keltisches Cognomen. Das Ehepaar kam sicherlich aus Raetien oder dem benachbarten keltischen Gebiet. Der Verstorbene erscheint in einer weiteren Augsburger Inschrift als Grabstifter für seinen Bruder Flavius Acutianius Serenus: HD058601. (EDH, JW) </p></div>
+        <div type="translation"><p>"Den Totengöttern und der ewigen Sorgenfreiheit. Dem Tiberius Acutianius Ursacius Veteranicinus, der 27 Jahre, sechs Monate und acht Tage lebte, ließ dies errichten die allerpflichtbewussteste Simplicia. Ihrem wohlverdienten Ehegatten setzte sie als Ehefrau die Inschrift. Dem verdienten tat sie dies in höchstem Pflichtbewusstsein.</p></div></body>
     </text>
 </TEI>

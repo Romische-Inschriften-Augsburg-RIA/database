@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ehreninschrift auf Tafel</title>
+                <title>Ehren- oder (christl.?) Grabinschrift aus der Spätantike</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058082</idno>
-                <idno type="TM">216924</idno><idno type="localID">HD058082</idno>
+                <idno type="TM">216924</idno><idno type="edh">HD058082</idno><idno type="ace"></idno><idno type="edcs">31001594</idno><idno type="localID">HD058082</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -26,12 +25,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Zwei nicht aneinanderpassende Fragmente. Die Rekonstruktion ist fehlerhaft zusammengefügt und ergänzt. Wie die beiden Fragmente zueinander gesetzt werden müssen, ist aus dem Text nicht klar ersichtlich. Fragment 2 ist 54cm h, 33cm b, 12cm t groß, Fragment 141cm h, 35cm b, 12cm t. Die geringe Tiefe der Fragmente zeigen, dass sie Teil einer Platte eines größeren Monuments waren.</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">Tafel</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/257">Tafel</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material><p/>
                                     <dimensions unit="cm">
                                         <height>-54</height>
                                         <width>-35</width>
@@ -104,7 +101,7 @@
          <change when="2017-12-13" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F007381.JPG">
@@ -143,7 +140,7 @@
                          R. Scharf, Tyche 9, 1994, 131-145. 
                     </bibl>
 
-                </listBibl>
+                <bibl>L. Ohlenroth, Germania 14, 1930, S. 85</bibl></listBibl>
             </div>
             
             
@@ -156,8 +153,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Zwei nicht aneinanderpassende Fragmente. Die Rekonstruktion ist fehlerhaft zusammengefügt und ergänzt. Wie die beiden Fragmente zueinander gesetzt werden müssen, ist aus dem Text nicht klar ersichtlich. Gefunden in Sekundärverwendung als mittelalterliche Türschwelle. Die angegebenen Maße beziehen sich auf Fragment 2. Fragment 1: -41x-32.5x12 cm. Links auf Fragment 1 sind zwei parallele Rahmungsstriche erhalten, in die Z. 2 hineinragt und über die Z. 3 und 4 hinausgehen. Vielleicht auch Grabinschrift. Datierbar durch die Nennung des Truppenkörpers der Honoriani. Eventuell genauere Datierung in die Jahre 430/1 möglich (Feldzüge des Aëtius). Text 1 Z. 4: das I(?) liegt direkt auf dem dem zweiten Rahmungsstrich, so daß es sich möglicherweise nicht um einen Buchstaben handelt. Text 1 Z. 6: vom I(?) ist nur das obere Drittel einer senkrechten Haste erhalten; auch H(?) oder L(?) möglich. Text 2 Z. 6: Pannoniciani (Kasusendung unklar). Text 2 Z. 7: vor rivar möglicherweise Rest eines C oder G erhalten. Angrivarii, Honoriani bzw. Honoriaci (Kasusendung unklar). (B): Wagner: Abweichende Lesung als christliche Grabinschrift.</p>
-            </div>
-        </body>
+                <p>Beide Fragmente haben eine Buchstabenhöhe von circa 3,2cm und einen zentrierten Text. Vielleicht handelt es sich nicht um eine Ehreninschrift, sondern um eine Weih- oder Grabinschrift. Wagner: Christliche Grabinschrift anhand der Wortwahl in Z. 3 und 4 von Fragment 1, dagegen Scharf: spätrömische Inschrift eines Senators. Fragment 1: Links sind zwei parallele Rahmungsstriche erhalten, in die Z. 2 hineinragt und über die Z. 3 und 4 hinausgehen. Z. 2 zeigt zum Ende hin kleiner werdende und sogar über den Rand hinausgehende Buchstaben, da der Steinmetz die Größe des Inschriftenfeldes überschätzt hatte. Z. 4: das I(?) liegt direkt auf dem dem zweiten Rahmungsstrich, so daß es sich möglicherweise nicht um einen Buchstaben handelt. Z. 6: Wagner: IIII. Scharf: vom I(?) ist nur das obere Drittel einer senkrechten Haste erhalten; auch H(?) oder L(?) möglich. Fragment 2: Z. 5: NT-Ligatur, wie Wagner sie sah, laut Scharf nicht erkennbar. Z. 6: Pannoniciani (Kasusendung unklar). Text 2 Z. 7: vor RIVAR möglicherweise Rest eines C oder G erhalten. Angrivarii, Honoriani bzw. Honoriaci (Kasusendung unklar). Z. 8-10: Großer Abstand der Buchstaben. Die spätantiken Einheiten der Angrivarii und Honoriani werden in der Not. Not. Dign. Oriens V 58-59 bzw. 21=62, die Pannoniciani in Not. Dign. Occ. V 149, VII 7 und Not. Dign Oriens VIII 48 genannt. Die hier genannten Soldaten kamen also sowohl aus der östlichen als auch der westlichen Hälfte des Reiches zusammen. Datierung: AE: Nennung des Truppenkörpers der Honoriani datiert die Inschrift in die Zeit um 400 n. Chr. Eventuell genauere Datierung in die Jahre 430/1 möglich, als der&lt;em&gt; magister equitum presentalis &lt;/em&gt;Flavius Aetius von Italien aus mit einem Heer, das vielleicht die hier genannten Kontingente umfasste, nach Raetien aufbrach, um die durchgebrochenen Juthungen zu besiegen. Das Ehrenmonument würde demnach wie bereits der Siegesaltar (260 n. Chr.; HD044953) einen historisch bedeutsamen Sieg auf raetischem Boden bezeugen. Für mehr Informationen zum Inschriftentyp, den genannten Einheiten und der historischen Einordnung: vgl. Scharf 1994. (EDH, JW) </p></div>
+        <div type="translation"><p>"(Zu bruchstückhaft für eine Übersetzung)</p></div></body>
     </text>
 </TEI>

@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Grabinschrift auf Stele</title>
+                <title>Grabinschrift des Freigelassenen C. Iulius Libertus?</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058603</idno>
-                <idno type="TM">217093</idno><idno type="localID">HD058603</idno>
+                <idno type="TM">217093</idno><idno type="ibr">142</idno><idno type="cil">5831</idno><idno type="lupa">6339</idno><idno type="edh">HD058603</idno><idno type="ace">103305</idno><idno type="edcs">27200195</idno><idno type="localID">HD058603</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -26,12 +25,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Die Zeichnung zeigt eine Stele mit Rundgiebel über dem Inschriftenfeld, darin eine Rosette, unterhalb des Inschriftenfeldes eine Rundbogennische ohne Inhalt.</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/250">Stele</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/138">unbestimmt</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/250">Stele</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/138">unbekannt</material><p/>
                                     <dimensions unit="cm">
                                         <height/>
                                         <width/>
@@ -104,7 +101,7 @@
          <change when="2017-12-14" who="Osnabrügge">
              überprüft an Zeichnung
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
 
@@ -130,7 +127,7 @@
                          G. Gamer - A. Rüsch, Raetia (Bayern südlich des Limes) und Noricum (Chiemseegebiet), CSIR Deutschland 1, 1 (Bonn 1973) 19, Nr. 1; Taf. 1, 1 (Zeichnung). 
                     </bibl>
 
-                </listBibl>
+                <bibl>CIL III 5831.</bibl><bibl>W. Eck, in: Epigrafia e ordine senatorio. Bd.11, Rom 1982, S.549.</bibl><bibl>G. Spitzlberger, Die römischen Ziegelstempel im nördlichen Teil der Provinz Raetien, in: SJ 25 (1968), S. 100.</bibl><bibl>K. Dietz - G. Weber, Fremde in Rätien, in: Chiron 12 (1982), S. 435.</bibl></listBibl>
             </div>
             
             
@@ -143,8 +140,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Z. 4: überliefert ist am Ende der Zeile H S I. Die Zeichnung zeigt eine Stele mit Rundgiebel über dem Inschriftfeld, darin Rosette, unterhalb des Inschriftfeldes Rundbogennische ohne Inhalt. (B): CIL 03, 05831: kleinere Leseabweichungen.</p>
-            </div>
-        </body>
+                <p>Die Zeilen 1-2 bereiten bei der Lesung größere Probleme. IBR, CIL: C. Iuli, Silani liberti, Liberti(i)? oder C. Iuli Silani L. Primigeni? Z. 4: I statt ein E für 'est'. Zeitweise wurde 'C. Iulius Silanus' als Patron eines hier verstorbenen Freigelassenen gelesen und mit dem gleichnamigen Suffektkonsul von 92 n. Chr. identifiziert, allerdings widerlegte dies Eck. Spitzlberger: Vielleicht ist er identisch mit dem auf einem Augsburger Ziegeleiprodukt belegten Privatziegler C. Iul. S[-]. Die Übersetzung folgt der Angabe bei Dietz/Weber. Der Verstorbene gehörte in jedem Fall zum keltischen Volksstamm der Bituriger (Cubi oder Vivisci?). (JW) </p></div>
+        <div type="translation"><p>"--- des Gaius Iulius Libertus, des Freigelassenen des Silanus, der Herkunft nach ein Bituriger, gestorben im Alter von 18 Jahren. Hier ist er beigesetzt.</p></div></body>
     </text>
 </TEI>

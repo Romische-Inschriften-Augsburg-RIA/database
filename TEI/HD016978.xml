@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Weihinschrift auf Altar</title>
+                <title>Weihinschrift des C. Iulius Avitus Alexianus für Sol Elagabal</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD016978</idno>
-                <idno type="TM">216603</idno><idno type="localID">HD016978</idno>
+                <idno type="TM">216603</idno><idno type="lupa">6452</idno><idno type="edh">HD016978</idno><idno type="ace"></idno><idno type="edcs">10700598</idno><idno type="localID">HD016978</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -26,12 +25,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Radnóti: Drei Fragmente eines Altars, die weniger als die Hälfte des zerstückelten Altars bilden. Der Krönungsaufsatz besteht aus überdimensionalen Voluten mit Schuppenverzierung bedeckt, an der Schauseite mit Girlanden verziert. Auf der Seitenfläche ein schief gewachsener Baum im Relief und auf der Rückseite ein Gitterwerk mit Rosetten. Auf der linken Seite des doppeltgerahmten Inschriftfeldes eine achtzeilige Inschrift.</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/29">Altar</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/29">kleiner Altar</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material><p/>
                                     <dimensions unit="cm">
                                         <height>159</height>
                                         <width>-42</width>
@@ -104,7 +101,7 @@
          <change when="2017-08-04" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F007389.JPG">
@@ -163,7 +160,7 @@
                          PIR (2. Aufl.) I 192. 
                     </bibl>
 
-                </listBibl>
+                <bibl>I. Matijević, Gaj Julije Avit Aleksijan - namjesnik rimske provincije Dalmacije, in: Tusculum 9 (2016), S. 69-82.</bibl></listBibl>
             </div>
             
             
@@ -176,8 +173,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Drei Fragmente eines Altars mit Bekrönung. Auf der linken Nebenseite Darstellung eines Baumes, auf der Rückseite Gittermuster. (B): Schillinger-Häfele: Z. 6: Titi[alis]; AE 1962; Radnóti: Z. 5/6: soda[l(is) ---] / Titia[l(is) ---]; Z. 7: lega[tus Aug. pr. pr.; Z. 8: prov[inciae Raetiae].</p>
-            </div>
-        </body>
+                <p>Schillinger-Häfele: Z. 6: Titi[alis]; AE 1962; Radnóti: Z. 5/6: soda[l(is) ---] / Titia[l(is) ---]; Z. 7: lega[tus Aug. pr. pr.; Z. 8: prov[inciae Raetiae]. Radnóti: Der Statthalter mit dem Cognomen gr. Herkunft war ein Verwandter, wahrscheinlich der Onkel der beiden jungen Kaiser Elagabal (218-222) und Severus Alexander (222-235). Matijević: Er stammte aus dem syrischen Emesa, und war über seine Frau Julia Maesa, eine Schwester der Iulia Domna, mit der Severischen Dynastie verbunden. Seine Statthalterschaft fand zwischen 196/197 und 198/200 statt. Während seiner Zeit in Rom wurde er Mitglied in dem Kollegium, das den Kult um den vergöttlichten Titus aufrechterhielt. Zu weiteren Stationen seiner langen Karriere: Vgl. Matijević. (EDH, JW) </p></div>
+        <div type="translation"><p>"Dem väterlichen Sonnengott Elagabal (hat die Weihung dargebracht) Gaius Iulius Avitus Alexianus, der sodalis Titialis, Legat des Kaisers mit prätorischem Rang in der Provinz Raetia.</p></div></body>
     </text>
 </TEI>

@@ -1,14 +1,13 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Grabinschrift auf Stele</title>
+                <title>Grabinschrift der Pusinna und ihrer Eltern</title>
             </titleStmt>  
             <publicationStmt>
                 <authority>Epigraphische Datenbank Heidelberg</authority>
                 <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD058647</idno>
-                <idno type="TM">217105</idno><idno type="localID">HD058647</idno>
+                <idno type="TM">217105</idno><idno type="ibr">158</idno><idno type="cil">5846</idno><idno type="lupa">6468</idno><idno type="edh">HD058647</idno><idno type="ace">126944</idno><idno type="edcs">27500245</idno><idno type="localID">HD058647</idno>
                 <availability>
                     <p>© Heidelberg Academy of Sciences and Humanities</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
@@ -26,12 +25,10 @@
                         <idno/>
                     </msIdentifier>
                     <physDesc>
-                        <objectDesc>
+                        <p>Giebelstele mit Büsten zweier Frauen und eines Mannes.</p><objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/250">Stele</objectType>
-                                    <material ref="http://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material>
-                                    <p/>
+                                    <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/250">Stele</objectType><material ref="https://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material><p/>
                                     <dimensions unit="cm">
                                         <height>144</height>
                                         <width>43</width>
@@ -104,7 +101,7 @@
          <change when="2017-11-22" who="Osnabrügge">
              überprüft an Foto
          </change>
-        </revisionDesc>
+        <change when="2022-09-23" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-09-26" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change><change when="2022-10-19" who="ria">Latest automatical update with information from the project Römische Inschriften aus Augsburg (https://sempub.ub.uni-heidelberg.de/ria/)</change></revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F035385.JPG">
@@ -133,7 +130,7 @@
                          G. Gamer - A. Rüsch, Raetia (Bayern südlich des Limes) und Noricum (Chiemseegebiet), CSIR Deutschland 1, 1 (Bonn 1973) 19-20, Nr. 3; Taf. 1, 3. 
                     </bibl>
 
-                </listBibl>
+                <bibl>A. Kakoschke, Die Personennamen in der römischen Provinz Rätien, Hildesheim 2009, CN532, CN534.</bibl><bibl>CIL III 5846.</bibl></listBibl>
             </div>
             
             
@@ -146,8 +143,7 @@
                 <p/>
             </div>
             <div type="commentary">
-                <p> Giebelstele mit Büsten zweier Frauen und eines Mannes. Z. 8 ist durch eine große runde Vertiefung beschädigt, die beinahe den ganzen unteren Teil des Inschriftenfeldes ausfüllt. Z. 1: ET-Ligatur; Z. 2: VAE-, ATI-Ligatur; Z. 5: AE-, RI(?)-Ligatur. (B): Z. 5: IBR: socr(u)s; CIL: I nicht gelesen.</p>
-            </div>
-        </body>
+                <p>Z. 8 ist durch eine große runde Vertiefung beschädigt, die beinahe den ganzen unteren Teil des Inschriftenfeldes ausfüllt. Z. 1: ET-Ligatur; Z. 2: VAE-, ATI-Ligatur; Z. 5: AE-, RI(?)-Ligatur, IBR: socr(u)s, CIL: I nicht gelesen. Kakoschke: Der Schwiegervater des ---ctus trägt ein keltisches Cognomen. Wahrscheinlich kamen Pusinna und ihre Eltern aus Raetien oder dem benachbarten keltischen Gebiet. (EDH, JW) </p></div>
+        <div type="translation"><p>"Den Totengötter und der ewigen Sorgenfreiheit. Zum Gedenken an seine Schwiegereltern Pusintus und Victorina sowie seiner allersüßesten Ehefrau Pusinna --- --ctus ---</p></div></body>
     </text>
 </TEI>
