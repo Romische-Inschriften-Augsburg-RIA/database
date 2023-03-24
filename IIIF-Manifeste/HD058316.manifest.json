@@ -135,7 +135,7 @@
       "width": 1519,
       "items": [
         {
-          "id": "https://example.org/uuid/cc6999c4-a041-4ad8-9e11-257e02dea8f2",
+          "id": "https://example.org/uuid/434fc586-2939-4212-a7de-fbfb06e2ec31",
           "type": "AnnotationPage",
           "items": [
             {
@@ -213,7 +213,7 @@
       "width": 1813,
       "items": [
         {
-          "id": "https://example.org/uuid/aa5a3f24-0c6b-43a7-b335-6e2a132409ed",
+          "id": "https://example.org/uuid/bfe3c7e8-bdbb-455a-96ae-a20fdfb38eac",
           "type": "AnnotationPage",
           "items": [
             {
@@ -235,124 +235,6 @@
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/Tp28vHlXTUKIRFZ__LlSqQ",
-      "type": "Canvas",
-      "label": {
-        "true": [
-          "Vollmer: Inscriptiones Baivariae Romanae (1915)"
-        ]
-      },
-      "height": "66.01171458998931",
-      "width": "700.2981895633653",
-      "metadata": [
-        {
-          "label": {
-            "true": [
-              "Photo Credit"
-            ]
-          },
-          "value": {
-            "true": [
-              "UB Heidelberg"
-            ]
-          }
-        },
-        {
-          "label": {
-            "true": [
-              "Holding Institution"
-            ]
-          },
-          "value": {
-            "true": [
-              "UB Heidelberg"
-            ]
-          }
-        }
-      ],
-      "items": [
-        {
-          "id": "https:/ria.ub.uni-heidelberg.de/uuid/Tp28vHlXTUKIRFZ__LlSqQ",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "@context": "http://iiif.io/api/presentation/2/context.json",
-              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/Tp28vHlXTUKIRFZ__LlSqQ",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/Tp28vHlXTUKIRFZ__LlSqQ",
-              "body": {
-                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/vollmer1915%3A000000_Roem_05.jpg/880.0268636847712,913.3767879510459,700.2981895633653,66.01171458998931/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/png",
-                "height": "66.01171458998931",
-                "width": "700.2981895633653"
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/aY0Hk5NHRVqWZf-k4r2b6A",
-      "type": "Canvas",
-      "label": {
-        "true": [
-          "Vollmer: Inscriptiones Baivariae Romanae (1915)"
-        ]
-      },
-      "height": "972.4936061381073",
-      "width": "711.4407502131287",
-      "metadata": [
-        {
-          "label": {
-            "true": [
-              "Photo Credit"
-            ]
-          },
-          "value": {
-            "true": [
-              "UB Heidelberg"
-            ]
-          }
-        },
-        {
-          "label": {
-            "true": [
-              "Holding Institution"
-            ]
-          },
-          "value": {
-            "true": [
-              "UB Heidelberg"
-            ]
-          }
-        }
-      ],
-      "items": [
-        {
-          "id": "https:/ria.ub.uni-heidelberg.de/uuid/aY0Hk5NHRVqWZf-k4r2b6A",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "@context": "http://iiif.io/api/presentation/2/context.json",
-              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/aY0Hk5NHRVqWZf-k4r2b6A",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/aY0Hk5NHRVqWZf-k4r2b6A",
-              "body": {
-                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/vollmer1915%3A0000_055.jpg/873.9477195225916,482.5439508660228,711.4407502131287,972.4936061381073/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/png",
-                "height": "972.4936061381073",
-                "width": "711.4407502131287"
               }
             }
           ]

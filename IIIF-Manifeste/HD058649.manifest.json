@@ -62,16 +62,28 @@
   },
   "items": [
     {
-      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/NEjvge8JT1CC428XDgLEGg",
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/abdc7aa7-b8e4-470a-9a68-0207a542a608",
       "type": "Canvas",
       "label": {
         "true": [
-          "Vollmer: Inscriptiones Baivariae Romanae (1915)"
+          "CIL - Corpus inscriptionum Latinarum III (1873)"
         ]
       },
-      "height": "929.4629156010228",
-      "width": "731.5217391304348",
+      "height": "744",
+      "width": "891",
       "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058649"
+            ]
+          }
+        },
         {
           "label": {
             "true": [
@@ -80,40 +92,52 @@
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "M\u00fcnchener Digitalisierungszentrum"
             ]
           }
         },
         {
           "label": {
             "true": [
-              "Holding Institution"
+              "Aufbewahrung"
             ]
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "M\u00fcnchen, Bayerische Staatsbibliothek -- 4 Arch. 36 u-3,2"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 12685798"
             ]
           }
         }
       ],
       "items": [
         {
-          "id": "https:/ria.ub.uni-heidelberg.de/uuid/NEjvge8JT1CC428XDgLEGg",
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/abdc7aa7-b8e4-470a-9a68-0207a542a608",
           "type": "AnnotationPage",
           "items": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
-              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/NEjvge8JT1CC428XDgLEGg",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/abdc7aa7-b8e4-470a-9a68-0207a542a608",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/NEjvge8JT1CC428XDgLEGg",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/abdc7aa7-b8e4-470a-9a68-0207a542a608",
               "body": {
-                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/vollmer1915%3A0000_052.jpg/1022.105295236159,861.7190067635865,731.5217391304348,929.4629156010228/full/0/default.jpg",
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11135214_00145/1029,2802,891,744/full/0/default.jpg ",
                 "type": "Image",
                 "format": "image/png",
-                "height": "929.4629156010228",
-                "width": "731.5217391304348"
+                "height": "744",
+                "width": "891"
               }
             }
           ]

@@ -159,7 +159,7 @@
       "width": 1530,
       "items": [
         {
-          "id": "https://example.org/uuid/f98997e6-e64a-4911-9c6c-f7dc5d937044",
+          "id": "https://example.org/uuid/86b3b59e-4c93-4708-900d-ab2671fd3521",
           "type": "AnnotationPage",
           "items": [
             {
@@ -237,7 +237,7 @@
       "width": 1700,
       "items": [
         {
-          "id": "https://example.org/uuid/1eee49d4-6717-4df4-ac99-7e8152e0325e",
+          "id": "https://example.org/uuid/65ecd4cc-d63d-4da1-9cbb-8d253be48668",
           "type": "AnnotationPage",
           "items": [
             {
@@ -315,7 +315,7 @@
       "width": 1900,
       "items": [
         {
-          "id": "https://example.org/uuid/920a7da4-4a68-4838-854c-2d61f853e170",
+          "id": "https://example.org/uuid/e6e7fd8b-876b-4c1a-b4bc-1eab126dea8e",
           "type": "AnnotationPage",
           "items": [
             {
@@ -344,16 +344,28 @@
       ]
     },
     {
-      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/eul99fp8TsSPOQ2DleNcAQ",
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/57908c20-a421-40af-bae6-c877ff41bc0b",
       "type": "Canvas",
       "label": {
         "true": [
-          "Vollmer: Inscriptiones Baivariae Romanae (1915)"
+          "Mommsen: Ephemeris epigraphica II (1874/75)"
         ]
       },
-      "height": "1035.6052855924977",
-      "width": "705.7033248081839",
+      "height": "444",
+      "width": "1406",
       "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058663"
+            ]
+          }
+        },
         {
           "label": {
             "true": [
@@ -362,40 +374,52 @@
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "M\u00fcnchener Digitalisierungszentrum"
             ]
           }
         },
         {
           "label": {
             "true": [
-              "Holding Institution"
+              "Aufbewahrung"
             ]
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "M\u00fcnchen, Bayerische Staatsbibliothek -- Arch. 34 zp-2"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 6266847"
             ]
           }
         }
       ],
       "items": [
         {
-          "id": "https:/ria.ub.uni-heidelberg.de/uuid/eul99fp8TsSPOQ2DleNcAQ",
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/57908c20-a421-40af-bae6-c877ff41bc0b",
           "type": "AnnotationPage",
           "items": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
-              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/eul99fp8TsSPOQ2DleNcAQ",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/57908c20-a421-40af-bae6-c877ff41bc0b",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/eul99fp8TsSPOQ2DleNcAQ",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/57908c20-a421-40af-bae6-c877ff41bc0b",
               "body": {
-                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/vollmer1915%3A0000_055.jpg/175.4947411320358,752.7513474291596,705.7033248081839,1035.6052855924977/full/0/default.jpg",
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11312915_00457/90,1890,1406,444/full/0/default.jpg ",
                 "type": "Image",
                 "format": "image/png",
-                "height": "1035.6052855924977",
-                "width": "705.7033248081839"
+                "height": "444",
+                "width": "1406"
               }
             }
           ]

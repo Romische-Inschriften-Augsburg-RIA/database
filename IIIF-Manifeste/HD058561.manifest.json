@@ -159,7 +159,7 @@
       "width": 1361,
       "items": [
         {
-          "id": "https://example.org/uuid/8b969db3-6c5a-4351-b0ec-8b287941c939",
+          "id": "https://example.org/uuid/8dcfb84d-617a-4d58-bdd5-8a050bbcda2d",
           "type": "AnnotationPage",
           "items": [
             {
@@ -237,7 +237,7 @@
       "width": 1423,
       "items": [
         {
-          "id": "https://example.org/uuid/a6b1f94c-ac2d-4b2d-909a-a9b42d457ff2",
+          "id": "https://example.org/uuid/9d2acd05-2349-4fb7-b0ea-f306bb7f1803",
           "type": "AnnotationPage",
           "items": [
             {
@@ -315,7 +315,7 @@
       "width": 1509,
       "items": [
         {
-          "id": "https://example.org/uuid/420d9c1c-9f47-412d-84bf-2c85315ff983",
+          "id": "https://example.org/uuid/1a76480b-8815-4805-8b8e-ed09b76a4e0b",
           "type": "AnnotationPage",
           "items": [
             {
@@ -344,16 +344,28 @@
       ]
     },
     {
-      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/LjHDUo4WRh-KNefDaQTgwg",
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/679d7f77-8720-433c-889e-18441ea6cda0",
       "type": "Canvas",
       "label": {
         "true": [
-          "Mezger: R\u00f6mische Steindenkm\u00e4ler (1862)"
+          "Raiser: Ober-Donau-Kreis III (1832) - 1. Teil"
         ]
       },
-      "height": "1142.7850000000003",
-      "width": "1037.3825000000002",
+      "height": "377",
+      "width": "894",
       "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058561"
+            ]
+          }
+        },
         {
           "label": {
             "true": [
@@ -362,40 +374,52 @@
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "M\u00fcnchener Digitalisierungszentrum"
             ]
           }
         },
         {
           "label": {
             "true": [
-              "Holding Institution"
+              "Aufbewahrung"
             ]
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "Bamberg, Staatsbiblitohek -- HV.H.Bav.654#3"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 2016252"
             ]
           }
         }
       ],
       "items": [
         {
-          "id": "https:/ria.ub.uni-heidelberg.de/uuid/LjHDUo4WRh-KNefDaQTgwg",
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/679d7f77-8720-433c-889e-18441ea6cda0",
           "type": "AnnotationPage",
           "items": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
-              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/LjHDUo4WRh-KNefDaQTgwg",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/679d7f77-8720-433c-889e-18441ea6cda0",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/LjHDUo4WRh-KNefDaQTgwg",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/679d7f77-8720-433c-889e-18441ea6cda0",
               "body": {
-                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/mezger1862%3A39.jpg/108.60750000000019,826.5775000000002,1037.3825000000002,1142.7850000000003/full/0/default.jpg",
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11692243_00087/201,1708,894,377/full/0/default.jpg ",
                 "type": "Image",
                 "format": "image/png",
-                "height": "1142.7850000000003",
-                "width": "1037.3825000000002"
+                "height": "377",
+                "width": "894"
               }
             }
           ]
@@ -403,16 +427,28 @@
       ]
     },
     {
-      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/FJ5Ln__vSh2MuT-HKQBPLQ",
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/cc4eaa73-832f-412e-9878-be9796b04e82",
       "type": "Canvas",
       "label": {
         "true": [
-          "Raiser: R\u00f6mische Alterth\u00fcmer (1820)"
+          "Raiser: Ober-Donau-Kreis III (1832) - 2. Teil"
         ]
       },
-      "height": "1394.56",
-      "width": "724.5174999999999",
+      "height": "207",
+      "width": "894",
       "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058561"
+            ]
+          }
+        },
         {
           "label": {
             "true": [
@@ -421,40 +457,52 @@
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "M\u00fcnchener Digitalisierungszentrum"
             ]
           }
         },
         {
           "label": {
             "true": [
-              "Holding Institution"
+              "Aufbewahrung"
             ]
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "Bamberg, Staatsbiblitohek -- HV.H.Bav.654#3"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 2016252"
             ]
           }
         }
       ],
       "items": [
         {
-          "id": "https:/ria.ub.uni-heidelberg.de/uuid/FJ5Ln__vSh2MuT-HKQBPLQ",
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/cc4eaa73-832f-412e-9878-be9796b04e82",
           "type": "AnnotationPage",
           "items": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
-              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/FJ5Ln__vSh2MuT-HKQBPLQ",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/cc4eaa73-832f-412e-9878-be9796b04e82",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/FJ5Ln__vSh2MuT-HKQBPLQ",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/cc4eaa73-832f-412e-9878-be9796b04e82",
               "body": {
-                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/raiser1820%3A061.jpg/53.612499999999955,354.0875,724.5174999999999,1394.56/full/0/default.jpg",
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11692243_00087/1102,306,894,207/full/0/default.jpg ",
                 "type": "Image",
                 "format": "image/png",
-                "height": "1394.56",
-                "width": "724.5174999999999"
+                "height": "207",
+                "width": "894"
               }
             }
           ]
@@ -462,16 +510,28 @@
       ]
     },
     {
-      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/IFNp8tcvSryVpW4G9Ro8UQ",
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/4d489441-6f32-41f7-96a5-c56a3793dcb1",
       "type": "Canvas",
       "label": {
         "true": [
-          "Raiser: R\u00f6mische Alterth\u00fcmer (1820)"
+          "Gercken: Reisen I (1783) - 1. Teil"
         ]
       },
-      "height": "1225.6875",
-      "width": "762.65",
+      "height": "944",
+      "width": "1035",
       "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058561"
+            ]
+          }
+        },
         {
           "label": {
             "true": [
@@ -480,40 +540,52 @@
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "M\u00fcnchener Digitalisierungszentrum"
             ]
           }
         },
         {
           "label": {
             "true": [
-              "Holding Institution"
+              "Aufbewahrung"
             ]
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "Regensburg, Staatliche Bibliothek -- 999/Hist.pol.706(1/2)"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 2427796"
             ]
           }
         }
       ],
       "items": [
         {
-          "id": "https:/ria.ub.uni-heidelberg.de/uuid/IFNp8tcvSryVpW4G9Ro8UQ",
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/4d489441-6f32-41f7-96a5-c56a3793dcb1",
           "type": "AnnotationPage",
           "items": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
-              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/IFNp8tcvSryVpW4G9Ro8UQ",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/4d489441-6f32-41f7-96a5-c56a3793dcb1",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/IFNp8tcvSryVpW4G9Ro8UQ",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/4d489441-6f32-41f7-96a5-c56a3793dcb1",
               "body": {
-                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/raiser1820%3A062.jpg/146.2199999999999,217.89999999999998,762.65,1225.6875/full/0/default.jpg",
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11095762_00337/207,1081,1035,944/full/0/default.jpg ",
                 "type": "Image",
                 "format": "image/png",
-                "height": "1225.6875",
-                "width": "762.65"
+                "height": "944",
+                "width": "1035"
               }
             }
           ]
@@ -521,16 +593,28 @@
       ]
     },
     {
-      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/ZtQw7AdpTAiCRs3AoqN0iA",
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/4ee8da5f-cba8-4215-91d4-1182b7170a0c",
       "type": "Canvas",
       "label": {
         "true": [
-          "Vollmer: Inscriptiones Baivariae Romanae (1915)"
+          "Gercken: Reisen I (1783) - 2. Teil"
         ]
       },
-      "height": "51.29085643359542",
-      "width": "709.1518411253621",
+      "height": "188",
+      "width": "988",
       "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058561"
+            ]
+          }
+        },
         {
           "label": {
             "true": [
@@ -539,40 +623,52 @@
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "M\u00fcnchener Digitalisierungszentrum"
             ]
           }
         },
         {
           "label": {
             "true": [
-              "Holding Institution"
+              "Aufbewahrung"
             ]
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "Regensburg, Staatliche Bibliothek -- 999/Hist.pol.706(1/2)"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 2427796"
             ]
           }
         }
       ],
       "items": [
         {
-          "id": "https:/ria.ub.uni-heidelberg.de/uuid/ZtQw7AdpTAiCRs3AoqN0iA",
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/4ee8da5f-cba8-4215-91d4-1182b7170a0c",
           "type": "AnnotationPage",
           "items": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
-              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/ZtQw7AdpTAiCRs3AoqN0iA",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/4ee8da5f-cba8-4215-91d4-1182b7170a0c",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/ZtQw7AdpTAiCRs3AoqN0iA",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/4ee8da5f-cba8-4215-91d4-1182b7170a0c",
               "body": {
-                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/vollmer1915%3A000000_Roem_05.jpg/874.4151168804303,729.9927363615466,709.1518411253621,51.29085643359542/full/0/default.jpg",
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11095762_00338/202,182,988,188/full/0/default.jpg ",
                 "type": "Image",
                 "format": "image/png",
-                "height": "51.29085643359542",
-                "width": "709.1518411253621"
+                "height": "188",
+                "width": "988"
               }
             }
           ]
@@ -580,16 +676,28 @@
       ]
     },
     {
-      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/G1EWXkHYQwuKqATbSKOjKA",
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/30174de6-ee3c-4e80-b438-701bc919465e",
       "type": "Canvas",
       "label": {
         "true": [
-          "Vollmer: Inscriptiones Baivariae Romanae (1915)"
+          "Pococke: Inscriptionum antiquarum (1752)"
         ]
       },
-      "height": "780.4133816322178",
-      "width": "720.1608779032601",
+      "height": "746",
+      "width": "679",
       "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058561"
+            ]
+          }
+        },
         {
           "label": {
             "true": [
@@ -598,40 +706,52 @@
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "M\u00fcnchener Digitalisierungszentrum"
             ]
           }
         },
         {
           "label": {
             "true": [
-              "Holding Institution"
+              "Aufbewahrung"
             ]
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "M\u00fcnchen, Bayerische Staatsbibliothek -- 2 Arch. 214"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 1074358"
             ]
           }
         }
       ],
       "items": [
         {
-          "id": "https:/ria.ub.uni-heidelberg.de/uuid/G1EWXkHYQwuKqATbSKOjKA",
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/30174de6-ee3c-4e80-b438-701bc919465e",
           "type": "AnnotationPage",
           "items": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
-              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/G1EWXkHYQwuKqATbSKOjKA",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/30174de6-ee3c-4e80-b438-701bc919465e",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/G1EWXkHYQwuKqATbSKOjKA",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/30174de6-ee3c-4e80-b438-701bc919465e",
               "body": {
-                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/vollmer1915%3A0000_044.jpg/1030.1449978695975,1450.612094710778,720.1608779032601,780.4133816322178/full/0/default.jpg",
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10211868_00133/1520,1411,679,746/full/0/default.jpg ",
                 "type": "Image",
                 "format": "image/png",
-                "height": "780.4133816322178",
-                "width": "720.1608779032601"
+                "height": "746",
+                "width": "679"
               }
             }
           ]
@@ -639,16 +759,28 @@
       ]
     },
     {
-      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/GB8NqmAKSeym2f2laOMNIA",
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/79022f23-6369-4ed5-9954-782420ce9804",
       "type": "Canvas",
       "label": {
         "true": [
-          "Vollmer: Inscriptiones Baivariae Romanae (1915)"
+          "Orelli: Inscriptionum Latinarum collectio II (1828) - 1. Teil"
         ]
       },
-      "height": "470.46888320545594",
-      "width": "702.8346121057117",
+      "height": "403",
+      "width": "1304",
       "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058561"
+            ]
+          }
+        },
         {
           "label": {
             "true": [
@@ -657,40 +789,1878 @@
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "M\u00fcnchener Digitalisierungszentrum"
             ]
           }
         },
         {
           "label": {
             "true": [
-              "Holding Institution"
+              "Aufbewahrung"
             ]
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "M\u00fcnchen, Bayerische staatsbibliothek -- Arch. 111 m-2"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 7338229"
             ]
           }
         }
       ],
       "items": [
         {
-          "id": "https:/ria.ub.uni-heidelberg.de/uuid/GB8NqmAKSeym2f2laOMNIA",
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/79022f23-6369-4ed5-9954-782420ce9804",
           "type": "AnnotationPage",
           "items": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
-              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/GB8NqmAKSeym2f2laOMNIA",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/79022f23-6369-4ed5-9954-782420ce9804",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/GB8NqmAKSeym2f2laOMNIA",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/79022f23-6369-4ed5-9954-782420ce9804",
               "body": {
-                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/vollmer1915%3A0000_045.jpg/136.21167519181597,292.2048630569861,702.8346121057117,470.46888320545594/full/0/default.jpg",
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10257263_00118/221,2040,1304,403/full/0/default.jpg ",
                 "type": "Image",
                 "format": "image/png",
-                "height": "470.46888320545594",
-                "width": "702.8346121057117"
+                "height": "403",
+                "width": "1304"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/87ece165-3583-46f3-93c6-5ef498c6222d",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Orelli: Inscriptionum Latinarum collectio II (1828) - 2. Teil"
+        ]
+      },
+      "height": "147",
+      "width": "1342",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058561"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchener Digitalisierungszentrum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchen, Bayerische staatsbibliothek -- Arch. 111 m-2"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 7338229"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/87ece165-3583-46f3-93c6-5ef498c6222d",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/87ece165-3583-46f3-93c6-5ef498c6222d",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/87ece165-3583-46f3-93c6-5ef498c6222d",
+              "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10257263_00119/211,268,1342,147/full/0/default.jpg ",
+                "type": "Image",
+                "format": "image/png",
+                "height": "147",
+                "width": "1342"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/6d63c2ec-2540-4053-953b-d0e5135ea6fb",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "CIL - Corpus inscriptionum Latinarum III (1873)"
+        ]
+      },
+      "height": "1068",
+      "width": "881",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058561"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchener Digitalisierungszentrum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchen, Bayerische Staatsbibliothek -- 4 Arch. 36 u-3,2"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 12685798"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/6d63c2ec-2540-4053-953b-d0e5135ea6fb",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/6d63c2ec-2540-4053-953b-d0e5135ea6fb",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/6d63c2ec-2540-4053-953b-d0e5135ea6fb",
+              "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11135214_00142/2077,462,881,1068/full/0/default.jpg ",
+                "type": "Image",
+                "format": "image/png",
+                "height": "1068",
+                "width": "881"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/ab1214aa-d42c-4633-af99-fc0a1cf6a124",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Richter: Exegesis inscriptionis antiquae in agro Augustano repertae (1739) - 1. Teil"
+        ]
+      },
+      "height": "1053",
+      "width": "1249",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058561"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchener Digitalisierungszentrum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "Augsburg, Staats- und Stadtbiblitothek -- 4 Aug 1270"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 13252032"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/ab1214aa-d42c-4633-af99-fc0a1cf6a124",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/ab1214aa-d42c-4633-af99-fc0a1cf6a124",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/ab1214aa-d42c-4633-af99-fc0a1cf6a124",
+              "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11207519_00010/664,1197,1249,1053/full/0/default.jpg ",
+                "type": "Image",
+                "format": "image/png",
+                "height": "1053",
+                "width": "1249"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/569f0b1c-74cb-49be-904f-b6c0fc91b139",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Richter: Exegesis inscriptionis antiquae in agro Augustano repertae (1739) - 2. Teil"
+        ]
+      },
+      "height": "1895",
+      "width": "1233",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058561"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchener Digitalisierungszentrum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "Augsburg, Staats- und Stadtbiblitothek -- 4 Aug 1270"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 13252032"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/569f0b1c-74cb-49be-904f-b6c0fc91b139",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/569f0b1c-74cb-49be-904f-b6c0fc91b139",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/569f0b1c-74cb-49be-904f-b6c0fc91b139",
+              "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11207519_00011/351,321,1233,1895/full/0/default.jpg ",
+                "type": "Image",
+                "format": "image/png",
+                "height": "1895",
+                "width": "1233"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/0d838608-fe0f-4407-8f38-8dd9338b69e7",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Richter: Exegesis inscriptionis antiquae in agro Augustano repertae (1739) - 3. Teil"
+        ]
+      },
+      "height": "1896",
+      "width": "1231",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058561"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchener Digitalisierungszentrum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "Augsburg, Staats- und Stadtbiblitothek -- 4 Aug 1270"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 13252032"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/0d838608-fe0f-4407-8f38-8dd9338b69e7",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/0d838608-fe0f-4407-8f38-8dd9338b69e7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/0d838608-fe0f-4407-8f38-8dd9338b69e7",
+              "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11207519_00012/630,330,1231,1896/full/0/default.jpg ",
+                "type": "Image",
+                "format": "image/png",
+                "height": "1896",
+                "width": "1231"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/9c4b85c3-26b0-43b4-b841-15d93541c882",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Richter: Exegesis inscriptionis antiquae in agro Augustano repertae (1739) - 4. Teil"
+        ]
+      },
+      "height": "1898",
+      "width": "1261",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058561"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchener Digitalisierungszentrum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "Augsburg, Staats- und Stadtbiblitothek -- 4 Aug 1270"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 13252032"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/9c4b85c3-26b0-43b4-b841-15d93541c882",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/9c4b85c3-26b0-43b4-b841-15d93541c882",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/9c4b85c3-26b0-43b4-b841-15d93541c882",
+              "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11207519_00013/331,313,1261,1898/full/0/default.jpg ",
+                "type": "Image",
+                "format": "image/png",
+                "height": "1898",
+                "width": "1261"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/3a741dad-ea97-492d-b8cd-e79794551418",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Richter: Exegesis inscriptionis antiquae in agro Augustano repertae (1739) - 5. Teil"
+        ]
+      },
+      "height": "1930",
+      "width": "1228",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058561"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchener Digitalisierungszentrum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "Augsburg, Staats- und Stadtbiblitothek -- 4 Aug 1270"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 13252032"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/3a741dad-ea97-492d-b8cd-e79794551418",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/3a741dad-ea97-492d-b8cd-e79794551418",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/3a741dad-ea97-492d-b8cd-e79794551418",
+              "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11207519_00014/633,303,1228,1930/full/0/default.jpg ",
+                "type": "Image",
+                "format": "image/png",
+                "height": "1930",
+                "width": "1228"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/0e611196-19a4-4a1e-9490-4a022a891649",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Richter: Exegesis inscriptionis antiquae in agro Augustano repertae (1739) - 6. Teil"
+        ]
+      },
+      "height": "1921",
+      "width": "1223",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058561"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchener Digitalisierungszentrum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "Augsburg, Staats- und Stadtbiblitothek -- 4 Aug 1270"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 13252032"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/0e611196-19a4-4a1e-9490-4a022a891649",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/0e611196-19a4-4a1e-9490-4a022a891649",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/0e611196-19a4-4a1e-9490-4a022a891649",
+              "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11207519_00015/318,294,1223,1921/full/0/default.jpg ",
+                "type": "Image",
+                "format": "image/png",
+                "height": "1921",
+                "width": "1223"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/31c2739d-a376-4a3f-867e-7d8d9e797781",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Richter: Exegesis inscriptionis antiquae in agro Augustano repertae (1739) - 7. Teil"
+        ]
+      },
+      "height": "1893",
+      "width": "1240",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058561"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchener Digitalisierungszentrum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "Augsburg, Staats- und Stadtbiblitothek -- 4 Aug 1270"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 13252032"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/31c2739d-a376-4a3f-867e-7d8d9e797781",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/31c2739d-a376-4a3f-867e-7d8d9e797781",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/31c2739d-a376-4a3f-867e-7d8d9e797781",
+              "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11207519_00016/612,299,1240,1893/full/0/default.jpg ",
+                "type": "Image",
+                "format": "image/png",
+                "height": "1893",
+                "width": "1240"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/cf44f6d8-1ac0-4880-96ec-e0b3a1994e0b",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Richter: Exegesis inscriptionis antiquae in agro Augustano repertae (1739) - 8. Teil"
+        ]
+      },
+      "height": "1922",
+      "width": "1245",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058561"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchener Digitalisierungszentrum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "Augsburg, Staats- und Stadtbiblitothek -- 4 Aug 1270"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 13252032"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/cf44f6d8-1ac0-4880-96ec-e0b3a1994e0b",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/cf44f6d8-1ac0-4880-96ec-e0b3a1994e0b",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/cf44f6d8-1ac0-4880-96ec-e0b3a1994e0b",
+              "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11207519_00017/306,326,1245,1922/full/0/default.jpg ",
+                "type": "Image",
+                "format": "image/png",
+                "height": "1922",
+                "width": "1245"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/e3a8f6ce-6e7f-4c2f-8b3d-99ec2db377ad",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Richter: Exegesis inscriptionis antiquae in agro Augustano repertae (1739) - 9. Teil"
+        ]
+      },
+      "height": "1897",
+      "width": "1257",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058561"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchener Digitalisierungszentrum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "Augsburg, Staats- und Stadtbiblitothek -- 4 Aug 1270"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 13252032"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/e3a8f6ce-6e7f-4c2f-8b3d-99ec2db377ad",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/e3a8f6ce-6e7f-4c2f-8b3d-99ec2db377ad",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/e3a8f6ce-6e7f-4c2f-8b3d-99ec2db377ad",
+              "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11207519_00018/643,312,1257,1897/full/0/default.jpg ",
+                "type": "Image",
+                "format": "image/png",
+                "height": "1897",
+                "width": "1257"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/5e01f7ae-4f6c-46e2-8c57-a4e143b4557d",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Richter: Exegesis inscriptionis antiquae in agro Augustano repertae (1739) - 10. Teil"
+        ]
+      },
+      "height": "1917",
+      "width": "1265",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058561"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchener Digitalisierungszentrum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "Augsburg, Staats- und Stadtbiblitothek -- 4 Aug 1270"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 13252032"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/5e01f7ae-4f6c-46e2-8c57-a4e143b4557d",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/5e01f7ae-4f6c-46e2-8c57-a4e143b4557d",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/5e01f7ae-4f6c-46e2-8c57-a4e143b4557d",
+              "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11207519_00019/309,322,1265,1917/full/0/default.jpg ",
+                "type": "Image",
+                "format": "image/png",
+                "height": "1917",
+                "width": "1265"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/7f3cbd21-90b7-4792-8018-93c815c57b17",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Richter: Exegesis inscriptionis antiquae in agro Augustano repertae (1739) - 11. Teil"
+        ]
+      },
+      "height": "1906",
+      "width": "1244",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058561"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchener Digitalisierungszentrum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "Augsburg, Staats- und Stadtbiblitothek -- 4 Aug 1270"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 13252032"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/7f3cbd21-90b7-4792-8018-93c815c57b17",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/7f3cbd21-90b7-4792-8018-93c815c57b17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/7f3cbd21-90b7-4792-8018-93c815c57b17",
+              "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11207519_00020/574,277,1244,1906/full/0/default.jpg ",
+                "type": "Image",
+                "format": "image/png",
+                "height": "1906",
+                "width": "1244"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/5ab370eb-60e5-4cb2-8a1d-be05bc05b778",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Richter: Exegesis inscriptionis antiquae in agro Augustano repertae (1739) - 12. Teil"
+        ]
+      },
+      "height": "1915",
+      "width": "1275",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058561"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchener Digitalisierungszentrum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "Augsburg, Staats- und Stadtbiblitothek -- 4 Aug 1270"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 13252032"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/5ab370eb-60e5-4cb2-8a1d-be05bc05b778",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/5ab370eb-60e5-4cb2-8a1d-be05bc05b778",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/5ab370eb-60e5-4cb2-8a1d-be05bc05b778",
+              "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11207519_00021/362,320,1275,1915/full/0/default.jpg ",
+                "type": "Image",
+                "format": "image/png",
+                "height": "1915",
+                "width": "1275"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/9f68b85e-4564-49eb-a01c-c85f89858864",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Richter: Exegesis inscriptionis antiquae in agro Augustano repertae (1739) - 13. Teil"
+        ]
+      },
+      "height": "1904",
+      "width": "1262",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058561"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchener Digitalisierungszentrum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "Augsburg, Staats- und Stadtbiblitothek -- 4 Aug 1270"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 13252032"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/9f68b85e-4564-49eb-a01c-c85f89858864",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/9f68b85e-4564-49eb-a01c-c85f89858864",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/9f68b85e-4564-49eb-a01c-c85f89858864",
+              "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11207519_00022/612,276,1262,1904/full/0/default.jpg ",
+                "type": "Image",
+                "format": "image/png",
+                "height": "1904",
+                "width": "1262"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/f16728a1-42f9-460f-8c74-8b1564674ac6",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Richter: Exegesis inscriptionis antiquae in agro Augustano repertae (1739) - 14. Teil"
+        ]
+      },
+      "height": "1918",
+      "width": "1255",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058561"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchener Digitalisierungszentrum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "Augsburg, Staats- und Stadtbiblitothek -- 4 Aug 1270"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 13252032"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/f16728a1-42f9-460f-8c74-8b1564674ac6",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/f16728a1-42f9-460f-8c74-8b1564674ac6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/f16728a1-42f9-460f-8c74-8b1564674ac6",
+              "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11207519_00023/374,330,1255,1918/full/0/default.jpg ",
+                "type": "Image",
+                "format": "image/png",
+                "height": "1918",
+                "width": "1255"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/509119e4-0926-4153-8bbd-435de4f34b0e",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Richter: Exegesis inscriptionis antiquae in agro Augustano repertae (1739) - 15. Teil"
+        ]
+      },
+      "height": "1910",
+      "width": "1247",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058561"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchener Digitalisierungszentrum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "Augsburg, Staats- und Stadtbiblitothek -- 4 Aug 1270"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 13252032"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/509119e4-0926-4153-8bbd-435de4f34b0e",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/509119e4-0926-4153-8bbd-435de4f34b0e",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/509119e4-0926-4153-8bbd-435de4f34b0e",
+              "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11207519_00024/619,326,1247,1910/full/0/default.jpg ",
+                "type": "Image",
+                "format": "image/png",
+                "height": "1910",
+                "width": "1247"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/634e9904-b193-44d3-b0cb-0944ef2d2969",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Richter: Exegesis inscriptionis antiquae in agro Augustano repertae (1739) - 16. Teil"
+        ]
+      },
+      "height": "1930",
+      "width": "1257",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058561"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchener Digitalisierungszentrum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "Augsburg, Staats- und Stadtbiblitothek -- 4 Aug 1270"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 13252032"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/634e9904-b193-44d3-b0cb-0944ef2d2969",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/634e9904-b193-44d3-b0cb-0944ef2d2969",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/634e9904-b193-44d3-b0cb-0944ef2d2969",
+              "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11207519_00025/359,293,1257,1930/full/0/default.jpg ",
+                "type": "Image",
+                "format": "image/png",
+                "height": "1930",
+                "width": "1257"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/e455c7fe-75b1-4674-ad36-cd60837683ba",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Richter: Exegesis inscriptionis antiquae in agro Augustano repertae (1739) - 17. Teil"
+        ]
+      },
+      "height": "1918",
+      "width": "1251",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058561"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchener Digitalisierungszentrum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "Augsburg, Staats- und Stadtbiblitothek -- 4 Aug 1270"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 13252032"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/e455c7fe-75b1-4674-ad36-cd60837683ba",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/e455c7fe-75b1-4674-ad36-cd60837683ba",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/e455c7fe-75b1-4674-ad36-cd60837683ba",
+              "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11207519_00026/604,308,1251,1918/full/0/default.jpg ",
+                "type": "Image",
+                "format": "image/png",
+                "height": "1918",
+                "width": "1251"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/9c071664-88ca-4bd3-80df-25c9cc5a2297",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Richter: Exegesis inscriptionis antiquae in agro Augustano repertae (1739) - 18. Teil"
+        ]
+      },
+      "height": "1926",
+      "width": "1252",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058561"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchener Digitalisierungszentrum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "Augsburg, Staats- und Stadtbiblitothek -- 4 Aug 1270"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 13252032"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/9c071664-88ca-4bd3-80df-25c9cc5a2297",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/9c071664-88ca-4bd3-80df-25c9cc5a2297",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/9c071664-88ca-4bd3-80df-25c9cc5a2297",
+              "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11207519_00027/304,279,1252,1926/full/0/default.jpg ",
+                "type": "Image",
+                "format": "image/png",
+                "height": "1926",
+                "width": "1252"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/4aca7d4d-f465-4873-a862-e3bc43938794",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Richter: Exegesis inscriptionis antiquae in agro Augustano repertae (1739) - 19. Teil"
+        ]
+      },
+      "height": "1865",
+      "width": "1300",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058561"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchener Digitalisierungszentrum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "Augsburg, Staats- und Stadtbiblitothek -- 4 Aug 1270"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 13252032"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/4aca7d4d-f465-4873-a862-e3bc43938794",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/4aca7d4d-f465-4873-a862-e3bc43938794",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/4aca7d4d-f465-4873-a862-e3bc43938794",
+              "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11207519_00028/588,281,1300,1865/full/0/default.jpg ",
+                "type": "Image",
+                "format": "image/png",
+                "height": "1865",
+                "width": "1300"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/fd26d05e-a8ac-46d5-918c-948c31f01998",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Muratori: Novus thesaurus veterum inscriptionum IV (1742)"
+        ]
+      },
+      "height": "906",
+      "width": "1082",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058561"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchener Digitalisierungszentrum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchen, Bayerische Staatsbibliothek -- 2 Arch. 162-4"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 2112615"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/fd26d05e-a8ac-46d5-918c-948c31f01998",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/fd26d05e-a8ac-46d5-918c-948c31f01998",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/fd26d05e-a8ac-46d5-918c-948c31f01998",
+              "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10211812_00013/381,745,1082,906/full/0/default.jpg ",
+                "type": "Image",
+                "format": "image/png",
+                "height": "906",
+                "width": "1082"
               }
             }
           ]

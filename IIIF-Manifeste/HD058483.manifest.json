@@ -62,16 +62,28 @@
   },
   "items": [
     {
-      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/F7WwooMBRoq4uUyo2K5QBw",
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/f1e50867-3796-4e2f-9fc1-661c815f16ce",
       "type": "Canvas",
       "label": {
         "true": [
-          "Hefner: R\u00f6misches Bayern (1852)"
+          "CIL - Corpus inscriptionum Latinarum III (1873)"
         ]
       },
-      "height": "207.11025339822118",
-      "width": "992.8142305755998",
+      "height": "457",
+      "width": "864",
       "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058483"
+            ]
+          }
+        },
         {
           "label": {
             "true": [
@@ -80,40 +92,52 @@
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "M\u00fcnchener Digitalisierungszentrum"
             ]
           }
         },
         {
           "label": {
             "true": [
-              "Holding Institution"
+              "Aufbewahrung"
             ]
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "M\u00fcnchen, Bayerische Staatsbibliothek -- 4 Arch. 36 u-3,2"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 12685798"
             ]
           }
         }
       ],
       "items": [
         {
-          "id": "https:/ria.ub.uni-heidelberg.de/uuid/F7WwooMBRoq4uUyo2K5QBw",
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/f1e50867-3796-4e2f-9fc1-661c815f16ce",
           "type": "AnnotationPage",
           "items": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
-              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/F7WwooMBRoq4uUyo2K5QBw",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/f1e50867-3796-4e2f-9fc1-661c815f16ce",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/F7WwooMBRoq4uUyo2K5QBw",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/f1e50867-3796-4e2f-9fc1-661c815f16ce",
               "body": {
-                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/hefner1852text%3A053.jpg/8.355848296694148,118.18434301057238,992.8142305755998,207.11025339822118/full/0/default.jpg",
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11135214_00138/2081,506,864,457/full/0/default.jpg ",
                 "type": "Image",
                 "format": "image/png",
-                "height": "207.11025339822118",
-                "width": "992.8142305755998"
+                "height": "457",
+                "width": "864"
               }
             }
           ]

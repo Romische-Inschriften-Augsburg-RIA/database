@@ -159,7 +159,7 @@
       "width": 1074,
       "items": [
         {
-          "id": "https://example.org/uuid/2541dd68-ca7e-40da-ad9c-e611a3aa2cc4",
+          "id": "https://example.org/uuid/79189c36-ffa2-4c13-964a-e96f1fce790e",
           "type": "AnnotationPage",
           "items": [
             {
@@ -237,7 +237,7 @@
       "width": 1345,
       "items": [
         {
-          "id": "https://example.org/uuid/a2a4d34a-ffb0-4f78-9a24-a1bf05a507b2",
+          "id": "https://example.org/uuid/9a7776ca-cb6e-4501-9ce6-09ae50624c73",
           "type": "AnnotationPage",
           "items": [
             {
@@ -315,7 +315,7 @@
       "width": 2000,
       "items": [
         {
-          "id": "https://example.org/uuid/98967d9c-a7c1-467e-90f6-5698fee0e708",
+          "id": "https://example.org/uuid/7c2778a0-3628-4860-ac1f-25fb412b79a4",
           "type": "AnnotationPage",
           "items": [
             {
@@ -344,16 +344,28 @@
       ]
     },
     {
-      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/F95Q-0hLTPmat_Gy8bkWBQ",
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/00bbaf0a-173e-42b7-a28d-969350f2d880",
       "type": "Canvas",
       "label": {
         "true": [
-          "Mezger: R\u00f6mische Steindenkm\u00e4ler (1862)"
+          "Raiser: Ober-Donau-Kreis III (1832) - 1. Teil"
         ]
       },
-      "height": "1259.2825",
-      "width": "1076.2150000000001",
+      "height": "104",
+      "width": "865",
       "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058643"
+            ]
+          }
+        },
         {
           "label": {
             "true": [
@@ -362,40 +374,52 @@
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "M\u00fcnchener Digitalisierungszentrum"
             ]
           }
         },
         {
           "label": {
             "true": [
-              "Holding Institution"
+              "Aufbewahrung"
             ]
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "Bamberg, Staatsbiblitohek -- HV.H.Bav.654#3"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 2016252"
             ]
           }
         }
       ],
       "items": [
         {
-          "id": "https:/ria.ub.uni-heidelberg.de/uuid/F95Q-0hLTPmat_Gy8bkWBQ",
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/00bbaf0a-173e-42b7-a28d-969350f2d880",
           "type": "AnnotationPage",
           "items": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
-              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/F95Q-0hLTPmat_Gy8bkWBQ",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/00bbaf0a-173e-42b7-a28d-969350f2d880",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/F95Q-0hLTPmat_Gy8bkWBQ",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/00bbaf0a-173e-42b7-a28d-969350f2d880",
               "body": {
-                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/mezger1862%3A78.jpg/175.1774999999999,194.1625000000001,1076.2150000000001,1259.2825/full/0/default.jpg",
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11692243_00092/212,1510,865,104/full/0/default.jpg ",
                 "type": "Image",
                 "format": "image/png",
-                "height": "1259.2825",
-                "width": "1076.2150000000001"
+                "height": "104",
+                "width": "865"
               }
             }
           ]
@@ -403,16 +427,28 @@
       ]
     },
     {
-      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/VWQIJuu-TfmXswx3mT_iCw",
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/fd25be1f-aa2b-479b-a97d-6501c344ad60",
       "type": "Canvas",
       "label": {
         "true": [
-          "Welser: Inscriptiones Antiquae Augustae Vindelicorum (1590)"
+          "Raiser: Ober-Donau-Kreis III (1832) - 2. Teil"
         ]
       },
-      "height": "711.0299999999999",
-      "width": "856.3499999999999",
+      "height": "235",
+      "width": "865",
       "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058643"
+            ]
+          }
+        },
         {
           "label": {
             "true": [
@@ -421,40 +457,52 @@
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "M\u00fcnchener Digitalisierungszentrum"
             ]
           }
         },
         {
           "label": {
             "true": [
-              "Holding Institution"
+              "Aufbewahrung"
             ]
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "Bamberg, Staatsbiblitohek -- HV.H.Bav.654#3"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 2016252"
             ]
           }
         }
       ],
       "items": [
         {
-          "id": "https:/ria.ub.uni-heidelberg.de/uuid/VWQIJuu-TfmXswx3mT_iCw",
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/fd25be1f-aa2b-479b-a97d-6501c344ad60",
           "type": "AnnotationPage",
           "items": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
-              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/VWQIJuu-TfmXswx3mT_iCw",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/fd25be1f-aa2b-479b-a97d-6501c344ad60",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/VWQIJuu-TfmXswx3mT_iCw",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/fd25be1f-aa2b-479b-a97d-6501c344ad60",
               "body": {
-                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/welser1590%3A008.jpg/55.38999999999987,332.15999999999997,856.3499999999999,711.0299999999999/full/0/default.jpg",
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11692243_00092/1104,301,865,235/full/0/default.jpg ",
                 "type": "Image",
                 "format": "image/png",
-                "height": "711.0299999999999",
-                "width": "856.3499999999999"
+                "height": "235",
+                "width": "865"
               }
             }
           ]
@@ -462,16 +510,28 @@
       ]
     },
     {
-      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/AKs5fNYMTEetA_GV0BrIHA",
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/57707997-2a08-4c36-a945-f0b616060bb7",
       "type": "Canvas",
       "label": {
         "true": [
-          "Raiser: R\u00f6mische Alterth\u00fcmer (1820)"
+          "Welser: rer. August. Vind. libri octo (1594) - 1. Teil"
         ]
       },
-      "height": "1269.2675",
-      "width": "768.0975",
+      "height": "965",
+      "width": "1641",
       "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058643"
+            ]
+          }
+        },
         {
           "label": {
             "true": [
@@ -480,40 +540,52 @@
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "M\u00fcnchener Digitalisierungszentrum"
             ]
           }
         },
         {
           "label": {
             "true": [
-              "Holding Institution"
+              "Aufbewahrung"
             ]
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "Regensburg, Staatliche Bibliothek -- 999/Bav.933"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 12555942"
             ]
           }
         }
       ],
       "items": [
         {
-          "id": "https:/ria.ub.uni-heidelberg.de/uuid/AKs5fNYMTEetA_GV0BrIHA",
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/57707997-2a08-4c36-a945-f0b616060bb7",
           "type": "AnnotationPage",
           "items": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
-              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/AKs5fNYMTEetA_GV0BrIHA",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/57707997-2a08-4c36-a945-f0b616060bb7",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/AKs5fNYMTEetA_GV0BrIHA",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/57707997-2a08-4c36-a945-f0b616060bb7",
               "body": {
-                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/raiser1820%3A080.jpg/135.32499999999993,708.1749999999998,768.0975,1269.2675/full/0/default.jpg",
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11083875_00228/482,1904,1641,965/full/0/default.jpg ",
                 "type": "Image",
                 "format": "image/png",
-                "height": "1269.2675",
-                "width": "768.0975"
+                "height": "965",
+                "width": "1641"
               }
             }
           ]
@@ -521,16 +593,28 @@
       ]
     },
     {
-      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/SMWqi8hgTIKFmmyyECfsrA",
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/a2dbefa1-0a86-45c9-ac4d-bc5024209e41",
       "type": "Canvas",
       "label": {
         "true": [
-          "Vollmer: Inscriptiones Baivariae Romanae (1915)"
+          "Welser: rer. August. Vind. libri octo (1594) - 2. Teil"
         ]
       },
-      "height": "169.25404944586535",
-      "width": "694.2284739982947",
+      "height": "2714",
+      "width": "1133",
       "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058643"
+            ]
+          }
+        },
         {
           "label": {
             "true": [
@@ -539,40 +623,52 @@
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "M\u00fcnchener Digitalisierungszentrum"
             ]
           }
         },
         {
           "label": {
             "true": [
-              "Holding Institution"
+              "Aufbewahrung"
             ]
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "Regensburg, Staatliche Bibliothek -- 999/Bav.933"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 12555942"
             ]
           }
         }
       ],
       "items": [
         {
-          "id": "https:/ria.ub.uni-heidelberg.de/uuid/SMWqi8hgTIKFmmyyECfsrA",
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/a2dbefa1-0a86-45c9-ac4d-bc5024209e41",
           "type": "AnnotationPage",
           "items": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
-              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/SMWqi8hgTIKFmmyyECfsrA",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/a2dbefa1-0a86-45c9-ac4d-bc5024209e41",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/SMWqi8hgTIKFmmyyECfsrA",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/a2dbefa1-0a86-45c9-ac4d-bc5024209e41",
               "body": {
-                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/vollmer1915%3A0000_051.jpg/149.37956068474372,2098.1303028512407,694.2284739982947,169.25404944586535/full/0/default.jpg",
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11083875_00229/523,305,1133,2714/full/0/default.jpg ",
                 "type": "Image",
                 "format": "image/png",
-                "height": "169.25404944586535",
-                "width": "694.2284739982947"
+                "height": "2714",
+                "width": "1133"
               }
             }
           ]
@@ -580,16 +676,28 @@
       ]
     },
     {
-      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/TOSEYnzLR66gbGNCFsPh_Q",
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/19fe6b3d-2794-433b-93df-e3101e62254b",
       "type": "Canvas",
       "label": {
         "true": [
-          "Peutinger: Inscriptiones Vetustae (1520)"
+          "Welser: rer. August. Vind. libri octo (1594) - 3. Teil"
         ]
       },
-      "height": "1867.755",
-      "width": "1389.4275",
+      "height": "600",
+      "width": "1871",
       "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058643"
+            ]
+          }
+        },
         {
           "label": {
             "true": [
@@ -598,40 +706,467 @@
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "M\u00fcnchener Digitalisierungszentrum"
             ]
           }
         },
         {
           "label": {
             "true": [
-              "Holding Institution"
+              "Aufbewahrung"
             ]
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "Regensburg, Staatliche Bibliothek -- 999/Bav.933"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 12555942"
             ]
           }
         }
       ],
       "items": [
         {
-          "id": "https:/ria.ub.uni-heidelberg.de/uuid/TOSEYnzLR66gbGNCFsPh_Q",
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/19fe6b3d-2794-433b-93df-e3101e62254b",
           "type": "AnnotationPage",
           "items": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
-              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/TOSEYnzLR66gbGNCFsPh_Q",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/19fe6b3d-2794-433b-93df-e3101e62254b",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/TOSEYnzLR66gbGNCFsPh_Q",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/19fe6b3d-2794-433b-93df-e3101e62254b",
               "body": {
-                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/peutinger1520%3A0_r.jpg/423.2850000000001,417.58750000000003,1389.4275,1867.755/full/0/default.jpg",
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11083875_00230/301,284,1871,600/full/0/default.jpg ",
                 "type": "Image",
                 "format": "image/png",
-                "height": "1867.755",
-                "width": "1389.4275"
+                "height": "600",
+                "width": "1871"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/7645632a-4e9b-4f54-97b2-cace46c2b18c",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Smetius: Inscriptionum antiquarum (1588)"
+        ]
+      },
+      "height": "781",
+      "width": "1003",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058643"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchener Digitalisierungszentrum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchen, Bayerische Staatsbibliothek -- 2 Arch. 130m"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 1549334"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/7645632a-4e9b-4f54-97b2-cace46c2b18c",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/7645632a-4e9b-4f54-97b2-cace46c2b18c",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/7645632a-4e9b-4f54-97b2-cace46c2b18c",
+              "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10141186_00367/1592,1606,1003,781/full/0/default.jpg ",
+                "type": "Image",
+                "format": "image/png",
+                "height": "781",
+                "width": "1003"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/865c8aa6-0b1e-4ca4-b9ab-6e36ac19dbbc",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Schedel: Liber antiquitatum 716 (15./16. Jhdt.)"
+        ]
+      },
+      "height": "319",
+      "width": "1541",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058643"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchener Digitalisierungszentrum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchen, Bayerische Staatsbibliothek -- Clm 716#Mikroform"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 9584028"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/865c8aa6-0b1e-4ca4-b9ab-6e36ac19dbbc",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/865c8aa6-0b1e-4ca4-b9ab-6e36ac19dbbc",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/865c8aa6-0b1e-4ca4-b9ab-6e36ac19dbbc",
+              "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00007356_00635/121,2737,1541,319/full/0/default.jpg ",
+                "type": "Image",
+                "format": "image/png",
+                "height": "319",
+                "width": "1541"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/221bfa9d-6a1a-4991-8f8a-2d549e6f05b3",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Apian: Inscriptiones veteres (1534) (Choler)"
+        ]
+      },
+      "height": "483",
+      "width": "491",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058643"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchener Digitalisierungszentrum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchen, Bayerische Staatsbibliothek -- Clm 394#Mikroform"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 12074516"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/221bfa9d-6a1a-4991-8f8a-2d549e6f05b3",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/221bfa9d-6a1a-4991-8f8a-2d549e6f05b3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/221bfa9d-6a1a-4991-8f8a-2d549e6f05b3",
+              "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00120924_00042/643,143,491,483/full/0/default.jpg ",
+                "type": "Image",
+                "format": "image/png",
+                "height": "483",
+                "width": "491"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/8f45754e-6f76-4dbe-9bb8-556d069e630a",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Peutinger: Romanae Vetustatis in Augusta Vindelicorum (1505)"
+        ]
+      },
+      "height": "2326",
+      "width": "2112",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058643"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchener Digitalisierungszentrum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchen, Bayerische Staatsbibliothek -- Res/2 Arch. 112"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 1452439"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/8f45754e-6f76-4dbe-9bb8-556d069e630a",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/8f45754e-6f76-4dbe-9bb8-556d069e630a",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/8f45754e-6f76-4dbe-9bb8-556d069e630a",
+              "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00005801_00011/637,475,2112,2326/full/0/default.jpg ",
+                "type": "Image",
+                "format": "image/png",
+                "height": "2326",
+                "width": "2112"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/0b654517-314e-47c0-be4c-9c9e30b9957c",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "CIL - Corpus inscriptionum Latinarum III (1873)"
+        ]
+      },
+      "height": "1257",
+      "width": "864",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058643"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchener Digitalisierungszentrum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "M\u00fcnchen, Bayerische Staatsbibliothek -- 4 Arch. 36 u-3,2"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 12685798"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/0b654517-314e-47c0-be4c-9c9e30b9957c",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/0b654517-314e-47c0-be4c-9c9e30b9957c",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/0b654517-314e-47c0-be4c-9c9e30b9957c",
+              "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11135214_00145/195,1577,864,1257/full/0/default.jpg ",
+                "type": "Image",
+                "format": "image/png",
+                "height": "1257",
+                "width": "864"
               }
             }
           ]

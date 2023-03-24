@@ -62,16 +62,28 @@
   },
   "items": [
     {
-      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/FI2tsX6FSTmhMWGcsznPrw",
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/f605487e-d4fe-41da-b432-9e2d0b3f7bf4",
       "type": "Canvas",
       "label": {
         "true": [
-          "Vollmer: Inscriptiones Baivariae Romanae (1915)"
+          "Historischer Kreisverein im Regierungsbezirk Schwaben/Neuburg (1847)"
         ]
       },
-      "height": "410.1609464932849",
-      "width": "708.4598166702194",
+      "height": "149",
+      "width": "877",
       "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD075473"
+            ]
+          }
+        },
         {
           "label": {
             "true": [
@@ -80,40 +92,52 @@
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "M\u00fcnchener Digitalisierungszentrum"
             ]
           }
         },
         {
           "label": {
             "true": [
-              "Holding Institution"
+              "Aufbewahrung"
             ]
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "M\u00fcnchen, Bayerische Staatsbibliothek -- 4 Bavar. 1013 sa-12/16"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 6210565"
             ]
           }
         }
       ],
       "items": [
         {
-          "id": "https:/ria.ub.uni-heidelberg.de/uuid/FI2tsX6FSTmhMWGcsznPrw",
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/f605487e-d4fe-41da-b432-9e2d0b3f7bf4",
           "type": "AnnotationPage",
           "items": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
-              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/FI2tsX6FSTmhMWGcsznPrw",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/f605487e-d4fe-41da-b432-9e2d0b3f7bf4",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/FI2tsX6FSTmhMWGcsznPrw",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/f605487e-d4fe-41da-b432-9e2d0b3f7bf4",
               "body": {
-                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/vollmer1915%3A0000_056.jpg/287.57538701301803,1391.2675239614136,708.4598166702194,410.1609464932849/full/0/default.jpg",
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10333403_00050/288,1350,877,149/full/0/default.jpg ",
                 "type": "Image",
                 "format": "image/png",
-                "height": "410.1609464932849",
-                "width": "708.4598166702194"
+                "height": "149",
+                "width": "877"
               }
             }
           ]

@@ -62,16 +62,28 @@
   },
   "items": [
     {
-      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/ZqdwPMAGSMmT26faWuvtrw",
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/be9cfc64-f6e8-4022-abaf-4738dd116876",
       "type": "Canvas",
       "label": {
         "true": [
-          "Vollmer: Inscriptiones Baivariae Romanae (1915)"
+          "Raiser: Antiquarische Reise von Augusta nach Viaca (1829) - 3. Teil"
         ]
       },
-      "height": "860.4775101257724",
-      "width": "705.5915583031335",
+      "height": "593",
+      "width": "904",
       "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058651"
+            ]
+          }
+        },
         {
           "label": {
             "true": [
@@ -80,40 +92,52 @@
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "M\u00fcnchener Digitalisierungszentrum"
             ]
           }
         },
         {
           "label": {
             "true": [
-              "Holding Institution"
+              "Aufbewahrung"
             ]
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "Bamberg, Staatsbibliothek -- HV.H.Bav.654#4"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 983330"
             ]
           }
         }
       ],
       "items": [
         {
-          "id": "https:/ria.ub.uni-heidelberg.de/uuid/ZqdwPMAGSMmT26faWuvtrw",
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/be9cfc64-f6e8-4022-abaf-4738dd116876",
           "type": "AnnotationPage",
           "items": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
-              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/ZqdwPMAGSMmT26faWuvtrw",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/be9cfc64-f6e8-4022-abaf-4738dd116876",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/ZqdwPMAGSMmT26faWuvtrw",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/be9cfc64-f6e8-4022-abaf-4738dd116876",
               "body": {
-                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/vollmer1915%3A0000_053.jpg/119.87047084843306,603.2227418803827,705.5915583031335,860.4775101257724/full/0/default.jpg",
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11692244_00066/190,274,904,593/full/0/default.jpg ",
                 "type": "Image",
                 "format": "image/png",
-                "height": "860.4775101257724",
-                "width": "705.5915583031335"
+                "height": "593",
+                "width": "904"
               }
             }
           ]

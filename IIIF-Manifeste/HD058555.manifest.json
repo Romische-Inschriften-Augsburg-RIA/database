@@ -62,16 +62,28 @@
   },
   "items": [
     {
-      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/ZS5onX2qSlij2sAqqJg_UA",
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/09d5de8e-551e-4d0c-9805-9624903cd1e8",
       "type": "Canvas",
       "label": {
         "true": [
-          "Peutinger: Inscriptiones Vetustae (1520)"
+          "CIL - Corpus inscriptionum Latinarum III (1873)"
         ]
       },
-      "height": "1556.4625",
-      "width": "1397.02",
+      "height": "1081",
+      "width": "898",
       "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058555"
+            ]
+          }
+        },
         {
           "label": {
             "true": [
@@ -80,40 +92,52 @@
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "M\u00fcnchener Digitalisierungszentrum"
             ]
           }
         },
         {
           "label": {
             "true": [
-              "Holding Institution"
+              "Aufbewahrung"
             ]
           },
           "value": {
             "true": [
-              "UB Heidelberg"
+              "M\u00fcnchen, Bayerische Staatsbibliothek -- 4 Arch. 36 u-3,2"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "BSB-Nummer"
+            ]
+          },
+          "value": {
+            "true": [
+              "BSB-ID 12685798"
             ]
           }
         }
       ],
       "items": [
         {
-          "id": "https:/ria.ub.uni-heidelberg.de/uuid/ZS5onX2qSlij2sAqqJg_UA",
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/09d5de8e-551e-4d0c-9805-9624903cd1e8",
           "type": "AnnotationPage",
           "items": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
-              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/ZS5onX2qSlij2sAqqJg_UA",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/09d5de8e-551e-4d0c-9805-9624903cd1e8",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/ZS5onX2qSlij2sAqqJg_UA",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/09d5de8e-551e-4d0c-9805-9624903cd1e8",
               "body": {
-                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/peutinger1520%3A0_k.jpg/294.2125000000001,432.77250000000004,1397.02,1556.4625/full/0/default.jpg",
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11135214_00142/327,537,898,1081/full/0/default.jpg ",
                 "type": "Image",
                 "format": "image/png",
-                "height": "1556.4625",
-                "width": "1397.02"
+                "height": "1081",
+                "width": "898"
               }
             }
           ]
