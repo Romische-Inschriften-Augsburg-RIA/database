@@ -1,0 +1,124 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/.manifest.json",
+  "type": "Manifest",
+  "label": {
+    "true": [
+      ""
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "true": [
+          "Provinz / Italische Region"
+        ]
+      },
+      "value": {
+        "true": [
+          "Raetia"
+        ]
+      }
+    },
+    {
+      "label": {
+        "true": [
+          "Land"
+        ]
+      },
+      "value": {
+        "true": [
+          "Germany"
+        ]
+      }
+    },
+    {
+      "label": {
+        "true": [
+          "Description"
+        ]
+      },
+      "value": {
+        "true": [
+          ""
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "true": [
+        true
+      ]
+    },
+    "value": {
+      "true": [
+        "Heidelberger Akademie der Wissenschaften / Epigraphische Datenbank Heidelberg"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/NGPxPbOrQBW1uOHtkIoV8Q",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Vollmer: Inscriptiones Baivariae Romanae (1915)"
+        ]
+      },
+      "height": "129.11250799062435",
+      "width": "685.730875772427",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "UB Heidelberg"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Holding Institution"
+            ]
+          },
+          "value": {
+            "true": [
+              "UB Heidelberg"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/NGPxPbOrQBW1uOHtkIoV8Q",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/NGPxPbOrQBW1uOHtkIoV8Q",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/NGPxPbOrQBW1uOHtkIoV8Q",
+              "body": {
+                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/vollmer1915%3A0000_046.jpg/314.1101063790118,295.84073624307507,685.730875772427,129.11250799062435/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/png",
+                "height": "129.11250799062435",
+                "width": "685.730875772427"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

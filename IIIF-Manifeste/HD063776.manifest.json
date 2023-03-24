@@ -1,0 +1,347 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/HD063776.manifest.json",
+  "type": "Manifest",
+  "label": {
+    "true": [
+      "EDH Image HD063776"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "true": [
+          "Provinz / Italische Region"
+        ]
+      },
+      "value": {
+        "true": [
+          "Raetia"
+        ]
+      }
+    },
+    {
+      "label": {
+        "true": [
+          "Land"
+        ]
+      },
+      "value": {
+        "true": [
+          "Germany"
+        ]
+      }
+    },
+    {
+      "label": {
+        "true": [
+          "Fundort antik"
+        ]
+      },
+      "value": {
+        "true": [
+          "Augusta Vindelicorum"
+        ]
+      }
+    },
+    {
+      "label": {
+        "true": [
+          "Fundort modern"
+        ]
+      },
+      "value": {
+        "true": [
+          "Augsburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "true": [
+          "Aufbewahrung"
+        ]
+      },
+      "value": {
+        "true": [
+          "Augsburg, R\u00f6m. Mus."
+        ]
+      }
+    },
+    {
+      "label": {
+        "true": [
+          true
+        ]
+      },
+      "value": {
+        "true": [
+          "https://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-fz"
+        ]
+      }
+    },
+    {
+      "label": {
+        "true": [
+          "Description"
+        ]
+      },
+      "value": {
+        "true": [
+          "Image(s) taken from the Epigraphic Database Heidelberg"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "true": [
+        true
+      ]
+    },
+    "value": {
+      "true": [
+        "Heidelberger Akademie der Wissenschaften / Epigraphische Datenbank Heidelberg"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/canvas/F035522",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "F035522"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "Foto ID"
+            ]
+          },
+          "value": {
+            "true": [
+              "https://edh.ub.uni-heidelberg.de/edh/foto/F035522"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo credits"
+            ]
+          },
+          "value": {
+            "true": [
+              "\u00a9 C. Witschel"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Date of photograph"
+            ]
+          },
+          "value": {
+            "true": [
+              "2012"
+            ]
+          }
+        }
+      ],
+      "height": 1293,
+      "width": 2000,
+      "items": [
+        {
+          "id": "https://example.org/uuid/a82cd8f3-0bd1-4eb8-887d-bb0e31ab7902",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/F035522",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://edh.ub.uni-heidelberg.de/iiif/edh/canvas/f035522",
+              "body": {
+                "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/resource/F035522",
+                "type": "Image",
+                "format": "image/png",
+                "height": 1293,
+                "width": 2000,
+                "service": [
+                  {
+                    "@id": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1447961%3A796371",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/canvas/F035523",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "F035523"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "Foto ID"
+            ]
+          },
+          "value": {
+            "true": [
+              "https://edh.ub.uni-heidelberg.de/edh/foto/F035523"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo credits"
+            ]
+          },
+          "value": {
+            "true": [
+              "\u00a9 C. Witschel"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Date of photograph"
+            ]
+          },
+          "value": {
+            "true": [
+              "2012"
+            ]
+          }
+        }
+      ],
+      "height": 1008,
+      "width": 2600,
+      "items": [
+        {
+          "id": "https://example.org/uuid/543dc497-ee35-4138-9c9f-7958ca6ece39",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/F035523",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://edh.ub.uni-heidelberg.de/iiif/edh/canvas/f035523",
+              "body": {
+                "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/resource/F035523",
+                "type": "Image",
+                "format": "image/png",
+                "height": 1008,
+                "width": 2600,
+                "service": [
+                  {
+                    "@id": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1447962%3A796372",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/canvas/F035524",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "F035524"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "Foto ID"
+            ]
+          },
+          "value": {
+            "true": [
+              "https://edh.ub.uni-heidelberg.de/edh/foto/F035524"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo credits"
+            ]
+          },
+          "value": {
+            "true": [
+              "\u00a9 C. Witschel"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Date of photograph"
+            ]
+          },
+          "value": {
+            "true": [
+              "2012"
+            ]
+          }
+        }
+      ],
+      "height": 1362,
+      "width": 2000,
+      "items": [
+        {
+          "id": "https://example.org/uuid/dac7e10f-4f16-4982-884d-37302bf231c6",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/F035524",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://edh.ub.uni-heidelberg.de/iiif/edh/canvas/f035524",
+              "body": {
+                "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/resource/F035524",
+                "type": "Image",
+                "format": "image/png",
+                "height": 1362,
+                "width": 2000,
+                "service": [
+                  {
+                    "@id": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1447963%3A796373",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

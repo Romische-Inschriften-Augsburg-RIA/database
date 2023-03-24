@@ -1,0 +1,545 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/HD058556.manifest.json",
+  "type": "Manifest",
+  "label": {
+    "true": [
+      "EDH Image HD058556"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "true": [
+          "Provinz / Italische Region"
+        ]
+      },
+      "value": {
+        "true": [
+          "Raetia"
+        ]
+      }
+    },
+    {
+      "label": {
+        "true": [
+          "Land"
+        ]
+      },
+      "value": {
+        "true": [
+          "Germany"
+        ]
+      }
+    },
+    {
+      "label": {
+        "true": [
+          "Fundort antik"
+        ]
+      },
+      "value": {
+        "true": [
+          "Augusta Vindelicorum"
+        ]
+      }
+    },
+    {
+      "label": {
+        "true": [
+          "Fundort modern"
+        ]
+      },
+      "value": {
+        "true": [
+          "Augsburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "true": [
+          "Aufbewahrung"
+        ]
+      },
+      "value": {
+        "true": [
+          "Augsburg, R\u00f6m. Mus."
+        ]
+      }
+    },
+    {
+      "label": {
+        "true": [
+          true
+        ]
+      },
+      "value": {
+        "true": [
+          "https://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-fz"
+        ]
+      }
+    },
+    {
+      "label": {
+        "true": [
+          "Description"
+        ]
+      },
+      "value": {
+        "true": [
+          "Image(s) taken from the Epigraphic Database Heidelberg"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "true": [
+        true
+      ]
+    },
+    "value": {
+      "true": [
+        "Heidelberger Akademie der Wissenschaften / Epigraphische Datenbank Heidelberg"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/canvas/F020420",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "F020420"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "Foto ID"
+            ]
+          },
+          "value": {
+            "true": [
+              "https://edh.ub.uni-heidelberg.de/edh/foto/F020420"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo credits"
+            ]
+          },
+          "value": {
+            "true": [
+              "\u00a9 K. Matijevi\u0107"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Date of photograph"
+            ]
+          },
+          "value": {
+            "true": [
+              "2007"
+            ]
+          }
+        }
+      ],
+      "height": 2000,
+      "width": 1820,
+      "items": [
+        {
+          "id": "https://example.org/uuid/fa9fa20c-1aac-4416-a3a4-ef8facbd0076",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/F020420",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://edh.ub.uni-heidelberg.de/iiif/edh/canvas/f020420",
+              "body": {
+                "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/resource/F020420",
+                "type": "Image",
+                "format": "image/png",
+                "height": 2000,
+                "width": 1820,
+                "service": [
+                  {
+                    "@id": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1432395%3A780493",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/ILXrk6HFTGm3-5tFBLfk4Q",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Mezger: R\u00f6mische Steindenkm\u00e4ler (1862)"
+        ]
+      },
+      "height": "1154.92",
+      "width": "1010.5549999999996",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "UB Heidelberg"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Holding Institution"
+            ]
+          },
+          "value": {
+            "true": [
+              "UB Heidelberg"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/ILXrk6HFTGm3-5tFBLfk4Q",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/ILXrk6HFTGm3-5tFBLfk4Q",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/ILXrk6HFTGm3-5tFBLfk4Q",
+              "body": {
+                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/mezger1862%3A46.jpg/225.19499999999994,177.68000000000015,1010.5549999999996,1154.92/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/png",
+                "height": "1154.92",
+                "width": "1010.5549999999996"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/HDIq8yHcQVmJUo0A0np1IQ",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Raiser: R\u00f6misches Antiquarium (1823)"
+        ]
+      },
+      "height": "450.72110635495557",
+      "width": "723.8854132367467",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "UB Heidelberg"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Holding Institution"
+            ]
+          },
+          "value": {
+            "true": [
+              "UB Heidelberg"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/HDIq8yHcQVmJUo0A0np1IQ",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/HDIq8yHcQVmJUo0A0np1IQ",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/HDIq8yHcQVmJUo0A0np1IQ",
+              "body": {
+                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/raiser1823%3A09.jpg/841.0600921962462,360.9183404675667,723.8854132367467,450.72110635495557/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/png",
+                "height": "450.72110635495557",
+                "width": "723.8854132367467"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/WtB_qA4gS_WELYzuzS2jDA",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Welser: Inscriptiones Antiquae Augustae Vindelicorum (1590)"
+        ]
+      },
+      "height": "586.7525",
+      "width": "664.6399999999998",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "UB Heidelberg"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Holding Institution"
+            ]
+          },
+          "value": {
+            "true": [
+              "UB Heidelberg"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/WtB_qA4gS_WELYzuzS2jDA",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/WtB_qA4gS_WELYzuzS2jDA",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/WtB_qA4gS_WELYzuzS2jDA",
+              "body": {
+                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/welser1590%3A004_a.jpg/529.9175000000001,342.705,664.6399999999998,586.7525/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/png",
+                "height": "586.7525",
+                "width": "664.6399999999998"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/URwWucKkQKupjwKf6m18xA",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Raiser: R\u00f6mische Alterth\u00fcmer (1820)"
+        ]
+      },
+      "height": "1290.4650000000001",
+      "width": "713.2950000000002",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "UB Heidelberg"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Holding Institution"
+            ]
+          },
+          "value": {
+            "true": [
+              "UB Heidelberg"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/URwWucKkQKupjwKf6m18xA",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/URwWucKkQKupjwKf6m18xA",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/URwWucKkQKupjwKf6m18xA",
+              "body": {
+                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/raiser1820%3A069.jpg/81.19999999999993,604.395,713.2950000000002,1290.4650000000001/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/png",
+                "height": "1290.4650000000001",
+                "width": "713.2950000000002"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/Xp9soyXiQUKBfd4obQEZSQ",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Vollmer: Inscriptiones Baivariae Romanae (1915)"
+        ]
+      },
+      "height": "857.7450980392155",
+      "width": "708.5720375106563",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "UB Heidelberg"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Holding Institution"
+            ]
+          },
+          "value": {
+            "true": [
+              "UB Heidelberg"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/Xp9soyXiQUKBfd4obQEZSQ",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/Xp9soyXiQUKBfd4obQEZSQ",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/Xp9soyXiQUKBfd4obQEZSQ",
+              "body": {
+                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/vollmer1915%3A0000_043.jpg/129.37359963850932,1398.3585122437848,708.5720375106563,857.7450980392155/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/png",
+                "height": "857.7450980392155",
+                "width": "708.5720375106563"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/Xv_T2G_aTquvBhFPApj_iQ",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Peutinger: Inscriptiones Vetustae (1520)"
+        ]
+      },
+      "height": "1154.06",
+      "width": "1359.0575000000003",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "UB Heidelberg"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Holding Institution"
+            ]
+          },
+          "value": {
+            "true": [
+              "UB Heidelberg"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/Xv_T2G_aTquvBhFPApj_iQ",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/Xv_T2G_aTquvBhFPApj_iQ",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/Xv_T2G_aTquvBhFPApj_iQ",
+              "body": {
+                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/peutinger1520%3A0_j.jpg/392.91499999999996,569.4375,1359.0575000000003,1154.06/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/png",
+                "height": "1154.06",
+                "width": "1359.0575000000003"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
