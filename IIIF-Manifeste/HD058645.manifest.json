@@ -62,7 +62,7 @@
   },
   "items": [
     {
-      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/73bc6166-cf62-4a95-a8a7-0f9fce2d74d0",
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/ee65cd11-2b93-4dea-b3cd-8ce521829bc0",
       "type": "Canvas",
       "label": {
         "true": [
@@ -123,15 +123,15 @@
       ],
       "items": [
         {
-          "id": "https:/ria.ub.uni-heidelberg.de/uuid/73bc6166-cf62-4a95-a8a7-0f9fce2d74d0",
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/ee65cd11-2b93-4dea-b3cd-8ce521829bc0",
           "type": "AnnotationPage",
           "items": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
-              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/73bc6166-cf62-4a95-a8a7-0f9fce2d74d0",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/ee65cd11-2b93-4dea-b3cd-8ce521829bc0",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/73bc6166-cf62-4a95-a8a7-0f9fce2d74d0",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/ee65cd11-2b93-4dea-b3cd-8ce521829bc0",
               "body": {
                 "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11135214_00145/167,3372,847,600/full/0/default.jpg ",
                 "type": "Image",

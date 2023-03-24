@@ -62,15 +62,15 @@
   },
   "items": [
     {
-      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/f193d00e-f1c4-420e-b621-d9b4766d347d",
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/TolmYepMQWmBnhKhgjfgJA",
       "type": "Canvas",
       "label": {
         "true": [
-          "Peutinger: Romanae Vetustatis in Augusta Vindelicorum (1505)"
+          "Welser: Inscriptiones Antiquae Augustae Vindelicorum (1590): 25"
         ]
       },
-      "height": "861",
-      "width": "1398",
+      "height": "757.74",
+      "width": "939.3899999999999",
       "metadata": [
         {
           "label": {
@@ -80,7 +80,19 @@
           },
           "value": {
             "true": [
-              "HD058481"
+              "HD059569"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Full Page"
+            ]
+          },
+          "value": {
+            "true": [
+              "TolmYepMQWmBnhKhgjfgJA"
             ]
           }
         },
@@ -92,7 +104,7 @@
           },
           "value": {
             "true": [
-              "M\u00fcnchener Digitalisierungszentrum"
+              "UB Heidelberg"
             ]
           }
         },
@@ -104,40 +116,28 @@
           },
           "value": {
             "true": [
-              "M\u00fcnchen, Bayerische Staatsbibliothek -- Res/2 Arch. 112"
-            ]
-          }
-        },
-        {
-          "label": {
-            "true": [
-              "BSB-Nummer"
-            ]
-          },
-          "value": {
-            "true": [
-              "BSB-ID 1452439"
+              "UB Heidelberg"
             ]
           }
         }
       ],
       "items": [
         {
-          "id": "https:/ria.ub.uni-heidelberg.de/uuid/f193d00e-f1c4-420e-b621-d9b4766d347d",
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/TolmYepMQWmBnhKhgjfgJA",
           "type": "AnnotationPage",
           "items": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
-              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/f193d00e-f1c4-420e-b621-d9b4766d347d",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/TolmYepMQWmBnhKhgjfgJA",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/f193d00e-f1c4-420e-b621-d9b4766d347d",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/TolmYepMQWmBnhKhgjfgJA",
               "body": {
-                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00005801_00013/1666,451,1398,861/full/0/default.jpg ",
+                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/welser1590%3A011.jpg/32.629999999999995,399.62999999999994,939.3899999999999,757.74/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/png",
-                "height": "861",
-                "width": "1398"
+                "height": "757.74",
+                "width": "939.3899999999999"
               }
             }
           ]

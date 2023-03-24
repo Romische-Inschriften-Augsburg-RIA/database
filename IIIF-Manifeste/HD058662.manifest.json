@@ -159,7 +159,7 @@
       "width": 1301,
       "items": [
         {
-          "id": "https://example.org/uuid/8475d9a8-dd29-42ca-b37e-78b3d11aeb6c",
+          "id": "https://example.org/uuid/ebe10eb7-db1d-47f1-a2d1-1c9d4cf01edb",
           "type": "AnnotationPage",
           "items": [
             {
@@ -237,7 +237,7 @@
       "width": 1350,
       "items": [
         {
-          "id": "https://example.org/uuid/b6da25a8-4477-443b-a381-ec998db9ab96",
+          "id": "https://example.org/uuid/ee43070a-dfed-4d53-b7ff-471998ff7be2",
           "type": "AnnotationPage",
           "items": [
             {
@@ -315,7 +315,7 @@
       "width": 1800,
       "items": [
         {
-          "id": "https://example.org/uuid/84e054eb-6e8d-4293-bdb3-a350e10e7559",
+          "id": "https://example.org/uuid/a716f49d-66a9-4ba4-9d9a-c0a990cd887d",
           "type": "AnnotationPage",
           "items": [
             {
@@ -393,7 +393,7 @@
       "width": 1900,
       "items": [
         {
-          "id": "https://example.org/uuid/f5085ef9-f5b7-4204-bd02-dceff3da989d",
+          "id": "https://example.org/uuid/18fa1dd3-a9bf-43b4-8274-b4d1bc78871e",
           "type": "AnnotationPage",
           "items": [
             {
@@ -415,6 +415,255 @@
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/Uf8ld7LNRYOjAfT4p3m2NQ",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Vollmer: Inscriptiones Baivariae Romanae (1915): 9"
+        ]
+      },
+      "height": "75.82126603227141",
+      "width": "720.3020273065786",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058662"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Full Page"
+            ]
+          },
+          "value": {
+            "true": [
+              "Uf8ld7LNRYOjAfT4p3m2NQ"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "UB Heidelberg"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "UB Heidelberg"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/Uf8ld7LNRYOjAfT4p3m2NQ",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/Uf8ld7LNRYOjAfT4p3m2NQ",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/Uf8ld7LNRYOjAfT4p3m2NQ",
+              "body": {
+                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/vollmer1915%3A000000_Roem_05.jpg/879.1615516456252,840.1835191466026,720.3020273065786,75.82126603227141/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/png",
+                "height": "75.82126603227141",
+                "width": "720.3020273065786"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/Q8qCQLRMTDGYnWpE2fZXXg",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Vollmer: Inscriptiones Baivariae Romanae (1915): 66"
+        ]
+      },
+      "height": "361.45780051150905",
+      "width": "725.7843137254903",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058662"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Full Page"
+            ]
+          },
+          "value": {
+            "true": [
+              "Q8qCQLRMTDGYnWpE2fZXXg"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "UB Heidelberg"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "UB Heidelberg"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/Q8qCQLRMTDGYnWpE2fZXXg",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/Q8qCQLRMTDGYnWpE2fZXXg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/Q8qCQLRMTDGYnWpE2fZXXg",
+              "body": {
+                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/vollmer1915%3A0000_054.jpg/1003.5030051150894,1865.0225015906603,725.7843137254903,361.45780051150905/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/png",
+                "height": "361.45780051150905",
+                "width": "725.7843137254903"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/LJfmxxVKQQCRlQs9dspqUg",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Vollmer: Inscriptiones Baivariae Romanae (1915): 67"
+        ]
+      },
+      "height": "438.9130434782609",
+      "width": "697.0971867007671",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058662"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Full Page"
+            ]
+          },
+          "value": {
+            "true": [
+              "LJfmxxVKQQCRlQs9dspqUg"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "UB Heidelberg"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "UB Heidelberg"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/LJfmxxVKQQCRlQs9dspqUg",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/LJfmxxVKQQCRlQs9dspqUg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/LJfmxxVKQQCRlQs9dspqUg",
+              "body": {
+                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/vollmer1915%3A0000_055.jpg/170.92950980392155,311.7752211132521,697.0971867007671,438.9130434782609/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/png",
+                "height": "438.9130434782609",
+                "width": "697.0971867007671"
               }
             }
           ]
