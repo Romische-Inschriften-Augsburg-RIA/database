@@ -3,7 +3,7 @@
     "http://www.w3.org/ns/anno.jsonld",
     "http://iiif.io/api/presentation/3/context.json"
   ],
-  "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/.manifest.json",
+  "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/HD075460.manifest.json",
   "type": "Manifest",
   "label": {
     "true": [
@@ -50,15 +50,15 @@
   },
   "items": [
     {
-      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/ade21793-0f62-4642-b227-149585e9c0e4",
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/Hhg_xvpdQtSFMcDgDXdX-g",
       "type": "Canvas",
       "label": {
         "true": [
-          "CIL - Corpus inscriptionum Latinarum III (1873)"
+          "Mommsen: Corpus Inscriptionum Latinarum III.2 (1873): 169"
         ]
       },
-      "height": "258",
-      "width": "1756",
+      "height": "319.245283018868",
+      "width": "689.2795883361923",
       "metadata": [
         {
           "label": {
@@ -68,31 +68,7 @@
           },
           "value": {
             "true": [
-              "HD058642"
-            ]
-          }
-        },
-        {
-          "label": {
-            "true": [
-              "Photo Credit"
-            ]
-          },
-          "value": {
-            "true": [
-              "M\u00fcnchener Digitalisierungszentrum"
-            ]
-          }
-        },
-        {
-          "label": {
-            "true": [
-              "Aufbewahrung"
-            ]
-          },
-          "value": {
-            "true": [
-              "M\u00fcnchen, Bayerische Staatsbibliothek -- 4 Arch. 36 u-3,2"
+              "HD075460"
             ]
           }
         },
@@ -104,40 +80,52 @@
           },
           "value": {
             "true": [
-              "https://www.digitale-sammlungen.de/de/view/bsb11135214?page=00144"
+              "https://digi.ub.uni-heidelberg.de/diglit/cil_3_2/0169"
             ]
           }
         },
         {
           "label": {
             "true": [
-              "BSB-Nummer"
+              "Photo Credit"
             ]
           },
           "value": {
             "true": [
-              "BSB-ID 12685798"
+              "UB Heidelberg"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "UB Heidelberg"
             ]
           }
         }
       ],
       "items": [
         {
-          "id": "https:/ria.ub.uni-heidelberg.de/uuid/ade21793-0f62-4642-b227-149585e9c0e4",
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/Hhg_xvpdQtSFMcDgDXdX-g",
           "type": "AnnotationPage",
           "items": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
-              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/ade21793-0f62-4642-b227-149585e9c0e4",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/Hhg_xvpdQtSFMcDgDXdX-g",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/ade21793-0f62-4642-b227-149585e9c0e4",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/Hhg_xvpdQtSFMcDgDXdX-g",
               "body": {
-                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11135214_00144/1292,3652,1756,258/full/0/default.jpg ",
+                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/cil_3_2%3A0_0747.jpg/35.88287513679444,967.0271412511082,689.2795883361923,319.245283018868/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/png",
-                "height": "258",
-                "width": "1756"
+                "height": "319.245283018868",
+                "width": "689.2795883361923"
               }
             }
           ]

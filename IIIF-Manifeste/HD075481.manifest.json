@@ -34,18 +34,6 @@
           "Germany"
         ]
       }
-    },
-    {
-      "label": {
-        "true": [
-          "Description"
-        ]
-      },
-      "value": {
-        "true": [
-          ""
-        ]
-      }
     }
   ],
   "requiredStatement": {
@@ -56,13 +44,13 @@
     },
     "value": {
       "true": [
-        "Heidelberger Akademie der Wissenschaften / Epigraphische Datenbank Heidelberg"
+        "Heidelberger Akademie der Wissenschaften / Epigraphische Datenbank Heidelberg / R\u00f6mische Inschriften aus Augsburg"
       ]
     }
   },
   "items": [
     {
-      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/ac5cd168-cbc9-4f85-bcf4-7c66c86fd1e5",
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/7bc5f7a7-b970-48b6-a339-2e46e0c4fac9",
       "type": "Canvas",
       "label": {
         "true": [
@@ -111,6 +99,18 @@
         {
           "label": {
             "true": [
+              "Source Link"
+            ]
+          },
+          "value": {
+            "true": [
+              "https://www.digitale-sammlungen.de/de/view/bsb11312915?page=00461"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
               "BSB-Nummer"
             ]
           },
@@ -123,15 +123,15 @@
       ],
       "items": [
         {
-          "id": "https:/ria.ub.uni-heidelberg.de/uuid/ac5cd168-cbc9-4f85-bcf4-7c66c86fd1e5",
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/7bc5f7a7-b970-48b6-a339-2e46e0c4fac9",
           "type": "AnnotationPage",
           "items": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
-              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/ac5cd168-cbc9-4f85-bcf4-7c66c86fd1e5",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/7bc5f7a7-b970-48b6-a339-2e46e0c4fac9",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/ac5cd168-cbc9-4f85-bcf4-7c66c86fd1e5",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/7bc5f7a7-b970-48b6-a339-2e46e0c4fac9",
               "body": {
                 "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11312915_00461/151,429,1422,2279/full/0/default.jpg ",
                 "type": "Image",

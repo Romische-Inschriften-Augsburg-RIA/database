@@ -3,7 +3,7 @@
     "http://www.w3.org/ns/anno.jsonld",
     "http://iiif.io/api/presentation/3/context.json"
   ],
-  "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/HD058316.manifest.json",
+  "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/HD058316.manifest.json",
   "type": "Manifest",
   "label": {
     "true": [
@@ -135,7 +135,7 @@
       "width": 1519,
       "items": [
         {
-          "id": "https://example.org/uuid/ec7ca2e5-242c-4436-b164-d129c6550134",
+          "id": "https://example.org/uuid/44e31276-e79b-4b76-8dc8-6e59fc557cb4",
           "type": "AnnotationPage",
           "items": [
             {
@@ -213,7 +213,7 @@
       "width": 1813,
       "items": [
         {
-          "id": "https://example.org/uuid/0ef0ab36-3786-4be0-8845-4979c9074c56",
+          "id": "https://example.org/uuid/4bc035ab-9500-40c3-a736-7c13dec92da3",
           "type": "AnnotationPage",
           "items": [
             {
@@ -267,12 +267,12 @@
         {
           "label": {
             "true": [
-              "Full Page"
+              "Source Link"
             ]
           },
           "value": {
             "true": [
-              "Tp28vHlXTUKIRFZ__LlSqQ"
+              "https://digi.ub.uni-heidelberg.de/diglit/vollmer1915/0009"
             ]
           }
         },
@@ -350,12 +350,12 @@
         {
           "label": {
             "true": [
-              "Full Page"
+              "Source Link"
             ]
           },
           "value": {
             "true": [
-              "aY0Hk5NHRVqWZf-k4r2b6A"
+              "https://digi.ub.uni-heidelberg.de/diglit/vollmer1915/0067"
             ]
           }
         },
@@ -401,6 +401,89 @@
                 "format": "image/png",
                 "height": "972.4936061381073",
                 "width": "711.4407502131287"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/FrYfpAtTRvGxgIct1S_S5g",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Vollmer: Inscriptiones Baivariae Romanae (1915): 299"
+        ]
+      },
+      "height": "728.5959671396571",
+      "width": "664.1896938013449",
+      "metadata": [
+        {
+          "label": {
+            "true": [
+              "EDH"
+            ]
+          },
+          "value": {
+            "true": [
+              "HD058316"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Source Link"
+            ]
+          },
+          "value": {
+            "true": [
+              "https://digi.ub.uni-heidelberg.de/diglit/vollmer1915/0299"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Photo Credit"
+            ]
+          },
+          "value": {
+            "true": [
+              "UB Heidelberg"
+            ]
+          }
+        },
+        {
+          "label": {
+            "true": [
+              "Aufbewahrung"
+            ]
+          },
+          "value": {
+            "true": [
+              "UB Heidelberg"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/FrYfpAtTRvGxgIct1S_S5g",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/FrYfpAtTRvGxgIct1S_S5g",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/FrYfpAtTRvGxgIct1S_S5g",
+              "body": {
+                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/vollmer1915%3A00_Tabula_24.jpg/1079.0254720378223,254.36389296529762,664.1896938013449,728.5959671396571/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/png",
+                "height": "728.5959671396571",
+                "width": "664.1896938013449"
               }
             }
           ]

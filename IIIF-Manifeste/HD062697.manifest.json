@@ -3,7 +3,7 @@
     "http://www.w3.org/ns/anno.jsonld",
     "http://iiif.io/api/presentation/3/context.json"
   ],
-  "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/HD058666.manifest.json",
+  "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/HD062697.manifest.json",
   "type": "Manifest",
   "label": {
     "true": [
@@ -50,15 +50,15 @@
   },
   "items": [
     {
-      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/f6THur9UQA60535d2zfepQ",
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/FBbXhAsJTv6a2MWIVHqQvA",
       "type": "Canvas",
       "label": {
         "true": [
-          "Vollmer: Inscriptiones Baivariae Romanae (1915): 68"
+          "Vollmer: Inscriptiones Baivariae Romanae (1915): 183"
         ]
       },
-      "height": "1069.804214616649",
-      "width": "719.905843670602",
+      "height": "1126.609890930823",
+      "width": "756.4380696249812",
       "metadata": [
         {
           "label": {
@@ -68,7 +68,7 @@
           },
           "value": {
             "true": [
-              "HD058666"
+              "HD062697"
             ]
           }
         },
@@ -80,7 +80,7 @@
           },
           "value": {
             "true": [
-              "https://digi.ub.uni-heidelberg.de/diglit/vollmer1915/0068"
+              "https://digi.ub.uni-heidelberg.de/diglit/vollmer1915/0183"
             ]
           }
         },
@@ -111,21 +111,21 @@
       ],
       "items": [
         {
-          "id": "https:/ria.ub.uni-heidelberg.de/uuid/f6THur9UQA60535d2zfepQ",
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/FBbXhAsJTv6a2MWIVHqQvA",
           "type": "AnnotationPage",
           "items": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
-              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/f6THur9UQA60535d2zfepQ",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/FBbXhAsJTv6a2MWIVHqQvA",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/f6THur9UQA60535d2zfepQ",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/FBbXhAsJTv6a2MWIVHqQvA",
               "body": {
-                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/vollmer1915%3A0000_056.jpg/989.9339528107162,305.35136265756506,719.905843670602,1069.804214616649/full/0/default.jpg",
+                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/vollmer1915%3A0000_171.jpg/881.5501313882451,1141.9103391917815,756.4380696249812,1126.609890930823/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/png",
-                "height": "1069.804214616649",
-                "width": "719.905843670602"
+                "height": "1126.609890930823",
+                "width": "756.4380696249812"
               }
             }
           ]
@@ -133,15 +133,15 @@
       ]
     },
     {
-      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/I1PE9BP9Rl-dcNmYgyA0Ug",
+      "id": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/Q30JNxcqQZmf0owC6hsWcg",
       "type": "Canvas",
       "label": {
         "true": [
-          "Vollmer: Inscriptiones Baivariae Romanae (1915): 299"
+          "Vollmer: Inscriptiones Baivariae Romanae (1915): 351"
         ]
       },
-      "height": "680.2076677316295",
-      "width": "1116.4589989350377",
+      "height": "1001.3392286383973",
+      "width": "811.9742169188152",
       "metadata": [
         {
           "label": {
@@ -151,7 +151,7 @@
           },
           "value": {
             "true": [
-              "HD058666"
+              "HD062697"
             ]
           }
         },
@@ -163,7 +163,7 @@
           },
           "value": {
             "true": [
-              "https://digi.ub.uni-heidelberg.de/diglit/vollmer1915/0299"
+              "https://digi.ub.uni-heidelberg.de/diglit/vollmer1915/0351"
             ]
           }
         },
@@ -194,21 +194,21 @@
       ],
       "items": [
         {
-          "id": "https:/ria.ub.uni-heidelberg.de/uuid/I1PE9BP9Rl-dcNmYgyA0Ug",
+          "id": "https:/ria.ub.uni-heidelberg.de/uuid/Q30JNxcqQZmf0owC6hsWcg",
           "type": "AnnotationPage",
           "items": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
-              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/I1PE9BP9Rl-dcNmYgyA0Ug",
+              "id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/Q30JNxcqQZmf0owC6hsWcg",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/I1PE9BP9Rl-dcNmYgyA0Ug",
+              "target": "https://ria.ub.uni-heidelberg.de/iiif/ria/canvas/Q30JNxcqQZmf0owC6hsWcg",
               "body": {
-                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/vollmer1915%3A00_Tabula_24.jpg/138.72227129078806,865.7638882683536,1116.4589989350377,680.2076677316295/full/0/default.jpg",
+                "id": "https://digi.ub.uni-heidelberg.de/iiif/2/vollmer1915%3A00_Tabula_76.jpg/812.2050440981822,1235.2614559917315,811.9742169188152,1001.3392286383973/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/png",
-                "height": "680.2076677316295",
-                "width": "1116.4589989350377"
+                "height": "1001.3392286383973",
+                "width": "811.9742169188152"
               }
             }
           ]
